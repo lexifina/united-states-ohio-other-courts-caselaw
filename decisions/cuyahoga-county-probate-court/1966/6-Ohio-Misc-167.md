@@ -1,0 +1,66 @@
+---
+court: "Cuyahoga County Probate Court"
+docket: "677800"
+decided: "1966-04-22"
+citations: ["6 Ohio Misc. 167"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marsh, Exr., v. Wilson et al."]
+source_url: "https://static.case.law/ohio-misc/6/cases/0167-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1432893
+cites_cases: ["157 A. L. R. 668", "169 N. Y. S. 2d 328", "18 Ohio Dec. 577", "19 Ohio 328", "242 S. W. 2d 619", "70 A. L. R. 2d 215", "89 Ohio App. 153"]
+---
+
+# Marsh v. Wilson
+
+## Majority (Andrews, Chief Referee.)
+
+Andrews, Chief Referee.
+This is an action to construe the will of Florence M. McDonald. The action is brought by the executor of the will.
+I am asked to construe Item II, which reads as follows:
+“All of the residue and remainder of my property I give and devise in equal shares to Albert Wilson of Toronto, Canada, son of my late husband’s niece Jean Wilson; The Little Sisters of the Poor of Cleveland, Ohio and Our Lady of Peace Church of Cleveland, Ohio.”
+The question presented is whether each of the three beneficiaries is entitled to one-third of the residue or whether Mr. Albert Wilson is entitled to one-half and each of the others to only one-fourth.
+Assuming for the moment that the intention was to give one-third to each of the named beneficiaries, proper punctuation required the insertion of a semi-colon between the word “Ohio” and the word “and,” so that the last part of the item would read: “* * * The Little Sisters of the Poor of Cleveland, Ohio; and Our Lady of Peace Church of Cleveland, Ohio.”
+On this point, the following quotations are apposite:
+“A semi-colon is used in lists of names with addresses, titles, or figures, where a comma alone would not separate items or references clearly.” Webster’s New Collegiate Dictionary (1961) p. 1150, col. 1.
+“The comma is the natural mark to use between the units of enumerations, lists, series (unless the units are long or contain commas within them, when semi-colons would be used * * *).” (Emphasis author’s.) Perrin, An Index to English (1939) 138.
+And at page 536, Mr. Perrin states as one of the situations in which a semi-colon is “usually found”:
+“To separate units that contain smaller elements separated by commas. These may be items in a series, enumerations, figures, scores, or clauses with commas within them.”
+Obviously, the semi-colon at the end of the description of Albert Wilson was correct under the above principles.
+From the omission of the semi-colon between the word “Ohio” and the word “and,” counsel for defendant Wilson argues that only two “equal shares” are bequeathed, namely, one to Albert Wilson and the other to the two charities, half and half. Calling attention to the fact that the will was drafted by a lawyer (which is conceded), counsel asserts that the court can assume that the lawyer is an educated man with a college education and a law degree, and that he drafted the will in accordance with the desires of the testatrix. In the absence of anything in the will to the contrary, continues counsel, the court can also presume that the will is grammatically correct and that the punctuation was inserted in accordance with proper usage.
+Of course our task is to carry out the intent of the testatrix as manifested in her will. In attempting to do so, we should not over-emphasize punctuation. As stated in a “comment note” in 70 A. L. R. 2d 215 (1960) at 221:
+“Problems have frequently arisen as to the effect of punetuation. in grouping or setting off, or otherwise identifying, persons designated to take under a will, and the courts have frequently in such a situation applied the rule that the punctuation may be disregarded to effectuate the testator’s intention as manifested in the testamentary language and the context of the will.”
+And see 56 Ohio Jurisprudence 2d, Wills, Section 565 (1963):
+“Mere punctuation, if it renders doubtful or ambiguous the intention of the testator, may be disregarded if from other circumstances a reasonable construction of the testator’s intention may be achieved.”
+In 4 Bowe-Parker, Page on Wills, Section 30.24, p. 152, the following appears:
+“Since the law deduces testator’s intention from the whole will, courts may insert punctuation, when necessary to explain the meaning, where the testator has omitted this aid to clearness.”
+To the same effect, see 70 A. L. R. 2d 215 (1960) at 220. Of course, these authorities do not mean that the court actually alters the will by inserting the proper punctuation mark. Eather, they mean that the court may consider the applicable portion of the will as though the proper punctuation mark were present.
+As observed in the brief of counsel for defendant Wilson, the language and organization of wills vary so much that decision by precedent in actions to construe a will becomes difficult of attainment. See 157 A. L. R. 668 (1945) at 669, referring to á statement by Sir William Jones that “no will has a brother.”
+On the other hand, there is no doubt that general principles (such as those given above) and sometimes decided cases, afford useful guidelines to a court. In that respect, the case of Youtsey v. Bowman (Com. Pl. 1907), 6 N. P. (N. S.) 381, 18 Ohio Dec. 577, although not on all fours factually with the present case, is enlightening. The question was whether a provision for abatement of legacies, if made necessary because of insufficient funds, applied to certain bequests. Said the court:
+“Suppose a semi-colon instead of a comma had preceded the last clause in Item XIV, would there have been any possible doubt as to the intention of the testatrix? Mere punctuation, if it renders doubtful or ambiguous the intention of the testatrix, may be disregarded if from other circumstances a reasonable construction of the testatrix’s intention may be arrived at. There is no language in the will which specifically shows any intention to abate or reduce the two legacies to Mary Ann Sullivan and plaintiff. The bequests to them are positive and direct, with no limitation whatever, and, as we have said before, any intention to have their legacies abate could easily and in simple words have been used to disclose that intention. ” 6 N. P. (N. S.) at 385, 18 Ohio Dee. at 581.
+I will not burden this opinion with the other Ohio cases recognizing the general principle. They appear in 56 Ohio Jurisprudence 2d, Wills, Section 565, at page 100, footnote 17. However, one case should be mentioned because it was decided by the Court of Appeals for Cuyahoga County. Although the decision actually turned on the meaning of certain words, the second paragraph of the syllabus reads as follows:
+“In the construction of a will, where punctuation is faulty, courts may disregard it if, from other circumstances, a reasonable ascertainment of the testator’s intention is possible.” Reiss v. Pearson (1951), 89 Ohio App. 153.
+Two cases from other states “hit close to home.”
+The first is Cassidy v. Vannatta’s Ex’r. (1951), Ky., 242 S. W. 2d 619. The testator bequeathed his residue,
+“* * * in equal shares, absolutely and in fee, to my cousin, the said Walter Cassidy; Robert Jamison and William Stivers, tenants on my farm; George E. Smith, who rents my property on Bland Avenue, Shelbyville, Kentucky; and the Kentucky Society for Crippled Children, of Louisville, Kentucky; Baptist Ministers Aid Society, of Owensboro, Kentucky; Baptist Orphans’ Home of Louisville, Kentucky; King’s Daughters’ Hospital, of Shelbyville, Kentucky; and the Clayvillage Baptist Church, of Clayvillage, Shelby County, Kentucky.”
+The contention was made that by the above item of his will, testator divided the residue of his estate into eight equal shares (rather than nine), one of which was to go to Robert Jamison and William Stivers conjointly. It was argued that the semi-colon after the names of Jamison and Stivers and its omission between their names, illustrated that ‘ ‘ such was testator’s intention.”
+The court held that the testator divided the residue of his estate into nine equal shares, of which Jamison and Stivers were entitled to one each.
+At pages 620-621, the court states:
+“The fundamental rule for the construction of a will is to. ascertain the intention of the testator. In arriving at that intention the courts should look to the language used in the will. If in so doing his intention can be ascertained, and it is not contrary to public policy, that intention controls, regardless of collateral and subsidiary rules which may be employed in arriving at the intention when it is obscure, (citations omitted)
+“Generally the court will favor that construction which produces equality rather than inequality, except where unequal division is clearly called for.” (citation omitted)
+At page 621 the court quoted from a prior Kentucky case, as follows:
+“ ‘With these principles of construction in mind, the court could not lend any considerable emphasis * * * to an error in punctuation * * % because to do so would lend controlling dignity to the errors pointed out.’ ” (Emphasis added.)
+In the case of In re Potolsky’s Estate (Surr. Ct. 1957), 169 N. Y. S. 2d 328, the testatrix bequeathed the residue of her estate:
+“to the following, absolutely share and share alike (Emphasis court’s): my sister-in-law, Rose * * *; my sister-in-law, Bella * * *; my brother-in-law, Harry * * * • my sister, Celia * * *; my nephew and nieces Sam * * *, Gertrude * * * and Yetta * * *; and the Bialystoker Home for the Aged * * *”
+The question was whether the residue should pass in eight shares or six. Counsel contended that although eight persons were named, the testatrix intended to create only six shares, and to give only one share to the named nephew and nieces, to be divided among them. It was argued that testatrix’s “omission in using a semi-colon to divide the names of the nephew and nieces as she did with the names of the other beneficiaries ’ ’ indicated an intention that together they were to receive a one-sixth share only.
+The court held that the nephew and nieces were each entitled to a one-eighth share. As in the case before me, the court observed that the will was evidently prepared by an attorney. The opinion continues:
+“ * * * In the absence of proof that the grammatical form of punctuation used by the draftsman was understood and accepted by the testatrix as an integral part of the writing, little or no importance may be attached to it. (citations omitted) The literal meaning of a testamentary disposition is not adopted where the result would obviously be contrary to the intent manifested by the language used in the will as a whole (citations omitted) in which case the rules of grammer and punctuation may be disregarded by the Court to effectuate the intention of the testatrix, (citation omitted)
+“The language used by the testatrix in her will clearly indicates her intention to bequeath her residue to the named beneficiaries ‘share and share alike.’ * * * The position of the semi-colon is not sufficient grounds upon which a contrary intention may be attributed to the testatrix by the Court. * * * There are no words of reservation or limitation in said paragraph and none may be implied by the Court.” 169 N. Y. S. 2d at 329, 330.
+It is true that the court was influenced to some extent by another paragraph of the will in which the testatrix employed explicit language to bar other relatives from sharing in the estate, but a careful reading of the opinion leads to the conclusion that this was not a major reason for the court’s decision.
+With this background, let us analyze Item II of Mrs. McDonald’s will. She gives the residue “in equal shares” and names three beneficiaries. Why should the draftsman’s omission of a semi-colon between the last two beneficiaries lead us to think that the testatrix wanted one beneficiary to receive twice as much as each of the others? Had that been the intention, the attorney who drew the will, and who, as suggested by counsel for defendant Wilson, is an educated man with a law degree, would undoubtedly have found a better way of expressing such an intention than by merely inserting a semicolon after the name and description of the first beneficiary and omitting a punctuation mark after the name and description of the second. It is much more likely that an educated and trained lawyer would make a mistake in punctuation (or overlook his typist’s mistake) than that he would fail to provide that the three enumerated beneficiaries were to split the residue one-half to one and one-quarter each to the other two if that was his intention.
+In my opinion, this is a case where a punctuation error should he disregarded in order to carry out the evident intention of the testatrix that her residuary estate be given in equal shares to the three named beneficiaries. Bane v. Wick (1850), 19 Ohio 328, cited by counsel for defendant Wilson, is not contrary to this position.
+Conclusion of Law
+The residuary estate should be distributed in equal shares to the three beneficiaries named in Item II of the will, each beneficiary to receive one share.
+Judgment accordingly.
