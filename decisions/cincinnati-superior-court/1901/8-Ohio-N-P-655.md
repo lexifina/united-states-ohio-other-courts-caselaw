@@ -1,0 +1,33 @@
+---
+court: "Cincinnati Superior Court"
+decided: "1901"
+citations: ["8 Ohio N.P. 655"]
+reporter: "ohio-np"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JAS. W. SIBLEY et al. v. SIMON ROSS et al."]
+source_url: "https://static.case.law/ohio-np/8/cases/0655-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1602829
+cites_cases: ["109 Pa. St,. 473", "21 Ohio St., 235", "29 Minn., 385", "3 Denio, 363", "33 W. L. B., 168", "41 Ohio St., 662", "52 Ohio St., 668", "53 Ill., 30", "54 N. Y., 450", "55 N. Y., 280", "9 Cush., 89"]
+---
+
+# Sibley v. Ross
+
+## Majority (Noyes, J.)
+
+Noyes, J.
+Gentlemen of the jury: The obligations of the parties to this case arises upon a contract which is contained in the lease which has been offered in evidence and read in your -hearing
+Ross, Moyer & Co., agreed to rent for a term of years these premises at a specified rental of $250 a month, which includes the three buildings which were covered by the lease, together with the lands upon which they stood.
+On the ot-her hand, the plaintiff in this case simply agrees, upon the suggestion of the other party, to enter in the lease an obligation on his part to keep in repair the walls of the premises of No. 135. You will stop there to consider what was the condition of these premises at the time when they were leased by Ross, Moyer & Co., from Sibley, as to whether or not both parties had reasonable opportunity to observe and to know the condition of that building.
+You have heard the testimony relating to their being bound together by iron rods and bolts to a certain extent; you have heard the testimony with regard to their being out of plumb, 13 inches on one side and 11 inches on the other. All of that is before you and you will give to it such effect and force as may seem to you reasonable and proper.
+Now, then, it did appear at one time to Ross, Moyer & Co., that these walls were insecure. They called upon the lessor to come and view them and to settle for himself whether or not they were secure. The result of the deliberation and controversy between the parties was that an attempt to repair was made. Now, you will recall all the evidence; first, as to the attempt to repair one wall, both walls, all of those attempts, and what wassaid with regard to that by Ross, Moyer & Co., to Sibley, whether or not they made any objections to such repair, whether or not they regarded it as sufficient under the stipulations of the lease as a sufficient repair or not. You will then consider what subsequently took place, the action of the city authorities, or the official inspector as to whether or not Sibley was permitted to go on and repair either one or both of those walls upon the old foundation as it stood. You will consider whether Sibley was ready to do and offered to do what was stipulated in the lease he should do. Now, if he was called upon by Ross, Moyer & Co., to make repairs, and he either negligently or perversely refused to do what his contract bound him to do, then not only can he recover no rent, but on the other side, Ross, Moyer & Co., would be entitled to whatever damages they have sustained by reason of breach of contract on the part of Sibley; but if you find that Sibley did everything that it was possible for him to do; that in response to the request he immediately employed an architect or a builder or a mason, or whatever was necessary, to do the work, and that finally, if you should find that that was objected to by Ross, Moyer & Co. as being sufficient, that it was not his fault that it was not done in that way; if you should find that any objection was made by Ross, Moyer & Co., if you should find that the city authorities prevented Sibley from doing that thing, then you will inquire whether or not he offered to do the next best thing, which was to rebuild this property, No. 135, from the ground up. If he did all that and it was the only thing he could legally and properly do, then I charge you he was not in default for not repairing these premises. Tfiat is to say, if, in the first place, it was on the objection of Ross, Moyer & Co. themselves that the repairs were not made in one' form, and then upon the objection and authority of the city that it was not done, but that he was ready and was willing, specifying the time within which it should be done, to rebuild another property, then I charge you the plaintiff was not in fault and is entitled to recover his rent. For you will remember this was during the months of June, July and August, during all of which time Ross, Moyer & Co. remained in possession of the premises, not having relinquished them until a subsequent date.
+Ramsey, Maxwell and Ramsey, and Lawrence Maxwell, Jr., for Plaintiff.
+Chas. W. Baker, for Defendant.
+In the Supreme Court, Chas. W. Baker, for Defendant:
+Huston v. Railroad Co., 21 Ohio St., 235; Wolf v. Arnot, 109 Pa. St,. 473; Kinkaid v. Britton, 5 Snead, Tenn., 130; Williams v. Healey, 3 Denio, 363; Burrows v. Clarey, 53 Ill., 30; Williams v. Healey, 3 Denio, 363; sec. 4113, Rev. Stat.
+Ramsey, Maxwell and Ramsey, and Lawrence Maxwell, Jr. for Plaintiff, cited: Hart v. Windsor, 12 M. & W., 68; Dutton v. Gerrish, 9 Cush., 89; Sutton v. Temple, 12 M. & W., 52; Krueger v. Fanaudt, 29 Minn., 385; Suydam v. Jackson, 54 N. Y., 450; Hilliard v. Gas Coal Co., 41 Ohio St., 662, 669 Johnson v. Oppenheim, 55 N. Y., 280.
+Now, hiving remained in the premises during the three months for which suit is brought, if you find that Sibley did everything which his contract provided he should do, except wherein prevented by operation of the city authorities and by objection of Ross, Moyer & Co., then he is in no fault and is entitled to recover his rent. I have already charged you that if you find he was in default, did not do his duty, did not comply with his contract, 'was not ready to do it and willing to do it and able to do it, then not only can he recover no rent, but the defendant is entitled to recover damages on his answer and cross-petition, for whatever damages he sustained.
+This is not a case of lightning striking the buildings and knocking them all to pieces, or an earthquake dashing them down, or a fire burn- ' ing theu down; it is a case of ordinary decay, long continued, which must have been observed by the parties.
+Mr. Baker: “I asked your horor to charge that if without fault of either of these parties-’ the building became untenantable, my client is not to be chargeable with the expense of the damage.”
+Which charge the court refused to give. To which refusal the defendant by his counsel, then and there excepted.
