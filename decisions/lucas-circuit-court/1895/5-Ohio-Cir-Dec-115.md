@@ -1,0 +1,26 @@
+---
+court: "Lucas Circuit Court"
+decided: "1895-09"
+citations: ["5 Ohio Cir. Dec. 115"]
+reporter: "ohio-cir-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Haynes, Scribner and King, JJ."]
+parties: ["† Brown v. The City of Toledo."]
+source_url: "https://static.case.law/ohio-cir-dec/5/cases/0115-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1626021
+---
+
+# Brown v. City of Toledo
+
+## Majority (Haynes, J.)
+
+Haynes, J.
+Theophilus P. Brown, in the court of common pleas, filed his petition for the purpose of restraining the city of Toledo from issuing certain bonds, which bonds were intended as renewal bonds for certain bonds which had before that time been issued by the city of Toledo, and were, I believe, bridge bonds, which were about to mature, and the new bonds were either intended to take the place of the old ones, or to raise money for the retiring of the old bonds. The point made was, that there was no authority to issue the new bonds until the old bonds had been, paid and retired. A decision was rendered in the court of common pleas in favor of Mr. Brown, and the case was then appealed to the circuit court, and came up upon a motion to suspend that decree and grant a perpetual injunction. It came on for hearing before the judges of this court, at chambers, last June, and was heard. The judges of this court were of opinion that the city was authorized to issue these bonds — even before the retirement of the other bonds; that is to say, they were authorized to issue these bonds, for the purpose of retiring the already existing bonds; but, for the reason that the ordinance under which proceedings were being had was general and indefinite, and was so broad that the moneys which were raised from the sale of these bonds might be used for other purposes, and not applied -to the payment of those former bonds, we refused to suspend the order of injunction, leaving the city to commence a hew proceeding to raise the money. The matter stood thus until the meeting of this court at this term, when the court having expressed its opinion, a decree was taken in the court of common pleas in accordance with that opinion.. The bonds had been sold — or, at least parties had made a bid for the new bonds, and had deposited, in accordance with the provisions of the ordinance, a certain sum of money as security for the performance of their contract — the amount being in this particular case, I believe, in the sum of $18,000; and the question arising whether the bonds would be valid or not, the parties who had purchased them assumed that they were invalid, and wanted their money back. The city authorities contended that the bonds were valid. Thereupon the parties, as it appears, went to Mr. Brown — who was a client of the attorney of the bidders — and asked him to file this petition. Thereupon he filed the petition without having it appear, as required by section 1778; that it was instituted on behalf of the corporation. After-wards, and during the hearing of the case, an amendment instanter was allowed in which that clause was inserted. Mr. Brown went to the city solicitor, and asked that he commence an action under section 1777-, to enjoin the issue of these bonds. He declined to do that, maintaining that the bonds were valid, and saying that he did not propose to discredit the bonds or the action of the city by declaring that they were illegal after the action of the council; and thereupon this suit was prosecuted.
+C. F. Watts, for City.
+W. H. A. Read, for Plaintiff in Error.
+Upon the hearing of this motion an objection was made by counsel for the city of Toledo, that attorney’s fees in this case should not be allowed, because these proceedings were all had and carried on really for the benefit of the bidders for the bonds, and not for the benefit of the corporation. The papers show that at the time that Mr. Brown was requested to file this petition, it was stipulated that so far as he was concerned he should not be required to pay costs or attorney’s fees, and that these other parties would protect him.
+We are of opinion that the contention of the city is true; that this prosecution was carried on for the benefit of these bidders; and we are clearly of opinion, under that state of facts, that no attorney’s fees ought to be allowed.
+There are many cases upon this question, but there is one case cited here by counsel for the city — a case arising in Cincinnati, in which there was a very full and very fair discussion of the question, and which it seems to us is a very correct statement of the law. It is found in Eaw Bulletin 81, page 24. In that case that question was raised on the trial, and the court admitted it as a defense to the action, ai®d dismissed the same. And we are pretty strongly of the opinion that if that fact had appeared on the trial here, that that action would have been had in this court. Wc hold that the bidders ought not to be allowed under this statute to litigate their own private contentions or carry on their suit for their own private interests.
+Entertaining this view of this case, the application for the allowance of attorney’s fees will be refused. -
