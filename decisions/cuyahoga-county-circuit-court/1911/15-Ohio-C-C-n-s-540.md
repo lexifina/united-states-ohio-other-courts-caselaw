@@ -1,0 +1,45 @@
+---
+court: "Cuyahoga County Circuit Court"
+decided: "1911-03-20"
+citations: ["15 Ohio C.C. (n.s.) 540"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Winch, J.; Marvin, J., and Henry, J., concur."]
+parties: ["New York, Chicago & St. Louis Railway Company v. Paul Gulla."]
+source_url: "https://static.case.law/ohio-cc-ns/15/cases/0540-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 395912
+cites_cases: ["45 Ohio St., 470", "46 Ohio St., 283", "53 Ohio St., 370", "54 Ohio St., 181", "66 Ohio St., 326"]
+---
+
+# New York, Chicago & St. Louis Railway Co. v. Gulla
+
+## Majority
+
+Gulla, a minor, seventeen years of age, was working with others for the Goffi-Kirby Coal Co., unloading a coal car standing on a switch connected with the railroad company’s road. Before the car was completely unloaded, the railroad company backed an engine in upon the switch, and coupled the tender thereof to said coal car preparatory to moving it. The conductor of the train ordered the men on the car to leave it; one man got out, and Gulla started to get out, had his feet on a step and his hands holding a handle bar on the outside of the car, when the conductor gave a signal, the engineer started his engine and the train started, carrying Gulla thirty-five or forty feet, where he was struck by a post or bin very close to the track and knocked down and injured. For his injury thus received, he recovered a judgment, which it is here sought to review.
+It is first claimed that no employe of the railroad company could have any authority to order an employe of the coal company out of the car, and that- the employe of the coal company was not bound to obey any such order.
+Whether this is so or not, we think is immaterial. We agree with counsel for the railroad company that: “As a matter of law * * * it does not seem to us to be of any consequence whether such an order as was alleged was given or not.” But as the ease did not turn upon this order, we pass the point by without further observation.
+Second, objection is made to the court’s charging repeatedly that in actions by children or infants, their conduct should not be judged by the same rule which governs- that of adults, but that they are required to exercise only such care and prudence as “children of the same age” are accustomed to exercise under similar circumstances, and the repeated reference to the plaintiff as a child, when he was a man, doing a man’s work and earning a man’s wages.
+In the eyes of the law, the plaintiff, seventeen years old, was an “infant.” Doubtless- it would have been better had the court used the term “minor” or “youth.” The trial judge seems to have followed the syllabus of the case of Cleveland Roll. Mill Co. v. Corrigan, 46 Ohio St., 283, which reads:
+“In the application of the doctrine of contributory negligence to children, in actions by them, or in their behalf, for injuries occasioned by the negligence of others, their conduct should not be judged by .the same rule which governs that of adults; and while it is their duty to exercise ordinary care to avoid the injuries of which they complain, ordinary care for them is that degree of care which children of the same age, of ordinary care and prudence, are accustomed to exercise under similar circumstances. ’ ’
+■Corrigan, however, was an infant under the age of fourteen years.
+Counsel for plaintiff in error claims that there is a clear implication from the case of L. E. & W. Ry. v. Mackey, 53 Ohio St., 370, an infant nine years old, that a minor oyer fourteen years of age is sui juris and must be charged with contributory negligence the same as an adult.
+We do not so understand that case. It has frequently been considered as authority to the effect that an infant under seven years of age is conclusively presumed incapable of contributory negligence, but between seven and fourteen, only prima facie so. Nothing is said as to the years from fourteen to twenty-one, except that Thompson, Negligence, is quoted to the effect that, ‘ ‘ When the age of the child admits of no doubt as to its capacity to avoid dangers, the court will decide this question as a matter of law”; and the court also says: “Unless, therefore, it can be held as a matter of law, that the injured person had the capacity to foresee and avoid danger, negligence will not be imputed to him.”
+The next case involving a minor was in Cincinnati St. Ry. v. Wright, 54 Ohio St., 181, a minor “fourteen years old and upwards.” Here the court, on page 192, cite the Corrigan case and say:
+“The intestate in the absence of proof that he was especially intelligent, was bound to no higher care respecting his personal safety than other boys of his age were accustomed to exercise under similar circumstances.”
+We think the correct rule is well expressed by Wilson, J., in the case of Columbus Ry. v. Connor, 6 C.C.(N.S.), 361:
+“An infant over fourteen years of age is presumed to be sui juris in the sense that he is chargeable with negligence, but the measure of his capacity in that regard is a question for the jury.”
+Whether, in this ease, the court should have decided, as a matter of law, that the plaintiff had the capacity of a man to avoid danger, we do not know; the trial judge saw him, and though the record shows that he was “doing a man’s work and earning a man’s wages,” at manual labor, that is not conclusive as to his mental capacity.
+As said by Judge Bradbury in the case of Cincinnati St. Ry. v. Wright, supra:
+‘ ‘ There is no presumption that a boy who goes out to work for wages can descern danger more readily than one who does not. ITe may have been sent out to earn wages for the very reason that he was dull at his books, or from his own necessities or those of his parents. The subject is purely speculative. Doubtless certain occupations tend to quicken the perceptions and ripen the judgment. Whether any particular occupation has accomplished this end for a boy in any case is a question of fact for the determination of the jury, and not one of law to be decided by the court.”
+Third, it is claimed that under the evidence a verdict should have been directed for the defendant because it was shown that the plaintiff had a clear and unobstructed view of the post or bin which struck him, for thirty-five or forty feet along the track, while he was alighting from the car, and there was nothing to prevent his dropping off before he reached the bin.
+This statement of his physical surroundings may be correct, but when we consider that Güila, as he stood on the step with his hands on the handle bar had his face toward the car, was required to look downward for his next step, we think he may be excused from looking to the left for the obstacle which struck him.
+Fourth, it is claimed that there is no allegation in the second amended petition that the car was started with the knowledge of any of the trainmen that the plaintiff was in a place of danger.
+Said petition sets forth the situation of" Gulla on the car and gives his surroundings, then alleges that the defendant negligently started the car while the plaintiff was in the act of leaving it.
+This, we think, was sufficient.
+The case of L. E. & W. Ry. v. Mackey, supra, cited by counsel for plaintiff in error, at page 382, reads:
+"The general rule is that allegations which adequately state the facts of negligence are sufficient to constitute a good pleading. An allegation specifying the act, the doing of which caused the injury, and averring generally that it was negligently done, states a cause of action, although it be not apparent from the complaint how the injury resulted from the negligence alleged. ’ ’
+See also Davis v. Guarnieri, 45 Ohio St., 470, and New York, C. & St. L. Ry. v. Kistler, 66 Ohio St., 326.
+At any rate, the railroad company did not stand upon this objection. After the plaintiff closed, the defendant put on its engineer, who testified that he saw Gulla on the car, watched him up to the time he got over the side of the ear, where he could still see him and then turned his face the other way, to look to the front as he started his engine. We think this method of trying the case waived said objection to the petition.
+On the whole record we find no error and the judgment is affirmed.
