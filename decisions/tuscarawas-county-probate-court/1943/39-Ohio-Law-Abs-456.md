@@ -1,0 +1,49 @@
+---
+court: "Tuscarawas County Probate Court"
+decided: "1943-11-15"
+citations: ["39 Ohio Law Abs. 456"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PAULUS, WILL OF, In Re."]
+source_url: "https://static.case.law/ohio-law-abs/39/cases/0456-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1719465
+cites_cases: ["110 Oh St 105", "12 OO 335", "129 Atl. 90", "172 N. E. 386", "179 N. E. 364", "28 Atl. 408", "283 Pa. 282", "35 La. Ann 394", "47 Oh St 323", "48 Oh St 211", "79 Oh St 71"]
+---
+
+# In re Will of Paulus
+
+## Majority (By LAMNECK, J.)
+
+OPINION
+By LAMNECK, J.
+Adam V. Paulus died on the 11th day of October, 1943. On October 28th, 1943, an instrument in writing together with an application to probate it as his last will and testament was filed in this court. The instrument consists of a part designated as “Will of Adam V. Paulus”, which was executed on the 15th day of August, 1921, and a second part designated as “Codicil”, executed on February 3, 1928. The part designated “Will” is in regular form and in itself presents no difficulty, but a serious question arises as to the validity of the codicil and its effect on the will because of crossing out lines appearing upon it, and the fact that part of it is missing.
+The “Codicil” written on the same single sheet of paper as the “Will” now appears as follows:
+“CODICIL.
+“Whereas since making, publishing and declaring the foregoing to be my last will and testament, I have remarried, therefore, I do make this codicil unto my said will.
+“Item I. I give, devise and bequeath to my wife, Katherine Paulus, in lieu of dower and all other rights arising and growing out of the marital relation, the home in which we now live, located on Lot Number Eighty-nine (89) in Stoutt’s Addition to the Village of Strasburg, Ohio, to have and to hold for and during the term of her natural life, and at her death said real property shall be disposed Of according to Item II of my foregoing will. It is my will that my heirs keep said property in repair during such time as my said wife shall have and occupy the same under my will.”
+End of Page One.
+Then on the top of the second page and on the reverse side of the end of the Codicil appears the following:
+“legatees named in Item II of my foregoing will in the manner and proportions therein set forth.
+“In witness whereof I have hereunto signed my name this 3rd day of February, A. D. 1928.
+“A. V. Paulus.
+“Signed by the same Adam V. Paulus and by him acknowledged to be his last will and testament in our presence, sight and hearing, who at his request have hereunto subscribed our names as witnesses in his presence and in the presence of each other at New Philadelphia, Ohio, this 3rd day of February, A. D. 1928.
+“Ralph Finley residing at New Philadelphia, O.
+Louise F. Stoutt residing at Dover, Ohio.”
+Three indelible cross marks appear across the lines on the second page just above the signature of the deceased. It is also apparent ■from an examination of the instrument that the part of the Codicil which followed Item I of the Codicil on Page One has been cut off leaving Page Two in the form above described.
+The subscribing witnesses to the Codicil testified that the cross marks did not appear on the instrument when they signed it and that the deletion occurred after it was executed.
+The subscribing witnesses have no knowledge of the contents of the portion that is missing and no other evidence was presented to show the full text of the Codicil before the deletion occurred.
+It is quite evident from the evidence presented in the case and the examination of the instrument itself that the cancellation marks put upon part of the Codicil and the part of the Codicil that was cut off occurred after the Codicil was signed by the testator and attested to by the two subscribing witnesses to the Codicil. It will be presumed that such cancellation and cutting off was done by the testator with the evident intention of making a partial revocation of the Codicil.
+The execution of a second will, or the execution of a codicil to a will does not revoke the original will unless there is an express clause of revocation in the scond will or codicil, or unless the provisions of the second will or of the codicil are utterly inconsistent with the provisions of the original will, and if the second will or codicil is inconsistent in part with the provisions of the original will, it revokes the original will to that extent only. (Pauly v. Crooks, 41 Oh Ap 1, 179 N. E. 364; Foye v. Foye, 35 Oh Ap 283, 172 N. E. 386; Hennessy v. Volz, 59 Oh Ap 1, 16 N. E. [2d], 1019, 27 Abs 127, 12 OO 335.)
+Section 10504-47 GC, reads as follows:
+“A will shall be revoked by the testator tearing, canceling, obliterating or destroying it with the intention of revoking it, by the testator himself, or by some person in his presence, or by his express-written direction, or by some other will or codicil, in writing, executed as prescribed by this title, or by some other writing, signed attested, and subscribed, in the manner provided by this title for the making, of a will, but nothing herein contained shall prevent the revocation, implied by law, from subsequent changes in the condition or circumstances of the testator.’"
+A careful reading of this section indicates quite clearly that there can be no partial revocation of a will. In Giffin v. Brooks, 48 Oh St 211, it was held that a clause of a will cannot be revoked by the testator drawing ink lines through the words thereof, with an intent to revoke such clause, but not with an intent to revoke the whole will. In such cases where the clause remains legible, the whole will should be admited to probate including such clause as a valid part of the will. The case of Behrens v. Behrens, 47 Oh St 323, and Coghlin v. Coghlin, 79 Oh St 71, support this view.
+If the Codicil could be reproduced in full in this case the court would not hesitate to admit it to probate. The cancellation of parts-of a will which leaves the remainder unintelligble operates as a revocation of the entire will. (In re Muh’s Wills, 35 La. Ann 394; Damman v. Damman, 28 Atl. 408; In re Fisher’s Estate, 283 Pa. 282, 129 Atl. 90.) This view rests on the theory that the testator intended a revocation of the cancelled clauses, and that he did not intend the remainder of his will to be enforced without the cancelled clauses. To probate instruments with clauses cancelled in that manner would open the door to fraud by unscrupulous persons who might alter wills after the decease of a testator. Neither should courts be asked to enforce vague and uncertain wills.
+In view of the fact that part of the Codicil in this case has been cut off and cannot be reproduced, the court must hold that the Codicil is not a valid testamentary instrument.
+As the execution of the Codicil in this case, at the time of its execution, revoked those portions- of the original will which are inconsistent with it, and since the Codicil cannot be reproduced which amounts to a revocation of the whole Codicil, what effect do these conclusions have on the original will?
+Sction 10504-54 GC reads as follows:
+“After making a will, if the testator duly makes and executes a second will, the destruction, cancellation or revocation of the second will, shall not revive the first will unless the terms of such revocation show that it was his intention to revive and give effect to his first will; or, after such destruction, cancellation or revocation, he duly republishes his first will.”
+In Collins v. Collins, 110 Oh St 105, it was held that where several items of a will have been specifically revoked by a codicil and the codicil afterwards is destroyed at the testator’s direction, the items of the will so revoked cannot be revived by parol declaration of the testator to other than the original attesting witnesses to the will who do not subscribe as witnesses to the will. The court also held in that case that the revoked portions of the will could not be revived except by subsequent acknowledgment to the original witnesses, or by republication before other witnesses attended with the same formalities as the original execution and publication, or by the execution of a second codicil showing an intent to revive the original will.
+It must therefore be held in this case that the original will was revoked in part by the execution of the Codicil and that the revoked parts were not revived by the subsequent revocation or destruction of the Codicil.
+It is quite clear from Item One of the Codicil in which the decedent made provisions for his wife whom he marrid subsequent to the execution of the original will, that this part of the Codicil was inconsistent with the dispositive provisions of the original will. What the remaining part of the Codicil contained is open only to conjecture, so far as the testimony submitted in this case is concerned. Due to this situation, the court is unable to determine what portion of the original will was revoked by the Codicil and what part remained unaffected. Since the cancelling and deletion of part of the Codicil in this case which has not been reproduced amounts to a revocation of the Codicil, and since the revocation of the Codicil does not revive- the parts of the will which ,were revoked by the Codicil, and since the court cannot determine from the evidence what parts of the original will were revoked by the Codicil and what parts, remained unaffected, the original will together with the portions of the Codicil which remain must be refused admission to probate at this time. If competent evidence can be later produced which will establish the full text of the Codicil, the court will entertain an application to repropound for probate.
