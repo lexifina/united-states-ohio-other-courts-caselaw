@@ -1,0 +1,27 @@
+---
+court: "Cuyahoga County Circuit Court"
+decided: "1911-11-27"
+citations: ["17 Ohio C.C. (n.s.) 495"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Henry, J.Winch, J., and Marvin, J., concur."]
+parties: ["Harry E. Davis v. Euclid Avenue Garden Theatre Company."]
+source_url: "https://static.case.law/ohio-cc-ns/17/cases/0495-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1816746
+---
+
+# Davis v. Euclid Avenue Garden Theatre Co.
+
+## Majority
+
+The parties to this proceeding in error stand here as they stood below. There the plaintiff, who is of African descent, sued for damages under the Civil Rights Act, Bates’ Statutes (4426-1) and (4426-2), now General Code, Section 12940, for defendant’s refusal, on August 3, 1909, to accord him “the full and equal enjoyment of the accommodations, advantages, facilities and privileges,” of its theatre, “subject only to the conditions and limitations established by law, and applicable alike to all the.'citizens, ” in that on the afternoon of said day, by and through its agent Max Davis at its down-town ticket office in Burrows Brothers’ bookstore iu Cleveland, it twice declined to sell plaintiff tickets for its matinee performance on the following day, though it then and there had tickets for sale, and plaintiff tendered the usual price therefor.
+In his original petition, plaintiff complained of these two refusals in two separately stated and numbered causes of action. On motion he was thereupon required to elect on which cause of action he would rely. To this ruling he excepted, and made his election to rely on the second refusal, as set forth in his second cause of action. We hold that the court did not err in thus ruling. The reiterated refusal to sell plaintiff tickets to one and the same performance constituted but one cause of action, and his attempt to assert two causes of action in his petition was properly challenged and prevented.
+The defendant thereupon filed its answer to the amended petition, pleading a general denial and also alleging as a bar to the action that the said agent, Max Davis, had, upon the same state -of facts, been convicted and punished by the police court of said city. This defense is based upon the concluding clause of the second section of said act, which reads as follows:
+“That any person who shall violate any of the provisions of the foregoing section by denying to any citizen, except for reasons applicable alike to all citizens of every race and color, and regardless of color or race, the full enjoyment of any of the accommodations, advantages, facilities or privileges in said section enumerated, or by aiding or inciting such denial, shall, for every such offense forfeit and pay a sum not less than fifty ($50) dollars nor more than five hundred ($500) dollars to the person aggrieved thereby, to be recovered in any court of competent jurisdiction in the county where said offense was committed; and shall also, for every such offense, be deemed guilty of a misdemeanor, and upon conviction thereof shall be fined not less than fifty ($50) dollars nor more than five hundred ($500) dollars or shall be imprisoned not less than thirty days nor more than ninety days or both; and provided further, that a judgment in favor of the party aggrieved, or punishment upon an indictment, shall be a bar to either prosecution respectively. ’ ’
+A demurrer to this defense, as embodied in an answer to the original petition, had been overruled, and exception taken. But no such demurrer was interposed to the last answer, and said exception was therefore waived. .
+The bill of exceptions does not contain all the evidence; •hence the weight of the evidence is not before us. Neither is the propriety of the court’s ruling in directing a verdict for the defendant, though that ruling was apparently based upon the plaintiff’s admission of the truth of the facts pleaded in bar as aforesaid.
+It is complained, however, that the court erred in excluding plaintiff’s testimony that, at the time he repeated his attempt to buy the tickets, the agent said, “What are you doing this'to me for? I am only doing what I was told to do.” This was a part of the res gestae. It tended to prove that the defendant, aside from any application of the rule of respondeat superior, had aided or incited the ticket agent to commit the offense of which the latter was convicted.
+The act makes this a distinct and separate offense, and the one guilty of it is of course punishable, notwithstanding that he whom he aided or incited has1 been convicted of the concomitant offense. The conviction of the agent would not bar prosecution of the aider or inciter; nor vice versa. Facts tending to show a separate criminal liability, tend also to show that the inciting principal’s civil liability is not barred by the agent’s conviction for his own misdemeanor. The principal may be civilly liable either because he has specially authorized or commanded the act complained of, or because his agent within the scope of the agency has done it even against his orders. In the former ease, both are criminally liable. They may not be jointly liable in a civil suit; but the conviction of the agent is certainly no bar to the civil liability of the principal, where the latter might also have been convicted.
+For error in excluding this evidence, the judgment is reversed and the cause remanded.
