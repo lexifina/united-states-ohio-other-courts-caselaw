@@ -1,0 +1,35 @@
+---
+court: "Athens County Court of Common Pleas"
+decided: "1894-10"
+citations: ["1 Ohio N.P. 94"]
+reporter: "ohio-np"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Scott, Treasurer of Athens County v. The Village of Athens."]
+source_url: "https://static.case.law/ohio-np/1/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1522161
+cites_cases: ["11 Ohio St. 534", "18 Ohio 110", "25 Ohio St. 229", "28 Ohio St. 521", "29 Ohio St. 204", "36 Ohio St. 258", "43 Ohio St. 99", "44 Ohio St. 539", "8 Ohio, 189"]
+---
+
+# Scott v. Village of Athens
+
+## Majority (De Steiguer, J.)
+
+De Steiguer, J.
+The plaintiff alleged in his petition that the defendant is the owner of 68 feet off of the east side of in-lot No. 18, in said village, and in occupation thereof; that a town hall is situated upon it, all parts of which are not used for public purposes, but a large part of it is rented out for profit, viz : a library, the office of justice of the peace, a barber shop, and post-office, occupied by the United States, on the first floor, and a hail on the second floor. That said part of said lot and the improvements not used for public purposes are listed on the tax duplicate of the county'for taxation, at a valuation of $10,000.00, the taxes upon which amounted to $852.00, for the years 1891, 1892 and 1893, which is past due and remains unpaid.
+Plaintiff asks judgment for the amount, and an order to sell the property. Defendant interposes a general demurrer to the petition.
+Section 1104, of the Revised Statutes, creates this remedy, and prescribes the facts which shall be set forth in a petition. The petition contains the facts prescribed, and it must be held sufficient unless it appear upon the face of the petition, that under existing laws the property listed for taxation is not subject for taxation, nor liable for unpaid taxes.
+The demurrer claims that such is the case, under section 2732, as amended May 21, 1894, (91 Ohio, p. 393). That section provides the following property shall be exempt from taxation : * * * Paragraph 8: All town or township houses or halls, used exclusively for public purposes, or erected by taxation for public purposes, notwithstanding some parts thereof may be leased under and by virtue of section 2566, of the Revised Statutes of Ohio. * * * “And any unpaid taxes assessed against any property comprised in this sub-division, with any penalty thereon, is hereby remitted.”
+Section 2566 provides “ when there is a public hall erected by taxation in any city of the second class, or village, and the buildings or any part thereof, may not be needed for public business, the council shall lease the building, or any part thereof, as the case may be, for private offices, lectures, or like purposes for such length of time and upon such terms as shall seem to be proper, and the money received for rents shall be forthwith paid into the treasury of the municipal corporation.” * * * The effect ■of the two sections is to exempt the property named in the petition from taxation for the future, and to remit the taxes heretofore assessed and remaining unpaid, provided the legislature had the power to create the exemption and make the remission.
+The power of taxation is conferred on the legislature in the grant of legislative power by section 1, of article 2, of the constitution. Adler v. Whitbeck, 44 Ohio St. 539, 565; Baker v. Cincinnati, 11 Ohio St. 534, 543.
+The limitations upon ihat power are contained in article 12. Baker v. Cincinnati, 11 Ohio St. 534, 543. Western Union Telegraph Co. v. Mayor, 28 Ohio St. 521.
+Section 2 of this article is the only one affecting the present case, which provides that “ Laws shall be passed taxing by a uniform rule * * * all real and personal property according to its true value in money, but * * * houses used exclusively for public worship, institutions for purely public charity, public property used exclusively for any public purpose * * * may by general laws be exempted from taxation.
+The language of section 2732, until its amendment May 21, 1894, exempted all town halls used exclusively for public purposes, and this was the exercise of all the power of the legislature to exempt, conférredby paragraph 2, article 12, of the constitution, in regard to that class of property ; and if the words “or erected by taxation for public purposes notwithstanding some parts thereof may be leased under and by virtue of section 2566” now contained in section 2732, extends the exemption beyond public property “used exclusively for any public purpose,” to such an extent it is u nconstitu tional.
+The renting of rooms for a barber shop, or for the office of the justice of the peace, and the other purposes named in the petition, is manifestly not “using them for public purposes,” unless the fact that the rents arising are to be paid into the municipal treasury make them such.
+Laws granting special privileges or exemptions from public burdens or duties are to be strictly construed. The constitution contemplates property with regard to exemption as it is in use and not to what is done with its accumulations. Such has been the construction which has been placed upon the language “used exclusively” in regard to exemptions appearing in legislation in this state. Cincinnati College v. State, 18 Ohio 110. Gerke v. Purcel, 25 Ohio St. 229; Humphreys v. Little Sisters, 29 Ohio St. 204; Library Association v. Pelton, 36 Ohio St. 258; Hendricks v. Farquhar, 8 Ohio, 189.
+The fact, then, that the rents are paid into the treasury of the municipality, does not constitute the renting of the rooms for a public purpose, within the meaping of the constitution creating exemptions of property used exclusively for public purposes, and the attempted exemption was beyond the legislative power, and the act of May 21, 1894, is in that respect unconstitutional. Manifestly it was not the intention of those forming the constitution to create exemptions from taxation upon property that was used for business purposes and in competition with the business of individuals engaged in private business. The amended exemption cannot be sustained, either upon authority or upon reason. Whether * the legislature had the power to remit past taxes assessed and unpaid, if the provisions in the law in that respect stood alone, it is unnecessary to decide. It is so highly improbable that the legislature would have remitted such taxes except as in furtherance of the general plan to relieve all such property from taxation, that the provision mud be held unconstitutional.
+J. P. Wood, W. E. Peters and J. A. McGilvery, for plaintiff.
+J. M. Wood, for defendant.
+It is manifest that the legislature would not have enacted the provision for remission unless it had been in pursuance of the plan to release the property from taxation in the future, and according to well established rule, the provision in regard to remission must be held unconstitutional. State v. Pugh, 43 Ohio St. 99.
+Demurrer overruled.
