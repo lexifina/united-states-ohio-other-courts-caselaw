@@ -1,0 +1,43 @@
+---
+court: "Ohio Circuit Court"
+decided: "1896-04"
+citations: ["22 Ohio C.C. 614", "12 Ohio Cir. Dec. 601"]
+reporter: "ohio-cc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Caldwell, Hale and Marvin, JJ."]
+parties: ["*MARY A. SAMPSELL v. MUTUAL BUILDING & INVESTMENT COMPANY."]
+source_url: "https://static.case.law/ohio-cc/22/cases/0614-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 419432
+cites_cases: ["11 Ohio St. 534", "11 Ohio St., 534", "26 Ohio St. 207", "26 Ohio St., 207", "27 Ohio St. 527", "27 Ohio St., 527", "41 W. L. B. 70", "59 Ohio St. 627", "6 Ohio St. 471", "6 Ohio St., 471"]
+---
+
+# Sampsell v. Mutual Building & Investment Co.
+
+## Majority (Marvin, J.)
+
+Marvin, J.
+This case comes here upon a petition in error to reverse the judgment of the court of common pleas. The plaintiff here was the plaintiff below.
+The case was submitted to the court below upon a demurrer to the amended petition of the plaintiff. That demurrer was sustained, and 'the plaintiff not desiring to plead further, judgment was rendered for the defendant.
+The case was brought here for review by this court.
+. The amended, petition says that one Eliza Swartz 'became a member of the Mutual Building & Investment Company, which’ was a corporation under the statutes of Ohio, providing for the incorporation of building and loan associations. She became the owner of quite a large number of shares. The shares were $200 each, and she desired to make a loan from the association of $4,000. She did make the loan, but she had no opportunity to bid for that loan. A loan was made to her and she was required in order to secure it, to enter into contract, a copy of which is set out in the petition, and give a mortgage upon certain real estate described in the petition.
+This contract required of her the payment of six per cent, interest upon the money loaned, and a premium of thirty-five cents each month upon each $100 loaned, besides the dues she had paid.
+I have already stated that the petition shows that she had no opportunity to bid by competitive bid. The officers of the association refused to loan except under this kind of agreement by which, among other things, she was to pay as a premium thirty-five cents on each $100 for every month.
+Now it is urged that this contract was usurious, because this premium, added to the six per cent., would make a 'greater rate paid for the use of money than the interest which is allowed by law, and that the statute in reference to building associations, which provides that because in paying a premium one pays more than the rate of interest allowed by law, does not relieve this from being a usurious contract; that the premium there meant is the premium paid where one has an opportunity to bid.
+The language of the statute as first indicated in 1867, is that the corporation shall be authorized and empowered to levy an assessment by rates of stated dues, fines, interests and premiums on loans by the right of precedent, and that though the compensation is greater than allowed by law, it shall not be considered usurious.
+I think the statute was amended, but the statute as it now reads omits the words after premium “bid by members for the right of precedent.” These words are omitted.
+It is urged on one hand that that makes the statute have a different meaning than it had before; and on the other side it is urged it has no different meaning.
+We did not find it necessary to determine that question ira order to determine this case. I think that this court has an: opinion on that subject, but that question does not need to be-determined.
+This Eliza Swartz made the loan, and subsequently a mortgage of the same kind was made to secure that loan. That loan was for $400. The first loan was $4,000.
+Eliza Swartz died, and bequeathed this real estate and her stock in the loan association to another party in trust and that party sold not only the property but the stock, to another. I think there was another transfer after that. At any rate,. Mrs. Sampsell, by virtue of these several transfers became the-owner of this real estate, and of this stock in the loan association.
+She desires now to have a cancellation of the mortgage-upon the property, and on the provision of the by-laws of the-corporation, by making payments after giving her credit for what had been paid, in the way of monthly dues and the like, making payment for enough more to pay up the interest and the premium up to the time of cancellation, she .would be entitled to the cancellation. Making the computation on the-assumption that the premium of thirty-five cents per month ora each one hundred dollars is usurious, and that therefore she-is bound to pay only six per cent, on her loan, she owes the-association, she says, $2,790, on that loan.
+The association says that they were entitled to the thirty-five cents premium,-and that therefore she owes upon that first, loan $3,335.68, making an addition of $545.68.
+On the other loan -she says she should pay $310, deducting-therefrom credits to which she is entitled for the payments-made, and the thirty-five cents to be treated as usury.
+But the association says sh-e owes $346, which is $36.00-more than she says, making -the entire amount of difference between them the sum of $581.68. She desires to have' the-mortgage cancelled. She says that in order to prevent the loan association from foreclosing their mortgage it was-necessary ¡that she have it cancelled, for otherwise they would proceed to foreclose. The language is that said company-threatened to foreclose said mortgage, and sell said property, unless the plaintiff paid other installments, or submitted to said illegal exaction. To prevent said property from being sold, she made the payment, paying $580, or $590 more than she owed, and she said that she did this under protest, and that she expected to recover it back, but she paid it, as she says, to prevent their foreclosing the mortgage.
+It is well known'to counsel in the case and to everybody else familiar with the law, that if that payment was a voluntary payment, if she voluntarily paid-this money, knowing all the facts, she cannot recover it back. She says: “I paid it to save my property from being sold in foreclosure proceedings.” They could not very well have foreclosed without giving her an opportunity to make her defense. If a suit in foreclosure had been brought, she could have made her defense on the facts she sets up here. Or, she could have filed her petition in -chancery to have the mortgage cancelled, by tendering the amount she said she owed. If she tendered the true amount which she actually owed, she would have been entitled to a decree cancelling that mortgage.
+We are cited, by counsel for plaintiff in error, to a case, Baker v. Cincinnati, 11 Ohio St., 534, where a party was seeking a license for an exhibition in the city of Cincinnati.
+There is language used in that decision which might and does'look as though the court might hold, possibly, in a case like this, that a payment such as this was not voluntary. But our Supreme Court have had this question before them, and it ■seems to us that the decision in Williamson v. Cole, 26 Ohio St., 207, which has never been qualified by any decision of the Supreme Court, settles this question. The court in that decision use this language: “Usurious interest voluntarily paid cannot be recovered back; and the payment of such interest by a borrower to obtain a reconveyance of land held by the lender as security for the loan, and which the latter refused to reconvey, without the payment of such interest, is voluntary.”
+Marrietta v. Slocomb, 6 Ohio St., 471. It is true that is before Baker v. Cincinnati, supra, and if the latter had the law declared by the Supreme Court, it would necessitate a reversal! of this case.
+■ We are not prepared to say that we would be justified in. reversing by Marietta v. Slocomb, supra. It is cited in Stephan v. Daniels, 27 Ohio St., 527, 539. In that case, the court used’, language which justifies us in saying .that the opinion in Williamson v. Cole is the law, and that the interpretation, which we give is the true interpretation. The court there-quoted from Smith’s Reading Cases in Equity, in which it seems to us it is shown that this is a voluntary payment on the - part of Mary A. Sampsell; and it being a voluntary payment, she is not entitled to recover'in this action, and the demurrer-was properly sustained.
+The judgment of the court below is affirmed.
