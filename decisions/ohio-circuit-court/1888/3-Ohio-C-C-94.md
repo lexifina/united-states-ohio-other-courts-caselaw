@@ -1,0 +1,34 @@
+---
+court: "Ohio Circuit Court"
+decided: "1888-01"
+citations: ["3 Ohio C.C. 94"]
+reporter: "ohio-cc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Stewart, Shatjck and Shearer, JJ."]
+parties: ["John Lillie, Executor, v. James L. Bates et al."]
+source_url: "https://static.case.law/ohio-cc/3/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1491689
+cites_cases: ["14 Ohio St. 472", "19 Ohio St. 346"]
+---
+
+# Lillie v. Bates
+
+## Majority (Shearer, J.)
+
+Shearer, J.
+The record shows that the testator, John Lillie, J. R. Straughan and Josiah Kinnear, composed the firm of J. Lillie & Co. Kinnear sold his interest in the concern to J. L. & W. H. Hastings, who succeeded him in the firm business. In settlement with Kinnear, for reasons satisfactory to the parties, the notes in suit executed by Lillie and Straughan were given, instead of the obligations of the Hastings.
+I. On the trial the defendants below offered evidence tending to prove that in the transaction first stated, it was orally agreed that said Hastings were to pay said notes, and that the makers were not to be liable thereon, and upon this question there arose a controversy as to the competency of evidence upon that point. No ruling upon this question could have been prejudicial to the plaintiffs in error. The evidence was clearly incompetent, under the well-known rule that a written contract cannot be contradicted or varied by proof of a contemporaneous oral agreement. This being so, and the record showing that Kinnear transferred his interest in the firm to said Hastings, and took the notes of his co-partners for the purchase-price, it follows that the defense of want of consideration fails.
+II. Fornhoff, a party to the suit, was permitted, against the objection of the executor, plaintiff in errror, to testify concerning the interest of his firm in said notes. It is claimed that he was not a competent witness; and the same is said as to Kinnear, also a party, who testified in contradiction of the alleged arrangement exonerating Lillie and Straughan from liability upon said notes. There was no prejudicial error in this, as, in our view of the case, the testimony of these witnesses was immaterial, and could not affect the right of recovery.
+III. The important question is whether the demand of J. Lillie & Co. against Fornhoff & McCabe, which was due when the latter held these notes, (and which assuming said notes to have been partnership obligations of J. Lillie & Co., and in view of the insolvency of Fornhoff & McCabe might have been available as a set-off in a suit between said parties upon said notes), can be set off in this case against the defendant in error Bates. In other words, can a set-off which is available in a suit upon a negotiable instrument by an indorsee after due, against the maker, be asserted against a subsequent indorsee ?
+Numerous authorities have been cited in support of the affirmative of this proposition; but, we think, the solution of the question depends entirely upon the construction of the statutes relating to the subject.
+It is claimed in argument that under the provisions of section 5077, R. S., the plaintiff in error is entitled to have the amount of these notes applied in reduction of his demand against Fornhoff & McCabe; that is to say, that the two demands must be held to be compensated to the extent that they equal each other; that this is so, because while Fornhoff & McCabe held the notes, they and the claim of J. Lillie & Co. constituted cross-demands ; and that if either party had brought an action against the other, the latter could have set up their claim by way of set-off; and that the assignment of the notes by Fornhoff & McCabe cannot deprive the plaintiff in error of the benefit of such set-off. This is true, if this section applies to negotiable instruments.
+It is to be observed that under section 5077 it is the assignment of the demand which shall not defeat the set-off. The term assignment, in its technical sense, refers to the transfer of bonds and notes not negotiable, and, also, to the transfer, without indorsement, of instruments which are negotiable. 1 Daniels’ Neg. Inst., § 729.
+In the case at bar the notes were indorsed in blank by Fornhoff & McCabe. They were not assigned in the legal sense. The transferee did not, therefore, take title by assignment; but by indorsement. This would seem to be conclusive as to the applicability of the section mentioned. If it is to be held that the section applies to transfers by indorsement, then it follows that the indorsee before due of negotiable paper takes it subject to any equity, or set-off, which the maker might have asserted against the indorser; and the statement of that proposition is its own refutation. Manifestly this section does not apply. This is clear, when in this connection section 3173, R. S., is considered.- This section provides that:
+“ If any such notes * * be indorsed, or delivered, after the day on which it is made payable, and the indorsee institutes an action thereon against the maker * * the defendant shall be allowed to set up any defense he might have made had the action been instituted in the name, and for the use of the person to whom the note * * was originally made payable.”
+This section is a codification of the law merchant as to the rights of a maker of a negotiable instrument against an indorsee after due; and was introduced into our legislation more than half a century ago. Section 5077 is a later provision, hnd applies to all cross-demands other than negotiable paper. It is general in its terms. Section 3173 is restricted in its operation.
+“ It is an established rule in the construction of statutes, that a statute treating a subject in general terms, and not expressly contradicting- the provisions of a prior act, shall not be considered as intended to affect the more particular and positive provisions of the prior act, unless it be absolutely necessary to do so in order to give any meaning.” State ex rel. Fosdick v. Perrysburgh, 14 Ohio St. 472; 19 Ohio St. 346.
+J. D. Sullivan and J. G. Richards, for plaintiff in error.
+J. T. Holmes and H. J. Booth, for defendant in error.
+Applying this rule to the sections under consideration, it follows that section 3173 must control in determining the right of the plaintiff in error to assert his set-off against Bates. His demand is not a “ defense” within the meaning of the section. If it were, he could not have pleaded it against Kinnear, “ the person to whom the note was originally made payable.” Nor is it an “ equity.” “ Set-off is not an equity,” 1 Daniels’ Neg. Inst., § 746. It follows from these conclusions that the judgment of the court below must be affirmed.
