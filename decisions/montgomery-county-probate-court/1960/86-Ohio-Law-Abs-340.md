@@ -1,0 +1,31 @@
+---
+court: "Montgomery County Probate Court"
+docket: "146787"
+decided: "1960-01-18"
+citations: ["86 Ohio Law Abs. 340"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ziegel, J., of Preble County, sitting by assignment in Montgomery County."]
+parties: ["THIRD NATIONAL BANK AND TRUST CO., Admr., WWA of the Estate of CRONGINGER, Deceased, Plaintiff, v. CLENDENING et, Defendants."]
+source_url: "https://static.case.law/ohio-law-abs/86/cases/0340-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1804794
+cites_cases: ["113 Ohio St., 526", "147 Ohio St., 49", "149 N. E., 871", "171 N. E., 257", "2 Oh. N. P., 365", "34 Ohio App., 311", "51 N. E., 445", "59 Ohio St., 1", "69 Am. St. Rep., 753", "70 Ohio Law Abs., 43", "79 Ohio Law Abs., 262"]
+---
+
+# Third National Bank & Trust Co. v. Clendening
+
+## Majority (Ziegel, J.)
+
+Ziegel, J.
+Ohio’s anti-lapse statute, Section 2107.52, Revised Code, provides in part as follows: “When a devise of real or personal estate is made to a relative of a testator and such relative was dead at the time the will was made, or died thereafter, leaving issue surviving the testator, such issue shall take the estate devised as the devisee would have done if he had survived the testator ...” The sole question in this case is whether a grandchild of a relative of testator comes within the term “issue” as used in the above quoted statute.
+In this case the testatrix, Josephine Croninger, in 1949 executed a simple will in which she left all of her property, both real and personal, to her sister, Angie Clendening. Angie died in 1955, predeceasing testatrix. Angie had one son who predeceased her, leaving one son, the defendant John Wesley Clendening, who is Angie’s grandson. It is conceded that Angie is a “relative” of testatrix. The question is whether Angie’s grandson, John, is her “issue.” If he is he will take all of testatrix’s estate under the anti-lapse statute. If he is not, testatrix will have died intestate, and her estate will be distributed to some ten persons.
+It would seem that this simple proposition should have been decided years ago, particularly when it is considered that the anti-lapse statute has been in our laws, essentially in its present form, at least since 1852. See 50 Ohio Law, 307, Sec. 56. Yet no case in point has been cited, and the Court has found none, which decide the matter. Counsel for John Wesley Clendening refer to the case of Graves v. Graves, 79 Ohio Law Abs., 262; 155 N. E. (2d), 540, as being in point, but a careful examination of the facts in that case indicates that it is not. The “grandson-issue” of a relative of testator there is an inaccurate description of the person concerned since the relative had only a life estate, with the remainder being in a predeceased son of this relative.
+Webster’s New International Dictionary, Second Edition, defines “issue” as used in this context as “Progeny; a child or children.” According to the same source the word “progeny” includes more than “child” or “children,” and is defined as “Descendants of human kind collectively; race; family” as well as “children.” If the limited definition is given to “issue,” i. e. child or children, then obviously John Wesley Clendening could not be “issue” of Angie Clendening, since he was not her child.
+The Ohio cases which have, under various circumstances, considered the word “issue” have not, however, ever held it to be limited to child or children. In 1895 the Supreme Court was called upon to determine whether an adopted child was “issue” under this same anti-lapse statute. Phillips v. McConica, 59 Ohio St., 1, 51 N. E., 445, 69 Am. St. Rep., 753. While holding that an adopted child was not “issue,” the Court did point out that “issue” means “child of the body, or heir of the body.” The definition “heir of the body” extends beyond a child, certainly.
+To the same effect, see the old case of Moon v. Hepford, 2 Oh. N. P., 365, 3. Oh. Dec., 508, a will construction proceedings in which it was held that children of issue take.
+In 1925, the Supreme Court held that a “designated heir” was embraced with the term “issue” in the “half and half” statute. (Now Section 2105.10, Revised Code.) Cochrel v. Robinson, 113 Ohio St., 526, 149 N. E., 871. There it is pointed out that the primary significance of the word “issue” “imports descendants and has to do with the blood of the ancestor, but by general use the word ‘issue’ has often a wider signification and may include not only ‘children’ but ‘grandchildren,’ ‘descendants’ and ‘adopted children.’ ” In 1946 the Supreme Court overruled Phillips v. McConica, supra, and held that “issue” in the anti-lapse statute included an adopted child. Flynn v. Bredbeck, 147 Ohio St., 49, 68 N. E. (2d), 75, 33 Ohio Opinions, 197.
+It is to be noted that in these cases “issue” is judicially interpreted to mean considerably more than “child or children.” In Watson v. Watson, 34 Ohio App., 311, 171 N. E., 257, a partition case which involved a construction of a will containing the words “issue of her body,” the Court pointed out that “The English cases and many authorities in America give to the word ‘issue’ a broad meaning corresponding with descendant. In the absence of words indicating a contrary intention, it includes children, grandchildren, and so on.” To the same effect, see Cleveland Trust Co. v. Johnson, 70 Ohio Law Abs., 43, 126 N. E. (2d), 824.
+In view of the liberal definition which the various courts of the State of Ohio have given to the word “issue” over the years, as the word has been used in a number of different contexts, this Court must conclude that as the word is used in Section 2107.52, Revised Code, it means “descendant,” adopted as well as natural. Since John Wesley Clendening as grand-son is a “descendant” of Angie Clendening, who was a relative of the testatrix in the case at bar, John Wesley Clendening receives the share in testatrix’s estate which Angie Clendening would have received had she survived the testatrix.
+Counsel for John Wesley Clendening is instructed to present an entry in accordance with this opinion.
