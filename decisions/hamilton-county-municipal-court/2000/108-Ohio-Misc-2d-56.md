@@ -1,0 +1,45 @@
+---
+court: "Hamilton County Municipal Court"
+docket: "C 00 CRB 2574"
+decided: "2000-07-20"
+citations: ["108 Ohio Misc. 2d 56"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The STATE of Ohio v. SIMON."]
+source_url: "https://static.case.law/ohio-misc-2d/108/cases/0056-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6708744
+cites_cases: ["10 OBR 421", "10 Ohio St.3d 92", "26 OBR 337", "26 Ohio App.3d 126", "461 N.E.2d 1286", "498 N.E.2d 1089"]
+---
+
+# State v. Simon
+
+## Majority (Elizabeth B. Mattingly, Judge.)
+
+Elizabeth B. Mattingly, Judge.
+Pro se defendant Margaret Simon is charged with failure to connect into the sanitary sewerage system in violation of R.C. 3707.48, which states: •
+“No person shall violate sections 3707.01 to 3707.53, inclusive, of the Revised Code, or any order or regulation of the board of health of a city or general health district made in pursuance thereof, * * * or willfully or illegally omit to obey such order.”
+Local boards of health are given authority pursuant to R.C. 3707.01 to enact regulations for the health and safety of citizens. The specific regulation defendant Simon is charged with violating is Hamilton County Household Sewage Code 529.02(E) (“Section 592.02[K]”), which states:
+“Whenever a sanitary sewerage system becomes available to the property, the building drain shall be directly connected to such sanitary sewerage system and the household sewage disposal system shall be properly abandoned.”
+In addition, the county commissioners of each county can, by resolution, require homeowners to connect to a new public sewer construction project that is proposed or located in certain places pursuant to the provisions of R.C. 6117.51. R.C. 6117.51, however, contains several exceptions, one of which is for “[a]ny premises that are not served by a common sewage collection system when the foundation wall of the structure from which sewage or other waste originates is more than two hundred feet from the nearest boundary of the right of way within which the sewer is located.”
+Defendant Simon owns residential property at 11400 Enyart Road, Hamilton County, Ohio. In June 1997, Kyle Dexter, a water quality technician with the Hamilton County Health District, performed routine inspections of houses on defendant’s street. When no one answered defendant’s door, the technician entered her yard to check the septic tank and observed a drainage ditch in the far right corner of the yard. He further observed a black corrugated pipe and blackish-grey discharge coming from the pipe that he believed might be untreated sewage.
+Based on these observations, Dexter sent defendant Simon a request that the health district be allowed to make a dye test of the water coming from the house to determine its source and status. Simon and the health district discussed the proposed dye test but permission was never secured from Simon to conduct the test, and it was not done. As a result, on or about January 10, 2000, defendant was ordered by the Hamilton County Health District to connect to the nearest sewer, which was less than two hundred feet from her home. Specifically, the center of defendant Simon’s home is 149.41 feet from the nearest available sewer; her nearest foundation wall is less than 149.41 feet from this service. She refused to connect to the sewer as ordered.
+Defendant testified at trial that she had gotten estimates between $15,000 and $40,000 to connect to the system, but, provided no written estimates as evidence herein. She has refused to connect to the sewer system based on the cost of connection and her belief that her current system for handling sewerage is operating properly.
+The court further finds that the sewer system in question has been operational for probably ten years, while residences in the area were generally built more than ten years ago.
+Defendant Simon argues that she is not in violation of the regulation that purports to require her to connect to the sewer system because (1) the state has failed to demonstrate that her existing septic tank is deficient in its operation and (2) due to the expense of connection, the sewer is not “available” to her property. She further asserts that R.C. 6117.51 is not applicable to compel connection because the sewer system in question is not “new” as described by the statute.
+Initially, there are few Ohio cases concerning connections to sewer systems. However, more than fifteen years ago, the Ohio Supreme Court held that local health boards have the authority to enforce regulations such as the one at issue here. The court in DeMoise v. Dowell (1984), 10 Ohio St.3d 92, 95-96, 10 OBR 421, 424, 461 N.E.2d 1286, 1290, stated:
+“The legislative delegation of authority, under the present scheme * * * reflects a broad-based policy determination that individual household sewage disposal systems are inherently more dangerous to the public health than sanitary sewerage systems and must be replaced when possible.”
+The court continued:
+“It is not necessary that the board make a case-by-case evaluation of the efficiency of each septic system. The determination has already been made that septic systems pose a potential hazard to the public health, and that they are a potential nuisance to be prevented when possible.” Id., 10 Ohio St.3d at 96, 10 OBR at 424, 461 N.E.2d at 1290.
+As the Ohio Supreme Court has stated in DeMoise, defendant’s septic tank need not be found to be inoperable before she can be ordered by the health district to connect to the sewer. Accordingly, defendant Simon’s first argument fails.
+Defendant’s second argument is that the sewer is not “available” (Section 529.02[K]) as a matter of law due to the economic cost of connection. Black’s Law Dictionary (6 Ed.1990) 135 defines the word “available” as “[s]uitable; useable; accessible; obtainable; present or ready for immediate use.” The court can envision some situations in which excessive economic expense might make connection to a sewer system “unavailable” as a matter of law. In this case, however, the court lacks information necessary to consider such an analysis. Specifically, defendant has only presented evidence of the cost of connecting to the sewer; she has provided no evidence of the value of the property on which the present septic system operates. The latter evidence would be a necessary element in any reasoned analysis of unavailability due to excessive cost of connection. Defendant’s- second argument therefore fails.
+Defendant Simon finally argues that R.C. 6117.51 does not apply to this case. The court agrees with this argument. The state here is not pursuing the remedy available to it under this section, to wit, seeking monetary sanctions for civil contempt for violation of an order of the county commissioners to connect to a new sewer. Rather, the state is seeking compliance through the alternate mechanism provided by law, the filing of a complaint alleging a violation of R.C. 3707.48.
+The court is sympathetic to the concerns expressed by defendant Simon regarding the financial burden that property owners face when ordered by the health department to connect to the sewer system. However, the law requires, for reasons of public policy and health, that homeowners comply with such orders. For the above-stated reasons, the court finds that the state has proven beyond a reasonable doubt that defendant Simon is in violation of R.C. 3707.48.
+Defendant found guilty.
+. Hamilton County General Health District Revised Section 529.02, general sewage disposal requirements, effective March 8, 1999.
+. Defendant Simon testified at trial that she believes that the black discharge observed by the water technician could be mold.
+. For a thorough discussion of the statutory authority for enforcing such regulations, see DeMoise v. Dowell (1984), 10 Ohio St.3d 92, 93-95, 10 OBR 421, 422-424, 461 N.E.2d 1286, 1288-1290.
+. Moreover, as the court further noted, "The fact that septic systems are themselves lawful is immaterial. That fact merely reflects the realization that a septic system is an appropriate means of sewage disposal so long as no sanitary sewerage system is available.” Id., 10 Ohio St.3d at 96, 10 OBR at 424, 461 N.E.2d at 1290.
+. Obviously, a $15,000 to $40,000 expenditure is one thing in relation to a one-room log cabin home; it is quite another if the property in question is a $5 million mansion.
+. R.C. 6117.51 exempts a building from sewer connection only if the entire structure is more than two hundred feet from the sewer's right of way; if even part of one wall of the building is less than two hundred feet "from the nearest boundary of the right of way” (R.C. 6117.51 [C]), the exemption does not apply. Fry v. Hildebrant (1985), 26 Ohio App.3d 126, 127-128, 26 OBR 337, 339, 498 N.E.2d 1089, 1091. Thus, under the facts of this case, the exemption is unavailable even if R.C. 6117.51 applied to this matter.
