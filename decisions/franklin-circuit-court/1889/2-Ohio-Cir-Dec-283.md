@@ -1,0 +1,31 @@
+---
+court: "Franklin Circuit Court"
+decided: "1889-01"
+citations: ["2 Ohio Cir. Dec. 283"]
+reporter: "ohio-cir-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Stewart, Shauck and Shearer, JJ."]
+parties: ["JOHN C. EHNI ET AL. v. CITY OF COLUMBUS ET AL."]
+source_url: "https://static.case.law/ohio-cir-dec/2/cases/0283-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1618253
+cites_cases: ["16 O. S., 615", "29 O. S., 165", "4 Ohio Dec., 161", "46 O. S., 296"]
+---
+
+# Ehni v. City of Columbus
+
+## Majority (Shauck, J.)
+
+Shauck, J.
+The plaintiffs seek to enjoin an assessment made by the front foot upon lots numbered one hundred and forty and one hundred and forty-one for the improvement of Mitchell street, said lots having a side frontage of one hundred and eighty-nine feet on said street, and an end frontage of fifty-three and one-third feet on State and Town streets on which they respectively abut, the assessment being upon the entire side frontage.
+The right tp an injunction is asserted upon the following grounds: (1) that the curbing was included in the assessment as- a part of the street improvement, whereas it was a part of the sidewalk improvement; and, (2) that the city council was without authority to make an assessment by the front foot upon the entire side frontage.
+I. In support of the first ground, counsel produce a copy of the record in the unreported case of Cox’s Assignee v. Treasurer of Franklin County where the Supreme Court commission affirmed the judgment of the district court of this county, finding that the curbing was a part of the sidewalk improvement, and not of the gutter or street improvement.
+Whether the curbing is a part of the street improvement or not, is a question of fact to be determined by the evidence, and not a question of law to be determined by authority. The evidence in this case clearly shows, and it is a matter of common knowledge, that the curbing is a necessary part of the street improvement, and that without it the gutter could not be properly constructed. It is frequently placed long before sidewalks are made; and they do not always, when made, join it.
+Jones & Jones, for plaintiffs.
+James Caren, City Solicitor, contra.
+II. At the time of the passage of the assessment ordinance the act of March 11, 1887, amending sec. 2269, Rev. Stat., was in force. The section as then amended clearly authorizes an assessment by the foot front upon abutting lots although it may be a side frontage, and although the lots may not extend from the street to the usual depth of lots in the neighborhood.
+But at the time of the passage of the ordinance declaring the necessity for the improvement, and prescribing the mode of making the assessment, the section as amended by the act of March 27, 1884, contained no such authority. It seems clear to us that the authority of the city council to make an assessment in a case of this character must be found in the statute in force when it declares the necessity for the improvement and prescribes the mode of making the assessment. The ordinance and the existing statute advise all property-owners of the nature and extent of the burden with which they are to be charged. It is in view of the information thus furnished, and not in view of possible changes in the statute to be subsequently made, that they determine whether they will acquiesce in, or oppose, the making of the improvement. The original ordinance declared the scheme which the council had devised for making this improvement, and it could not have contemplated any assessments except those which the statute then authorized. The assessment ordinance subsequently passed did not enlarge or change the original scheme, but merely carried it into effect.
+In Douglass et al. v. City of Cincinnati, 29 O. S., 165, the Supreme Court hold that what constitutes abutting property subject to such an assessment is to be determined by the situation of the property at the time of the passage of the first ordinance. Although the question there determined arose out of a change in the situation of the property after the passage of the first ordinance and before the passage of the second, the reasons upon which the court proceeds apply as well to this question which arises out of a change in the statute.
+But it does not follow that the plaintiffs are entitled to an unconditional order to enjoin the entire assessment. Section 5851 of the Revised Statutes requires, if the legal portion of the assessment can be ascertained, that it be paid as a condition to the injunction. Perhaps, without the aid of the statute, the same conclusion would follow from an application of the maxim that he who seeks equity must do equity. That maxim seems to have furnished the ground for the conclusion in Frazer v. Seibern et al., 16 O. S., 615, where it was held that an injunction to restrain the collection of an illegal portion of a tax would be granted only on condition that the complainants first pay so much of the tax ,as was legal.
+Looking to the pertinent clause of the act of March 27,1884, and the facts admitted, the illegal portion of the assessment becomes ascertainable. The statute required the council to “fix * * * the front of such land to the usual depths of lots, so that it will be a fair average of the depths of lots in the neighborhood which shall be subject to such assessment.” It is admitted that the side frontage of these lots is 189 feet, their end frontage 53 1-3 feet, and the usual depth of lots in the neighborhood, 189 feet. Under the statute, the lots' were assessable upon such a frontage as running to the usual depths of lots in the neighborhood would contain their actual area. From the'fact that the side frontage of the lots is the same as the usual depth of lots in the neighborhood, it results that the assessments ought to have been on the equivalent of their end frontage, or 53 1-3 feet. To the extent of fifty-three one-third one hundred and eighty-ninths, the assessments are legal and proper, and upon payment of that amount, the plaintiffs may have an injunction as to the residue, and they will recover costs.
