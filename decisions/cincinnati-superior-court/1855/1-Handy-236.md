@@ -1,0 +1,23 @@
+---
+court: "Cincinnati Superior Court"
+decided: "1855-01"
+citations: ["1 Handy 236"]
+reporter: "handy"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["SrENOER, J. presiding."]
+parties: ["THE ANSONIA INDIA RUBBER COMPANY vs. JACOB WOLF"]
+source_url: "https://static.case.law/handy/1/cases/0236-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1623454
+---
+
+# Ansonia India Rubber Co. v. Wolf
+
+## Majority (Spencer, J.)
+
+Spencer, J.
+The petition originally filed in this cause, was entitled as follows : Thomas Bulock, who sues for the use of The Ansonia India Rubber Company, plaintiff, vs. Jacob Wolf, defendant. A demurrer was sustained in the cause at the November Term, by Storer, J, for the reason that the petition disclosed no cause of action in the plaintiff Thomas Buloek; but on the contrary, showed what cause of action did exist against the defendant, belonged to the party for whose use the action was alleged to be brought, viz. The Ansonia India Rubber Company. The plaintiff thereupon obtained leave to file an amended petition, striking out the name of the original plaintiff Bulock, and inserting the name of the real-party in interest, and in accordance with such leave, the petition, as now amended, has been filed. The defendant now moves to dismiss the petition, or strike it from the files, because it is alleged that the amendment changes the entire action, and substitutes a new one for that originally brought. - If the objection be well founded, it should have been made at the time when the amendment was asked for and allowed, and if then overruled, the order of the Court should have been excepted to. The defendant, by waiving his exception, has submitted to the amendment, and it is now too late to ask the Court to dismiss a petition which has been filed under leave of court, and without exception. But aside from this, it seems to us the amendment was properly allowed.
+§ 137 of the Code provides, that “the Court may before or after judgment, in furtherance of justice, amend any pleading, process, or proceeding, by adding or striking out the name of any party, or by correcting a mistake in the name of a party, or a mistake in any other respect, or by inserting other allegations material to the case, or when the amendment does not change substantially the claim or defence, by conforming the pleadings or proceedings to the facts proved,” &c.
+Now it was evident from the original petition, filed in the present case, that the real party in interest, in the suit, was the Ansonia India Rubber Company, and the cause of action, set forth in the petition, was an indebtedness upon an account for goods sold by said company to the defendant. The plaintiff Bulock appeared therefore as a mere nominal party to the suit, suing in behalf of the real party. The defendant was advised, by the petition, of the nature and cause of action, against him, and the striking out the name of the nominal plaintiff, and inserting that of the real party, was not an amendment which changed substantially the claim originally made, nor could it, by any means, operate as a surprise upon the defendant. But it is supposed, that this amendment conflicts with the § 116 of the Code, which provides, that “the title of a cause shall not be changed in any of its stages.” What was the principal object and intent of this section, is not clearly apparent; but it was evidently not designed to interfere with the power given to the Court in § 137, to amend any pleading, &c., by adding to or striking therefrom the name of a party, plaintiff or defendant, for the purpose of promoting justice; and yet the striking out or addition of a name would to a certain extent change the title of the petition, and probably thereafter the title of the cause to the same extent. But to say that an amendment, which substitutes or strikes out the name of a party, shall not be made, because it changes the title of the suit, would indeed be sacrificing substance to form, which is contrary to the whole spirit of the Code. I am inclined to think, that this section 116 was merely introduced for the purpose of uniformity, requiring the same order to be observed in the caption or title of all pleadings, affidavits, &c., as in the petition itself; so that, for example, the title or the caption of the answer or demurrer shall be precisely like that of the petition, naming the plaintiff first; whereas before the Code it was usual, in the title of a pleading, to name the party putting in the pleading first. In any view of the case, the motion must be overruled.
+Corwine, Hays, and Rogers for motion.
