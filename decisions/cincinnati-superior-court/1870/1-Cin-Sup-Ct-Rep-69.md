@@ -1,0 +1,26 @@
+---
+court: "Cincinnati Superior Court"
+decided: "1870-10"
+citations: ["1 Cin. Sup. Ct. Rep. 69"]
+reporter: "cin-sup-ct-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Stanley v. The City of Cincinnati."]
+source_url: "https://static.case.law/cin-sup-ct-rep/1/cases/0069-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1520246
+cites_cases: ["7 Ohio, 393"]
+---
+
+# Stanley v. City of Cincinnati
+
+## Majority (Taft, J.)
+
+Taft, J.
+Before the code was adopted, this would have been a proper case for an action of assumpsit; and if such an action .had been brought, the court would not, on motion, have given the equitable remedy of a reference. This was tried in the case of Johnson v. Wallace, 7 Ohio, 393. The court in that case, Judge Wood giving the opinion, said that while “ a discretionary power vested in the court to settle controversies of this nature, in the manner proposed by the motion, would very greatly add to the probability of doing substantial justice between the parties,” they were, nevertheless, satisfied that in the absence of consent, the court had not the authority; “ for the constitution of Ohio, and the laws in pursuance thereof, gave to either party the right to submit his cause to a jury for trial, and to grant the motion would be to deprive the plaintiff' of that right.”
+But the court added: “ The difficulties arising in cases of this kind, however, may be avoided by a resort to a court of equity, which has concurrent jurisdiction with courts of law in cases of this description. Those long and perplexing accounts might then be referred to a competent master, and be far more satisfactorily adjusted.”
+From this decision in Johnson v. Wallace, we conclude that if the same case had been on the equity side of the court, as it might have been, a reference might have been asked and granted. Under our present system, the parties are always in law or equity, or both, for all purposes of legal or equitable remedies or relief.
+Under the former practice, equitable remedies could not be administered in a proceeding at law, even though the subject of litigation was one which was cognizable in equity as well as in law. In all cases pending in a court of law, the parties under the constitution had a right to insist upon a jury, although the same subject-matter was cognizable in equity; and although, if the same matter were pending in a court of equity, or on the equity side of the court, equity remedies and equity relief would be granted, and a jury could not be insisted upon. It would seem to follow from the opinion of the Supreme Court in Johnson v. Wallace, that in all that class of cases falling within the concurrent jurisdiction of law and equity, either remedy can be administered by the courts under the code without violation of the constitution.
+The question then arises, whether the subject of this suit is within the concurrent jurisdiction of both law and equity. It is not a merchant’s account. But we think that the equitable remedy of a reference was not confined to a mutual merchant’s account. Any complicated account of many items, and mutual, might require a statement by a master or referee. A “long account” is the description used in New York. A few items on one side would not answer the description, and to grant a reference in a case not requiring that mode of proceeding, from its complication and difficulty, would be an abuse of the jurisdiction. But we think that the showing makes a case for a reference as an equitable remedy,- according to the usages and ¡understanding of equity proceedings at the time when the constitution was adopted. Eeferences of •cases arising under contracts for making public improvements are more resorted to in the New York practice than in Ohio. But the provision of the New York code for references is substantially the same with our own, and we do not regard the constitutional provisions of the two States on this subject as materially different.
+The question whether the plaintiff is entitled to a jury turns upon the inquiry whether this answer states a case requiring the equitable relief sought. The answer states, that the work done and materials furnished by the plaintiff were done and furnished under a contract, which fixed the rates of compensation to be paid, and that the defendant is willing to pay therefor according to the terms of the contract, but denies the correctness of the plaintiff’s account as exhibited in his petition, and denies any indebt- ■ edness whatever. But it says that the account is of an intricate character, such as can not be properly taken except in a court of equity; “that the account contains one hundred and forty items, many of which are complex in themselves; that various payments have been made thereon of various dates, which are not set forth in the account as made, but simply as a lump credit;” that there is -controversy as to most of the items charged, and the defendant prays for a reference.
+¥e are satisfied that an account such as that described in this answer, and shown by the petition itself, is a proper subject of a reference, and that justice will be subserved by dealing with it in that way.
