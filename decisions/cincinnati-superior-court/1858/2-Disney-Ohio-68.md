@@ -1,0 +1,26 @@
+---
+court: "Cincinnati Superior Court"
+docket: "6,185"
+decided: "1858-03"
+citations: ["2 Disney (Ohio) 68"]
+reporter: "disney-ohio"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William F. Irwin and Others v. The National Insurance Company."]
+source_url: "https://static.case.law/disney-ohio/2/cases/0068-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1629737
+---
+
+# Irwin v. National Insurance
+
+## Majority (Spencer, J.,)
+
+Spencer, J.,
+delivered the opinion of the court.
+It may be premised that the clause, upon which these objections are chiefly founded, is of recent introduction in policies of insurance, and, so far as we are advised, has not received a judicial construction, nor yet a practical one of-general'notoriety among merchants. We are, therefore, to consider what is its appropriate effect upon principles of law applicable to all contracts, and especially of this description. Nothing is more common than the execution of contracts determinable by the good will and pleasure of both parties, as contracts for the use and occupation of lands at the will of both landlord and tenant, contracts for the performance of personal services or labor, by one for another, during an indefinite period, determinable at the will of either; and nothing is better settled than the validity of such contracts. Should A. occupy the land or receive the services of B., under such a contract, for a certain time, it would be no answer to an action brought by B., that the estate, being determinable at his pleasure, was not a consideration for A.’s promise to pay for its use so long as he held it; or if in that ease A. had given his promissory note, with an indorser, in anticipation of occupying the premises for a given time, but before the time arrived the estate should be determined by the will of the landloord, it could not be truly said that the entire consideration of the note had failed or that neither maker nor indorser could be held upon the note, because the estate being thus determinable, there was no consideration for the giving of the note; nor is the case altered should the contract, instead of being determinable at the will of either, be determinable only at the will of one of the parties. The obligation to pay while it lasts for the benefits received is binding on the party promising; nor is a contract, determinable at the will of one party only, necessarily without mutuality; as if A. agree with B. to serve him for a year certain, with a privilege on the part of B. to discharge him at any time within the year. So a grant of lands by A. to B. for a term of years, with a privilege, on the part of the tenant, to surrender at any time within the term, is binding upon A. for the whole term, though B. may relieve himself from any portion of the term. 4 Ad. & El. 882. The price to be paid for the services in the one case, and for the use of the land in the other, may be and in contemplation of law is fixed with reference to the privilege granted.
+There is nothing in the nature of a contract of insurance to withdraw it from the operation of the general rule. So long as the insurance lasts both parties are benefited — the insurer to the extent of the premium earned, and the insured to the extent of the protection afforded; and thus the benefit is mutual, although the privilege of putting an end to the contract, within the term of insurance, is not mutual. But the consideration or premium paid, or to be paid, for the insurance is fixed with reference to this very privilege, and therein consists the entire mutuality of the contract. Clauses of this description in policies of insurance are perhaps more appropriate than any other species of contract. They are contracts requiring peculiar good faith on the part of the insured — contracts in which great reliance is placed by the underwriter in the integrity and good conduct of the •insured, and where, if it be ascertained that confidence has been misplaced, it may be exceedingly desirable and appropriate to terminate the risk.
+But here, as in other contracts, the privilege granted or reserved must be reasonably exercised. It can not be arbitrarily resorted to in such a way as to jeopardize and imperil the other party, or expose him to irretrievable loss. There is no pretense, however, that in the present'case the privilege was improperly exercised to the prejudice of the insured, and nothing further need be said upon the subject.
+The second ground of defense urged in this case necessarily fails with the first, for if the principal be bound by the contract, the surety, who entered into his obligation with reference to the contract of his principal, is equally bound. And if in fact he should have lost a security, which he might otherwise have held, for the payment of the premium, had the insurance continued for the whole term specified in the policy, yet he has lost it by a contingency contemplated by him when he entered into the contract of suretyship, and the happening of which, therefore, has subjected him to no unexpected loss, and should occasion him no surprise.
+"We are of opinion, therefore, that the judgment at special term was right, and should be affirmed with costs, but without penalty.
+Judgment affirmed.
