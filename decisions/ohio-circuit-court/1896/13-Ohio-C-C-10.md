@@ -1,0 +1,45 @@
+---
+court: "Ohio Circuit Court"
+decided: "1896-11"
+citations: ["13 Ohio C.C. 10"]
+reporter: "ohio-cc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Day, Price and Finley, JJ."]
+parties: ["JOSEPH B. MOORE v. THE STATE OF OHIO."]
+source_url: "https://static.case.law/ohio-cc/13/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1509169
+---
+
+# Moore v. State
+
+## Majority (Finley, J.)
+
+Finley, J.
+The plaintiff in error, Joseph B.Moore, was indicted by the grand jury of Allen county' at its October term, A. D., 1895.
+The material description of the crime charged is as follows:
+“Do find and present that Joseph B. Moore, late of said county, oh the 8tb day of October, in the year of our Lord one thousand eight hundred and ninety-five, with force and arms, in said county of Allen and state of Ohio, unlawfully did falsely make, forge, and counterfeit a certain order for the delivery of goods and chattels, which said false, forged and counterfeited order for the delivery of goods and chattels is of the purport and value following: J. B. Vail, 322 West Market Street, Office 125, West Market Street, Please give bearer coat and oblige, J. B. Vail,’ with intent thereby to unlawfully defraud, etc.”
+To this indictment the defendant filed a motion to quash, for the reasons set forth in the motion “that it appears upon the face of the indictment that a true copy of the order alleged to be forged is not given, but only the purport and value of the same, without setting forth the reasons or excuse why a copy of the order itself, instead of its purport and value, is not given.”
+The motion to quash was overruled by the court below, and exception taken.
+A demurrer was also filed to the indictment, which was overruled, and exception noted. Thereupon, on a plea of not guilty, the plaintiff in error was tried at the October term, 1895, found guilty, and sentenced to imprisonment in the penitentiary for a period of ten years. He prosecutes error to this court to reverse the judgment of the court below.
+It appears from the record that the accused entered a plea of “not guilty” on the 22nd of November, 1895, and that the motion to quash was filed on the 17th of the following December, but it nowhere appears that the former plea of “not guilty” was withdrawn, nor does it appear that after the motion to quash and the demurrer were overruled, the accused was called upon to further plead to the indictment; nor does it appear that a motion for a new trial, or a motion in arrest of judgment was interposed by the accused, nor was any exception taken to the judgment and sentence of the court. Nor was a bill of exception^ taken containing the evidence on the trial.
+Did the court err in overruling the motion to quash the indictment?
+Section 7248 of the Rev. Stat. provides that the accused may except to an indictment by, 1st, a motion to quash; 2nd, plea in abatement; 3rd, a demurrer.
+And Sec. 7256 provides that when demurrer is overruled, the accused may plead not guilty.
+Sec. 7253 provides that the accused, by demurring, or pleading to the general issue, shall be taken to have waived all defects which may be excepted to by a motion to quash.
+In this case, the accused, having entered a plea of not guilty, thereby waived all defects which he might have excepted to by the motion to quash subsequently made, and we hold therefore that the court below did not err in. overruling the motion to quash the indictment for that reason.
+We think,however, independent of this objection, that the statute, Sec. 7218, provides what shall be sufficient in an indictment for forgery, namely, that it shall be a sufficient description of the forged instrument to set forth its purport and value, without alleging its loss or destruction.
+Did the court err in overruling the demurrer to the indictment? In other words, does the indictment charge the accused with the crime of forging an order for the delivery of goods and chattels within the meaning of Sec. 7091 of the Rev. Stat, ?
+Though the accused interposed no formal motion for a new trial, nor in arrest of judgment, and no formal exceptions were taken by him in any way to the verdict arid judgment, yet if the indictment charges him with no crime punishable by law, he die not by such neglect, forfeit his right to interpose that objection at any time or at any stage of the proceedings.
+Though the purport and value of the instrument alleged to have been forged is only given in the indictment, yet, inasmuch, as the State on the trial would be confined in its proof of the description of the forged instrument substantially as set forth in the indictment, we may consider the instrument, as set out, a true copy of the original.
+There being no averments in the indictment making it to appear wherein the purported order was fraudulent, the character of the instrument itself must be determined by its terms alone,
+To constitute forgery of an order or request for the delivery of goods or chattels, it is essential that the instrument must either on its face be one coming within the meaning of the statute, or it must be made so to appear by averments of extrinsic facts in the indictment.
+If, therefore, as in this case, the instrument requires averments of extrinsic facts, to bring it within the description of an order for the delivery of goods and chattels, and no such averments are made in the indictment, then the intent to defraud would not follow from the mere false making of the instrument. This so-called order, though nego-' tiable on its face, is addressed to no one. It is not an order on any one. It makes no request or requirement of any one. For aught that appears to the contrary, it is addressed to and subscribed by J. B. Vail, provided that the name and office address of the person at the beginning of it can be said to be the person to whom it is addressed; which is a matter of some doubt. The most that can be said of it is, that it is a request, by J. B. Vail, made upon himself, to give the bearer a coat. He is asked to give the coat — a mere donation — no words implying that the drawer or maker of the instrument expects to be charged with the value of or to account for the value of the coat. Would such an instrument, if genuine, be calculated to defraud J. B. Vail? Certainly not. Does its negotiable character change it in any way so as to make it calculated to defraud a stranger into whose hands it might fall? We think not.
+We think that the instrument, if genuine, would not have created a liability on the part of J. B. Vail to account to the holder of it for the value of the goods, had they been delivered.
+It is not prima facie an order for the delivery -of goods, whereby the drawer obligates himself in any way; therefore-we think it comes within the rule laid down by the tíupreme Court in Henry v. State, 33 Ohio State, 128, as follows:
+“Where in an indictment for uttering a forged receipt, the instrument set out is not prima-facie a receipt, such extrinsic facts must be averred as are necessary to show that the instrument would, if genuine, have the operation effect of a receipt. ”
+We are referred to Chidester v. State, 25 Ohio State, 433, as holding an instrument similar to this to be an order,
+We think there is a wide distinction between that case- and this. In that case, unlike this,the drawer and drawee were different persons. In that case,unlike this,the drawer promised in the order to pay for the goods. Nothing of the-kind appears in this instrument. In this case, it is extremely doubtful whether the order is drawn upon any one; at most, the drawer and drawee appear to be one and the same person. In the Ohidester case, the court held the instrument to bean order for the delivery of goods expressly on the ground that it directs the drawee to deliver certain goods, (which were then the property of the drawee) to the person named in the order “on the credit of the drawer,” and says that if the order had been genuine, it would have created a liability on the part of Butler, the drawer, to account to Schroeder, the drawee, “for the value of the goods,” delivered by him to Ohidester (the accused) upon such order. These elements are wanting in this case.
+We are therefore of opinion that the instrument set out in the indictment is not prima facie an order or request for the delivery of goods and chattels within the meaning of Sec. 7091 of the Rev. Stat. of Ohio, and in the absence of’ averments in the indictment of extrinsic facts in aid cf the allegation of fraud, and in explanation of the nature and character of the instrument; the indictment does not .charge fhe accused with the commission of a crime within the meaning of said statute.
+The judgment of the court of common pleas will therefore be reversed, and the plaintiff in error discharged.'
