@@ -1,0 +1,19 @@
+---
+court: "Jefferson County Court of Common Pleas"
+decided: "1818-08"
+citations: ["1 Tapp. Rep. 275"]
+reporter: "tapp-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["OHIO vs. ERWIN."]
+source_url: "https://static.case.law/tapp-rep/1/cases/0275-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 628316
+---
+
+# Ohio v. Erwin
+
+## Majority (President.)
+
+President.
+It was urged in support of the motion for a new trial that the room in which the gaming was carried on being at the time in the occupancy of a tenant formed no part of the defendant’s tavern, and therefore that he cannot be charged with suffering prohibited games to be played therein. If this position is correct, the verdict is contrary to evidence and a new trial ought to be granted. Whatever power over his inmates and tenants, the owner of a private dwelling house may have, it seems clear from the statute that a tavern keeper may not suffer any persons whatever, either tenants or travellers, either his own family or guests, to play at any of the games prohibited by the statute “ at or within such tavern, or in any out house appendant thereto: ” the law imposes it as a duty upon a tavern keeper to prevent gaming in his house, the words “ at or within ” includes the whole of the house and its appendages. If he rents a room to a company of gamblers, such renting does not detach and separate the rented room from the tavern, it continues still as before “ at or within ” his house, and if under a supposition that he has given up all control over the inmates of the room, he neglects to prevent the playing at unlawful games, it is an act, voluntary on his part; he suffers the tenants to do as they please, and if they play at games prohibited, it is himself that suffers such conduct, “at and within his house; ” to put any other construction on the act would, instead of obeying the injunction of the statute so to construe it as to suppress the mischiefs prohibited by it, be, to contrive ways and means to evade it. The law supposes every keeper of a public house possesses authority sufficient to prevent rioting, drunkenness and gaming, in or at his house, and it punishes him for not executing that authority effectually. It is no excuse that he has agreed not to exercise it, that he has given up the dominion to others; he is responsible not for acts done by himself but for suffering such acts to be done by others, in a place licensed for public entertainment and which the law intends to prevent being made a rendezvous for drunkards and gamblers; by neglecting- to exercise a sufficient degree of vigilance to prevent, lie suffers the unlawful act to be done. — There may be cases in which it may appear that games prohibited by the statute have been played in a tavern in fraud of the landlord, and notwithstanding the exercise of a reasonable vigilance on his part to prevent it: he would not be chargeable for suffering what he could not prevent, but to excuse himself on that ground, it is incumbent on him to shew such matters in evidence. The former statute punished tavern keepers for “ knowingly permitting ” gaming in their houses, it was necessary in indictments under it to prove that the tavern keeper did in fact know of the gaming charged to have been done; the present statute seems calculated to prevent any evasion of it by pretended ignorance; it punishes the tavern keeper who “suffers” gaming in his house. It is not necessary to prove that he knew of the gaming, it is sufficient if there has been gaming suffered to be carried on by his connivance or negligence. The evidence in this case would warrant the conclusion, however, that the defendant knew that a company were playing in a room over his bar room, and that he supplied them with liquor; in no point of view, therefore, is the verdict against evidence. New trial refused.
