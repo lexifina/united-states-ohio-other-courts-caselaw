@@ -1,0 +1,43 @@
+---
+court: "Lucas County Court of Common Pleas"
+docket: "CI94-2234"
+decided: "1995-06-23"
+citations: ["72 Ohio Misc. 2d 27"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MALAKPA et al. v. RED CAB COMPANY et al.; OVERALL."]
+source_url: "https://static.case.law/ohio-misc-2d/72/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6711446
+cites_cases: ["15 OBR 463", "15 Ohio St.3d 339", "333 N.E.2d 147", "42 Ohio St.3d 77", "43 Ohio App.2d 53", "474 N.E.2d 286", "537 N.E.2d 641", "55 Ohio St.3d 94", "563 N.E.2d 713", "581 N.E.2d 533", "594 N.E.2d 1097", "62 Ohio St.3d 242", "71 Ohio App.3d 566"]
+---
+
+# Malakpa v. Red Cab Co.
+
+## Majority (Judith Ann Lanzinger, Judge.)
+
+Judith Ann Lanzinger, Judge.
+I
+This case is now before the court on two motions to dismiss. Defendants/third-party plaintiffs, Red Cab Company and Effie Smith, filed their motion under Civ.R. 12 and Civ.R. 19 for failure to join an indispensable party. Third-party defendant, Joseph Overall, Sr., filed his motion due to a lack of personal jurisdiction. After reviewing the pleadings, the court grants both motions.
+H-H HH
+On December 81,1993, an automobile accident occurred on Interstate 75 North in Detroit, Michigan. Plaintiffs Sakui Malakpa, Korpo Malakpa and their children Kortoe, Zoebedeh and Luopu were passengers in a Red Cab Company taxi driven by Effie Smith. The taxi was rear-ended by an auto driven by Joseph Overall, Sr., a Michigan resident. Seeking compensation for their alleged personal injuries, the plaintiffs sued both Red Cab Company and Effie Smith. Red Cab Company has a business address in Ohio and Effie Smith is an Ohio resident.
+The defendants were granted leave to file a third-party complaint against Joseph Overall, Sr. on October 26, 1994. Overall responded by filing a motion to dismiss on grounds that he,. as a Michigan resident, is not subject to the jurisdiction of an Ohio court. The defendants acknowledge Overall’s argument, but also contend that under Civ.R. 19(B) he is an indispensable party who cannot be joined and that, as a result, the complaint must be dismissed.
+In this suit no one has seriously questioned Overall’s contention that he is not subject to process here in Ohio. He is a Michigan resident and the accident also occurred in Michigan. His motion to dismiss for lack of personal jurisdiction must be granted.
+Plaintiffs, however, oppose the motions to dismiss filed by Red Cab Company and Effie Smith and rely on the accident report attached as Exhibit A to their memorandum in opposition to argue that Smith negligently drove too slowly on the interstate and thus caused her cab to be hit in the rear.
+H-I H-t
+The Civil Rules guide the outcome of this case. Civ.R. 19 provides:
+“(A) Persons to be joined if feasible.
+“A person who is subject to service of process shall be joined as a party in the action if (1) in his absence complete relief cannot be accorded among those already parties, or (2) he claims an interest relating to the subject of the action and is so situated that the disposition of the action in his absence may (a) as a practical matter impair or impede his ability to protect that interest or (b) leave any of the persons already parties subject to a substantial risk of incurring double, multiple, or otherwise inconsistent obligations by reason of his claimed interest, or (3) he has an interest relating to the subject of the action as an assignor, assignee, subrogor, or subrogee. If he has not been so joined, the court shall order that he be made a party upon timely assertion of the defense of failure to join a party as provided in Rule 12(B)(7). * * * ” (Emphasis added.)
+Here, of course, Overall is not subject to process. If it appears that a party cannot be joined, Civ.R. 19(B) operates:
+“(B) Determination by court whenever joinder not feasible. If a person as described in subdivision (A)(1), (2), or (3) hereof cannot be made a party, the court shall determine whether in equity and good conscience the action should proceed among the parties before it, or should be dismissed, the absent person being thus regarded as indispensable.. The factors to be considered by the court include: first, to what extent a judgment rendered in the person’s absence might be prejudicial to him or those already parties; second, the extent to which, by protective provisions in the judgment, by the shaping of relief, or other measures, the prejudice can be lessened or avoided; third, whether a judgment rendered in the person’s absence will be adequate; fourth, whether the plaintiff will have an adequate remedy if the action is dismissed for nonjoinder.”
+The question thus becomes whether Overall is an “indispensable party” to this case. See Chambers v. Stevenson (1991), 71 Ohio App.3d 566, 594 N.E.2d 1097. An “indispensable party” has been defined as “one whose absence seriously prejudices any party to the action or prevents the court from rendering an effective judgment between the parties, or is one whose interests would be adversely affected or jeopardized by the judgment between the parties to the action.” Layne v. Huffman (1974), 43 Ohio App.2d 53, 59, 333 N.E.2d 147, 151.
+In the present case, if Overall is an indispensable party, the case must be dismissed, for he cannot be brought into this action due to lack of personal jurisdiction. Dismissal for failure to join a necessary party is warranted only when the defect cannot be cured. See State ex rel. Bush v. Spurlock (1989), 42 Ohio St.3d 77, 537 N.E.2d 641.
+To determine whether Overall is indispensable, we must look at the requirements under the rules. First, complete relief cannot be accorded among the parties without joining him as a party. The gravamen of the complaint is that plaintiffs suffered personal injury as a result of the cab’s accident in Michigan on December 31, 1993. Although plaintiffs chose not to add Overall as a defendant, his absence would seriously prejudice the rights of the current defendants to have the jury apportion liability among the drivers involved who may have proximately caused the injuries of which plaintiffs complain. Without Overall, Smith, who was rear-ended in her taxi, will be the sole defendant driver, much to the confusion of the jury. Second, all parties are subject to Michigan’s jurisdiction, since the cause of action arose in Michigan. Third, plaintiffs themselves will be more assured of complete relief with both drivers involved in a jury trial. Fourth, plaintiffs have the ability to pursue this case in the Michigan courts, and under Michigan law.
+Plaintiffs argue that Ohio substantive law must apply to this case, citing Morgan v. Biro Mfg. Co. (1984), 15 Ohio St.3d 339, 15 OBR 463, 474 N.E.2d 286. In Morgan, however, the Supreme Court of Ohio adopted an “interest analysis,” in which the law of the place of the injury controls unless another jurisdiction, has a more significant relationship.
+This is not the type of case where Ohio has more at stake than Michigan, the place of the injury and the place where all parties are subject to service. Michigan no-fault law applies. In Kurent v. Farmers Ins. of Columbus (1991), 62 Ohio St.3d 242, 581 N.E.2d 533, the syllabus provides as follows:
+‘When an Ohio resident is injured in an automobile accident in a no-fault insurance state, by a resident of that state who is insured under that state’s no-fault insurance laws, the Ohio resident’s legal right to recover from the tortfea-sor-motorist must be determined with reference to the no-fault state’s laws. Where the no-fault state does not recognize a claim against the tortfeasor-motorist, the Ohio insured is not entitled to collect uninsured motorist benefits from his own insurer.”
+The accident report identifies Óverall at least as a driver with Michigan insurance. Red Cab Company was conducting business within the state of Michigan where the accident happened involving its employee, Effie Smith.
+For the reasons stated above, this matter will be dismissed in the Lucas County Court of Common Pleas for refiling in the state of Michigan.
+Motions granted and cause dismissed.
+. Although the parties refer to certain information which is technically outside the pleadings, the court notes that neither motion to dismiss is made under Civ.R. 12(B)(6), which requires that notice of the motion’s conversion to one for summary judgment be given. See State ex rel. Baran v. Fuerst (1990), 55 Ohio St.3d 94, 563 N.E.2d 713. This court is merely determining its ability to exercise jurisdiction over the parties rather than determining the merits under a motion for summary judgment.
