@@ -1,0 +1,42 @@
+---
+court: "Logan County Court of Common Pleas"
+decided: "1897-05"
+citations: ["4 Ohio N.P. 297"]
+reporter: "ohio-np"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. EDGAR AIKIN AND HARRY AIKIN v. MARY E. SPELLMAN AND THOMAS J. SPELMLAN, et al."]
+source_url: "https://static.case.law/ohio-np/4/cases/0297-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1526226
+---
+
+# Aikin v. Spellman
+
+## Majority (DOW, J.)
+
+DOW, J.
+On the 5th day of December, 1894, the do» fendant,Mary E. Spellman and her husband, Thos. J. Spellman, in order to secure the payment of a note of $500, dated as of that date, executed their certain mortgage deed and thereby conveyed to plaintiff’s assignor,' his heirs and assigns, the south half of the north half of the south-east quarter of sec, I, township 7, south of range 8, east, together with another tract of 44 acres, which mortgage was filed for record on the 6th day of December, 1894, at 1:15 o’clock, p. m.
+On the same day, said Mary E. Spellman and her husband,by a similar mortgage,conveyed the same real estate to the defendant, George W. Harshman, to secure a loan of $3.500, which mortgage was filed for record on the 5th day of December, 1894, at 2:20 o’clock, p. m.
+That on the 25th day of November, 1895,. the defendant, Simpson L. Horn, by the consideration of the court of common pl^as, received a judgment agaii st said Spellman’^ for the sum of $211.00.
+No part of said notes or judgment having been paid, this action is brought by plaintiffs asking an order for the sale of said real estate, and that the proceeds be applied in payment of their indebtedness.
+The defendants, Aldo E. Spellman and Ida B. Cook, the only issue of the body of said Thos. J. Spellman, file separate answers, in which they allege that at the time of the execution of said mortgages, said Thomas J. Spellman and Mary E. Spellman,had.and now have, only a life estate in said real estate and that the fee simple title therein, subject to said life estate, was, and now is, in said children, and asking that no greater estate therein be ordered sold than an estate for the life of Thos. J. Spellman therein.
+The whole question therefore presented in this case, is whether at the time of the ex--' ecution Of said mortgages, said Mary E.' Spellman was the owner of the estate in fee to said real estate,or whether she was merely the owner of an estate for the life of her husband.
+On the 10th day of August, 1875, Thomas Spellman, the father of Thomas J. Spellman,was the owner in fee of the south-east quarter of sec. 21, township 7, range 8, east. On that day, he conveyed to his said son,; Thomas J. Spellman, the undivided half of said real estate, (granting clause,) “To said Thomas J. Spellman, during his natural life and then to pass exclusively to the heirs of his own body in fee simple forever,provided said Thomas J. Spellman does not sell and convey said premises before his death ; in such event, the title passes to the pur•ehaser. ’ ’
+West & West, and Dow Aikin, Attorneys for Plaintiff.
+Kernan & Gassady, Attorneys for Spell-man.
+Immediately after the description, follows 4he usual habendum clause, as follows: “To have and to hold the said premises to the ■only use of the said Thomas J. Spellman,his heirs and assigns forever.”
+On January 13, 1886, said Thos. J. Spell-man and his wife, Mary E. Spellman, by deed of quit-claim,sold and conveyed to said Thomas Spellman, his heirs and assigns forever, the N. half of the S. B. quarter of said section, town and range, excepting fifteen acres off the north-west side.
+On same day, January 13,1896, said Thomas Spellman conveyed to said Thomas .J Spell-man, his heirs and assigns forever, the south half of the south-east quarter of said section, town and range.
+On July 2, 1896, said Thos. J. Spellman, by deed of general warranty, conveyed to said Mary B. Spollman, her heirs and assigns, that part of the north half of the south-east quarter, described in plaintiff’s petition,containing forty-four acres of land, more or less.
+On May 6, 1887, said Thos. J. Spellman conveyed to Laura M. Saunders her heirs and assigns forever, the south half of the south-east quarter of said section, town and range, and on the same day said Laura Saunders conveyed to said Mary B. Spell-man, said south half of said south-east quarter and to her heirs and assigns forever.
+Prom these conveyances, it is clear that at the time of the execution of these mortgages, that said Mary E. Spellman was the owner in fee simple of the undivided one-half of the real estate therein described, and that said mortgages were and are valid subsisting liens thereon to that extent.
+The only remaining question, and the difficult one is, what estate was conveyed to Thomas J. Spellman by the deed from his father of August 10, 1875, and what effect does the proviso therein and the subsequent conveyance thereof, have upon the title thereto.
+The deed of August 10, 1875, conveyed to said Thomas J. Spellman, the undivided half thereof “during his natural life and then fo pass exclusively to the heirs of his own body in fee simple forever, provided said Thomas J. Spellman does not sell and convey said premises before his death, in such event the title passes to the purchaser.”
+Under this deed, Thomas J. Spellman became the first donee or tenant in tail; said Aldor E. Spellman and Ida B. Cook, the ■only heirs of the body of Thos. J., became and were the issue of the first donee in tail, and said Thomas Spellman the donor in tail.
+Sec. 4200 Rev. Stats., provides: “No estate in fee simple, fee tail, or any lesser estate in lands or tenements,lying within this state, shall be given or granted by deed or will, to any person but such as are in being or to -the immediate issue or descendants of such as are in being at the time of making such deed or will; and all estates given in tail shall be and remain an absolute estate in fee simple to the issue of the first donee in tail. ”
+In other words, the free and unlimited alienation of lands in Ohio, cannot be prevented longer than when the same passes into the possession of the children of the first donee in tail.
+The supreme court of Ohio, in construing this section, in the case of Pollock v. Speidel, 17 Ohio St., page 439, say: “Where lands are conveyed by deed to A., the heirs of his body and assigns forever, ’’the grantee takes an estate tail and bj force of this section the issue of A. takes the inheritance as an absolute estate in fee simple.” So that, if the deed of Thomas Spellman t'o his son, Thomas J. Spellman, dated August 10,1875, for the undivided half of the premises therein described, had not contained the proviso therein inserted, or in ease of the death of said Thomas J., before alienation, then, in either event, said real estate would have passed to said Aldo E. Spellman and Ida B. Cook, in fee simple absolute.
+Without entering into an elaborate discussion of the law of the case, arising under the proviso in this deed, I think that the subsequent conveyance from Thomas J. Spell-man back to his father, Thomas, and from lhomas to Thomas J. and his wife Mary E., and again from Thomas J. to Laura Saunders and from Saunders to Mary E. Spellman, so shortly after the deed of August 10, 1875, and without incorporating in any of these deeds the proviso contained in the first deed, clearly shows the intention, purpose and meaning, said Spellman had in the insertion of such proviso, in said deed of August 10, 1875,viz: —that the limitation in tail might be defeated by the alienation thereof, upon the part of lhomas J.
+While the intention of the donor and first donee in tail will not control if not borne out by the language of the deed, I think that the words used in the deed of August 10, 1875, were sufficient to create a conditional limitation in tail, to the issue of the body of Thomas J. Spellman, one subject to be barred and defeated by the alienation thereof, by Thomas J. during his life-time, and that by such alienation, the limitation in tail to the heirs of his body,has been defeated and extinguished, and at the time of the execution of said mortgages of plaintiff and the defendant George W. Harshman, and the entering of the judgment of Simpson L. Horn, said Mary E. Spellman was the owner in fee of the real estate in the petition described.
+A decree and order of sale will be entered in favor of said mortgages accordingly.
