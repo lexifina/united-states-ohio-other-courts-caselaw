@@ -1,0 +1,33 @@
+---
+court: "Hamilton Circuit Court"
+decided: "1892-01"
+citations: ["3 Ohio Cir. Dec. 528"]
+reporter: "ohio-cir-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cox, Smith and Swing, JJ"]
+parties: ["HENRY VARWIG v. CLEVELAND, CINCINNATI & CHICAGO R. R. CO."]
+source_url: "https://static.case.law/ohio-cir-dec/3/cases/0528-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1620435
+cites_cases: ["11 Ill. Rep. 363", "122 Ind. Rep. 317", "127 Ind. 156", "24 Pick. 106", "36 O. S. 631"]
+---
+
+# Varwig v. Cleveland, Cincinnati & Chicago R. R.
+
+## Majority (COX, J.)
+
+COX, J.
+Plaintiff seeks to enjoin the defendant company from laying its track on about two hundred feet of Lebanon street, and in front of plaintiff’s property in Carthage.
+He alleges that if said track be laid as contemplated, it will destroy the only access he has to his property, and also destroy a row of valuable trees.
+He further alleges that his property abuts about 693.40 feet on Lebanon street, between Fifth and Sixth, and is 359 feet deep to the Miami Canal._ That in the year 1872, by the permission of the former owner of said premises, the railroad company laid its track through said premises and down said street; that plaintiff became the owner of the premises abutting on said street in July, 1876, and is now the owner and in possession. That in May, 1887, the defendant did wrongfully and unlawfully, and without his knowledge, lay another track on the east side of Lebanon street between the first track and the premises of plaintiff of the length of about 400 feet from the north end and towards the south of plaintiff’s premises, and now seeks and threatens to lay an additional track ¡{-¡rough Lebanon street for about 200 feet, for the purpose of connecting with the track, ieing built on the south of said premises.
+The defendant company claim the right to build said track complained of, by virtue, first, of an ordinance passed by the council of the village of Carthage on May 2, 1871, by which authority was given to the railroad company “to appropriate and use so much of Lebanon street and its crossings as may be necessary for the construction of The Cincinnati & Springfield Railway through said village of Carthage, and to lay their railway tracks thereon.” Second, by virtue of a deed and release of John W. Applegate and wife, dated June 20, 1872, who were the owners of the property now owned by Varwig, the plaintiff, by which they conveyed to said company certain part of the same for a depot, and also “release to said company all claim for damages on account of the construction of said railway over and upon Lebanon street, Carthage, Hamilton county, Ohio, through and along said premises.” ,
+The defendants are the successors of the Springfield company.
+As to the right of .the company to lay its tracks along Lebanon street, and ihe validity of the ordinance of 1871, the Supreme Court of the state has decided in Railway v. Carthage, 36 O. S. 631, 634, and following,
+“That on its acceptance by the railway company it constituted a valid contract between the parties, etc., and that a subsequent ordinance repealing the contract ordinance, passed with intent to rescind the entire contract, being inoperative, without the assent of the company, to rescind the grant of the right of way, is also inoperative to release the company from its obligation to grade and gravel street.”
+This ordinance included all of what was then known as Lebanon street from Second to Sixth street, which last street is the north line of plaintiff’s property, and was marked out and defined on a plat submitted to council upon which the ordinance was passed.
+Upon whatever was therein recognized as Lebanon street, the right of way lor its tracks was given to the railroad company, and the village is bound by the contract as well as the railroad company. As to the deed and release by Apple-gate, they were given more than a year after this ordinance was passed, and they recognized in terms Lebanon street as lying on the west of and extending along the premises of Applegate, and the presumption must be that they referred to Lebanon street as then, and now located, and these deeds released to the railroad all claim which Applegate could have for damages on account of the construction of the railway over and upon Lebanon street; and as stated in the petition, by the permission of Applegate, the then owner of the premises, the railroad company in 1872 laid its tracks through said premises and down said street. No limitations or restrictions were made by Applegate in his deed for the lot for depot, or in the release, for in the deed which is cotemporaneous with the release,” “the right is given for the right of way as now surveyed; and that right of way as then surveyed ran from Second to Sixth street and was granted by the corporation then having authority over the street, and the railway company was authorized to construct its road and lay tracks thereon. After the railroad had thus obtained from the municipal corporation this right to construct, and had constructed its road on Lebanon street as far as the necessities of tlie road required, the plaintiff, in 1876, became the owner of the premises, for which Applegate had four years before released all claim to damages.
+The deed of Applegate recognizing Lebanon street as bounding his property on the west, the ordinance of the city granting the right of way over the street to the railroad company, and the actual occupation by the railroad by permission of Applegate and the consequent right the railroad had in the street, were matters of which Varwig was bound to take notice when he purchased, and as against those rights acquired when Applegate owned the premises, Varwig, the subsequent owner, is not entitled to an injunction against the railroad company. The •railroad having been granted the right to lay its tracks in Lebanon street, and having in 1872 and 1887 laid said tracks as were then necessary, is not restricted from laying another track subsequently when the necessities of the road require it, so that said tracks be laid as to interfere as little as possible with the use of the street as a public highway, the company being bound to observe the condition prescribed by the original ordinance as to the repairs, etc., of the highway. 11 Ill. Rep. 363, 371; 122 Ind. Rep. 317; 24 Pick. 106; 127 Ind. 156.
+Milton Sater, and Coppock & Hammel, for plaintiff.
+Harmon, Colston, Hoadly & Goldsmith, for defendant.
+The petition of plaintiff will, therefore, be dismissed at his costs.
