@@ -1,0 +1,27 @@
+---
+court: "Ohio Circuit Court"
+decided: "1907-06-22"
+citations: ["10 Ohio C.C. (n.s.) 182"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Smith, J.; Giffen, J., and Swing, P. J., concur."]
+parties: ["George H. High, a Tax-payer, v. State of Ohio, on Relation of Hiram M. Rulison, Prosecuting Attorney for Hamilton County, Ohio, et al."]
+source_url: "https://static.case.law/ohio-cc-ns/10/cases/0182-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1809485
+---
+
+# High v. State ex rel. Rulison
+
+## Majority
+
+The original actions in the court of common pleas were brought by the State of Ohio, on relation of Hiram M. Rulison, Prosecuting Attorney of Hamilton County, and Louis A. Ireton, Legal Council for Hamilton County, against R. K. Hynicka, John II. Gibson and Tilden R. French, as treasurers of Hamilton county, to recover for the use of said county about $215,000, which it was claimed, said treasurers had received and appropriated to their own use, as interest upon deposits of county funds from various banks in the city of Cincinnati, ' said actions being brought under Section 1277 of the Revised Statutes.
+These actions resulted in judgments being obtained against each of the defendants for the amounts claimed, which sums were paid to the prosecuting attorney and by him turned into the treasury of the county, satisfactions of said judgments being filed in each case. After the rendition of said judgments the prosecuting attorney filed a motion for compensation for services in said cases, the court fixing an aggregate amount in all three cases at $7,500, under Section 1278a.
+Prior to the entry being made on said motion for allowance the 'trikl court, on application of the plaintiff, in error herein, allowed said plaintiff in error to be made a party defendant. Said plaintiff in error thereupon filed a motion for a new trial on the question of compensation, which was overrated, and he now brings this suit as plaintiff in error against the defendants in error to reverse the action of the court of common pleas in its allowance of compensation to the prosecuting attorney, the defendant in error herein.
+At the outset, upon an examination of the record and the sections under which said action was brought (1277 and 1278a of the Revised Statutes), the court is of the opinion that this suit can not be maintained by the plaintiff in error.
+Under those sections the original actions were brought by the State of Ohio on the relation of the prosecuting attorney and legal counsel, in behalf of all the tax-payers of Hamilton county, and was prosecuted in their behalf. Final judgments were secured in behalf of the state of Ohio, and the object sought by the tax-payers through the prosecuting attorney was attained.
+Having, therefore, no substantial right or interest in the litigation, the suit having been brought and determined in favor of the tax-payers, and as a proceeding in error is an entirely independent action from the original case, there remained nothing to be done but for the court under the statute to fix the compensation, if any, to the prosecuting attorney for his services.
+The plaintiff in error was not, therefore, a proper party in the court of common pleas. The statute does not provide for the prosecution of error by a tax-payer where suit is brought on relation of the prosecuting attorney at the request of a taxpayer and the suit is successful; nor does the order made in favor of Mr. Rulison affect a “substantial” right of the plaintiff in error as understood by Sections 5115 and 6707 of the Revised Statutes.
+But if this is not correct, the court is of the opinion that no error was committed by the trial court in the allowance to the • prosecuting attorney in the three actions brought. It is clear under the statute relating to compensation- for such services that the amount so fixed is within the sound discretion of the trial court; and this discretion can not be reviewed unless thére is an abuse of that discretion. It is urged that the services rendered by the prosecuting attorney were in the line of his duty as an official. The trial court found that many of the services connected with the bringing of the suits and the collection of the amounts were performed as a part of his duties as prosecuting attorney, and that others were not. The language used in Section 1278a, Revised Statutes, is “that for all services rendered by the prosecuting attorney under the provisions of Section 1277, in which the state is 'successful,’ the court shall allow the prosecuting attorney reasonable 'compensation for his services, and proper expenses incurred.” It can not be claimed in these cases that the state was not ‘ ‘ successful; and if ‘ ‘ successful” that the court should not allow the prosecuting attorney reasonable compensation. Upon an examination of the record setting out the services rendered, we are of the opinion that he was “successful” in these actions, and the services were rendered by him outside of his official capacity. The allowance made by the trial court is not excessive. The discretion of fixing the allowance is- lodged solely in the court itself, who has the right to determine the amount either from extrinsic testimony or from its own good sound judgment, and as this discretion was not abused by the court, its action can not -be reviewed on error.
+Judgment affirmed.
