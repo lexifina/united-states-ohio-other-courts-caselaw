@@ -1,0 +1,39 @@
+---
+court: "Cuyahoga Circuit Court"
+decided: "1912-01-29"
+citations: ["32 Ohio C.C. Dec. 511"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Marvin, Winch and Niman, JJ.", "Marvin and Niman, JJ., concur."]
+parties: ["Charles W. Smith v. Union Savings & Banking Co. et al."]
+source_url: "https://static.case.law/ohio-cc-dec/32/cases/0511-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1666400
+cites_cases: ["49 N. E. 693", "57 Ohio St. 486"]
+---
+
+# Smith v. Union Savings & Banking Co.
+
+## Majority (WINCH, J.)
+
+WINCH, J.
+The question in this ease is whether service upon the defendant, the New First National Bank of Columbus, Ohio, was properly set aside and the summons quashed by the common pleas court.
+A determination of this question requires an examination of the issues tendered by the pleadings, for if the action is for money only, Sec. 11281 G. C. was not complied with, there being no indorsement on the summons of the amount claimed in the petition for which judgment was asked; and, if said defendant was not a necessary party to a complete determination of the case, the plaintiff was not entitled to have a summons issued to any other county, under the provisions of Sec. 11282 G. C.
+The petition purports to set forth a cause of action in favor of a stockholder of a corporation for the collection of unpaid subscriptions to stock.
+It sets forth that various defendants, among them one E. W. Christy, subscribed for various numbers of shares in the Union Savings & Banking Co., a corporation under the laws of Ohio, with its principal office and place of business in the city of Collinwood, Cuyahoga county, Ohio, for which shares said defendants agreed to pay, respectively, the sum of $100 per share; that without payment of said subscriptions, the company caused certificates to be issued to said subscribers representing that each had paid fifty per cent, of the face value of his shares, whereas, in fact, they had made no payments therefor; that the company had failed, became insolvent and was in the hands of a receiver who was administering the assets of the company for the benefit of the creditors. That the assets in the hands of the receiver were wholly insufficient to pay its liabilities, which were so large that it would require the payment by all the stockholders, including the plaintiff, of their entire unpaid subscriptions to liquidate-said liabilities.' That the directors of the corporation had refused to make calls for the payment of said subscriptions, and that the receiver had refused to take any steps to collect-the same.
+The plaintiff alleges that he brings his'action for the benefit of the creditors of the corporation] and"his prayer is that the court ascertain who are the owners, legal and equitable of its stock, and require them severally to pay the unpaid subscriptions on their-stock, the fund thus obtained to be administered' for the benefit of the corporation.
+Passing no opinion upon the sufficiency of this petition, it is clear that though the petition asks a money judgment against the defendant stockholders, still the action attempted to be set up is one which requires the exercise of equity jurisdiction, for the plaintiff does not ask a money judgment in his own behalf, but only the incidental relief of having payment made of the debts of a corporation, in which he is a stockholder.
+In this respect the case at bar is distinguishable from the case of Smith v. Johnson, 57 Ohio St. 486 [49 N. E. 693], where the action was brought by a receiver, who had succeeded to the rights of the corporation, and was held entitled to maintain an action at law to collect unpaid subscriptions. The distinction here applied is mentioned by Judge Spear on page 488 of the opinion in the ease cited. - '
+. This does not settle the question, however, for the New First National Bank was not made a defendant to the original petition, but was brought in by a subsequent pleading; ■
+The plaintiff, some time after the ease began, filed what he denominates an answer and cross-petition, making one Charles W. Loomis and the New First National Bank of Columbus, Franklin county, Ohio, parties defendant in the cause, and it is on this pleading that the summons, subsequently quashed, was issued for said bank.
+Adopting in this pleading the allegations of.his petition, as he says, “so far as the same may be necessary,” the pleader proceeds to set forth that' some 250 shares of the stock of the Union Savings & Banking Co. was issued .without payment therefor, to the defendant E. W. Christy, that said stock was acquired by himself and said'Charles W. Loomis; that at the time they acquired said stock, “said C. W. Loomis, in common with the officers and agents of said national bank, represented and said that all of the face value of said stock had been paid in full, and that there was nothing due and unpaid thereon; that said banking company was in a flourishing condition and making money; that said stock was worth par; that it was ‘as good as wheat;’ that said banking company was solvent and making money, in order to induce this cross-petitioner to purchase a one-half interest in said capital stock and pay for the same. ’ ’
+Then follow allegation as to the falsity of said representations, that Loomis and the officers and agents of the national bank knew said representations were false when they made them; that plaintiff relied upon said representations, etc. In fine, the plaintiff, if he makes out any case at all against said national bank, sets forth one which would entitle him to damages for the alleged fraud committed by said national bank, when he purchased said one-half interest in said 250 shares of stock.
+There is no allegation in this pleading that the national bank was ever the owner of said 250 shares of stock.
+The prayer of the pleading is that:
+“Charles W. Loomis and the New First National Bank of Columbus, Ohio, may be found to be jointly and severally liable on the unpaid balance of the $25,000 of capital stock of the Union Savings & Banking Co., a one-half interest in which was originally sold to this cross-petitioner as aforesaid; and further, that whatever judgment may be found due on the said $25,000 of stock be first ordered to be paid by said Charles W. Loomis and said the New First National Bank of Columbus, Ohio, either severally or jointly as aforesaid; and for such other and further relief by reason of the premises as the nature of this case may require.”
+In other words, the pleader asks that the national bank be compelled to pay what he himself, as assignee and transferee of the stock, is liable for, under Sec. 8674 G. C., because said national bank by fraud induced him to buy said stock.
+This issue has no connection with the issues raised by the petition or the relief prayed for therein. It is a personal right claimed to exist in favor of Smith, an individual, and not for the benefit of the creditors of the corporation for whom he brought the original action. The creditors might, perhaps, hold a former owner of the stock, if Smith were insolvent, but there is neither an allegation of Smith’s insolvency nor that the national-bank was a former owner of the stock. The plaintiff can not inject this independent cause of action against a resident of Franklin county into a case pending in Cuyahoga county with which it has no connection, and thus obtain a' right to have summons issued in Franklin county.
+The action outlined in said cross-petition was not-rightly brought in Cuyahoga county, within the purview of Sec. 11282, G. C. and so summons on it could not issue to any other county.
+It follows that service of summons in Franklin county was properly set aside, and the judgment of the common pleas court is affirmed.
+Marvin and Niman, JJ., concur.
