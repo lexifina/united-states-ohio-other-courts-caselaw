@@ -1,0 +1,64 @@
+---
+court: "Ohio Circuit Court"
+decided: "1897-10"
+citations: ["15 Ohio C.C. 167"]
+reporter: "ohio-cc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Hale, Marvin and Caldwell, JJ."]
+parties: ["J. W. CALDWELL v. THE BOARD OF COUNTY COMMISSIONERS OF CUYAHOGA COUNTY et al."]
+source_url: "https://static.case.law/ohio-cc/15/cases/0167-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1513402
+cites_cases: ["19 Wis., 64", "27 Iowa, 28", "28 Ohio St., 521", "35 Ohio St., 468", "64 N. Y., 99"]
+---
+
+# Caldwell v. Board of County Commissioners
+
+## Majority (Caldwell, J.)
+
+Caldwell, J.
+The case of J. W. Caldwell v. The Board of County Commissioners of Cuyahoga county et al. comes on error into this court,^the demurrer havingj^been^sustained to the-petition, and final judgment entered.
+The question arises under the act found in 92 O. L., page 136, an act for the suppression of mob violence.
+The plaintiff claims that he was working at the Brown Hoisting Works during the strike that occurred a little over a year ago, and while so engaged in working, while going from the works, a mcb did him personal violence, and he brings his action under this statute, to recover damages for such violence. The first section of this act defines “a mob,” and defines what “lynching” is, as follows:
+' “That any collection of individuals, assembled for any unlawful purposes intending to do damage or injury to any one,or pretending to exercise correctional power over persons by violence, and without authority of law, shall for the purposes of this act be regarded as a ‘mob’, and . any act of violence exercised by them upon the body of any person, shall constitute a ‘lynching’ ”.
+“Serious injury” is defined in section 2.
+“The term ‘serious injury’, for the purposes of this act, shall include any such injury as shall permanently or temporarily disable a person receiving it from earning a livelihood by manual labor. ”
+Section 3. — “Any person who shall be taken from the hands of the officers of justice in any township by a mob, and shall be assaulted by the same with bricks, clubs, missils, or in any other manner, shall be entitled to recover from the county in which such assault shall be made, the sum of one thousand dollars as damages, by action as hereinafter provided,”
+Section 4 — (and the question here arises largely on this section):
+“Any person assaulted by a mob and suffering lynching at their hands, shall be entitled to recover of the county in which such assault is made, the sum of five hundred dollars; or if the injury received is serious,the sum of one thousand dollars; or if it result in permanent disability to earn a livelihood, the sum of five Ihousand dollars.”
+Section 5 provides how this money is to be disposed of. In certain cases it creates a trust for the family, and specifies how it shall be distributed.
+Section 6 — “Actions for the recoveries provided for in this act may be begun in any court having original jurisdiction of an action for damages for malicious assault, within two years of the time of such lynching.” That is the limitation.
+Section 7 provides:
+“That when the judgment is given by the court, it is to include an order upon the county commissioners or county officers to include that in the next tax levy.”
+Section 8 provides:
+“Any person entitled to a share in any recovery under-this act who shall consent to a release or compromise of such claim in consideration of the payment of any sum less than the full aftiount of said recovery, shall be liable to indictment for a misdemeanor, and punished, at the discretion of the court, as in other misdemeanors.”
+Section 10 provides:
+“The county in which any lynching shall occur,shall have a right of action to recover the amount of any judgment rendered against it in favor of the legal representatives of any person killed or seriously injured by a mob, including costs, against any of the parties composing such mob. Any person present at such' lynching.shall be deemed a member of the mob, and shall be liable in such action.”
+Section 11 provides for one county recovering from another.
+Section 12 says:
+“That a recovery under this act-shall not bar a prosecution for homicide or assault for engaging therein.”
+The first question is whether section 4 makes a minimum amount that the party can recover.
+“Any person assaulted by a mob and suffering lynching at their hands shall be entitled to recover of the county in (which such assault is made, the sum of five hundred dollars; or if the'injury received is serious, the sum of one thousand dollars; or if it result in permanent disability to earn a livelihood by mauual labor, the sum of five thousand dollars.”
+We think the court below construed that section correctly. And the court below construed that section to mean that if a person is assaulted, he can have five hundred dollars, and this does not depend upon what'injuries he received; that if any person is assaulted by a mob and suffers lynching at their hands, it means simply an act of violence exercised by them upon the body of that person, that is a lynching; then he ‘íshall be entitled to recover of the county in which the assault is made, the sum of five hundred dollars.” That is a prescribed minimum by this statute, we think. ‘‘Or if the injury received is serious, the sum of one thousand dollars;” that is another part of the section, and the party so injured will recover that anyhow, regardless of what his injuries are.
+It is contended that the difference between the actual injury and what the injured party is permitted here to recover by this statute, is a mere gift to the party on behalf of the county, and that it is, therefore, levying or taxing the public simply for private interests — not for public good, but simply for private interests.'
+There is, perhaps, a moral obligation, at least, upon a county, and it is held constitutional for the legislature to determine whether or not a county shall or shall not respond to a person who loses his property by mob,or who suffers in his person by a mob.
+The legislation has been upheld where it has been introduced in any state, as to the losing of property by a mob, making the county respond in damag'es for the amount of property lost. We know of no legislation where the county has been made to respond for any injury to
+persons such as this act specifies; but the question is not before us as to whether the county may be made* to respond in the actual amount of damages, for we have no such law. But it is contended, that all that the party receives above what he has actually suffered is a gift to the party, and is taxing the people for a private individual to whom the county owe no duty or moral obligation whatever. The county, however, may owe a moral obligation, and if that moral obligation exists, it may be sufficient to' sustain a statute; but the moral obligation of the county can extend no further than to the actual amount of damages suffered. Beyond that there is no moral obligation. Hence, it is contended that beyond that, there can be no legal obligation — there can be no legal obligation created by statute, and the difference between the actual damage and the minimum amount prescribed by statute is a mere gift to the party injured. And that is met on the other side, by saving that in Ohio no legislative act is unconstitutional unless it is prohibited by the constitution, and there is no prohibition on the taxing power of the legislature.
+We refer to the case of the Board of Education against The State, 51 Ohio St. page 531. That was a case where the legislature undertook to provide for the board of education to pay a debt, which debt the board of education disputed; and the legislature constituted itself a court far enough to decide whether the board of education ought to pay, and then provided that the board of education should levy a tax to pay it. The court held that the legislature had no authority, in the first place, to order the payment of the debt to a private person; and in the second place, to determine the amount i.t should pay.
+This determines both. It determines that any person who is assaulted, shall recover so much money. The legislature determines the amount of damages — the actual amount of damages.
+We think the case in 51 Ohio St. is decisive in this action; that the legislature cannot proceed to legislate in this manner.
+Suppose one individual had been mobbed,and the legislature had proceeded to find that fact, and then required the county to levy a tax to pay the individual five hundred dollars; that would bring the facts within the case I have cited in the 51 Ohio St. But the question is, whether or not there is a limitation upon the taxing power of the legislature, in the constitution.
+The supreme court in this case cite a case found in the 28 Ohio St., 521, as follows:
+“That the provisions of article 12 of that instrument,” (that is,of the constitution) “though they relate to finances and taxation, are limitations upon rather than grants of powers of taxation. ”
+# And there is more added. And that is what Judge Bradbury in his opinion says that the court decided in this case of The Western Union Telegraph Company versus Meyer, as I have already stated, found in 28 Ohio St., 521.
+And Judge Bradbury says this is clearly established by the great weight of authority as well as of reason, that the power is not unlimited; that in doubtful cases the courts should not interfere with the exercise of this legislative discretion, and that in all cases the legislative determination is entitled to great respect; but still, that the power “is not unlimited is, we think, clearly established by the great weight of authority as well as of reason.” — State ex rel. versus Commissioners, 35 Ohio St., 468. Then he cites 27 Iowa, 28; 19 Wis., 64; and 25 Am. & Eng. Ency. of Law, 89 and 90. Then he adds to that:
+“The power of taxation is given to the general assembly as an indispensable means of providing for the public welfare. Government could not be carried on without such power, and the power should be commensurate with the objects to be attained; but no good reason can be assigned for vesting it with power to take portions, large or small, of the property of one or a number of persons,and granting it as a benevolence to another. Where, a legislature attempts this, directly or indirectly, it passes beyond the bounds of its authority, and the parties injured may appeal to the courts for protection. The same constitution which grants the power of taxation to the general assembly, recognizes the sanctity of private property, and declares that the courts shall be open for the redress of injuries.”
+Willis Vickery, and Albert Holmes, for Plaintiff in Error.
+P. B. Kaiser, for Defendant in Error.
+And again the judge says:.
+‘‘This limitation of the legislative power of taxation is generally recognized by the authorities. The rule supported by a long array of adjudicated cases is laid down in 25 Am. & Eng. Ency. of Law, 74, as-follows: ‘it is within the province of the courts, however, to determine in particular cases, whether the extreme boundary of legislative power has been reached and passed.’ ”
+‘‘In Weismer versus Village of Douglas, 64 N. Y., 99, Folger, J,, says: ‘But to tax A and the others to raise money to pay over to B, is only a way of taking their property for that purpose. If A may of right resist .this, as surely he may, how is he to make resistance effective and peaceable save through the courts which are set to be his guardian? How may the courts guard and aid him, unless they have the power upon his complaint to examine into the legislative act and to determine whether the extreme boundary of legislative power has been reached and passed?’ We think, however, that whenever a contention arises between an individual and some public body respecting the existence of a claim against the latter, the controversy falls within the province of the judiciary.”
+Then there is a limitation upon the powers of the legislature to tax the county, and we think the legislature has exceeded its power in this case. .
+Many of the details that I should state in this case I will not, because of the very complete and able opinion of Judge Dissette in his disposition of the case below, reported in 4 Nisi Prius Reports, 249.
+We affirm the judgment of court below.
