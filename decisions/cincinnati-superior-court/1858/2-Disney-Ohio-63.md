@@ -1,0 +1,47 @@
+---
+court: "Cincinnati Superior Court"
+docket: "6,020"
+decided: "1858-03"
+citations: ["2 Disney (Ohio) 63"]
+reporter: "disney-ohio"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Huff v. Hatch & Langdon."]
+source_url: "https://static.case.law/disney-ohio/2/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1629732
+cites_cases: ["2 Brock. 350"]
+---
+
+# Huff v. Hatch
+
+## Majority (Storer, J.)
+
+Storer, J.
+The plaintiff deposited with the defendants, who were bankers in Cincinnati, and with whom he transacted business, a promissory note for collection, of which the following is a copy:
+Cincinnati, October 11, 1854.
+$170. Sixty days after date, I promise to pay to R. Ash-craft, or order, one hundred and seventy dollars, for value received. "Wm. Irwin.
+Indorsed: Richard Ashcraft.
+When the note became due, it being unpaid within business hours, one of the defendants handed it to a notary to demand payment of the maker, and notify, if necessary, the indorser. The notary was informed, at the same time, that the defendant had heard Irwin was dead, and his funeral was then about to take place, and he requested the notary to inquire as to the fact; and if he should find that such was the case, he need pot call at the late residence of the deceased for the purpose of making any demand of payment, but should notify the indorser in the usual way.
+This the notary did, having ascertained the fact to be true, as had been stated by the defendant, and therefore returned the note, with his protest, to the defendants, as he had been instructed to do, without making any demand at the domicil of the deceased.
+The plaintiff afterward commenced suit against Ashcraft, the indorser, in this court, and in general term it was held that the notary should have presented the note at the place of residence of the maker, although he was dead at the time. The .indorser was, therefore, discharged, and judgment entered in his favor.
+It is now sought to make the defendants liable for their neglect in giving the instructions above referred to. At the special term, the facts having been proved, as before stated, the court charged the jury, in substance, that the defendants were the plaintiff’s agents to collect the note deposited with them, and were bound to use the ordinary legal means to effect that object. If, by the custom of the banks in the city, generally known and acted upon in the community, it was usual to hand notes to a notary on the day they become due, for demand and notice, and this was done by the defendants, and the notary should neglect his duty, or omit to do what the law required, whereby the indorser is discharged, the defendants are not liable for the loss; it must be borne by the notary. In such case, the notary is not the agent of the defendants. If, however, the bankers instructed the notary as to the course he was to pursue, and directed that he should omit any duty necessary to be performed, whereby the indorser is discharged from his liability, they are responsible to the holder of the security. Such directions excuse the notary, and devolve the liability for loss upon the bankers.
+But it must appear, the directions were pointed and unequivocal. If the banker merely advised the notary, it was not his duty to make demand of the note or bill, the result would be different. In such a case the notary would not be protected from liability, as he must, at all events, pursue the course required by the law.
+The amount of damages to be assessed for the plaintiff, if a verdict should be found in his favor, would be the amount of the note, with the interest from the date of its maturity.
+If the defendants should be compelled to pay the amount of the note, they will be subrogated to all the rights of the plaintiff', and entitled to any dividend to be made by the administrator of Irwin.
+A verdict was rendered for the plaintiff' for the amount, of the note and interest. A new trial is now asked for the; defendants, and the principal reasons assigned are these:
+1st. That the defendants were not liable for acting upon an erroneous construction of the law, if they acted in goodl faith in giving the advice or direction to the notary.
+2d. That the extent of the insolvency of the maker of the-note could not be considered by the jury, but the actual losato the holder should be the measure of damages.
+There can be no doubt, as a general rule, that an agent-intrusted with the transaction of business for his principal,, is bound to know the duties required of him by law, as well as the legal principles by which they are restricted. This must necessarily depend upon the nature of the business to-be done, and the usual means to be employed in doing it. Thus, a factor, who undertakes to be an insurance broker,., is required to know something of the course of trade, the form of policies, the nature of risks, the solvency of under-' writers, and all the general customs of the place which affect the contract. And if he omits to do what he is bound to-do, and loss follows, he is liable. Story on Agency, secs. 18T and 191.
+So a trustee, who is employed to invest a fund, is bound. to look to the title he is receiving, and is charged with a knowledge of the law that creates, incumbers or destroys it. For, it is said, every agent “ must possess a competent degree of skill to enable him to perform the duties he assumes; if he engages without the requisite skill, he is a deceiver, and will be justly liable for the consequences of his incapacity. And not merely for himself, but those also whom he may employ under him.” Smith’s Merc. Law, 154. But we suppose it can not be properly held that an agent, however he may be liable to his principal for injuries caused by the want of reasonable skill and diligence in the execution of his agency, should not be made responsible for injuries caused by his mistakes in a doubtful matter of law. Bank of Washington v. Triplett, 1 Peters, 36; Mechanics’ Bank at Baltimore v. Merchants’ Bank of Boston, 6 Metcalf, 27. In the last case, the rule is stated by Chief Justice Shaw with great clearness.
+The case before us does not, we think, present the question thus decided. There was no pretense that the law was doubtful, or the rule it prescribed had not, in similar cases, been pursued. Nor does the fact that there was a difference of opinion among the members of the court who finally decided the case, as to the duty of the notary, change the law as it then stood, and which the majority of the judges must be supposed to have affirmed.
+We must apply the ordinary rule which defines the agent’s liability, and hold the defendants were responsible for their omission to present the note themselves, or through the intervention of a notary.
+Their direction to that officer not to present, is equivalent to the neglect of the parties to present it themselves. If they had not delivered it to the notary, but had themselves undertaken to perform the duty of presentment, in the same manner, their liability could not, we think, have been doubted. There is no perceivable distinction between the character of the agent in either case.
+The other ground upon which a new trial is asked, we do not think is well taken; nor can it be sustained, we think, on principle or authority, as applied to the ease before us.
+In Hamilton et al. v. Cunningham, 2 Brock. 350, Chief Justice Marshall decided, after a full examination of the authorities, that the responsibility of an agent to whom commercial papers have been intrusted for collection, depended upon the law regulating principal and agent. The actual loss sustained by the principal in consequence of the misconduct of the agent, is the amount of damages for which he is responsible.
+In the case before us, it was in evidence, that the maker of the note died insolvent, and his estate might possibly divide a small percentage among the. ereditors, but it might not be sufficient to pay the preferred debts; and the court, therefore, instructed the jury they might regard.the amount of the note, if they should find the facts to be true as to the insolvency of the deceased debtor, as the measure of damages; that the possibility of a small dividend being afterward declared, was remote, and ought not to postpone the right of the plaintiff to recover for the whole amount of the note; and the risk of any future payment being made., he ought not to be required to take.
+This exposition of the law, we think, was correct. The mere chance of a future recovery of a part of the claim was not the proper subject for the consideration of a jury, as it was evident, for all practical purposes, the note had no real value. "We should certainly hold that the defendants might be subrogated to all the benefits the holder of the note might possibly derive from the decedent’s estate.
+We believe we may well extend the same protection to the defendants as we should to a surety. Although the suit against them partakes somewhat of an action on the case, it is, nevertheless, founded in contract, in misdirecting the agent in performing his trust.
+There is no fraud or wrong imputed; the whole claim is predicated upon acts of omission only.
+The rule, then, that in a case of mere tort, there is neither a contribution nor a subrogation, does not apply.
+Judgment for plaintiff.
