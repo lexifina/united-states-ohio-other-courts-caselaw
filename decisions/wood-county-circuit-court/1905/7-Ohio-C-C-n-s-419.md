@@ -1,0 +1,32 @@
+---
+court: "Wood County Circuit Court"
+decided: "1905-04-29"
+citations: ["7 Ohio C.C. (n.s.) 419"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Haynes, J. (orally); Parker, J., concurs; Hull, J., not sitting."]
+parties: ["Josephine E. Young v. Washington Young."]
+source_url: "https://static.case.law/ohio-cc-ns/7/cases/0419-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1803401
+cites_cases: ["45 O. S., 452"]
+---
+
+# Young v. Young
+
+## Majority (Parker, P. J. Haynes, J.)
+
+Parker, P. J.
+This is a new and interesting question. I think Judge Haynes has covered our views upon it very fully. Perhaps the same views expressed in different language may help coimsel to understand our position. As pointed out by Judge Haynes this request to charge is faulty in that it asks that the jury shall be instructed to allow the plaintiff to recover the value of her time actually taken in caring for the child, whereas it should set forth that she is to be allowed the value of her time actually taken and that was reasonably necessary; not time that she might have devoted to fondling the child or lavishing her affections upon it; and it is not intended to be intimated in this opinion that for those things she should be entitled to recover. We think in one or two of the paragraphs of the charge and in the general tenor of it, the jury were given to understand that they were to consider and cull out what each parent owed to the child, and the charge contained the intimation, or it might be fairly inferred from it that this matter of caring for 'the child devolved upon them both, and that the wife could only recover from the husband for the share that he owed for the care of the child, and that she could not recover anything for the part of said attention devolving upon her as a legal obligation. They should consider it as a sort of a partnership obligation. It seems to us that under this decision which Judge Haynes has cited, the whole legal obligation, so far as necessary care, support and maintenance of the child was concerned, devolved upon the father alone, as between him and the mother, and that nothing was to be subtracted on account of any supposed legal obligation resting upon the mother as between her and the child, or as between her and the public, to aid in caring for the child. In one paragraph of the charge the trial judge says:
+“And in determining the amount which the mother should receive from the father in this case for the care and support of their child, you should consider the duties devolving upon the parents |not upon him, but upon both of them] to care for and support a minor child under the conditions and circumstances existing in this case. * * * The mother owes to her child certain duties, and in a ease like this she is not relieved of any of those duties because she has been divorced from the father.”
+While that might be true as between the mother and child, yet, as stated in the charge and applied to this case, it would have a tendency to mislead the jury, and cause them to suppose that to the extent of her obligation to the public or to the child, she would have no recourse on the husband, which we think is not true. Further along is repeated, “But their duty to care for and support their child remained.” And this clause especially, I think, is open to that criticism:
+“And considering the evidence upon all these matters and all other evidence offered in the' case-having any bearing upon this subject, and taking into consideration the duty of each of these parents to the child, you will fix the amount which the father should pay the mother for the care and support of the child.”
+I think this is a very plain and direct intimation that it was an obligation resting upon both of them, and to be shared by both of them, and that the mother could only recover from the father because and to the extent that he had failed to do his share. It is provided in Section 3110, Revised Statutes, that — -
+“The husband must support himself, his wife, and his minor children out of his property or by his labor. If he is unable to do so, the wife must assist him so far as she is able.”
+The obligation rests first upon the husband primarily, secondarily upon the wife. The decision in the Pretzinger case seems to us to involve that he is to recompense the divorced wife for the care of the child, precisely as though she were a person not related to the, child.
+Blackford <& Blackford and J. E. Sliatsel, for plaintiff in error.
+Baldwin & Harrington, for defendant in error.
+There are statutes bearing upon the duties of divorced persons under which the assistance of the court may be invoked and had to fix the status of the parties and fix their obligations in a measure. Counsel will remember that the statute provides for an appeal to the court, and provides that the court should fix their respective obligations with reference to the support of the children, and that the obligation may rest upon one to support a child where the custody has been given to the other, but where that has not been done, we think the Pretzinger ease applies, and that the whole obligation rests upon the husband. The judgment will be reversed, and verdict set aside, and the case remanded for a new trial.
+Haynes, J.
+There was another exception taken, or rather a suggestion made that a certain paper attached to the bill of exeejitions was not in proper form. It consists of the final record in the divorce case in question. The record was produced in court and read in evidence, but it. was not copied at that point of the evidence into the record, but subsequently a full copy of the final record was made and attached to the bill of exceptions, marked “Exhibit A, final record No. 45, page 481, case No. 12,244.”, It has the same number and the same parties, and the same references that are made at the time of the introduction of the evidence. It would have been better, perhaps, if the stenographer had in his reference to it, added the words “and the same is hereto annexed and made a part of the bill of exceptions,” but the real question is whether there was sufficient to identify it and to make it a part of the bill of exceptions, and we think there was. The identification is sufficient, we think. A copy of the final record was made and attacher to the bill of exceptions, marked “Exhibit A,” and we think on the whole, that is sufficient.
