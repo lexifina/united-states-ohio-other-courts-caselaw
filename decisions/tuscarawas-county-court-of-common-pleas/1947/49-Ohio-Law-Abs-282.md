@@ -1,0 +1,34 @@
+---
+court: "Tuscarawas County Court of Common Pleas"
+docket: "7853"
+decided: "1947-08-16"
+citations: ["49 Ohio Law Abs. 282"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE, Plaintiff, v PEALY, Defendant."]
+source_url: "https://static.case.law/ohio-law-abs/49/cases/0282-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1741341
+cites_cases: ["107 N. E. 515", "12 N. E. (2d) 144", "123 Oh St 132", "133 Oh St 96", "174 N. E. 348", "42 Oh St 568", "90 Oh St 202"]
+---
+
+# State v. Pealy
+
+## Majority (By LAMNECK, J.)
+
+OPINION
+By LAMNECK, J.
+The defendant in this case was bound over to the Grand Jury on a charge of arson on August 7, 1947, and is confined in the County Jail in default of a recognizance. On August 13, 1947, the prosecuting attorney of this county filed a suggestion with the Court that the defendant was not then sane, which was accompanied by a physician’s certificate certifying that the defendant was not then sane, and requested the Court to examine into the question of the defendant’s sanity or insanity.
+During the course of the hearing, the Court’s jurisdiction to entertain the suggestion of insanity was questioned for the reason that the defendant had not been indicted by a Grand Jury. A 1937 Opinion of the Attorney General, numbered 1427, was cited to the Court, the syllabus of which reads as follows: “When a person is accused of a crime and bound over to the grand jury, and it comes to the attention of the Court of Common Pleas that such person is not then sane, in accordance with the provisions of §13441-1 GC, the matter is not pending before the Court of Common Pleas and that Court may not in accordance with the provisions of law commit the accused to the Lima State Hospital before indictment.”
+Section 13441-1 GC reads as follows: “If the attorney for a person accused of crime pending in the court of common pleas, whether before or after trial suggests to the court that such person is not then sane, and a certificate of a reputable physician to that effect is presented to the court, or if the grand jury represents to the court that any such person is not then sane or if it otherwise comes to the notice of the court that such person is not then sane, the court shall proceed to examine into the question of the sanity or insanity of said person, or in its discretion may impanel a jury for such purpose. If three-fourths of such jury agree upon a verdict, such verdict may be returned as the verdict of the jury. If there be a jury trial and three-fourths of the jury.do not agree, another jury may be impaneled to try such question.”
+It is also provided in §1890-69 GC, that “the department of public welfare shall provide and designate a state hospital for the custody, care, and special treatment of persons of the following respective classes: * * * 4. Persons charged with a felony, whose cases are pending in the court of common pleas, either before, during or after trial but before sentgnce, and found to be insane.”
+Section 13441-1 GC was considered by the Supreme Court in the case of Evans v State, 123 Oh St 132, 174 N. E. 348, and in that case the Court held that the words “before or after trial,” contained in said section, required the Court to examine into the question of sanity or insanity of a defendant if the suggestion is made “during the trial.” The court in this opinion on page 136 held that when the matter comes to the attention of the court other than by the attorney for the accused of by representation of the Grand Jury, there is no limitation of time provided in the statute “except that the case be pending in the Court of Common Pleas.” It would therefore appear from this decision that the words “before or after trial” have no application in a case where the suggestion is made by the prosecuting attorney, and the only requirement is that the case be “pending in the Court-of Common Pleas.”
+When is the case of “a person accused of crime pending in the Court of Common Pleas”?
+In Hartnett v State, 42 Oh St 568, the Court held that when a person is arrested and duly committed for a crime for which he is thereafter indicted, the prosecution for that crime is pending as soon as he is arrested and committed.
+Also, in the case of State v Morrow, 90 Oh St 202, 107 N. E. 515, the Court' approved the pronouncement in Hartnett v State, supra, in holding that “a case is pending in the common pleas court, * * * when there is filed in that court a transcript of the criminal docket of the examining magistrate by whom the accused has been committed to the jail of the county, or recognized to appear before that court to answer the charge in the affidavit filed with such magistrate.”
+In this case the court commented on page 209 as follows: “It therefore appears from these statutes that the common pleas court acquires jurisdiction of the action for all purposes in the case immediately upon the filing of the transcript from the magistrate’s court, and this jurisdiction is not dependent upon the return of an indictment into the court.”
+It should also be noted that former §§13577 and 13614 GC, which were in effect prior to the enactment of §13441-1 GC, and which were analogous sections, provided for a hearing on the finding of the Grand Jury that a person was not indicted because of insanity; or if a person under indictment appeared to be insane, etc., a hearing had to be held. Present §13441-1 GC, does not contain the word “indictment,” and it must be concluded that the legislature omitted it to enable the court to determine the sanity of a person accused of crime pending in the court of common pleas before indictment.
+It is important that the law should so provide.
+Under present statutes the sanity of a person accused of crime must be determined under the provisions of the criminal code and such statutes are peremptory and exclusive. The mental capacity of a person accused of crime cannot be determined by the probate judge, because there is no statute authorizing the probate court to suspend the jurisdiction of the. common pleas court over a prisoner being held in the county jail on a commitment by a magistrate to await Grand Jury action. See comment in State v Owen, 133 Oh St 96, 12 N. E. (2d) 144. It would be a terrible situation if an insane person accused of crime and confined in the county jail had to be held there until he was indicted or the Grand Jury suggested his insanity, before a hearing and commitment could be had.
+The Court is of the opinion that §13441-1 GC requires the court of common pleas to proceed to examine into the question of the sanity or insanity of a person accused of crime pending in the court of common pleas on the suggestion of the prosecuting attorney before an indictment has been returned by the Grand Jury and dispose of the case as provided by §13442-2 GC.
