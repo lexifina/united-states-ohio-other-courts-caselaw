@@ -1,0 +1,37 @@
+---
+court: "Montgomery County Court of Common Pleas"
+docket: "74-CR-1881"
+decided: "1975-03-27"
+citations: ["47 Ohio Misc. 27"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Ohio v. Shears."]
+source_url: "https://static.case.law/ohio-misc/47/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6701759
+---
+
+# State v. Shears
+
+## Majority (Rice, J.)
+
+Rice, J.
+This cause came on to bo heard by the court sitting as the trier of fact, the defendant having waived a jury in open court, upon the defendant’s plea of not guilty to an indictment charging him with breaking and entering into an unoccupied structure, in violation of R. C. 2911.13.
+After due consideration of the facts adduced at the trial upon the merits, as well as upon a thorough consideration of the arguments of counsel and the law applicable to the facts at bar, it is the opinion of the court that the state of Ohio has sustained its burden of proving the defendant’s guilt, on each and every element of the offense charged, by proof beyond a reasonable ■ doubt, and the court does, therefore, enter a finding of guilty as charged.
+The defendant is charged, by indictment, with trespassing, by deception, in the Arcade Discount Center, located within the confines of the 4th Street Arcade, at 31 "West Fourth Street, in Dayton, Ohio. The 4th Street Arcade is an enormous room topped by a domed ceiling or roof some 25 to 50 feet above the floor. The Arcade Discount Center is separated from the remainder of the Arcade by means of 5 foot high walls or partitions totally encircling it on three sides (the fourth side being a wall of the Arcade itself). The Arcade Discount Center has no roof or ceiling, as such, other than the domed ceiling which covers the entire Arcade proper. The Arcade Discount Center has its own, separately locked, entrance.
+' The defendant contends that he became locked in the Arcade by accident when he entered to go to the restroom and remained in the restroom until all doors were locked and all maintenance personnel were either gone or unwilling to help him exit. He states he remained inside the Arcade for some two and a half hours until he decided to scale the wall of the Arcade Discount Center, in the hope of finding an exit therein which would take him out of the Arcade Building. While inside the Arcade Discount Center, the defendant claims he decided to help himself to several cigarette lighters and other assorted items which were found on his person, when he was later arrested while still within the Arcade, after having activated an ADT Alarm.
+This court is convinced, beyond a reasonable doubt, that the defendant trespassed, by deception, in the Arcade proper — the deception being his hiding in the restroom until all personnel had left the Arcade Building. Moreover, this eourt is convinced, beyond a reasonable doubt, that the defendant trespassed, by deception, in the Arcade Discount Center — having once managed to get himself locked into the Arcade, without being observed, by deception, that same deception carried over and allowed him to climb over the partition separating the Arcade Discount Center from the rest of the Arcade, again without being detected.
+Even were this court to find that the defendant became locked in the Arcade proper by accident, by means of going to the restroom and returning to the Arcade to find all exit doors locked, and even if the court should find, therefore, that the defendant did not trespass in the Arcade by deception, this court would still find, beyond a reasonable doubt, that the defendant’s climbing over the 5 foot high partition, from the Arcade into the Arcade Discount Center, constituted sufficient evidence of trespass by deception, into the Arcade Discount Center, to satisfy that element of the offense charged.
+The court is further convinced, beyond a reasonable doubt, that the defendant’s trespass into the Arcade Discount Center was accompanied by a purpose or an intention to commit a theft offense therein.
+The only remaining issue, then, is whether the Arcade Discount Center, a discount retail operation, is an “unoccupied structure” within the meaning of the Ohio law — the Arcade Discount Center being located physically within the 4th Street Arcade, an enormous room covered by a domed ceiling some 25 to 50 feet above the floor, but physically separated from the Arcade proper by means of 5 foot high partitions on three sides and a -wall of the Arcade on the other, without an independent roof of its own, but with its own locked entrance.
+The term “unoccupied structure” is not defined within the body of the “breaking and entering statute” (R. C. 2911.13). However, R. C. 2909.01 (referred to in both the “aggravated burglary” and “burglary” sections, R. C. 2911.11 and 2911.12) defines “occupied structure” in the following term:
+“As used in Sections 2909.01 to 2909.07 of the Revised Code, an ‘occupied structure’ is any house, building, outbuilding, Avatercraft, aircraft,- railroad car, truck trailer, tent, or other structure, vehicle, or shelter, or any portion thereof, to which any of the following [four specific situations] applies:
+“ (A) Which is maintained as a permanent or temporary dwelling, even though it is temporarily unoccupied and \A7hether or not any person is actually present;
+• (B) Which at the time is occupied as the permanent or temporary habitation of any person, whether or not any person is actually present;
+“(C) Which at the time is specially adapted for the overnight accommodation of any person, whether or not any person is actually present; ■
+“(D) In which at the time any person is present or likely to be present.’,’ (Emphasis added.)
+By deleting the four specific situations in which an “occupied structure” may be said to exist, under R. C. 2909.01, one can assume that what is left constitutes “structure” or “unoccupied structure” within the meaning of the law, to wit: “Any house, building, outbuilding, watercraft, aircraft, railroad car, truck, trailer, tent, or other structure, vehicle, or shelter, or any portion thereof.”
+Applying the above definition to the facts of the case at bar, there is no doubt that the Arcade Discount Center is an “unoccupied structure” — the Arcade, itself, is an unoccupied structure — a building — and the Arcade Discount Center is a portion thereof, separately secured and completely distinguishable from the Arcade proper. This court holds, therefore, that any separate portion of an unoccupied structure, separated from the remainder of the unoccupied structure by means of partitions and a locked entrance, even if such separate portion has no independent roof, constitutes, in and of itself, an “unoccupied structure” into which one cannot trespass, in a certain manner and with the requisite criminal intent, without running afoul of the statutes prohibiting breaking and entering into an unoccupied structure. An “unoccupied sructure,” within the meaning of the “breaking and entering” statute, R. 0. 2911.13, can be any separately secured, separately delineated portion, of another unoccupied structure.
+Wherefore, based upon the above reasoning, this court concludes that the state has proved the defendant guilty beyond a reasonable doubt and the court does, therefore, return a finding of guilty as charged against the defendant.
+Judgment of guilty.
