@@ -1,0 +1,27 @@
+---
+court: "Cincinnati Superior Court"
+decided: "1899"
+citations: ["6 Ohio N.P. 299"]
+reporter: "ohio-np"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["E. P. Bradstreet; E. B. Molony, C. L. Lundy."]
+parties: ["GIESEKE v. SCHRAKAMP."]
+source_url: "https://static.case.law/ohio-np/6/cases/0299-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1529823
+cites_cases: ["15 Ohio St., 146", "34 Ohio St., 381", "37 Ohio St., 473", "42 Ohio St., 139"]
+---
+
+# Gieseke v. Schrakamp
+
+## Majority (Dempsey, J.)
+
+Dempsey, J.
+On March 17, 1899, Schrakamp; the defendant herein, recovered in this court against the plaintiff and his sureties, D. Hesburg and Michael Keck, a judgment for $225.00, and interest thereon from July 19, 1898, which judgment on March 18, 1899, he assigned to his attorney. O. L. Lundy. ■On March 10, 1899, however, the said Michael Keck in the court of Justice •of the Peace William F. Gass recovered against the said Schrakamp a judgment for $127.26 and costs, which judgment on March 23, 1899, was filed for lien and execution in the office of the clerk of the common pleas. As ■against this judgment, Schrakamp set up a claim of homestead exemption. Keck now files his motion in this case that his judgment for $127.26 be set off against Scbrakámp’s judgment against Hesburg and Keck for the $225.00.
+Jf the application stood cn the original claims before they were put into judgments, no set-off could be allowed, because of want of mutuality, one being a several claim, the other a joint one. Bank v. Hemingrey, 34 Ohio St., 381; Miller v. Florer, 15 Ohio St., 146.
+After the claims were put in judgment, however, the rule is different, for “there is no force in the objection that the judgments are not m the same right. It is well settled that although the demands as being joint and several are not strictly due in the same right, yet, if the legal and equitable liabilities of the parties may become vested in, or may be urged against, one, they may be set off against separate demands, and vice versa; and in some cf the cases this was done without any pretence of insolvency in either of the parties.” Waterman on Set-off, p. 393, Sec. 361, note and cases.
+By virtue of this principle,if it were inflexible. Keck would be entitled to the set-off claimed. But this right of setting off judgments is permitted only where it will infringe on no other right of equal grade. Diehl v. Friester, 37 Ohio St., 473. And a debtor’s exemption right is treated as a right cf equal grade with the right of set-off. Diehl v. Frieater, supra. Hence, as between Keck and Schrakamp, the exemption claim of Schrakamp would prevent Keck’s right of set-off. But it is contended that so far as Lundy, the assignee, is concerned, the rule should he different,for he took with notice of Keck’s equitable right, and the privilege of exemption is not assignable; it is purely personal, and reliance is had on McCord v. Thompson, 42 Ohio St., 139. But that was a case of a. judgment lien on the homestpad, which lieu the court held on a voluntary sale of the homestead could be enforced against the purchaser. But the court says at page 149, there ír “a wide distinction between lidding a homestead of one thousand dollars exempt from sale, and holding in lieu of a homestead five hundred dollars’ worth exempt from levy and sale. Judgments are notji liens on goods and chattels until a levy is made on them.”
+Now, the right of specific exemption .prevents a levy, and hence prevents a lien; the right of exemption on selection operates when the selection is made to relieve or release the selected property from the levy, and, hence, to remove the lien. In the case at bar, cf course, there could be no technical levy on the judgment of Schrakamp v. Hesberg and Keck, but if a third person had a judgment against Schrakamp he could have subjected the H. and K. judgment to the payment thereof, subject, however, to the same exemption rights as in a technical levy at law; in other words, he could by a creditor’s bill have acquired an equitable lien on the judgment, which lien, of course, would be divested or removed by the exercise of the exemption right the same as in case of a levy on execution at law. Now, the right of setting off judgments is nothing more than a simplification and extension in behalf of a judgment creditor of this right of subjecting assets which he would have against any other than his own judgment debtor, who in turn is-also his judgment creditor. The right of exemption destroys the equity or light of set-off, and leaves the judgment for assignment free from any lien or equity. That being the case, Lundy herein takes the Schrakamp judgment free from any right or equity of set-eff on Keck’s part, because of Sehrakamp’s exercise of bis exemption rights, and is entitled to enforce the same.
+I confess that I have come to this conclusion with a great deal of reluctance, as it seemed to me that this case was one which pre-eminently called for tbs exercise of the equitable right of set-off; but the more 1 have studied the more have I become satisfied that the result I have reached is the Jaw, and as the only discretion I have is a legal discretion to be exercised only in accoidance with the law and the facts, I must refuse the motion to set off the respective judgments herein.
+E. P. Bradstreet; E. B. Molony, C. L. Lundy.
