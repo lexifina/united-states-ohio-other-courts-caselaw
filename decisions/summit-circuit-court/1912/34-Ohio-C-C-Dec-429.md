@@ -1,0 +1,47 @@
+---
+court: "Summit Circuit Court"
+decided: "1912-10-12"
+citations: ["34 Ohio C.C. Dec. 429"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Marvin, Winch and Niman, JJ.", "Winch and Niman, JJ., concur."]
+parties: ["Fares C. Bittner v. Northern Ohio Trac. & L. Co."]
+source_url: "https://static.case.law/ohio-cc-dec/34/cases/0429-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 636223
+cites_cases: ["16 L. R. A. 674", "31 N. E. 282", "49 Ohio St. 230", "54 N. E. 89", "60 Ohio St. 215"]
+---
+
+# Bittner v. Northern Ohio Trac. & L. Co.
+
+## Majority (MARVIN, J.)
+
+MARVIN, J.
+The parties here are as they were below.
+The plaintiff sued for damages for injury done to a horse and wagon owned by him, which was in collision with a car owned by the defendant. The petition alleges that the collision occurred solely by reason of the negligence of the agents of the defendant in the operation of the ear. The defendant denies all negligence on its part, and avers that if the plaintiff was injured, his negligence was the sole cause of the injury, or, if not the sole cause, then, that his negligence contributed directly to the injury.
+The bill of exceptions does not purport to contain the evidence, but it reads that “The plaintiff and defendant offered evidence to support the issues as made up by the pleadings. ’ ’
+This statment we think is fully as strong as though it read, ‘ ‘ Each party offered evidence tending to support the claims made by them severally in their pleadings, ’ ’ and this means that there was evidence tending to support each allegation of the petition and each allegation of the answer. That being true, there was evidence before the court tending to show that the negligence of the plaintiff contributed to his injury.
+At the conclusion of all the evidence and before argument, “the defendant requested that the following separate propositions of law be given to the jury for their instruction. Said requests were in writing and were as follows:” Then follow seven requests, numbered, however, 1, 2, 3, 4, 5, 6, 7 and 10. All of these requests were given to the jury, the language of the bill being:
+“Thereupon the court granted the said requests and read them to the jury. To the reading of the requests and each of them, the plaintiff then and there excepted and now excepts. ’ ’
+After the argument of the case to the jury, the court changed the reading of the tenth request.
+On the part of the plaintiff in error it is urged that this was erroneous because, it is urged, the requests must be given as read or they must be refused.
+It must be borne in mind, however, that it is the party who makes the request who is entitled to have them given as requested, if they properly state the law. The other party can only complain if the law given as requested is to his prejudice. The change that was made in the tenth request was not prejudicial to the plaintiff in error, and he has, therefore, no cause of complaint because of such change.
+The first request which was given reads:
+“I say to you, that if you find the defendant company was negligent in any of the respects complained of in the petition, and you further find that the negligence of the driver of plaintiff’s rig directly contributed in the slightest degree to the injuries complained of, or that the combined negligence of both the driver of the rig and the defendant caused the injuries, then the plaintiff can not recover.”
+A majority of the court are of the opinion that this was not erroneous, because it is said that the law is well settled, that if the negligence of the plaintiff contributed directly in any degree to the injury, there can be no recovery, and that if he contributed in the slightest degree then he contributed in some degree.
+I am inclined myself to think that even though that logic is sound, a jury would be likely to be mislead by the language, “in the slightest degree,” although the word “directly” is used immediately in connection with those words, because it seems to me the jury would be likely to overlook the proposition that the negligence of the plaintiff must have contributed directly to the injury. I think, in giving this request, it would have been much safer to have called special attention in connection with it to the proposition that the jury must not overlook the fact that the negligence, in order to prevent a recovery, must have directly contributed to the injury. However, the judgment will not be reversed in this case beeausé of the giving of this charge, for it was technically correct, and, as already said, a majority óf the court are of the opinion that the court, having been requested to give this, was bound to give it, because under this it is clear that if the jury followed it exactly, they would allow a recovery unless the negligence of the plaintiff directly contributed to the injury.
+The fifth request which was given reads:
+£ £ If the driver of plaintiff’s horse and buggy, while driving down North Howard street, saw or could have seen, in the exercise of reasonable care, the baggage car coming down hill, and you further find that there was a car standing in the intersection of Cuyahoga street and North Howard street, and when he got in the rear of said car the same obscured his view and prevented him from seeing said south bound car, then I say to you, in view of the approach of said car, which he knew or ought to have known, and in view of the further fact that its approach was hidden by said standing car, he was bound to exercise greater care and caution before passing in the rear of said standing car and onto the track of the south bound car, and if he did not exercise such higher care and precaution, and such negligence contributed in any way to the injuries complained of, plaintiff can not recover. ’ ’
+We think there was clearly error in the giving of this request, for the court entirely overlooked in the giving of that request the proposition that the negligence, to prevent a recovery, must have directly contributed to the injury.
+The case of Schweinfurth v. Cleveland C. C. & St. L. Ry., 60 Ohio St. 215 [54 N. E. 89], is relied on by the defendant in error to justify the giving of the first request, and, as already said, that first request was technically correct, and it was technically correct in this case because of what is said in the second paragraph of the syllabus:
+“In an action for negligence, it is not error to refuse an instruction that the defendant can not be held liable, though guilty of the negligence charged, if the negligence of the person injured contributed in any degree or in any way to the injury of which he complains. Unless the negligence of the person injured contributed directly to, or was a proximate cause of the injury, it does not preclude a recovery. ’ ’
+In the opinion in this case, which was prepared by Judge Williams, this language is included, with approval, from Thompson on Negligence :
+“The negligence of the paintiff in error, to bar a recovery, must have been a proximate cause of the injury complained of. If the negligence of the plaintiff was only remotely connected with the injury, the plaintiff may recover damages if, notwithstanding such remote negligence of the plaintiff, the defendant might have avoided the injury by the exercise of ordinary care. ’ ’
+And, again, from the same authority:
+“But the negligence of the plaintiff, in order to bar his recovery, must have been so far an efficient cause of the injury that unless he had been negligent the injury would not have happened. Or, as the rule is often expressed, although there may have been negligence on the part of the plaintiff, yet unless he could, by the exercise of ordinary care have avoided the consequences of the defendant’s negligence, he is entitled to recover. ’ ’
+And again:
+“In early cases, at nisi prius in England, the rule was laid down, that if the plaintiff’s negligence in any way concurred in producing the injury, he could not recover. But this, without more, is now regarded as an inaccurate statement of the law; and, as we have seen, the House of Lords has lately held it error to charge a jury in this or similar language without qualification. This well settled doctrine, as maintained by the foregoing, authorities, was followed and applied by this court in the case of Cincinnati H. & D. Ry. v. Kassen, 49 Ohio St. 230 [31 N. E. 282; 16 L. R. A. 674], and had been recognized and approved in several eases before that.”
+Under this it is clear that the court erred in giving the fifth request, and this can not be avoided by saying that as the evidence is not before us we can not say that it was prejudicial, for we know from the bill of exceptions that evidence was introduced on this subject. The jury were therefore entitled to proper instructions on this subject of contributory negligence. They were erroneously instructed on this subject to the prejudice of the plaintiff in error, and for this error the judgment is reversed.
+As to the other requests, we have not a sufficient statement of the evidence to say whether any one of them was erroneous or not, and so the judgment would not be reversed because of the giving of any of the other requests.
+Winch and Niman, JJ., concur.
