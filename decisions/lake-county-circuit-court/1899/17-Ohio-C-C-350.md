@@ -1,7 +1,8 @@
 ---
 court: "Lake County Circuit Court"
 decided: "1899-02"
-citations: ["17 Ohio C.C. 350", "9 Ohio Cir. Dec. 540", "17 Ohio C.C. 342", "9 Ohio Cir. Dec. 536"]
+decided_precision: "month"
+citations: ["17 Ohio C.C. 350", "9 Ohio Cir. Dec. 540"]
 reporter: "ohio-cc"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
