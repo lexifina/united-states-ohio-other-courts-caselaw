@@ -1,0 +1,29 @@
+---
+court: "Hamilton County Court of Common Pleas"
+decided: "1916-07-07"
+citations: ["19 Ohio N.P. (n.s.) 125"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elihu Snider et al v. A. C. Shockey."]
+source_url: "https://static.case.law/ohio-np-ns/19/cases/0125-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1553933
+---
+
+# Snider v. Shockey
+
+## Majority (Geoghegan, J.)
+
+Geoghegan, J.
+Error to tbe Municipal Court of Cincinnati.
+The action below was for the sum of $180 with interest from May 15,-1915. The defendant was served with summons personally. A motion was made to quash the summons on the ground that the defendant was not sued in the township in which he was a resident householder and the court sustained said motion and made the -following order:
+‘ ‘ The court finds that the defendant was personally served with summons in this cause at 15 East Third street, within the city of Cincinnati, Cincinnati township, but that he was at that.time a resident householder of the city of Norwood, Columbia township, Hamilton, county, Ohio. The court therefore finds said motion well taken and doth sustain the same. Wherefore it is considered that this case be and the same is hereby dismissed.at costs of plaintiffs. ’ ’
+To this order plaintiffs excepted and to the judgment of dis-' missal plaintiffs are now prosecuting error in this court.
+The only question submitted for determination is, whether or not the provisions of the act creating the municipal court of the city of Cincinnati, 103 Ohio Laws, 279, give jurisdiction to that court to entertain an action brought against a non-resident of Cincinnati township when service is made upon him personally in Cincinnati township.
+In case No. 161203 on the dockets of this court, Carrie Hamilton, plaintiff in error, vs Charles B. Ratterman, etc., defendant in error, his Honor, Judge May, held:
+“Under the act creating the municipal court of the city of . Cincinnati, Sections 9 and 28, providing the procedure which shall govern the municipal court, should be construed so that both, be given effect. In all actions of which justices of the peace had exclusive jurisdiction, the procedure governing the justice court applies; in cases in which the justice court and the common pleas court had concurrent jurisdiction, the procedure applicable to either applies; and in cases formerly exclusively within the jurisdiction of the court of common pleas, the procedure in that court applies.”
+It would seem, therefore, that inasmuch as service may be made upon the defendant in an action brought in the common pleas court if the defendant be found in the county, irrespective of his place of residence, it follows'that under the provisions of Section 9 of the municipal court act the service of summons upon the defendant herein was good, inasmuch as that section provides that all laws conferring jurisdiction upon a court of common pleas shall be held to extend to the municipal court unless inconsistent with the act or plainly inapplicable. Furthermore, Section 6 of the same act provides, in sub-section 2 thereof, that, the municipal court shall have jurisdiction “in all actions and proceedings for the recovery of money or personal property of which the court of common pleas has, or may be given jurisdiction, when the amount claimed by any party, or the alleged value of the personal property sought to be recovered, does not exceed $600,” etc.
+As the act itself does not specifically provide that the jurisdiction of the municipal court shall extend only to residents of Cincinnati, there does not seem to be any inconsistency in applying the rule as to service of summons laid down in Section 11277, General Code. »
+The contention of counsel for defendant that it was not the intention of the Legislature in establishing the municipal court of Cincinnati to vest said court with power to decide controversies in which the defendant is a non-resident of the city of Cincinnati, for the reason that citizens of townships outside of the city have no part in selecting the council of the city of Cincinnati, who are authorized to provide by ordinance for the summoning of jurors to the municipal court, is not persuasive. It has not been my understanding that it has been the policy of the Legislature to provide that defendants should have the right to have their eases tried by juries consisting of their own neighbors and friends. The days of the jury of the vicinage, where the jurors were also witnesses, have long since passed out as a part of our system of jurisprudence. In fact, an examination of the various laws with reference to the jurisdiction of courts and the service of summons will show that it has been the policy of the Legislature to permit actions to be brought against defendants wherever they may be found, except 'in actions which are strictly local in their nature. The municipal court of the city of Cincinnati is a court of record. It has been raised to a dignity that is beyond that of the justice of the peace for the township. The citizens of the city of Cincinnati are taxed to pay the expenses of this court, which are considerably greater than they were when there were justices of the peace for Cincinnati township, and it seems to be the better reasoning that the Legislature intended that the city of Cincinnati should have a court that up to a certain jurisdictional amount would be able to relieve the common pleas court by dispensing of a number of cases which would otherwise have to be disposed of in that court.
+Therefore, I am of the poinion that the municipal court erred in sustaining the motion to quash the summons, and the judgment of the municipal court will therefore be reversed and the cause remanded for proceedings consistent herewith.
