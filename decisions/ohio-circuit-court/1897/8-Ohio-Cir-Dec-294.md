@@ -1,7 +1,8 @@
 ---
 court: "Ohio Circuit Court"
 decided: "1897-10"
-citations: ["8 Ohio Cir. Dec. 294", "15 Ohio C.C. 333", "8 Ohio Cir. Dec. 346", "15 Ohio C.C. 477"]
+decided_precision: "month"
+citations: ["8 Ohio Cir. Dec. 294", "15 Ohio C.C. 333"]
 reporter: "ohio-cir-dec"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
