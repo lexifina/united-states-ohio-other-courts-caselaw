@@ -1,0 +1,20 @@
+---
+court: "Pike County Court of Common Pleas"
+decided: "1919-01"
+citations: ["22 Ohio Nisi Prius (n.s.) 46"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of Daniel Marhoover, Deceased."]
+source_url: "https://static.case.law/ohio-np-ns/22/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1558362
+---
+
+# In re the Estate of Marhoover
+
+## Majority (Dill, J.)
+
+Dill, J.
+Earl D. Parker, administrator of the estate of Daniel W. Mar-hoover, deceased, filed his petition in the common pleas court in regular form asking for the sale of the real estate owned by the deceased for the payment of debts, making all the heirs of the deceased party defendants together with the Waverly Building & Loan Company, the petition states that the administrator had converted all personal property into money which amounted to the sum of $4,347 being wholly insufficient to pay the debts and costs of administration, and contained a schedule of the debts, which included a mortgage debt to the Waverly Building & Loan Company for the sum of $4,500, and described the real estate. The Waverly Building & Loan Company answered the petition in substance as follows,- that the personal assets in the hands of the plaintiff administrator are more than sufficient to pay all unsecured debts, and that it is not necessary to sell said real estate to pay any debt or claim secured by mortgage thereon,, and for that reason it did not present its mortgage claim to said administrator for allowance and payment. The guardian of the minor defendants answered in substance that said minors by said guardian deny that it is necessary to sell said real estate to pay the debts of said decedent as alleged in the petition, but aver that the personal estate of the said deceased now in the hands of said administrator are amply sufficient to pay all unsecured debts of said decedent, and that it is not necessary to sell - said real estate to pay said mortgage claim. The court upon the hearing of-the case found the facts to be as follows, to-wit: That the decedent died seized and possessed of the real estate described in the petition and an estate in personalty; that said plaintiff administrator has converted all the personalty into money, the amount thereof being $3,347 and that the valid debts of said decedent amounts to the sum of $7,320 about $4,500 oi which indebtedness is secured by mortgage to the defendant, The Waverly Building & Loan Company, on the premises described in the petition herein; that said administrator gave notice of his appointment by publication, and more than a year has elapsed since giving of said notice without the presentation of said mortgage claim for allowance and payment; that all unsecured claims against said decedent estate have been paid in fiill from the personal estate of said decedent, and that there are about $1,50)0 available from the same source for the payment on said mortgage or for. other purposes of said estate; that the heirs of the decedent have a considerable interest in the real estate in the petition described over and above the mortgage debt; that said building & loan company is not asking for a foreclosure or sale of said mortgaged premises.
+The court finds and states as its conclusion of law from the foregoing facts that it is not necessary for the sale by the administrator plaintiff of the said real estate described in the petition to pay said mortgage indebtedness, for the reason that the same is amply sufficient in value to secure said mortgage indebtedness, and that the heirs have a considerable finterest in said real estate over and above said mortgage debt. It is therefore ordered adjudged and decreed by the court that the petition of plaintiff be and the same hereby is dismissed at the costs of the plaintiff, and it is considered that said defendants recover of the said plaintiff as administrator aforesaid their costs herein expended to be levied upon the goods in his hands administered.
