@@ -2,7 +2,7 @@
 court: "Lucas County Court of Common Pleas"
 docket: "CI90-2521"
 decided: "1995-09-08"
-citations: ["74 Ohio Misc. 2d 258", "74 Ohio Misc. 2d 272"]
+citations: ["74 Ohio Misc. 2d 258"]
 reporter: "ohio-misc-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["OWENS-CORNING FIBERGLAS CORPORATION v. AMERICAN CENTENNIAL INSURANCE 
 source_url: "https://static.case.law/ohio-misc-2d/74/cases/0258-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6709787
-cites_cases: ["1 O.O.3d 289", "1989 WL 63296", "1993 WL 563251", "21 OBR 345", "21 Ohio App.3d 274", "23 OBR 101", "23 Ohio App.3d 56", "28 OBR 285", "28 Ohio St.3d 199", "29 OBR 83", "29 Ohio App.3d 73", "3 OBR 355", "3 Ohio App.3d 308", "30 OBR 424", "30 Ohio St.3d 108", "31 OBR 349", "31 Ohio App.3d 183", "353 N.E.2d 624", "444 N.E.2d 1358", "47 Ohio App.2d 221", "47 Ohio App.3d 15", "487 N.E.2d 920", "491 N.E.2d 365", "503 N.E.2d 142", "503 N.E.2d 212", "507 N.E.2d 1118", "509 N.E.2d 963", "546 N.E.2d 1337", "571 N.Y.S.2d 429", "574 N.E.2d 1035", "58 Ohio St.3d 189", "608 So.2d 981", "625 N.E.2d 626", "660 N.E.2d 770", "724 F.2d 500", "74 Ohio Misc.2d 183", "78 N.Y.2d 41", "794 F.2d 1067", "89 Ohio App.3d 505"]
+cites_cases: ["1 O.O.3d 289", "1993 WL 563251", "21 OBR 345", "21 Ohio App.3d 274", "28 OBR 285", "28 Ohio St.3d 199", "29 OBR 83", "29 Ohio App.3d 73", "3 OBR 355", "3 Ohio App.3d 308", "30 OBR 424", "30 Ohio St.3d 108", "353 N.E.2d 624", "444 N.E.2d 1358", "47 Ohio App.2d 221", "487 N.E.2d 920", "503 N.E.2d 142", "503 N.E.2d 212", "507 N.E.2d 1118", "571 N.Y.S.2d 429", "574 N.E.2d 1035", "58 Ohio St.3d 189", "608 So.2d 981", "660 N.E.2d 770", "74 Ohio Misc.2d 183", "78 N.Y.2d 41"]
 ---
 
 # Owens-Corning Fiberglas Corp. v. American Centennial Insurance Co.
