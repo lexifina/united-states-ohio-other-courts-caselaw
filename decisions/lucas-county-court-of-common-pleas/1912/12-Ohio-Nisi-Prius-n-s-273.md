@@ -1,7 +1,8 @@
 ---
 court: "Lucas County Court of Common Pleas"
 decided: "1912-02"
-citations: ["12 Ohio Nisi Prius (n.s.) 273", "12 Ohio Nisi Prius (n.s.) 497"]
+decided_precision: "month"
+citations: ["12 Ohio Nisi Prius (n.s.) 273"]
 reporter: "ohio-np-ns"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["In re Charles A. Thatcher."]
 source_url: "https://static.case.law/ohio-np-ns/12/cases/0273-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1544209
-cites_cases: ["1 Ohio St., 77", "181 Ill., 73", "181 Ill., 90", "21 O. S., 610", "219 U. S., 347", "39 Wis., 232", "39 Wis., 509", "4 C. C., 15", "54 O. S., 415", "8 Ga., 218", "80 O. S., 654", "84 Kans., 843"]
+cites_cases: ["1 Ohio St., 77", "181 Ill., 73", "181 Ill., 90", "39 Wis., 232", "39 Wis., 509", "4 C. C., 15", "54 O. S., 415", "8 Ga., 218", "80 O. S., 654", "84 Kans., 843"]
 ---
 
 # In re Thatcher
