@@ -1,0 +1,32 @@
+---
+court: "Hamilton County Court of Insolvency"
+decided: "1908-02"
+citations: ["6 Ohio Nisi Prius (n.s.) 454"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Union Savings Bank & Trust Company v. The Baltimore & Ohio Southwestern Railroad Company."]
+source_url: "https://static.case.law/ohio-np-ns/6/cases/0454-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 889456
+cites_cases: ["12 O., 132"]
+---
+
+# Union Savings Bank & Trust Co. v. Baltimore & Ohio Southwestern Railroad
+
+## Majority (Warner, J.)
+
+Warner, J.
+Heard on demurrer to first paragraph of reply.'
+■ The’ question raised by this demurrer is as to the right and capacity of a co-plaintiff, the Indianapolis Trust Company, a foreign corporation, to act as testamentary trustee of a foreign testator in respect of lands in Ohio, and to join in this suit.
+A corporation aggregate derives its legal entity and powers from, statutory law, and in this respect is not known to the common law. Possessing only such powers as the sovereignty creating it may give, it can act of right oíüy within the jurisdiction bringing it into being.
+Upon principles of comity, howdver, it may exercise its powers elsewhere, unless the same are prejudicial to the interests, or repugnant to the policy, of .the state in which it seeks to act, or are prohibited by the statutes thereof.
+. It becomes important, therefore, to ascertain exactly what acts this trust company is proposing to perform within this state.
+It is alleged in the ..amended petition in -substance that.it is the owner in fee simple of an interest.in the lands described therein, situate in this county, as the trustee of a foreign testator, a part of -which lands have been -wrongfully appropriated by the defendant to its own use, and its prayer is to recover compensation therefor, together with damages sustained by the residue. A duly authenticated copy of the will of its testator, and the probate thereof in the state of his- residence, having been admitted to record in the probate court of -this county, its title to said property must be held complete so far as the record can make it so, and its power to act in the premises, so far as its home state is concerned, becomes undoubted.
+No statute of this state prohibits this company from acting here as it proposes in the premises. The policy of this state toward foreign corporations -coming here to carry out'the powers given by the law of their being and to assert their rights in our courts has been liberal and generous. Since ■ the case of Lewis v. Bank of Kentucky, 12 O., 132, it has never been successfully claimed that a foreign corporation could not maintain suits in our courts, and recover judgments, - assert rights, and protect property interests located here and legally acquired by it. It is a matter of common knowledge that suits of various kinds are constantly being brought in the courts' of this state by foreign corporations, and the favorable policy of this state' towards such corporations generally is well established. Are trust companies of the character of the -one in question' an exception to this general policy of the state now so long and well- established? No apparent reason exists to suspend such policy in the ease of such companies. They have become, popular and generously patronized institutions, and are recognized as valuable to the successful and efficient management of estates and many-other classes of business. Such companies organized under the laws of this state may, under the provisions of Section 3821-6, Revised Statutes, be appointed trustees ‘ ‘ under any will creating a trust for the care and management of property” in the same manner as any qualified natural person.
+This provision of our statute establishes- the policy of the state as favorable to trust companies here, and -the principles of comity would seem to extend the same privileges to foreign trust companies acting under similar powers granted by a sister state. A liberal rule in matters of this sort' where a deceased inhabitant of another state has left a valid will, entrusting his estate to a, legally qualified trust company, would seem to be the dictate of reason. Another view of the case, tending to the same conclusion, is suggested by certain statutes of administration and mils. Section 6133 provides that an executor duly appointed in any other state may prosecute any action in any court of this state as such executor, in like manner as other non-residents. Sections 5987, 5988 and 5989 provide that “trusts created by a will made out of this state, and relating to lands situated in this state” may be executed-by the trustee “named in such foreign will” within this state.
+"While these sections do not mention trust companies as proper executors or trustees, at the same time it will be noted that no qualifications as to who may so act are specified, except that a duly appointed executor or trustee must exist under the authority of the courts of the sister state, and whether a natural person, or corporation possessing the requisite powers, seems to be left to the law's of the state making the appointment.
+It is objected that Section 6017 provides for the removal from office of an executor removing from the state; that Section 6005 prohibits the appointment of a non-resident as administrator, and that these provisions evince a policy in Ohio to exclude non-residents, and a fortiori foreign corporations from administrations of estates. It may be noted in passing that the statute as to executors does not in terms exclude non-residents as in the case of administrators.
+But assuming-exclusion in both instances to be the law, the policy established thereby extends only to the administration of estates of deceased residents, as to which the interests of creditors as well as heirs and legatees who usually are residents of the same state as the deceased, would seem reasonably to require the presence of a resident representative.
+Applying the same principle to the case at bar, the interests of creditors and legatees, who presumptively are residents of the same state as this executor and trustee, would reasonably require its recognition in that capacity by the courts of this state, under the principles of comity recognized.here.
+Upon full consideration the court is of the opinion that the demurrer must be overruled, and it is so ordered.
