@@ -1,0 +1,28 @@
+---
+court: "Cuyahoga County Court of Common Pleas"
+decided: "1906-11-24"
+citations: ["4 Ohio N.P. (n.s.) 593"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marguritte L. Hutchins v. The City of Cleveland."]
+source_url: "https://static.case.law/ohio-np-ns/4/cases/0593-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1537424
+---
+
+# Hutchins v. City of Cleveland
+
+## Majority (Beacom, J.)
+
+Beacom, J.
+Plaintiff owns a lot in the city of Cleveland, on which is situated a dwelling-house. The council of said city passed an ordinance providing for the purpose of determining the amount of water used, that the board of public service might, at its discretion, meter buildings other than residences. Said ordinance provided further that “residences shall be metered only on request of the consumer, provided that in ease of waste or other improper or unauthorized use of water of which satisfactory proof has been- furnished to the meter department, a meter may be set without the consent of the consumer.” Plaintiff alleges that the board of public service, defendants herein, are about to install a water meter upon her premises without her consent and against her will, and she further alleges that she has not wasted water or made any improper or unauthorized use of the same, and that no proof of any kind of such waste or improper or unauthorized use of water has been furnished to the meter department. She further alleges that the defendants are without authority to install a meter upon her premises against her consent, and she asks that the court enjoin them from so doing.
+To this petition a demurrer is filed, and it is conceded that the only question for the court to determine is whether or not the board of public service, defendants herein, have power to install water meters except as authorized by ordinance of the council. In other words, the question is whether or not the council and the council alone can provide rules and regulations as to when and where meters shall be installed, or does the board of public service have that power. The defendants found their claim to this power upon the provision of Section 1536-522, Revised Statutes, in which it is provided that “for the purpose of paying the expenses of conducting and managing the waterworks the trustees or board shall have the power • to assess and collect from time to time a water rent in such manner as they may deem most advisable.” Defendants say in their brief in pursuance of this claim that “the board of public service has the right to determine how it will assess water rents; that the installation of water meters is a mere mechanical device for the assessment and ascertainment of water rents; that the discretion of the board of public service with regard to such services can not be controlled by the council.” This is the claim of defendants.
+The court will not consider the question of whether or not the powers granted to boards of water works trustees by former Section 2411 are now vested in the board of public service. In the view the court takes of this matter it is unnecessary to examine into that question, and it is sufficient to say that it is of opinion that the question can be determined by other provisions of the statutes that are less subtle and refined than the construction sought to be made of this seqtion by counsel for defendants,
+W. S. Fitzgerald, for plaintiff.
+Baker-, Estep, Payer, 'Wilkins c& Carey, City Solicitors, for defendants.
+Section 1526-131 provides, among other things that: “In all municipal corporations council shall have the care, srrpervision and control of -acqueducts. ”
+Section 1536-675 provides that , the director’s of public service “shall be the chief administrative authority of the city, and shall'manage and supervise all public works,” etc.; and the following section provides that the directors of public service “shall supervise the improvement and repair of acqueducts and the construction of all public improvements;” and the next section provides that the directors of public service “shall have the management of all municipal water,” etc.
+The word acqueduct is doubtless used in the sense of the Latin word from which it is derived, and is intended to include all those means by which water is led from a source of supply to the user, and it is substantially equivalent to “water works.” The court is of opinion that the control given to the council, the legislative body of the city, includes the power to make rules and regulations for the use of water by consumers, and that, when it passed the ordinance providing where and when water meters should be installed, it was exercising a power which the Statutes of the state had given to it; that this power was a legislative power, and properly exercised by the council and could not be exercised by any other public officers.
+The court is further of opinion that the board of public service, who are by the statutes “the chief administrative authority, ’ ’ have the power to ‘ ‘ supervise improvements to acqueducts,” and that that is the extent of their powers in the premises. They apply the rules made by the council to the subject matter, determine the mode and manner in which the work shall be done, but can only do so within the scope of the rules provided by the legislative body, the council.
+Believing that such is the relative and respective powers of the council and the board of public service, the demurrer of the defendants is overruled. Defendants except.
