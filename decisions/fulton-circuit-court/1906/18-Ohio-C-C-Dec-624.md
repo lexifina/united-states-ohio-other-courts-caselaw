@@ -1,0 +1,25 @@
+---
+court: "Fulton Circuit Court"
+decided: "1906-06"
+citations: ["18 Ohio C.C. Dec. 624"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Peter Bower et al. v. Fulton Tp., Fulton Co. (Bd. of Ed.) et al."]
+source_url: "https://static.case.law/ohio-cc-dec/18/cases/0624-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9503849
+cites_cases: ["11 R. 41", "41 N. E. Rep. 245", "46 N. E. Rep. 66", "48 N. E. Rep. 1148", "53 Am. St. Rep. 628", "53 Ohio St. 656", "53 Ohio St. 94", "54 N. E. Rep. 272", "56 Ohio St. 25", "6 Ohio St. 269", "60 Ohio St. 273", "64 N. E. Rep. 570", "66 Ohio St. 546"]
+---
+
+# Bower v. Fulton Tp.
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+It being shown that on and before September 7, 1905, the board of education of Fulton township had incurred valid and existing obligations under' contracts with teachers, drivers for wagons to convey pupils, janitors, etc., for services for the school year, 1905-1906, to the amount of $3,696 and that on that day there was but $437 in the treasury of said board to meet said obligations, but a legal levy of taxes had been made and was in process of collection sufficient to meet the same, but not so soon as they would mature, and that in anticipation of such collection and to meet said obligations as they should mature, said board on said day borrowed from the bank of Swanton $2,000 and gave to it the note of the board, payable in one year, with interest at 6 per cent pe>" annum; and that the board and the bank proceeded in good faith and under the belief that the transaction was lawful,- and that all steps required by law to make it strictly legal had been taken, but that the board, before making said loan, did not, by a formal resolution, determine upon the existence or validity of any indebtedness or obligation ■of said board nor did tbe clerk of said board.prior to the time said loan was made, and said note given certify that the money required for the payment of said note was in the treasury to the credit of the fund from which it was to be drawn, or had been levied and placed on 'the duplicate and was in process of collection, and not appropriated; nor was any resolution adopted or certificate made in accordance of the provisions of Rev. Stat. 2834a, 2834b (Lan. 4285, 4286), governing cases where such resolutions and certificates are required; and this action having been brought by certain taxpayers of the school district to enjoin the payment or collection of said note on'the ground that it is null and void and no legal obligation has arisen thereunder because of noncompliance with said statutes: Held,
+First. That Rev. Stat. 2834b (Lan. 4286), insofar as it applies to boards of education is unconstitutional, null and void, because it is a law of a general nature, but as to such boards it does not have a uniform operation throughout the state, certain city districts being excepted from its operation. Section 26, Art. 2, constitution of Ohio; Kelley v. State, 6 Ohio St. 269, 270; State v. Bargus, 53 Ohio St. 94 [41 N. E. Rep. 245; 53 Am. St. Rep. 628]; State v. Buckley, 60 Ohio St. 273 [54 N. E. Rep. 272]; Gaylord v. Hubbard, 56 Ohio St. 25 [46 N. E. Rep. 66]; State v. Yates, 66 Ohio St. 546 [64 N. E. Rep. 570].
+Therefore, failure to comply with the requirements of Rev. Stat. '2834b (Lan. 4286) does not render said obligation void.
+Second. Whether Rev. Stat. 2834a (Lan. 4285) is subject to the same infirmity we are not called on to decide, since all action that might be taken thereunder has been taken in this transaction, and nothing remains to be done thereunder that might be enjoined.
+Third. Even if a failure to observe formalities or statutory requirements renders the note unenforeible at law, we are of the opinion that the principles declared in State v. Van Buren Tp. (Bd. of Ed.) 5 Circ. Dec. 447 (11 R. 41), affirmed by State v. Board of Ed. 53 Ohio St. 656 [48 N. E. Rep. 1148], which we regard as sound and applicable here, forbid any hindrance to the collection being interposed by the court, and require, the recognition by the board of the obligation incurred through borrowing and using the money, and require its repayment by the board. These principles seem to us to apply with especial force here, because of the last clause in Rev. Stat. 2834b (Lan. 4286), to the effect that the requirements before mentioned, respecting resolutions and certificates, shall not ‘ ‘ apply to contracts authorized to be made by other provisions of law for the employment of teáchers, officers and other .school employes of boards of education,” and the fact that this money was borrowed and presumably used to discharge obligations of the character named in said proviso.
+Injunction refused. Petition as to that dismissed. Judgment against plaintiffs for costs on that issue. Motion for new trial overruled \ exceptions noted. Statutory time allowed for filing bill of exceptions.
