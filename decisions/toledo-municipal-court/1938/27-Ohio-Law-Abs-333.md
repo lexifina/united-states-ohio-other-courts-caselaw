@@ -1,0 +1,28 @@
+---
+court: "Toledo Municipal Court"
+docket: "No 246725"
+decided: "1938"
+citations: ["27 Ohio Law Abs. 333"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["TOLEDO (city) v REEVES"]
+source_url: "https://static.case.law/ohio-law-abs/27/cases/0333-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1688668
+---
+
+# Toledo v. Reeves
+
+## Majority (By NORRIS, J.)
+
+OPINION
+By NORRIS, J.
+The defendant, Ralph Reeves, is charged with the offense of driving a motor venicle while under the influence of liquor. The affidavit was filed on behalf of the City of Toledo by Joe Galloway, city patrolman. At the outset of the trial counsel entered’ into certain stipulations; the time and place were agreed upon as well as the speed at which the defendant was traveling. It was further agreed that the defendant, Reeves,, was taken to the Safety Building, Toledo, Ohio, at about three o’clock (3) P. M., May 28,1938. Apparently no report was filed showing evidence of objective signs sufficient to warrant the filing of an affidavit. At about three-thirty (3:30) o’clock the defendant. Reeves, was requested to submit to a urine test to determine the presence or absence of alcohol in his system. The defendant consented to the test. A specimen was mailed to Dr. Gunn, at Ashland, 'Ohio, Dr. Gunn submitted a report of his findings to the Police Department of Toledo, Ohio, eleven (ID days after the offense was committed. An affidavit for the defendant’s arrest was filed and the cause set for trial.
+Counsel for both sides have spent a great deal of time in the preparation of the law and have examined many hooks on medical science. The case has been prepared thoroughly and ably presented to the Court at the trial.
+It is the position of the City of Toledo that there is a constant relationship between alcohol in the urine and alcohol in the blood. This relationship, it is contended, can be determined after alcohol, which has been injected into the system, has remained for a period of one and a half (IV2) hours. The expert testimony for the city goes further and insists that there is a constant relationship between alcohol in the blood and alcohol in the brain. Dr. Gunn, chief witness for the city, appears to be a member of a Commitle of the National Safety Council. He testified that it makes no difference what the normal condition of the defendant is. By a series of mathematical processes ho arrived at the conclusion that the amount of alcohol absorbed is the determining factor and that the total amount consumed is not of vital importance. He concluded that the amount of alcohol found in the urine upon the relationship of 1.35 to one determines the alcohol which ultimately reaches the brain. This is determined by mathematical processes. Dr. Gunn further insisted that there is a definite relationship and a constant relationship between alcohol in the urine, blood, and its effect upon the brain. He concluded that his findings, subjected to his mathematical processes, indicated that there was .38 alcohol in the blood of the defendant, Reeves, and that he was decidedly under the influence of alcohol and this would necessarily affect his ability to drive a car.
+Dr. Bernhard Steinberg, Director of Laboratories, Research, and Pathologist at Toledo Hospital, was the principal witness for the defendant. It will be admitted that Dr. Steinberg is one of the authorities in the country upon the subject of pathology. He testified that from one to two per cent of alcohol taken into the system is excreted and that from ninety-eight (98) to ninety-nine (99) per cent is oxidized or burned up.
+Dr. Steinberg insists that there is a definite ratio between the alcoholic content of the spinal fluid and the brain. He insisted that there were variances in the ratio between the blood and the urine; and that alcohol does not oxidize at constant ratios. There are a number of outside influences, such as, temperature, activity of the individual, .food in the stomach, etc. Dr. Stein-berg presented for the consideration of the Court a number of charts, the result of actual experimentation and thorough study of the iiterature given-to us by learned authorities of the country.
+Dr. Steinberg insisted that there are but two ways in which the test can be made; one is by examination of the brain after death, and the other is by taking a specimen from the spinal column. The spinal fluid bears a constant ratio with the brain. This would have to be done by a surgeon and taken in conjunction with objective symptons.
+After a consideration of all the testimony in this case it is clear to the Court that the practicability of the urinary test is a highly controversial matter and, as is the case in all such medical matters, there are proponents and opponents of the test as a practical matter. It is the opinion of this court that whenever a highly technical and medical subject is controversial in nature it requires further investigation and should not be used for practical application. To impress a highly controversial medical test upon the established rules of proof as required by the iaw would be exceedingly dangerous.
+While it may be conceded that certain laboratory tests in conjunction with certain objective symptoms might be sufficient to convince a Court beyond a reasonable doubt of the guilt of a defendant charged with driving under the influence of liquor, yet in this case where nothing but laboratory examination was made, this Court certainly cannot find this defendant guilty and he therefor will be discharged.
