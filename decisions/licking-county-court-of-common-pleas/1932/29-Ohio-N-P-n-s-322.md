@@ -1,0 +1,29 @@
+---
+court: "Licking County Court of Common Pleas"
+decided: "1932-04-14"
+citations: ["29 Ohio N.P. (n.s.) 322"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lee and Rohan v. Sedgwick et al."]
+source_url: "https://static.case.law/ohio-np-ns/29/cases/0322-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1567352
+---
+
+# Lee v. Sedgwick
+
+## Majority (Moore, J.)
+
+Moore, J.
+This case is submitted to the court on an appeal from the judgment of the Civil Service Commission of the city of Newark wherein said commission sustained an order of -removal of Ben Lee and George R. Rohan, two firemen, by the Safety ■ Director of said city. This proceeding on appeal comes into this court under a statute recently enacted by the Legislature and is heard de novo upon its merits.
+The particular charge against each of these firemen is that they falsified their applications for examination filed May 10, 1927 and again on March 21, 1930, by stating that they had never been convicted of any crime. This is based upon Section 486-24 of the General Code which, among other things, provides:
+“A person shall not furnish any false information about himself or any other person in connection with any examination, registration or appointment, application or request to be examined, registered or appointed.”
+The facts disclosed in the testimony are about as follows : These men had each pleaded guilty in the Municipal Court of the city of Newark, Ohio, prior to the filing of said applications to take civil service examinations, to affidavits filed under ordinances of the city charging Lee and Rohan with the illegal possession of intoxicating liquor and also intoxication. The record also discloses that each of these men, prior to the filing of their respective applications, went to the president of the Civil Service Commission and told him of this record in the Municipal Court. Thereupon the Civil Service Commission, through its president, Mr. Rutledge, made an investigation of the record in the Municipal Court. Mr. Rutledge, after this investigation had been made, advised the Commission, of which he was a member, that, in his judgment, a prosecution and conviction under a Municipal ordinance, or plea of guilty under an ordinance, was not a crime.
+The particular question to which it is claimed was given a false answer is No. 10, which is: “Have you ever been convicted of or indicted for any crime ?” To which question both Lee and Rohan answered: “No.” They had received the information from the Commission that they had not pleaded guilty to a crime and, consequently, from the information which they had at hand, so far as the record discloses, they answered this question truthfully. The truth of the matter is that crimes in the State of Ohio are divided into felonies and misdemeanors and municipal corporations may by ordinances make certain acts misdemeanors, which had been done in this matter of the illegal possession of liquor and intoxication. Consequently, the Commission labored under a misapprehension and the question should have been answered “yes,” under the circumstances, but there could have been no intent on the part of these applicants to falsify the record, because, with a full disclosure of the facts surrounding these pleas of guilty, the Civil Service Commission passed favorably upon the applications of these men and they were appointed to their respective positions and have served some four or five years.
+The purpose of asking this question No. 10, to which it is claimed a false answer was given, manifestly was to enable the Commission to determine the circumstances surrounding the conviction of any applicant answering this question in the affirmative, and to inquire into his character. It could serve no purpose in the application other than this, and when the Commission does examine into all the circumstances of such a case and the Commissioners are fully apprised of everything which an answer to this question would disclose, the same as if it had been answered, “yes,” instead of, “no,” then it would not be a bar to the Civil Service Commission permitting these men to take the examination and afterwards appointing them, just as it did in this case.
+In the case of State ex rel Weiss v. Keefer et al., Civil Service Commissioners, etc., 3 Appellate Reports, page 426, it is held that where a civil service commission has once determined a person is eligible for promotion, it becomes in a sense an adjudication, and a subsequent commission cannot, upon the same facts presented to it, make a different finding.
+In the case at bar the Civil Service Commission was in possession of all the facts and believed the answer to the question to be correct, and the court cannot think that a subsequent Commission has a right to make a finding that this answer is a falsification within the meaning of the statute. If the falsity of the answer were being discovered for the first time, and a complete disclosure had not previously been made to the Civil Service Commission, and had been made with intent to deceive and falsify, a different question would be presented.
+There can be no question but what the Commission that originally passed upon the eligibility of these men had the right to make a finding that they were not eligible by reason of these convictions, and whether the question was answered yes, or no, made no difference so far as the act of the former Commission was concerned, because it had all the facts and determined that these men had not been convicted of any crime, and Mr. Rutledge being an attorney so advised the Commission.
+The Court thinks that, under all the circumstances, there was no right to dismiss these men for making the answer which they did to the question 'referred to.
+There may be an order reinstating these men without loss of pay.
