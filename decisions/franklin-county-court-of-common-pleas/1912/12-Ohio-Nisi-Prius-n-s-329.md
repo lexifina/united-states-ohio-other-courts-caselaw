@@ -1,0 +1,33 @@
+---
+court: "Franklin County Court of Common Pleas"
+decided: "1912-01-25"
+citations: ["12 Ohio Nisi Prius (n.s.) 329"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Graham Deuwell v. George Foerster et al."]
+source_url: "https://static.case.law/ohio-np-ns/12/cases/0329-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1544287
+cites_cases: ["180 N. Y., 341"]
+---
+
+# Deuwell v. Foerster
+
+## Majority (Kinkead, J.)
+
+Kinkead, J.
+Plaintiff, a colored man, brings this action under the .civil rights statute for damages for the refusal of the defendants to serve him with a glass of soda water at their soda' fountain. The defendants maintain a candy store and soda fountain.
+The case was tried to a jury. At the close of plaintiff’s testimony, the court sustained a motion to direct a verdict in favor of the defendants. A motion for new trial was made.
+The civil rights statute provides equal privileges in “an inn, restaurant, eating house, barber shop, public conveyance by land or water, theatre or other place of public accommodation and amusement.”
+The civil rights statute had its origin in the common law principle that inns, hotels and public carriers held themselves out for the service of the general public, that is, the masses, everybody. The idea was, and is, that all classes of people at some time or other will need the services of the proprietors of such places and instrumentalities. They hold themselves out for the service of everybody alike. The service in such places and instrumentalities is wholly unlike the service of a candy store or a soda fountain, or a hardware store, and the like. It is not everybody that has a taste or desire for candy or soda water. This comparison shows the material distinction between the two classes of business, the one being clearly public, and the other being clearly private and individual.
+The law impressed those engaged in the business of maintaining inns, hotels and public carriers with a duty to the general public, quasi public in its nature, that they should serve the public without discrimination. When colored people were clothed with citizenship, it necessarily followed that they were entitled to the same rights as other citizens. Legislation being necessary to secure these rights, it was first directed toward those engaged in the business of furnishing public accommodation in hotels and public carriers. Inns, hotels and public conveyances have always been considered, as places of public accommodation in the broadest sense, both at common law and in this country, because they have always been denominated as such under the common law. The other places mentioned in the present statute, such as barber shops, and in some statutes in other states, bath houses, are not in the same class at all with hotels and public conveyances, and would not have been regarded as included within the statute under the general phrase contained therein, ‘ ‘ and all other places of public accommodations. ” If a soda fountain, or a bath house, or a barber shop, or any other individual business may be considered as being within the purview of other places of public accommodation, then there would be no necessity for mentioning those places in addition to the hotels and public conveyances. There is no relation whatever between a soda fountain, so far as the public is concerned, analogous to that existing between hotels and public conveyances, nor even with barber shops.
+As stated in one decision:
+"There is, it is true, a superficial resemblance between the occupation of a barber and that of a bootblack in the sense that both minister to the personal comfort and convenience of others, but the same argument may be extended far beyond the limits necessary to demonstrate that 'all other places of public accommodation’ are included by relation within the category of the things specifically enumerated in the statute.
+“The Legislature seems to have had no difficulty in naming a variety of places and callings that have never been regarded as places of public accommodation under the common law.” Burks v. Bosso, 180 N. Y., 341.
+An instructive case is found in Cecil v. Green, 60 Ill. Ap., 61, where it was held that “an apartment where only refreshing drinks are sold at a single stand (in this ease a soda fountain) by the glass, does not come within the specific designation of a restaurant, eating house, or place of public accommodation within the civil rights act.”
+In the discussion by the court it was reasoned that if the word “accommodation” as defined in the dictionaries was to be used in the interpretation of the statute, this would include every article of property that is a subject of sale, but that it was not understood that places where dry goods, groceries, hardware or other like articles of accommodation, are places of public accommodation. The proprietor in running his soda fountain dealt not with masses as such, but with individuals, one at a time, just as merchants do generally. All the accommodation sought or furnished was a glass of drink; that which accommodated one never accommodated another. The place maintained by the defendants was not public or common, but private, exclusive .and individual.
+It is not the public character of accommodation that makes the place a public place, because if it was, then every place in which any article is sold to individuals generally is within the statute, and no merchant in any line of trade could lawfully decline to sell to any citizen for any reason not applicable alike to all.
+Another idea that should be applied in the construction of this statute is that the phrase “public places of public accommodation” although it is very general in its nature, in its special meaning and application in cases brought under it, it is to be limited by the specific designations which precede it. And the designations which precede it are hotels and public conveyances which are eoncededly of a public character. And the later additions of hotels, eating houses and barber shops are much more analogous to hotels and public conveyances so far as their duties toward the public than is a soda fountain or a dry goods store or .a hardware store.
+The conclusion is that a soda fountain is not within the meaning of this statute, and that a proprietor of such a place has the absolute right to decline to sell to white, black, German, Irish, Catholic or Protestant, or any class .of persons which he may choose to decline to serve, without giving rise to any right of action.
+The motion for a new trial is overruled.
