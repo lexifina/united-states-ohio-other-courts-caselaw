@@ -1,0 +1,40 @@
+---
+court: "Columbiana County Court of Common Pleas"
+docket: "56081"
+decided: "1973-06-20"
+citations: ["37 Ohio Misc. 119"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gilbey et al. v. Cooper et al."]
+source_url: "https://static.case.law/ohio-misc/37/cases/0119-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1443589
+---
+
+# Gilbey v. Cooper
+
+## Majority (Tobin, J.)
+
+Tobin, J.
+This matter came on to be heard, on the Complaint of the plaintiffs, Clifford Gilbey and Karen S. Gilbey and the Answers of Kenneth Cooper and Margaret Cooper, and Robert Capel. The matter was referred to the Hon. Louis Tobin, Judge, by Journal Entry of March 22, 1973, by the Hon. J. Warren Bettis, Judge, to be heard on the transcript of testimony and oral arguments of the parties.
+The Complaint asks for actual and punitive damages relative to the sale by the Coopers to the Gilbeys, through the auspices of the Robert Capel Agency, by and through their Agent, Bruce Capel, on March 15, 1969, of the piece of real estate known as 770 Benton Road, Perry Township, Columbiana County, Ohio, and being Lots Number 1285 and 1286, part of plat No. Pour, Salem Heights, Allotment, Vol. Seven, Page 55, of Columbiana County Plat Records and being the same property conveyed to the Coopers by Frank Sepic in Vol. 893, Deed Records of Columbiana County, Ohio.
+The Complaint states that the plaintiffs bought the land as described but were never informed by the defendants or their agent, that part of the property was being taken by the state of Ohio for road purposes and never told by the defendants that there was a temporary casement for work purposes taken by the state of Ohio, and therefore, asks for actual damages in the amount of five thousand dollars ($5000), and punitive damages in the same amount. The defendants’ answer denies the essential allegations of the Complaint and also alleges there were stakes marking the boundary of the easement of the front yard of the premises referred to in the Complaint at the time of the negotiations.
+The court finds the following to be the facts:
+One: Bruce Capel was. at all times an agent of the Robert Capel Real Estate Agency and at all times represented them in this negotiation. Also, that he was the agent, for the Coopers in the negotiations between the Coopers and the Gilbeys.
+Two: The following are the dates of importance in this case: The center line of the new road was made a matter of record on August 9, 1968. That a temporary and permanent easement was taken by the state on January 23, 1969, and signed by the Coopers, for which they were compensated some $3750 on January 15, 1969, but that said easement was never recorded in the Columbiana County, Ohio, records until March 18, 1969.
+Three: That a listing was made by the Capel Agency to sell the property for $10,500 and a listing agreement was made with the Capel Agency on March 8, 1969.
+Four: That a purchase agreement was signed by the Gilbeys to purchase said property on March 15, 1969, which the court finds to be a binding agreement to buy the property therein described subject to all road and street easements. That a deed was given on April 4, 1969, recorded on April 9, 1969. The court also finds the matter was financed through the Home Savings and Loan of Salem, Ohio, who obtained an abstract on the same for mortgage purposes but at no time did they offer to show, nor was it shown, to the Gilbeys. That the abstract does show the easement, but at the time the Gilbeys entered into the purchase agreement, to-wit: March 15, 1969, a binding agreement, this matter was not of record. The court also finds that there were some stakes in the ground. Mr. Baird, state surveyor, states that said stakes of the easement were not placed before August, 1969, and on the temporary easement, June 29, 1970.
+The court also finds from the evidence, that the Gil-beys were shown the property by Bruce Capel in the presence of the Coopers. That they asked how far the line ran and were shown the line where the road was then and assessed by Mr. Bruce Capel that the by-pass would not touch their land, without any reference to the fact that the by-pass was coming in and was going to take some of the property and without any reference whatsoever to the temporary easement.
+The court further finds that the Gilbeys did not actually become aware of the same until work began on the road in which thair front yard was cut across as per the easement agreement by the state of Ohio.
+DECISION
+The court has listened to the arguments of counsel and read their briefs. The court finds from the facts, that there was no way at the time the binding purchase agreement was entered into, for the Gilbeys to know there was an easement that had been given for part of the property, together with a temporary easement, since it was not recorded until March 18, 1969, or three days later than the binding agreement signed to purchase the property.
+It was true that they could have found out by calling New Philadelphia, Ohio, where the center line was but these people are laymen, not engineers, and that would not have told them very much, if anything at all, nor does the court think they were compelled to do so.*' The court finds from the facts that the said Bruce Capel pointed out, in the presence of the Coopers, and from whom he had full authority, where the limits of the property were, and this was beyond the easement taken and made no reference to the easement. That he made statements to them that they had to go down and sign right away because there were other people waiting for it. In the court’s mind, Mr. Bruce Capel put undue, pressure on these people and very hurriedly sold them, before it frankly, became known that part of the property had already been taken for easement purposes, and part of the property was going to be used, or the inconvenience of being used, for temporary work easements.
+■ The court believes that both the Coopers and most assuredly Bruce Capel, as the agent, owed a duty of complete disclosure of all facts in the sale of this house, about anything that could not visibly be seen.
+■ Therefore, Bruce Capel, as the agent, and the Coopers as the sellers, who were there, owed the Gilbeys absolute duty to disclose to them that an easement had been taken which was twenty (20) feet wide at one end and twenty-seven (27) feet wide at the southeast end, making a wedge-shaped property 140 feet across the property, twenty-seven feet wide at one end of the triangle and twenty-one feet at the northwest side of the property.
+In addition to that, he owed a duty to tell them there would be a temporary easement. That their place would be torn up until the road was finished, over' a considerable period of time, whenever the state decided to come in and do this.
+The court finds this was not done and therefore, finds it was a fraud upon the Gilbeys for not doing so, since the court finds it was an absolute duty on the part of both the real estate agent and the sellers, to make this disclosure. ..
+Therefore, the court finds that the parties were guilty pf wilful misrepresentation to include that of the real estate agent, Bruce Capel, and since he was also the Agent, acknowledged so of the Robert Capel Agency, therefore the misrepresentation becomes that of his superiors.
+Coming now to the matter of damages: The court finds that the value of the land taken as land and the inconvenience damaged the Gilbeys in the amount of Seventeen Hum dred Fifty Dollars ($1750) and punitive damages are. assessed in the amount of Seven Hundred Fifty Dollars ($750). AH damages are to be divided equally between the Coopers and the Capéis, to-wit: One Thousand Two Hundred Fifty Dollars ($1250) against the Coopers and One Thousand Two Hundred Fifty Dollars ($1250) against the Capéis.
+Costs assessed equally against the defendants, the Coopers and the Capéis. The Coopers as one party and the Capéis as the other party.
+Exception to all parties.
