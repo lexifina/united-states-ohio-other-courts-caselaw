@@ -1,7 +1,7 @@
 ---
 court: "Summit Circuit Court"
 decided: "1909-12-30"
-citations: ["32 Ohio C.C. Dec. 366", "32 Ohio C.C. Dec. 368"]
+citations: ["32 Ohio C.C. Dec. 366"]
 reporter: "ohio-cc-dec"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Charles R. Morgan, Taxpayer, v. Akron (City) et al."]
 source_url: "https://static.case.law/ohio-cc-dec/32/cases/0366-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1666374
-cites_cases: ["84 Ohio St. 499", "84 Ohio St. 500"]
+cites_cases: ["84 Ohio St. 499"]
 ---
 
 # Morgan v. Akron (City)
