@@ -1,0 +1,26 @@
+---
+court: "Canton Municipal Court"
+docket: "316"
+decided: "1973-07-19"
+citations: ["38 Ohio Misc. 43"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Ohio v. Republic Steel Corporation."]
+source_url: "https://static.case.law/ohio-misc/38/cases/0043-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6702358
+cites_cases: ["30 Stat. 1152", "86 Stat. 816"]
+---
+
+# State v. Republic Steel Corp.
+
+## Majority (Marku, J.)
+
+Marku, J.
+The defendant is charged with the pollution of the waters of Nimishillen Creek without “a valid and unexpired permit, or renewal thereof,” as provided in R. C. 6111.01 to 6111.08. The defendant seeks a dismissal of the affidavit with regard thereto. In support of its motion to dismiss, the defendant claims that “the authority of the Ohio Director of Ohio Environmental Protection to issue permits for the discharge of industrial wastes into the waters of Ohio . . . has been preempted by the federal government by virtue of the Federal Water Pollution Control Act Amendments of 1972 . . . Public Law 92-500, 86 Stat. 816. ...” effective prior to the occurrence of the offense charged. Defendant states that it filed an application for a permit under the Refuse Act of 1899, Section 407, Title 33, IT. S. Code, 30 Stat. 1152, with the Secretary of the Army on June 30, 1971, and that the application is still pending. It contends that this permit program was established by Executive Order No. 11574 of December 23, 1970. Defendant argues that it is authorized to deposit certain materials in navigable waters so long as this application for a permit is pending.
+Defendant concedes that the National Pollutant Discharge Elimination System (NPDES), Section 402, Federal Water Pollution Control Act (FWPCA), established a new national discharge permit system governing all the waters of the United States, and that all permits for discharges into the navigable waters within the jurisdiction of a state shall be issued by the state, once it has received authorization from the Administrator of the Federal Environmental Protective Agency. The state of Ohio was granted this interim authority under Section 402 of the Federal Water Pollution Control Act, as amended in 1972. It is therefore apparent that under the federal act any discharge of pollutants into the waters within the jurisdiction of a state must be pursuant to a permit issued by the state (R. C. 6111.04 and 6111.07). The language of the Federal Water Pollution Control Act makes it evident that 1he federal program is not intended to preempt the authority of the state to issue permits for discharges into the waters within a state, but rather to induce the cooperation of the states in the establishment of. a program to be administered by the states within certain federal guidelines with regard to uniform national standards.
+The defendant’s pending applicatin for a permit may exonerate a violation as determined by federal law, Sections 301, 306 or 402 of FWPCA. However, the language of Section 402 (a) (5) or 402 (k) may not be construed to support the argument that such an application obviates the necessity of a state permit for discharges in waters within the jurisdiction of the state of Ohio. It is inconceivable that the authority of Ohio to control the discharge of pollutants in its waters would be suspended during the period in which a comprehensive program is being established under the Federal Water Pollution Control Act Amendments of 1972. This was the purpose of granting interim authority to the state to issue permits for the discharge of industrial wastes into the waters within the jurisdiction of the state.
+Counsel for the respective parties have referred the court to two recent decisions of the Supreme Court of the United States, and urge that the case which each submitted sustains their position as presented herein, City of Burbank v. Lockhead Air Terminal 41 Law Week 4600 (May 14, 1973), and Askew v. American Waterways Operators 41 Law Week 4507 (April 18, 1973). Upon a review of the authorities, the court is inclined to the unanimous holding of the U. S. Supreme Court in Askew as being persuasive in its legal reasoning to the issues before this court relative to federal-state relationships in an area of common concern. The issue in 'this matter may be stated by borrowing from the language of Mr. Justice Douglas, speaking for the court in Askew, where he stated, at page 4510: “. . . in the absence of federal pre-emption and any fatal conflict between the statutory schemes, the issue comes down to whether a state constitutionally may exericise its police power respecting maritime activities concurrently with the federal government.” In our situation, it is clear that Ohio has an interest in regulating the discharge of industrial wastes into its waters and that the statute so far as applied to activity affecting its waters, in absence of conflicting federal legislation, is within the police power of the state.
+The motion of the defendant for an order to dismiss the affidavit is denied.
+Motion to dismiss denied.
