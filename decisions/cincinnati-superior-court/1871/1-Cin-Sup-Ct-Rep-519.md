@@ -1,0 +1,29 @@
+---
+court: "Cincinnati Superior Court"
+decided: "1871-10"
+citations: ["1 Cin. Sup. Ct. Rep. 519"]
+reporter: "cin-sup-ct-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Anna Jacob v. The Continental Life Insurance Co."]
+source_url: "https://static.case.law/cin-sup-ct-rep/1/cases/0519-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1520299
+cites_cases: ["7 Ohio St. 298"]
+---
+
+# Jacob v. Continental Life Insurance
+
+## Majority (Hagans, J.)
+
+Hagans, J.
+This was a suit upon a policy of insurance on the life of Louis Jacob, Jr., the late husband of the plaintiff,'for $10,000, in the name,and for the sole use of the plaintiff.
+It appeared on the trial that the deceased was insolvent at the time of his death, having before made an assignment for the benefit of his creditors; that the premiums were paid out of the plaintiff’s own 'separate estate; that the policy was taken out at the instance of the plaintiff, who furnished her husband with the money, though he paid the first premium, before he made the assignment, with his cheek. The policy recites that the premium was paid by the plaintiff. The other premiums were paid by plaintiff, as evidenced by the receipts of the defendant to her, and out of her separate funds. It also appeared that the plaintiff had another policy on the life of her husband, to the amount of $5,000, in the Atlantic Mutual Insurance Company, the annual premiums for which were $136.65. This loss sfie had received. The application for the risk sued on was made to the defendant by Louis Jacob personally, and is signed by him with his own name.
+An administrator of Louis Jacob was appointed and made party defendant. He answers, by the plaintiff’s counsel, that he believes the plaintiff paid all the premiums out of her own separate funds, and that no creditor of Louis Jacob had presented any claim to him.
+One Frederick Rau, who is admitted to be a creditor of Jacob to the amount of $700, files an answer denying all the allegations of the petition relating to the payment of premiums, and insists that the money should go to the administrator, to be distributed according to the laws relating to the administration of estates.
+The defendant answers 'that Louis Jacob paid the premiums ; sets up the payment of the loss to plaintiff by the Atlantic Mutual Life Insurance Company of $5,000; that it is the holder of an unpaid, note, indorsed by Louis Jacob, for $1,500, and asks that the loss for which it is liable be credited with the amount thereof, and avers a willingness to pay to plaintiff, if adjudged that she is entitled to it; but also avers that the administrator of Jacob is entitled to the money, less the indorsed note aforesaid.
+No question is made except upon the first and second sections of the “ act relating to insurance on life for the benefit of orphans and widows.” 1 S. & C. 737.
+It is said by the defendant that this insurance falls under the first section of the act referred to, which authorizes any one to effect an insurance on his life, to inure to the sole benefit of his widow and children, exempt from all claims by his representatives and creditors, provided that the annual premium paid does not exceed $150. It is admitted, under this claim, that the plaintiff would be entitled to a portion, say $1,000, of the recovery here, as the premium on the policy in the Atlantic Mutual Insurance Company, which plaintiff has collected, was only $136.65. But clearly, under the testimony, this insurance was effected by the plaintiff, and. the premium paid by her and not by her husband. She suggested the taking out of the policy. She furnished the money to pay the premium. When it was issued, though the husband gave his own check for the amount, confessedly, by the admission of the policy, 'as well as by the testimony, she paid the first premium, and by the receipts, the subsequent premiums, out of her separate estate, and the company shall not now gainsay it. It would seem, therefore, that the case falls within the second section of the act referred to. It is objected in this view that the application is signed by Louis Jacob. But he acted as the agent of his wife, and the company must be held, from the face of the transaction, to have known it. He could not, by the mere fact of signing the application in his own name, in her absence and without her knowledge, defeat the intention or the rights of his wife, as the policy is issued in her name. His act, under the testimony, was her act; and it would be inequitable, as well as contrary to the statute, to allow his personal representatives or his creditors to reap the fruits of the investment of the wife’s money. “ It can not be claimed that, from the mere relation of husband and wife, a feme covert is bound, in respect to her separate property, by the admission or declaration of her husband.” The Fraternal Mutual Life Ins. Co. v. Applegate, 7 Ohio St. 298. The second section of the act referred to provides that a married woman may, by herself and in her own name, from her separate property, cause to be insured for her sole use the life of her husband, and the amount of the insurance shall be free from all claims of her husband’s representatives and creditors.
+The first section very properly limits an insurance to her use to an amount represented by $150 of premiums, when the husband effects it and pays for it, and where the rights of his creditors are involved.
+The second section, however, allows the wife to insure her husband’s life in any amount, for which she can pay the premiums out of her separate estate. She is to be treated in these respects as a feme sole, and the insurance is her separate property.
+The ease clearly falls within the second section, and the judgment below must he affirmed.
