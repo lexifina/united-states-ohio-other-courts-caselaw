@@ -1,0 +1,24 @@
+---
+court: "Summit Circuit Court"
+decided: "1894-10"
+citations: ["6 Ohio Cir. Dec. 451"]
+reporter: "ohio-cir-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cordelia M. Thompson v. R. L. Andrew, Tr., et al."]
+source_url: "https://static.case.law/ohio-cir-dec/6/cases/0451-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8818515
+---
+
+# Thompson v. Andrew
+
+## Majority (Hade, J.)
+
+Hade, J.
+(orally).
+In this case, it is sought to enjoin collection of the assessment made to pay the cost of locating and establishing a ditch known as the Hudson ditch. The proceeding seemed to be quite regular up to the final step that was taken by the auditor, in placing the assessment upon the duplicate. The auditor in doing that, took the various items which the commissioners had authorized to be levied, as a part of the cost of locating and establishing this ditch, and to the sum of those items, added fifty per cent, and placed the total upon the duplicate.
+, There is nothing in the record of the commissioners, either in the ditch record, or the journal of the commissioners, which authorized the auditor to make that addition. In his testimony before the court, he says it was not an arbitrary addition of fifty per cent to the items, but when all the items constituting the cost of locating and establishing the ditch, which the commissioners had authorized to be assessed upon the landowners, it was found to be fifty per cent more than the specific items, and therefore he made the addition, and made the- assessment.
+We think that this assessment, by reason of that action of the auditor, is irregular ; at least was not authorized, and must be set aside.
+The next question is, whether it falls within the curative provisions of sections 4490 and 4491, R. S., so that we may hold the case, and notwithstanding this error, make such order in the case, as is just and equitable. Section 4490 reads : “The collection of taxes or assessments levied, or ordered to be levied, to pay for the location or construction of any ditch, shall not be perpetually enjoined, nor declared absolutely void, in consequence of any error committed by the surveyor or engineer, the county auditor, or the county commissioners, in the location, or establishment thereof; nor by reason of any error or informality appearing on the record of the proceedings to locate or establish the same; nor by reason of any-error committed by the surveyor or engineer, the county auditor, or county commissioners, in respect to the letting of uncompleted work, or the levy of any tax or assessment ior the labor and expense of construction of any uncompleted portion, section, or allotment of any such ditch.” Then section 4491 provides what the court may do, in case error has occurred, in the proceedings in locating and establishing the ditch, and it is very broad “The court in which any proceeding is brought to recover any tax or assessment paid, or to declare void the proceedings to locate or establish any ditch, or to enjoin any tax or assessment levied or ordered to be levied to pay for the labor and expense aforesaid, if there is manifest error in the proceeding, allow the plaintiff in the action to show that he has been injured thereby, and may, on application of either party, appoint such person, or persons to examine the premises, or to survey the same; or both, as may be deemed necessary; the court in which any such proceedings are begun, shall allow that parol proof that said improvement is necessary and will be conducive to the public health, convenience, or welfare, and that any steps required by law for any improvement have been substantially complied with, notwithstanding the record required to be kept by any board, or officer; and without finding error the court may correct any gross injustice in the apportionment made by the commissioners; the court shall, on final hearing, make such' order in the premises as shall be just and equitable; and may order that such, tax or assessment remain on the duplicate for collection, or order the same to be levied, or may perpetually enjoin the same, or any part thereof, or if the same has been paid under protest may order the whole or such part thereof, as is just and equitable, to be refunded; and the cost of such proceeding shall be apportioned among the parties, or paid out of the county treasury as justice requires.”
+The commissioners had clearly declared their intention to assess the entire cost of the construction and location of this ditch upon the landowners. By error, the record fails to show the proper record to authorize the whole of that cost to be assessed; and we see no reason why this case does not fall within the curative provision of this statute. This assessment is set aside, and the case set down for further hearing, as is provided by the section that I have just read.
