@@ -1,0 +1,57 @@
+---
+court: "Ohio Circuit Court"
+decided: "1898-01"
+citations: ["15 Ohio C.C. 680"]
+reporter: "ohio-cc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before King, Haynes and Parker, JJ.,"]
+parties: ["LEROY WELEVER v. THE I. H. DETWILER COMPANY and GEORGE K. DETWILER."]
+source_url: "https://static.case.law/ohio-cc/15/cases/0680-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1513415
+cites_cases: ["50 Ohio St., 57"]
+---
+
+# Welever v. I. H. Detwiler Co.
+
+## Majority (Haynes, J.)
+
+Haynes, J.
+A petition in error is filed in this court for the purpose of reversing the judgment in the court of common pleas in an action brought in that court wherein Welever was plaintiff and the Detwilers were defendants. Suit was brought by Welever against the Detwilers for the recovery of a certain price agreed to be paid for the removal, it wa& alleged, of' certain earth from a lot. Issues were joined by way of denial in the case, and upon the trial of the case, at the conclusion of the evidence, the court directed the jury to return a verdict in favor of the defendants, and the ground of that direction was, that the contract proved upon the trial of the case was within the statute of frauds- — -the testimony showing that the whole agreement was oral.
+In order to get at a proper understanding of the case and* the proper application of the principles of law, it will be necessary to read the petition in the case:
+“For cause of action against the defendants,plaintiff says-that he entered into a contract with the defendants to remove a bank of earth then and there being on certain lots-fronting on Euclid Avenue, East Toledo, Ohio, between Third and Fourth streets. By the terms of said contract, plaintiff was to receive from defendants the sum of $50 for the removal of the said earth.”
+Now it will be seen before we get through, that there is-no statement that the earth, in any manner or form, should belong to the plaintiff.
+“After entering into said contract with the defendants, plaintiff says that he bargained with two owners of property-located near said bank,to-wit, one Frank Hake and one D. Harpster, to receive from them $25 for the removal of said' bank of earth.
+“Plaintiff further alleges that prior'to entering into said contract with the defendant, he had contracted and agreed with one G. H. Hartupee to procure and haul the necessary earth to fill certain lots owned by him in East Toledo near the bank of earth aforesaid. And by reason of said contract with said Hartupee, this plaintiff did go to the defendants- and enter into a contract with them as aforesaid for the removal of said bank of earth, in order to use the same in filling the lot of G. H. Hartupee as aforesaid,’
+“ Plaintiff further says that, having thus made all his-arrangements to remove the said bank of earth, and being-able and prepared.to do so, the defendants, in utter disregard of their contract with the plaintiff, refused to allow or permit the plaintiff to remove the said bank of earth, and have thence hitherto persisted in the breach of their contract by so refusing to allow the plaintiff to remove said earth. And so it was that the plaintiff was compelled to procure-■earth at another plage some distance farther from the said lot of G. H. Hartupee than was the said bank of earth of ■•defendants, and was compelled to dig and haul the same at great cost and expense to plaintiff over what he would have been compelled to pay had defendants fulfilled their said • contract.
+“Plaintiff was also put to much time and expense in finding the said earth with which to fill said lot of said Hartupee in order to fulfill his contract with him.
+“Plaintiff is further damaged by reason of the breach of ■said contract by defendants, in that he had contracted with •one Harpster for a large amount of earth, to-wit: 513 wagon loads, which cost plaintiff to haul and deliver to the .■said Harpster six cents per load more than it would have cost had said defendants fulfilled their contract, and allowed and permitted plaintiff to remove their said bank of earth as ■aforesaid.
+“An itemized account of the loss and damage sustained by plaintiff by reason of the said breach of contract by the defendants, is hereto attached, marked “Exhibit A” and made a part hereof, the full amount of the same being ■$410.83.
+“Wherefore plaintiff prays judgment, etc.”
+It will be observed that nowhere does the pleader state 'that he had informed the defendants in any manner or form of the purposes for which he intended to use this earth, or •that he was to use it to fulfill any contracts whatever. The work was never done, and, although the question is not ■raised, it seems to me that the petition does not state a cause of action against the defendants. The bill which he makes up for this work is as follows:
+-Contract price with Detwiler, $50.00
+"Contract price with Frank Hake and D. Harpster, 25.00
+Cost to fill lot of G. Hartupee, shovellers and teamsters, $542.95
+Lost time of self and son, 42.00
+•Labor of self and son, 144.00
+$728.95
+Credit:
+Gash from Hartupee, $398.90
+Gash from Worall, removing eartb, 25.00 $423.90
+Loss on job $305.05 $305,05'
+513 loads of earth toHarpsterat six cents a load extra cost, 30,78'
+Total damage, • $410,83-
+In his testimony, which is given in the case, plaintiff states that he went to the Detwilers and told them that he-wanted to get this earth, and that they had some talk in regard to the matter, and Detwiler agreed to meet him later upon the premises. They then met upon the premises,and* he claims that Detwiler agreed to give him $50 to remove-the earth. There was a dispute between them, however, as to whether a certain privy which stood upon the premises should be removed also by Mr. Welever, and upon that incident of the agreement they divided, and the contract was given to another. But he states in his testimony in regard to it as follows:
+“Q. Did you tell him anything about your making an-arrangement to put this earth elsewhere? A.- Yes, when he says to me, ‘You can commence on there in ten days, or as soon as I get back, in ten days, I will move the house, give the job to a house mover. ’ Well, now,’ says I, ‘1 want to make a contract with another man: I want to be sure I-will have the placing of this earth’. He says, ‘Whatever, you like, do whatever you like with that bank, but the earth is yours, now, cut it down until I tell you to stop, put it where you like, make any contract you want to, this bank is yours, ’ ‘I know I am not mistaken: it is yours.’ Then-I went and made by contract for this bank of earlh to put it, into this hole. ”
+-Now," if this was a mere contract to remove the earth,perhapsno question would be raised as to whether it was; within the statute of frauds. But we are clearly of the ■opinion, from the statement made by plaintiff as a part of his testimony, that the consideration of fifty dollars for removing the earth was a small part of his contract, and the real thing that he expected to obtain was earth, as a part ■of this lot. It was out of the earth itself, which was to be his, that he expected to make his profit by re-selling it or using it in refilling other lots, for which he was to get a -compensation. So that we are constrained to hold that the substance of the contract was the sale of the earth itself- — • the fifty dollars to be paid him for removing it was simply incidental, and not the main consideration of the contract,
+Now, whether this is within the statute of frauds, we think is a question that is very largely decided for us in the case of Hirth v. Graham, 50 Ohio St., 57, recently decided by the supreme court of this state. In that case the question arose in regard to the sale of some standing timber— whether or not the sale was within the statute of frauds. 'The court say, in the second syllabus:
+“A sale of standing timber, whether or not the parties contemplate its immediate severance and removal by the vendee, is a contract concerning an interest in lands, within the meaning of the statute of frauds, and is voidable by either party if not in writing.”
+That case was first tried before a justice of the peace,and came up from that court. A request was made to the justice to instruct the jury that “if they find from the evidence that the trees about which this action is brought were at the time of said alleged contract then growing upon the land of defendant, and that no note or contract or memor•andum of the contract of sale was at the time made in writing, the plaintiff cannot maintain this action, and your verdict should be for the defendant”; which instruction the justice refused to give, but on the contrary gave '■them the following instruction on the subject:
+“This is an action for damage, not on the contract, nor to enforce the same, and if you find that a contract was made verbal or otherwise, and the defendant refused or failed to comply with its terms, the plaintiff is entitled to any damage you may find him to have sustained by way of •such non-compliance. ”
+There is quite an extensive opinion by Bradbury, Judge, the announcement of the opinion of the court occupying ■seveial pages, and the question is very fully discussed as to whether the statute of frauds is applicable to a case of that kind, that class of cases. It is shown that in some states of this Union the courts hold that the statute of frauds is not applicable; but in a large majority of states the statute is applicable, and the opinion proceeds to say:
+“The question is now for the first time before this court for determination; and we are at liberty to adopt that rule on the subject most conformable to. sound reason. In all its other relations to the affairs of men, growing timber is regarded as an integral part of the land upon which it stands; it is not subject to levy and sale upon execution as chattel property; it descends with the land to the heir, and passes to the vendor with the soil. Coal, petroleum, building stone,and many other substances constituting integral parts of the land, have become articles of commerce, and easily detached and removed, and, when detached and removed,become personal property, as well as fallen timber; but no case is found in which it is suggested that sales of such substances with a view to their immediate removal, would not be within the statute. Sales of growing timber are as likely to become the subjects of fraud and perjury, as are the other integral parts of the land, and the question whether such sale is a sale of an interest in or concerning lands,should depend not upon then intention of the parties, but pp on the legal character of the subject of the contract, which,in the case of growing timber,is that of realty.”
+See also unreported case of Lithgow v. Shook, 39 Law Bulletin, 39.
+Now', holding this to be a sale of a portion of the real estate, a sale of a portion of the land itself, we are clearly of the opinion that it falls within the statute of frauds, and-that the contract being verbal, no recovery could be based upon it, and the court of common pleas was therefore right in directing the jury to return a verdict in favor of the defendants, and the judgment of the common pleas will therefore be affirmed.
+Surd, Brumback & Thatcher, for Plaintiff in Error.
+King & Tracy, for Defendant in Error.
