@@ -1,0 +1,61 @@
+---
+court: "Ohio Court of Claims"
+docket: "97-02682"
+decided: "2000-10-20"
+citations: ["115 Ohio Misc. 2d 11"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["FRED J. Shoemaker, J., retired, of the Franklin County Court of Common Pleas, sitting by assignment."]
+parties: ["BETSCHER et al. v. UNIVERSITY OF CINCINNATI HOSPITAL."]
+source_url: "https://static.case.law/ohio-misc-2d/115/cases/0011-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6708433
+cites_cases: ["116 Ohio App.3d 595", "346 N.E.2d 673", "46 Ohio St.2d 127", "688 N.E.2d 1078", "75 O.O.2d 184"]
+---
+
+# Betscher v. University of Cincinnati Hospital
+
+## Majority (Fred J. Shoemaker, Judge.)
+
+Decision on Liability
+Fred J. Shoemaker, Judge.
+Plaintiffs, Charles and Ruth Betscher, bring this claim sounding in medical negligence. A trial was held by the court on the sole issue of liability. Defendant denies liability.
+In April 1986, plaintiff, Charles E. Betscher, began experiencing weakness in his left leg and developed a general body weakness. He was treated by Thomas R. Brott, M.D., a board-certified neurologist, who was an employee of defendant, University of Cincinnati Hospital. On August 16, 1986, Dr. Brott obtained a CT scan with contrast of plaintiffs brain. The scan revealed a tumor, and plaintiff was diagnosed with meningioma involving the falx cerebri.
+On September 10, 1986, Dr. Tew, a neurological surgeon, performed a surgical craniotomy on plaintiff. Dr. Tew advised plaintiff and Dr. Brott that he had performed a complete excision of a benign meningioma. After Dr. Tew’s post-op follow-up, plaintiffs case was returned to Dr. Brott.
+Thereafter, plaintiff made substantial improvement both physically and mentally. However, in late 1989 and early 1990, plaintiff reported to Dr. Brott that he was experiencing new symptoms, including sudden weakness, right side pain, pressure behind his eyes, and “baseball-bat-like” pain. Dr. Brott did not obtain CT scans with contrast to ascertain whether the meningioma had recurred. Plaintiff continued treatment with Dr. Brott until October 10, 1994, when plaintiff experienced a seizure necessitating emergency.treatment at Kettering Memorial Hospital (“Kettering”) in Dayton, Ohio. At Kettering, the first CT scan without contrast ruled out stroke and failed to indicate any presence of tumor. However, when a neuro-imaging scan with gadolinium (CT scan with contrast) was administered the next day, multiple brain tumors were observed. Plaintiffs condition was then diagnosed as recurrent meningiomas with multiple lesions. The surgical pathology report indicated that plaintiff now had multiple “atypical” type tumors.
+To establish a claim of medical malpractice, plaintiffs must show the existence of a standard of care within the medical community, a breach of that standard of care by defendant, and a proximate causal connection between the medical negligence and the injury sustained. Taylor v. McCullough-Hyde Mem. Hosp. (1996), 116 Ohio App.3d 595, 599, 688 N.E.2d 1078, 1080, citing Bruni v. Tatsumi (1976), 46 Ohio St.2d 127, 131-132, 75 O.O.2d 184, 186-187, 346 N.E.2d 673, 677-678. These elements must be established by expert testimony unless the negligent conduct is so apparent as to be within the comprehension of laymen, requiring only common knowledge and experience to understand and judge it. Bruni, 46 Ohio St.2d at 130, 75 O.O.2d at 186, 346 N.E.2d at 676-677.
+Both parties presented outstanding neurologists as experts. Dr. Kenneth C. Fischer testified on behalf of plaintiffs and Dr. John Conomy testified for defendant. Both expert witnesses agree that Dr. Brott was negligent in his care and treatment because, he failed to conduct annual effective imaging (CT scan with contrast), which would, and should, have demonstrated the recurrence of the meningiomas. As stated from the bench, the court finds that Dr. Brott was negligent.
+The dispositive issue in this case is whether Dr. Brott’s negligence was a proximate cause of injury to plaintiff and, if so, to what degree. Since this was a trial on liability and proximate cause only, the court ordinarily would state only yes or no on the proximate cause issue. However, the parties have requested that the court be more specific in this case because of the conflicting testimony of the expert witnesses.
+Dr. Fischer testified that Dr. Brott should have diagnosed the recurrence of the tumor between 1990 and 1992. According to Dr. Fischer, there were several treatment options available at that time, including surgical excision of the tumor and/or radiosurgery. Radiosurgery is a concentrated X-ray beam, which, in many cases, eradicates the tumor. He further opined that had the tumor been diagnosed in 1991 or 1992, it could have been removed successfully, and plaintiff would have been relatively symptom-free and unimpaired.
+Dr. Conomy testified that Dr. Brott’s lack of diligence was not the proximate cause of plaintiffs injuries because plaintiffs condition was incurable based on the location, biology, and natural history of the tumor. However, the court finds that while a timely diagnosis would not have been a complete cure for the recurring meningiomas, it would have given plaintiff options that could have substantially improved both his physical and mental health and extended his life expectancy. Based on the totality of the evidence, the court finds that Dr. Brott’s negligence was a proximate cause of injuries to plaintiffs. Therefore, judgment will be rendered in favor of plaintiffs on the issues of liability and proximate cause.
+The court directs the clerk to expedite a trial on the issue of damages.
+Judgment Entry on .Liability
+On June 19-23, 2000, this action was tried to the court on the sole issue of liability. The court has considered the evidence and rendered a decision filed herein. Judgment is rendered for plaintiffs. The clerk is directed to set this matter for an expedited trial on the issue of damages.
+[December 23, 2000]
+Judgment accordingly.
+FRED J. Shoemaker, J., retired, of the Franklin County Court of Common Pleas, sitting by assignment.
+SETTLEMENT AGREEMENT
+1. This agreement is made between Charles and Ruth Betscher, hereinafter the plaintiffs, and the University of Cincinnati, hereinafter the defendant.
+2. The plaintiffs have asserted claims against the defendant in an action now pending in the Court of Claims, entitled Charles Betscher et al. v. University of Cincinnati, and identified as Ohio Court of Claims case No. 97-02682.
+3. This agreement is made as a compromise between the parties for the complete and final settlement of their claims, differences, and causes of action with respect to the dispute described above.
+4. It is understood by the plaintiffs and the defendant that the facts upon which this agreement is made may hereafter prove to be other than or different from the facts now known by either of them or believed by either of them to be true. Each of the parties hereto expressly accepts and assumes the risk of the facts proving to be so different, and each of the parties hereto agree that all the terms of this agreement shall be in all respects effective and not subject to termination or rescission by reason of any such difference in facts.
+5. The parties agree that the terms of this compromise and settlement agreement bind the parties hereto, and their assigns and successors in interest.
+6. The plaintiffs understand that this settlement is a compromise of disputed claims and [that] payment thereof is not to be construed as an admission of liability on the part of the defendant.
+7. This Settlement Agreement and Release of All Claims contains the entire agreement between the parties with regard to the matters set forth herein. There are no other understandings] or agreements, verbal or otherwise, in relation thereto, between the parties except as expressly set forth herein.
+8. In consideration of the mutual covenants set forth herein, the parties agree as follows:
+A. Defendant, University of Cincinnati, agrees to pay the plaintiffs, Charles and Ruth Betscher, the sum of Eight Hundred Thousand and No/100 Dollars ($800,000.00), pursuant to Section 2743.19, Ohio Revised Code. No interest on this amount shall be paid. No representation is made by the defendant as to the tax consequences of payment of the amount specified in this paragraph.
+B. The plaintiffs agree that all claims, demands, rights, causes of action, costs, loss of services, expenses, and any and all other damages on account of, or in any way arising out of the actions or inactions of defendant, their officers, employees, servants, or agents, during or arising out of the incident described in the complaint in the Court of Claims, case No. 97-02682, be released, settled, satisfied, discharged and compensated.
+9. The plaintiffs agree to be bound by a journal entry dismissing with prejudice the above-described claim known as Ohio Court of Claims case No. 97-02682 and the attached release of all claims.
+10. The parties hereto acknowledge and agree that this agreement shall not be binding on any of the parties until it has been duly presented to the Ohio Attorney General, as required by Section 2743.15(A), Ohio Revised Code, and Rule 7(A) of the Rules of the Court of Claims, for the Attorney General’s approval, and the Ohio Attorney General has approved the agreement. The parties further acknowledge that the signature of the Special Counsel to the Attorney General on this settlement is on behalf of defendant and is not to be construed as the approval of the Attorney General. If the Attorney General shall fail or refuse to approve the settlement, this agreement shall be null and void and without any force or effect, and none of the parties shall be bound thereby.
+11. The parties hereto acknowledge and agree that this agreement shall not be binding on any of the parties until it has been duly presented to the Ohio Court of Claims as required by Section 2743.15(A), Ohio Revised Code, and Rules 7(A) and (B) of the Rules of the Court of Claims, for the court’s approval, and the court has approved the agreement. If the court shall fail or refuse to approve the agreement, this agreement shall be null and void and without any force or effect, and none of the parties shall be bound thereby.
+12. The undersigned have read this Settlement Agreement, understand all its terms, if signing on behalf of a principal, have authority to sign settlement documents on its behalf, and have executed this Settlement Agreement voluntarily-
+[Signatures of plaintiffs and counsel omitted.]
+RELEASE OF ALL CLAIMS
+The undersigned, Charles Betscher and Ruth Betscher, in consideration of the sum of eight hundred thousand and no/100 Dollars ($800,000.00), to be paid pursuant to Section 2743.19(C), Ohio Revised Code, and in settlement of Ohio
+Court of Claims case No. 97-02682, entitled Charles Betscher et al. v. University of Cincinnati, voluntarily and knowingly execute this Release with the express intention of effecting the extinguishment of obligations herein designated.
+The plaintiffs, Charles Betscher and Ruth Betscher, do hereby release, hold harmless from any liability, and forever discharge the state of Ohio and University of Cincinnati, their agents, servants, employees and officers, personally and in any other capacity, from any and all claims, actions, causes of action, demands, costs, loss of services, expenses, and any and all other damages which the undersigned ever had, now have, or may have, or claim to have'against the State of Ohio or University of Cincinnati, or their agents, servants, employees or officers, on account of or in any way arising out of the incident stated in the complaint filed in Ohio Court of Claims case No. 97-02682.
+This Release and the Settlement Agreement constitute the entire agreement between the parties hereto, and the terms of this Release are contractual and not a mere recital.
+IN WITNESS WHEREOF, I have hereunto set my hand this [23rd] day of [December], 2000.
+[Signatures of plaintiffs and notary omitted.]
+. "Plaintiff” shall be used to refer to Charles Betscher throughout this decision.
