@@ -1,0 +1,37 @@
+---
+court: "Hamilton County Court"
+decided: "1916-07-14"
+citations: ["26 Ohio C.C. (n.s.) 229"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jones (Oliver B.), J., and Gorman, J., concur."]
+parties: ["Neave Building Company v. William A. Roudebush, Administrator of Clarence Henson."]
+source_url: "https://static.case.law/ohio-cc-ns/26/cases/0229-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1604708
+---
+
+# Neave Building Co. v. Roudebush
+
+## Majority (Jones (E. H.), P. J.)
+
+Jones (E. H.), P. J.
+This is a proceeding in error brought to reverse the judgment of the common pleas court. It is the second time the ease has been in this court. It was originally brought for damages on account of the death of Clarence-Henson, who was a window cleaner, and who, it is alleged, met his death on January 6, 1911, by falling out of a third-story window in the Neave Building in Cincinnati, Ohio.
+The petition alleges that while engaged in his employment as a window cleaner he fell to the ground, and that his fall was due to the negligence of the Neave Building Company in three •particulars: first, in not providing some suitable safety device, as required by the following ordinance of the city of Cincinnati:
+"In every fireproof or semi-fireproof building now in existence or hereafter erected, every window above the second story thereof shall be equipped with a suitable device which will permit the cleaning of the exterior of such windows without endangering life and .limb. Provided, however, that such device need not be placed on any window that can be easily cleaned from within.”
+- Second, that the defendant was negligent in ordering plaintiff to proceed to wash the windows, after he bad complained that there was snow on the window sills which made it dangerous for him to do so. And, third, that his employer did not provide sufficient help for him, so as to give him sufficient time to safely clean his windows.
+At the trial now under review the chief controversy seems to have been over the question as to whether or not the ordinance above quoted had been complied with. In this connection we may say that we think that there was no .error on the part of the trial court in charging that the violation of this ordinance on the part of the Neave Building Company would constitute negligence per se. This was the theory upon which the plaintiff evidently relied, and which the trial court adopted. If the special charge which the court gave at the request of plaintiff, to the effect that the violation of the ordinance was negligence, was in itself wrong, then of course the whole ease falls.
+After careful consideration we are of the opinion that the charge given upon this point was in accord with the recent decision of our Supreme Court in the case of Schell v. Dubois, Admr., 94 O. S.,-, decided March 3, 1916. The second paragraph of the syllabus of the case just referred to is as follows:
+‘ ‘ The violation of a municipal ordinance passed in the proper exercise of the police power in the interest' of public safety and not in conflict with general laws, is negligence in itself, and where such act of negligence by a defendant is the direct and proximate cause of an injury not contributed to by want of due care on tbe part of tbe injured .person, tbe defendant is liable.”
+Tbe court having charged upon this branch of the ease correctly as we think, it remained for the jury to decide whether or not the ordinance had been observed by the employer in this particular ease. And this question in turn involved other questions of fact the determination of which was exclusively within the province of the jury. The jury having returned a verdict in favor of the plaintiff, it necessarily follows that they found that the windows in the Neave Building were not easily cleaned from within, and that the device known as “Exhibit No. 3” in this record was not a suitable one.
+These, together with the question of proximate cause, were the main questions of fact to which the evidence adduced at the trial was addressed. The general verdict of the jury was, as we think, reinforced by the answers to -certain interrogatories propounded by both sides. Upon these questions it can not be said with any degree of sincerity that there is no evidence in the record to support the verdict of the jury.
+It is claimed that the superintendent of the Neave Building asked Mr. Henson, at the time he employed him, whether or not he wanted to use a safety belt, or the safety device above referred to, and that Henson replied in the negative. If, however, the ordinance had not been observed by providing a suitable safety device, the answer of Mr. Henson thus given would in no wise excuse the violation of the ordinance, nor would it change the rule as announced by our Supreme Court, that its violation constituted negligence per se.
+The evidence of the superintendent of the building, found on page 96 of the recoid, shows that Henson, when he fell, was engaged in washing the window in Room 203 of the third floor of the Neave Building, and his evidence together with that of Beimeseh supply a want of evidence which this court found to exist when a judgment in favor of the administrator, in this case, w'afe some time ago reversed.
+There is evidence, also, to show that Mir. Henson complained that the snow on the window sills at that time made it dangerous for him to attempt to clean the windows and that he was told by the superintendent that the windows had to be cleaned anyway. We fail to find anything in the charge of the court touching upon these allegations of the petition or the evidence in support thereof. There was no complaint from either side about this omission, which was not prejudicial to plaintiff in error.
+It having been proven to the satisfaction of the jury that Henson met his death as alleged in the petition, by falling out of the window while engaged in his work, we are of the opinion that this evidence is entitled to weight, and to be considered as additional support for the verdict of the jury and the judgment rendered thereon.
+There is a conflict in the evidence with reference to the devices, Exhibits Nos. 3, 3a and 4, which were shown to have been owned by the Neave Building Company and somewhere in the building at the time of the death of Henson, although not in use. The jury heard and passed upon this evidence, and, from their verdict, must have found that the platforms were not suitable devices, taking into consideration the building upon which they were to be used and the manner of occupancy thereof.
+Without further commenting upon the evidence in this case, it is sufficient to say that there is evidence to support at least two of the grounds of negligence set up in the petition, viz., the violation of the ordinance, and the order from the superintendent to proceed to wash the windows notwithstanding the complaint of Henson with reference to snow on the sills.
+We find no errors in the admission or rejection of evidence prejudicial to the party herein complaining, and that the special charges given, taken in connection with the general charge, constitute a fair and substantially correct pronouncement of the law applicable to the issues in the case.
+Finding no errors, and that substantial justice has been done, the judgment will be affirmed.
+Jones (Oliver B.), J., and Gorman, J., concur.
