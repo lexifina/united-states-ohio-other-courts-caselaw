@@ -1,0 +1,33 @@
+---
+court: "Hamilton County Circuit Court"
+decided: "1906-01-11"
+citations: ["7 Ohio C.C. (n.s.) 313"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Swing, J. • Jelke, J., and Gifeen, J., concur."]
+parties: ["Hadley et al v. Ellis & Company et al."]
+source_url: "https://static.case.law/ohio-cc-ns/7/cases/0313-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1803463
+---
+
+# Hadley v. Ellis & Co.
+
+## Majority
+
+This action is here on error to the judgment of the court of common pleas of this county. In that court Ellis & Company brought an action, alleging in substance that it had entered into a contract with Hadley and others, Commissioners of Washington County, Ohio, for the building of a court house at Marietta, Ohio, and that the work was completed. The petition further alleges that it sublet certain portions of the work to the Paige Concrete Fire Proofing Company, who in turn sublet to the Ransome Concrete Company, who in turn sublet certain parts to the Champion Iron Works. That the said Champion Iron Works have filed with the Auditor of Washington County a mechanics’ lien for the sum of $2,368 for work and material: furnished by it in the construction of said court house.
+The plaintiff alleges that there is only due by it to the Ran-some Company the sum of $1,613.97, leaving a balance due it of $754.03. It asks that all the defendants may be made parties, and the rights of the several parties to said fund may be determined.
+The parties to the action are the Ransome Company, the Champion Iron Company (of Kenton, Ohio), and the Commissioners of Washington County.
+'The Commissioners of Washington County filed an answer in which they allege that the Champion Iron Works had filed a mechanic’s lien in a proper way, claiming that there was due it the sum of $2,368; that it had notified the plaintiff and the Ransome Company of the filing of the same,, and thát both parties had disputed the claim, and that it had therefore retained said sum out of the amount due the plaintiff on its contract; that it still held said sum and was willing to pay it to whomsoever the court might find entitled to it, or to pay it into the hands of the court, if so ordered, and asked to be protected. The commissioners further set up that an action was pending in Washington county between said several parties as to said sum of $2,368.
+The Ransome Company filed an answer admitting the allegations of the petition as to matters between it and the plaintiff.
+The Champion Iron Works filed a motion to quash the service of summons on it, which on hearing, the court sustained, and the Champion Iron Works, therefore, are now out of the ease.
+After this, the court on motion of the plaintiff for judgment on the pleadings, rendered judgment against the commissioners for the sum of $754.03, as claimed in the petition.
+Was the court justified in rendering such a judgment?
+The petition and answers disclose this state of facts: A contract for the building of the court house; its completion; a balance due on the same of $2,368; of this sum the plaintiff claimed $754.03, and the Ransome Company $1,613.97, both plaintiff and the Ransome Company agreeing to this; the Champion Iron Works claiming it all, and Washington county, by its commissioners, admitting it owed this amount on the contract, and asserting that the other parties all claimed it ■and were disputing each other’s claims, and saying that it stood ready to pay the sum to whom the court should find entitled to it. The Champion Iron Works goes out of the case.
+A glance at the pleadings shows that in order to determine the rights of the parties claiming this fund, the Champion Iron Works was a necessary party. In fact, according to the pleadings, the claim of the Champion Iron Works was the only controversy in the case, and was the matter upon which the court could be called upon to pass. It was the gist of the action and was the only ground upon which it was possible to bring the Commissioners of Washington County to this forum. If it had not been for the claim filed according to law by the Champion Iron Works, the same would have been paid to Ellis & Company. There was no controversy between- Ellis & Company and the commissioners. There was nothing to try or adjudicate between them, but there was a question between the Champion Iron Works and the plaintiff, and the Ransome Company, and by reason of that fact, the Commissioners of Washington County were necessary and proper parties, not in an adversary character, but in order to render complete and necessary justice; in other words, having admitted the debt due to some of those claiming it, the court having found who was rightfully entitled to the same, could direct the commissioners to whom it should be paid.
+Without determining the only question raised, viz., who of these three parties is entitled to this fund, the court rendered judgment on the pleadings against the commissioners, and in favor of the plaintiff. We are unable to find anything in the pleadings which authorizes such judgment.
+It is apparent from the pleadings, that after the Champion Iron Works got out of this action, that it might maintain an action in an other forum and there have determined the very question which the petition in this ease sought to have determined, viz., who, as between plaintiff, the Champion Iron Works, and the Ransome Company, was entitled to this fund, admitted to be due by the commissioners; and any judgment rendered in this action would be no bar to any judgment rendered by. the court in the action instituted by the Champion Iron Works. And the record discloses that this is just what was done. For the Champion Iron Works brought an action, making all the parties in this action defendants, and had determined in that action that it was entitled, to the whole amount of this fund, to-wit, $2,368, together with interest. The result must be, if the judgment in this case stands, that the Commissioners of Washington County will have to pay the money twice, and this through no fault of theirs; instead of being equitable, this would be inequitable.
+Wm. H. Sheldon, Prosecuting Attorney, for plaintiff in error.
+Louis J. Dolle, Harper & Allen and Brenan & Middleswarb, contra.
+We think the court of common pleas was in error in rendering judgment in favor of the plaintiff and against the commissioners, and this is shown by the pleadings, whether the court considered the amendment to the answer of the commissioners or not, for the reason that when the Champion Iron Works went out of the ease, it left nothing to be determined against the commissioners.
