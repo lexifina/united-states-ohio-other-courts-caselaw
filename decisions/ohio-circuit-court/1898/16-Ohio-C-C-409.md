@@ -1,0 +1,38 @@
+---
+court: "Ohio Circuit Court"
+decided: "1898-01"
+citations: ["16 Ohio C.C. 409"]
+reporter: "ohio-cc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Cox, Smith and Swing, JJ."]
+parties: ["PARKS v. THE ENQUIRER COMPANY."]
+source_url: "https://static.case.law/ohio-cc/16/cases/0409-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 408428
+---
+
+# Parks v. Enquirer Co.
+
+## Majority (SwiNG, J.)
+
+SwiNG, J.
+This case is in this court on error to the judgment of the court of common pleas. Parks brought suit in that court against the Enquirer Company for an alleged libel.
+The petition contained the averments that one Mary Olay obtained a judgment against plaintiff under the name of L, F. Parks for the sum of $20.50 in a suit for wages due her, tried before Philip Winkler, Esq., justice of the peace in the city of Cincinnati, on March 10, 1894.
+That the defendant on March 11, 1894, at Cincinnati, Ohio,published in the “Cincinnati Enquirer”,a daily newspaper of general circulation, concerning said trial the following article, to-wit: Mrs. Mary Clay, a woman 70 years of age, sued L. F. Parks, a Colerain avenue machinist, for $20.50, alleged to be for services as housekeeper. Parks put in a counterclaim for presents to Mrs. Clay’s granddaughter, but Squire Winkler refused to consider the claim and gave the judgment for Mrs. Clsy. The aged plaintiff stated in her testimony that Parks discharged her because she did not make corn cakes to his liking. She also said that Parks tried to abduct her granddaughter, a girl of 14 years, and that he wrote the latter sentimental letters asking her to visit his Kentucky home.”
+The defendant meant by said article aforesaid that at the said trial of Clay v, Parks it appeared in evidence that plain, tiff therein, Louis F, Parks, had tried to abduct the fourteen year old granddaughter of Mary Clay, and had written sentimental letters to said granddaughter asking her to visit Louis F. Parks, plaintiff herein; had also tried to off-set against Mary Olay’s claim for services the value of gifts which Parks had given to said granddaughter.
+That no such evidence was adduced at said trial, “and that said publications are in these particulars false, malic, ious and libelous.”
+Then follow certain allegations as to damage, and sa prayer for judgment.
+The Enquirer Company filed an answer, in which it admitted the publication complained of, and for its defense said that it prints and circulates a daily newspaper known as “The Enquirer;” “that on or about March 10, 1894, there was a certain cause entitled Mary Olay v. L. E. Parks, duly and regularly tried before Philip Winkler, a justice of the peace duly and regularly elected and qualified as such in and for the township of Cincinnati, Hamilton county, Ohio, in which trial Mary Olay recovered a judgment against the plaintiff in this action, L. F. Parks, in the sum of twenty dollars and fifty cents, with attorney’s fees. Defendant says that said article complained of was printed by defendant bona fide and without malice for the public benefit and in the usual course of defendant’s business and duty as a' public journalist, and is a correct, fair, impartial and honest report of the proceedings had in and at such trial.” Then followed a general denial of the averments of the petition.
+Plaintiff filed a reply saying that he “denies that the article complained of is a correct, fair, impartial and honest report of the proceedings had in and at said trial of Mary Clay v. L. F. Parks, but on the contrary alleges that said article is false, malicious and defamatory, as pleaded in plaintiff’s amended petition.”
+On the trial of the case the plaintiff offered evidence tending to prove the circulation of the paper among his acquaintances; that it had given him great mental suffering; that he had quit going to church, and that by reason of the publication his arrangement for boarding with a family at Bond Hill had been broken off, and other evidence tending to show damage to him; but no evidence of any kind was-introduced which tended to show that the publication ■ was false or malicious, or that it was not a fair and impartial account of the evidence at the trial. At the conclusion of the plaintiff’s evidence the court, on the motion of the defendant, directed the jury to return a verdict for the defendant. The single question here is, was this error.
+Is the plaintiff bound to show that the publication was false and malicious, as he charged in his petition, or is the burden cast on the defendant to prove that the publication was honest, fair and impartial, as it alleged in its answer?
+It is not my purpose to cite or review authorities at length bearing upon this question, and I will content myself by stating dogmatically what I understand the law to be.
+In the first place, all trials in our courts, except when in ■certain cases it would be against the public morals, are open to the public, and the proceedings had on these trials newspapers are privileged to publish, The only limitation placed upon them is that what they publish must be a fair, impartial and honest report. The publication of the proceedings of a public trial must therefore be in the nature of a privilege, subject to the limitation that it be fair and impartial. If fair and impartial, there is no libel, and therefore no liability; if false and malicious, liability arises. If liability for damages only arises from a false and malicious publication, it would seem reasonable and logical that the person seeking to recover damages for such a publication should allege that the article was false and malicious, and it would follow that if necessary to be alleged it would be necessary fo be proved. The pleader in this action must have taken this view of the law, for he averred in his petition that the publication was false and malicious; but upon the trial he contended that it was not necessary for him to prove these averments.
+In the case of Nolan v. Kane, 13 C. C. Rep., 485, this court said in regard to a communication which was held to be in its nature a privileged one:
+“This communication was in its nature a privileged one. The citizen,if he acts in good faith and in a reasonable way, is protected; as a citizen,he is interested in the public welfare. He not only has the right,but it is his duty as a citizen to communicate to the appointing power whatever he knows for good or ill concerning one who is an applicant for the position as teacher, and when such communications are made in good faith,the citizen is protected even though the statements contained in the communication be not true. No authorities need be cited to sustain this well settled principle of law. In order to create a liability of the citizen for the making of a communication under such circumstances,it is not only necessary to show the falsity of such utterances, but that it was done from malice. If either of these elements is lacking, there can be no recovery.”
+Cox and Smith, JJ., concur,
+D.P. Wayne, and Wright & Wright,for the Plaintiff in Error.
+Alex. Murry, Jr., for the Defendant in Error.
+The cases are alike in this, that the communications are in their nature privileged. That is,not absolutely privileged, but only when honestly and fairly made. In this case the publication was concerning what occurred at a trial in court It was alleged to be false and malicious. If not false and malicious, the plaintiff could not recover. He offered no proof to show its falsity or maliciousness; therefore there could be no recovery, and the court did right in directing a verdict for the defendant.
+Judgment affirmed,
