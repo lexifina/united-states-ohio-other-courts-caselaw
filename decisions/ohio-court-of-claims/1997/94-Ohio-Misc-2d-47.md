@@ -1,0 +1,32 @@
+---
+court: "Ohio Court of Claims"
+docket: "95-08934"
+decided: "1997-05-08"
+citations: ["94 Ohio Misc. 2d 47"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Russell Leach, J., retired, of the Franklin County Municipal Court, sitting by assignment."]
+parties: ["SMALLWOOD v. OHIO DEPARTMENT OF REHABILITATION AND CORRECTION."]
+source_url: "https://static.case.law/ohio-misc-2d/94/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6710412
+cites_cases: ["20 OBR 166", "20 Ohio App.3d 132", "21 O.O.3d 177", "423 N.E.2d 467", "485 N.E.2d 287", "588 N.E.2d 1129", "61 Ohio Misc.2d 699", "67 Ohio St.2d 282"]
+---
+
+# Smallwood v. Ohio Department of Rehabilitation & Correction
+
+## Majority (Russell Leach, Judge.)
+
+Russell Leach, Judge.
+In his complaint, plaintiff, Norman Smallwood, alleges that defendant, Department of Rehabilitation and Correction, is responsible for injuries he sustained when a corrections officer negligently kicked him in the leg when she attempted to wake him. Defendant denies any liability to plaintiff. The court held a trial in this matter upon the sole issue of liability at the Warren Correctional Camp (“WCC”), located near Lebanon, Ohio.
+At approximately 4:30 a.m. on Friday, August 20, 1993, plaintiff awoke and went to his work assignment at the WCC kitchen. He worked straight through breakfast and lunch before returning to his dormitory “cube” to take a nap at approximately 2:45 p.m. At approximately 3:30 p.m., Corrections Officers (“C.O.”) Donna Walker and Van Hewitt were conducting the afternoon “count” of the inmates. It is from this point in time that plaintiffs claim against defendant arises and the trial witnesses’ recollections of the events begin to differ.
+Plaintiff testified that he was awakened when he felt something on his left leg; specifically, on the outside portion of his left knee. He rolled over and saw C.O. Walker standing in the opening of his cube yelling, “Count time.” He cursed at her and she walked away. After the count, plaintiff informed Fred Johnson, a WCC case manager, that C.O. Walker had kicked him. Johnson told plaintiff to go to work and he would talk to C.O. Walker. Plaintiff also complained to C.O. Hewitt, who stated that he had not seen the alleged incident. Plaintiff did not immediately report to the captain on duty or ask to go to the infirmary because the captain had a personal relationship with C.O. Walker. Plaintiff eventually reported to the WCC infirmary that following Saturday night. Lieutenant J.D. McIntosh took pictures of plaintiffs leg. Plaintiff further testified that as a result of his injury, his left leg swelled immediately and remained swollen for over a week and that he could not participate in sports for three weeks.
+Inmate Bruce Armstead, who was housed in a cube near plaintiff, witnessed the incident in question. He testified that during the 8:30 p.m.. count, C.O. Walker came to the opening of plaintiffs cube where he lay asleep. She raised her foot off the floor and made contact with plaintiffs body. Plaintiff immediately awakened and “had words” with C.O. Walker.
+C.O. Hewitt, who accompanied C.O. Walker during the August 20, 1993 afternoon count, testified that he did not see C.O. Walker kick plaintiff, but heard a sound that would have been consistent with a boot hitting a metal bed. He further testified that inmates are responsible for standing at count time and that it would not be unusual to kick an inmate’s bed, not his person, to awaken him from a sleep.
+C.O. Walker testified that while conducting the 3:30 p.m. count on August 20, 1993, with C.O. Hewitt, she came upon plaintiff sleeping in a bottom bunk in his cube. She called his name two or three times, but he did not respond. She then kicked at the bottom portion of plaintiffs bed. At the time, she was wearing a “high-top gym shoe/boot.” She further testified that she did not make contact with plaintiffs person and that the contact 'she made with his bunk did not make a noise.
+Plaintiffs claim in this case is premised upon a theory of negligence. In order for plaintiff to prevail upon his claim of negligence, he must prove by a preponderance of the evidence that defendant owed him a duty, that defendant breached that duty, and that the breach proximately caused his injuries. Strother v. Hutchinson (1981), 67 Ohio St.2d 282, 21 O.O.3d 177, 423 N.E.2d 467. Ohio law imposes a duty of reasonable care upon the state to provide for its prisoners’ health, care, and well-being. Clemets v. Heston (1985), 20 Ohio App.3d 132, 136, 20 OBR 166, 169-170, 485 N.E.2d 287, 291-292. However, the state is not the insurer of inmate safety. See Williams v. Ohio Dept. of Rehab. & Corr. (1991), 61 Ohio Misc.2d 699, 702, 588 N.E.2d 1129, 1131-1132. Therefore, the question before the court is whether C.O. Donna Walker breached the duty of reasonable care owed to plaintiff under the circumstances of this case.
+The court is of the opinion that C.O. Walker honestly believes that she did not make contact with plaintiffs person when she kicked at his bed to wake him up for the afternoon count on August 20, 1993. Nevertheless, the court finds, based upon a totality of evidence, that more likely than not she did strike plaintiff with her boot when she kicked at his bed. The court finds that C.O. Walker was negligent in striking plaintiff in the knee, and this proximately caused him injury. The extent of plaintiffs injury attributable to C.O. Walker’s actions shall be determined in the damages phase of this trial. Accordingly, judgment shall be rendered in favor of plaintiff.
+Decided July 29, 1998
+On January 30, 1998, this case came for trial to determine the nature and extent of the damages directly and proximately caused by defendant’s negligence. Upon review of the documents and pleadings in the case file, evidence at trial, and the respective presentations by both parties, the court finds that plaintiff has suffered a disabling injury, but that such injury does not have a significant effect upon plaintiffs daily activities. Accordingly, it is ORDERED that judgment is rendered in favor of plaintiff in the amount of $10,000 for past and future pain and suffering. Court costs are assessed against defendant. The clerk shall serve upon all parties notice of this judgment and its date of entry upon the journal.
+Russell Leach, J., retired, of the Franklin County Municipal Court, sitting by assignment.
