@@ -1,0 +1,47 @@
+---
+court: "Hamilton County Court of Common Pleas"
+decided: "1908-02-27"
+citations: ["6 Ohio Nisi Prius (n.s.) 505"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles C. Richardson v. The Board of Trustees of Sycamore Township."]
+source_url: "https://static.case.law/ohio-np-ns/6/cases/0505-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 889490
+cites_cases: ["5 O. C. C., 418"]
+---
+
+# Richardson v. Board of Trustees of Sycamore Township
+
+## Majority (Woodmansee, J.)
+
+Woodmansee, J.
+A temporary restraining 'order was issued in this case enjoining the trustees 'of Sycamore township, Hamilton county, Ohio, and the treasurer .thereof, from depositing the funds of the township with the Reading Banking Company, located at Reading, in said township, for the reason that Warren L. Jones,, one of the trustees of said township, is a director and stockholder in said bank, and that the awarding of said funds to said bank is against public policy and is contrary to the .provisions of Sections 6969 and 6976 of the Revised Statutes of Ohio. The ease was heard and submitted on a motion to dissolve the said restraining order and upon a general demurrer to the petition.
+Section 6969 reads as follows:
+“It shall be unlawful for any person holding any office of trust or profit in this state, either by election or appointment, or any agent, servant or employe of such officer, or of a board of such officers to become directly or indirectly interested in any contract for the purchase of any property, supplies or fire insurance for the use of the county, township, city, village, hamlet, board of education or public institution with which he is connected. And it shall be unlawful for .any such person, agent, clerk, servant or employe to become interested in any contract for the purchase of property, supplies or fire insurance for the use of any county, township, city, village, hamlet, hoard of education or public institution with which he is connected when the amount of such contract exceeds the sum of fifty dollars, unless the contract is let on competitive bids, duly advertised as provided by law. Any person violating the provisions of this act shall be imprisoned in the penitentiary not more than five years nor less than one year. ’ ’
+Section 6976 reads- as follows:
+“An officer or member of the council of any municipal corporation or the trustee of any township who is interested directly or indirectly in the profits of any contract, job, work or service for the corporation township *• * * shall be fined not more than one thousand dollars nor less than fifty dollars, or imprisoned not more than six months nor less than thirty days or both and shall forfeit his office.”
+The provisions of Section 1513, being-known as what is the “depository law,” must be construed in order to properly determine the Case that is before us.
+That statute was enacted for the purpose of fixing a method by which township trustees could ¡authorize township treasurers to deposit the funds of the township in a hank for safekeeping and -art the sanie time at the highest rate of interest.
+It appears in this cause that the township trustees followed the provisions of the section and advertised for bids and thereupon reported the hid of 3.65 per cent, from the Reading hank as the highest bid received by such trustees. Said treasurer was then authorized to deposit the funds of -the township in said bank after the proper bond had been executed by said bank.
+The law provides that the treasurer shall in no event at any time have on deposit in such bank a sum of money greater than the amount of the bond.
+If is now claimed that the awarding of this money to said bank is in violation of the provisions of Section 6976. Clearly Section 6969 does not apply in any way to this case.
+It will be observed that Section 6976 in reality prohibits under heavy penalty a trustee of any township.‘‘being interested directly or indirectly i-n the profits of any contract, job, work or service for the township” -and so on.
+It must be borne in m;ind that this section was passed prior to the enactment of the statute relative to depositaries of township funds. But if it is broad enough in its terms to reach a transaction of this nature, then it has the same effect as though it might have been passed subsequent to the depositary act.
+The object of the laws restricting township, county and municipal officers from being in any way interested in 'contracts that were entered into by the boards of which they may have been members, was to relieve such officers from the temptation of entering into any contracts-that would be helpful to themselves and hurtful to the governmental interests which they represent.
+The object of the depositary law is not only to secure a safe place to put the funds but the highest possible rate of interest on the same.
+In the making of ordinary contracts, if they are left to competitive bidding, the state is not interested as to who gets the contract, if he has the lowest bid, and competitive bidding relieves the officer under Section 6969; and in the placing of funds competitive bidding has no other result 'than securing to the municipality, county or township the highest rate of interest, and surely the law would not interpose any obstacle that would tend to interfere with its rightful purpose and thereby serve absolutely no good purpose for. the township, county or municipality.
+Tbe township trustees under the depositary act do not enter inito a contract with any bank. They simply put the machinery in motion to get the highest bid, and after the bidder enters into a proper bond then the .treasurer is the one who deals with the bank so selected as a depositary.
+This same question came to the attention of the Attorney-General, who gave' an opinion relative to the depositary law which had to do with funds belonging to a board of education —see page 287 of his annual report for 1906.
+Section 3974 of the Revised Statutes reads, “that no member of a board of education shall have any pecuniary interest,, either direct or indirect, in any contract of the board,” and so on, practically the same as Section 6976 relating to township officers.
+The Attorney-General says:
+"If Section 3974 is applicable at 'all it would render voidable all contracts between a bank .and a school board on which there was a single member who was also a stockholder in a bank, regardless of whether his vote was necessary to pass the resolution. (Bellaire Goblet Co. v. Findlay, 5 O. C. C., 418.)
+“That rule applied to the .present case would render two of the three banks of the district clearly ineligible, and as a necessary consequence would prevent the letting of the contract to the third bank, unless banks outside of the district were also permitted to bid, since -there, could be no competitive bidding within the district if only one bank therein was eligible.”
+In the case referred to by the Attorney-General one member of the board of education was cashier and stockholder of one bank; another member was assistant -cashier and stockholder of the second bank, while the third member was an assistant cashier .and not .a stockholder of the third bank.
+Under the county depositary law the county commissioners receive bids from banks for the county funds just the same as the township trustees receive bids for the township funds. Tn Hamilton county, if any one of its three commissioners held stock in all of the banks of Cincinnati, or if the individual holdings of the three commissioners would disclose ownership" -of stock in all .the banks, then if the contention -of the plaintiff is correct no bank in Cincinnati -could be used as a depositary for county funds.
+Louis A. Ireton, George T. Poor .and Walter M. Schoenle, for plaintiff.
+Roettinger & Gorman, for defendants.
+It can readily be seen that the application of the rigid principle urged by counsel for plaintiff in this case would thwart the very purpose of the law and work a great detriment to the public concerned. Carried to its last .analysis, it would mean that nio one who was'in any way -interested in the profits of a bank would be wise in assuming .a public trust, such as a member of a school board or a board of township .trustees. If .they should assume those positions, and in many eases without pay, it would simply disqualify the banks in which they were interested from being depositaries for the funds, and for- that reason would make such persons preotdcally ineligible for such positions or in -any event unwilling to hold them. Especially so in view of the fact that the doing of'the thing complained of in this case by the township trustees makes Mm, under the interpretation placed upon the statute by counsel for plaintiff, guilty of .an offense for wMeh he can be fined in a sum not exceeding one thousand dollars nor less than fifty dollars, or imprisoned not more than six months nor less than thirty days, or both, and for forfeiture of Ms office.
+I can not persuade myself to believe that Section 6976 was ever intended for any such purpose. I am convinced that the township trustees of Sycamore. townsMp in doing the things complained of in -the petition herein were acting strictly witMn the law. and carrying out the duties imposed upon them.
+The demurrer is .sustained, the temporary restraining order is dissolved and the petition dismissed at the costs of the plaintiff.
