@@ -1,0 +1,34 @@
+---
+court: "Fairfield Circuit Court"
+decided: "1903-01"
+citations: ["14 Ohio C.C. Dec. 265"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Voorhees, Donahue and Sibley, JJ."]
+parties: ["Thomas B. Cox, Jr., v. Lancaster (City)."]
+source_url: "https://static.case.law/ohio-cc-dec/14/cases/0265-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 421743
+---
+
+# Cox v. Lancaster
+
+## Majority (SIBLEY, J.)
+
+SIBLEY, J.
+(Orally.)
+I need not take time to refer formally to the pleadings in the case. This is an action in equity seeking to enjoin the defendant, Cox, from proceeding to lay down a curbstone on a street in the city of Lancaster, whicb he had dedicated. The contention of the city is that his act is in derogation of its rights, as exercised by the council, in determining where the curbline of the pavement should be located and the curbstone placed.
+There is no dispute as to the facts. It appears from the records and the evidence that some time previously to this period Mr. Cox made an addition to the city. In the plat filed, he not only indicated the lines of the street in question, but marked on the street a line for the pavement and showed where it should extend, and the curbstone line fall. On this line, afterward, and before the injunction was allowed he proceeded to put the curbstone.
+This plat was accepted by an ordinance of the city, so as to make this a valid addition to the city of Lancaster. Nothing was specified in the ordinance in regard to the sidewalk. There is no claim here that the ordinance of acceptance was anything more than general in its terms. The contention by the defendant is predicated upon the proposition that an acceptance of the dedication, with the line of the sidewalk marked on the plat was tantamount to an action of the council making it the line of the walk. This is where the controversy lies in the first instance. Then it is further claimed by the defendant, that the resolution passed regarding the improvement of the street and marking out another curb line, varying a short distance from the one on the original plat of the addition, by not attempting to repeal or revoke what it is claimed was the effect of the former action, is void and of no effect; hence that it does not entitle the plaintiff to relief such as it seeks in debarring the defendant from laying the curbstone on the line of the plat.
+I think this is a sufficient statement. I may say, however, there is no claim here that if the resolution had been an original action in the matter of establishing a sidewalk, it would not have been sufficient for its purpose.
+This resolution of the council falls, as we think, in that class of municipal legislative action that may be done by resolution as well as by ordinance. It is of a permanent nature; it does not operate temporarily ; it operates until some further action is taken to revoke it. It is local also, relating as it does to a street in one portion of the city. Hence, it comes within that policy of the municipal statutes of the state as to giving notice to those only who may be affected by that form or mode of action.
+On the other hand, in the case of an ordinance, in order to render it effective for the purposes for which it may be designed, it must be published.
+We think it was within the proper legislative authority of the council to prescribe the portion of the street which shall be used for a sidewalk, and that this resolution is effective for that purpose, if the contention with regard to the dedication, and the acceptance by the council, does not affect the resolution in consequence of its not having revoked the earlier action.
+This depends, we think, upon a single proposition; that is, whether one who is to make an addition to a city, in which is included a street, cannot only dedicate a portion of his land for street purposes, but can dedicate it specially as a sidewalk. It is perfectly settled that a sidewalk is a part of a street, and that the control of the city council over the streets and sidewalks alike is plenary, without any limitation except such as is imposed on the general powers of the body.
+How is it now under the statute in respect to a dedication ? What may a man dedicate in a street? Can he so dedicate it as to determine what part shall be apportioned to the street, and what to a sidewalk, thereby in effect doing for the street in respect to its improvement and use, what the statute exclusively empowers the council to do ? It is not contended by the defendant that this can be done against the will of the council. The proposition is that having accepted the dedication with a line marked indicating the sidewalk, this is equivalent to an act of the council approving what was done by the owner of the land in fixing that as the line of the sidewalk. But we do not reach that conclusion. The section in regard to dedication is Sec. 2597 Rev. Stat., as follows:
+Section 2597. “When any person wishes to lay out a hamlet or village, or subdivision or addition to any municipal corporation, he shall cause it to be surveyed, and a plat or map of it made by a competent surveyor; in which plat or map shall be particularly described and set forth the streets, alleys, commons, or public grounds, and all in-lots and out-lots and fractional lots within or adjacent to such hamlet or village, the description to include the courses, boundaries and extent.”
+To us it seems as if the full extent of the power of one making an addition has been exercised when' he simply dedicates land for street uses. In order to make the contention of the defendant good, he must be able to go further than a general acceptance — must show an ordinance which in effect, if not in terms, makes it clear that the council in its action intended to make a line indicated upon the plat the line of its sidewalk in the division of its street.
+Here the terms of the ordinance are general. The city council cannot be barred from its right to control the streets, unless it has done something by ordinance which would require a revocation or repeal. Can it be said in reason, that simply because the party indicated on a plat, that which the law required him to make out, when there is no provision for his marking the line of a sidewalk, that the city council in ac.cept.ing the street thereby fixed that line as the line of the walk ? We think no such effect can be given to the acceptance unless the action of the council is definite and clear.
+That does not so appear in this case. Therefore, the defense sought to be made fails. Consequently, the relief which the city seeks by injunction against further action in putting the curbstone on the line indicated upon the plat, rather than the line required by the resolution, should be granted.
+The judgment of the common pleas court is therefore affirmed.
