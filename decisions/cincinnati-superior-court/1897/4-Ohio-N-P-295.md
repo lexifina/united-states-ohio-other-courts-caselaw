@@ -1,0 +1,24 @@
+---
+court: "Cincinnati Superior Court"
+decided: "1897-07"
+citations: ["4 Ohio N.P. 295"]
+reporter: "ohio-np"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARY E. GALWAY v. ROBERT BALLARD et al."]
+source_url: "https://static.case.law/ohio-np/4/cases/0295-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1526305
+---
+
+# Galway v. Ballard
+
+## Majority (JACKSON, J.)
+
+JACKSON, J.
+jThis is a motion to confirm the report of Reuben Tyler, special master herein. Substantially, three objections are urged against the confirmation of the report.
+. The first is based upon the master commissioner’s finding that the plaintiff is en ■ titled to an accounting for one-third of the value of the property in controversy, and this raises the question whether the court was authorized, upon the case presented, to •order and direct the master commissioner to make such finding. It is claimed that the pleadings do not entitle plaintiff to an ae•eounting for one-third of the value of the .property itself, but that, under the pleadings, she must be limited to an accounting for the rents, issues and profits. We were ■-at first inclined to this view, but a careful reading of the amended petition filed herein, «hows that plaintiff charges that she. had a beneficial interest, in and to one third of the property itself, arising out of an express ■agreement between plaintiff and defendants, •and based upon a valuable consideration; that defendants failed entirely to recognize her rights in said property and to issue her one-third of the stock of the company as •agreed upon, and failed to account to. plaintiff for said property, but used it in a business of their own. The petition does not -allege that defendants have transferred the property to a bona fide purchaser for value, •and without notice, so that plaintiff’s rights against the trustees must necessarily be an ■action for the value of her interest in the property. But under the circumstances I think it clear that the trustees,according to the allegations in the petition, became trustees ex maleficio, and that consequently-plaintiff was entitled at her election either to proceed against the property, (supposing it io be still in the hands of the trustees,) or against the trustees personally, for the value of her interest, because of the alleged breach of trust.
+Speaking of the rights of a cestui qui trust under such circumstances,Pomeroy’s Equity Jurisprudence, Vol. 2, sec 1080, says: “In addition to this claim of the beneficiary upon the trust estate as long as it exists, the trus - tee incurs a personal liability for a breach of trust by way of compensation or indemnification, which the beneficiary may enforce at his election, and which necomes his only remedy whenever the trust property has been lost or put beyond his reach by the trustee’s wrongful act. The trustee’s personal liability to make compensation for the loss occasioned by a breach of trust is a Simple equitable debt. It may be enforced by a suit in equity against the trustee himself or against his estate after his death, and the statute of limitations will not be admitted as a defense unless the statutory language is express and mandatory upon the court.”
+Aside from this consideration,! am inclined to think that upon the hearing, evidence might have been admitted by the court to show that the trustees had put the property beyond plaintiff’s reach, leaving plaintiff’s only right against the trustees one for the value of the property itself. Such evidence might have been admitted without prejudice to defendants, under the section of the statutes relating to variance between the pleadings and the proof.
+The second defense is, that the claim is barred by the statute of limitations; but treating the action, as I must, as one for an equitable accounting, this defense must also fail. Besides, these questions were all passed upon by Judge Moore, and as I am not here to review his decision, I must assume that his findings were authorized. The third objection is, that the finding of the master as to the value of the property is not sustain ■ ed by the evidence. It is true the master states that the testimony offered does not furnish satisfactory means of ascertaining the value of the property of December 28, 1896, but from his report and the evidence upon which he based his findings, I am satisfied that he acted conscientiously in the matter. In fact, the statement of the master might apply to all cases regarding the value of property where this must depend upon the testimony of many witnesses. They most frequently differ as to the value of property; and a court, a jury,or a master commissioner, must in all such cases ascertain the value as best they can under the circumstances.
+The report will, therefore, be confirmed,
