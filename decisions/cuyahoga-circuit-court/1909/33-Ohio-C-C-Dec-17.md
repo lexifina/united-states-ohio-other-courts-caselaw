@@ -1,0 +1,31 @@
+---
+court: "Cuyahoga Circuit Court"
+decided: "1909-06-30"
+citations: ["33 Ohio C.C. Dec. 17"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Winch, Henry and Marvin, JJ.", "Marvin J., concurs.", "Winch, J., dissents."]
+parties: ["Akron, C. & Y. Ry. v. Akron (City)."]
+source_url: "https://static.case.law/ohio-cc-dec/33/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1670620
+cites_cases: ["73 Ohio St. 183", "76 N. E. 865"]
+---
+
+# Akron, C. & Y. Ry. v. Akron (City)
+
+## Majority (HENRY, J.)
+
+HENRY, J.
+A preliminary question on this appeal involves the constitutionality of “An act to provide how railroad and highway crossings may be constructed, ’ ’ particularly of Sec. 4 of said act, as amended by 99 O. L. 58.
+It is claimed that this section is invalid because it attempts to confer legislative power upon the court of common pleas and to enable that court to create the right in railroad or municipal corporations, or both, whereby, under certain circumstances, a railroad and a highway may be made to intersect at grade. The general policy of the state, as declared in previous sections of the same act, is to prohibit the construction of grade crossings, and to require a separation of grades in all cases thereafter arising, where railroads and highways intersect.
+Section 4 attempts to provide for exceptions to this rule, and it authorizes the court of common pleas, upon proper application by either a railroad or a municipal corporation, to make an order, permitting a crossing at grade, upon allegation and proof that such construction is reasonably required, first, “to accommodate the public,” or second, “to avoid excessive expense in view of the small amount of traffic on the highway or railroad, and considering the future uses to which said highway may be adapted,” or. third, “in view of the difficulties of other methods of construction,” or fourth, “for other good and sufficient reasons.”
+It is clear that if the right to cross at grade in such cases is by the terms of this statute to be created by the court, the statute is invalid, because it attempts to invest a judicial tribunal with legislative power. On the other hand, if the statute is to be construed as a legislative grant of power to cross at grade, subject in its exercise to the determination by the court of the existence of some one of the statutory conditions, upon which it is made to depend, the law is valid, for the sole function thus imposed upon the court is a judicial and not a legislative function.
+The phraseology of the statute is such as to invite at first reading the former construction, but we are mindful of our duty to uphold the statute, if it be at all susceptible of the second construction. Heeding this rule we should still incline to the former construction if the ease were entirely one of first impression, but the Supreme Court has upheld the validity of- a statute which presents similar difficulties in the case of Fairview v. Giffee, 73 Ohio St. 183 [76 N. E. 865]. That statute provides, in substance, that the owner of unplatted farm lands lying within the corporate limits of any municipality may file a petition in the court of common pleas, setting forth the reasons why such lands should be detached, and upon notice to the municipal authorities, and a hearing of the cause, the court may, in its discretion, enter an order that the land's be detached from such municipality, provided the same may be done without material detriment to good government. No express words were employed to indicate that the Legislature intended to create a right to such detachment, nor was there any enumeration of the conditions upon which the exercise of such right was made to depend, yet the Supreme Court read these things into the act, and held that the Legislature had. created a legal right in the owners of unplatted farm lands, lying within the corporate limits of a municipality, to have the same detached, where good reason exists, one manifest reason therefor being to relieve such owners from the burdens of unfair taxation. When, therefore, the court upon application, should find that such reason existed and no material detriment to good government would arise from detachment, it could not properly withhold the order permitting such detachment, for the discretion given to the court by the statute was a purely judicial discretion.
+We forbear extended discussion of the authorities cited in that case as well as of those cited to us by counsel in this ease, and content ourselves with stating merely that a majority of the court are unable to escape the application of the rule of Fairview v. Giffee, supra, to the case before us.
+We hold Sec. 4 of the act to provide how railroad and highway crossings may be constructed is constitutional and valid, and the objection to the sufficiency of the petition and to the introduction of. evidence thereunder is overruled.
+A master commissioner will be appointed to examine the matter of the application presented by the petition herein and to report the evidence taken by him, together with his conclusions of law and of fact as to whether or not the grade crossing petitioned for is reasonably required for any of tbe causes enumerated in the act.
+We believe that the general policy of this state in respect to the abolition of grade crossings is such that such crossings should not be permitted unless a clear case under the statute is made out.
+Marvin J., concurs.
+Winch, J., dissents.
