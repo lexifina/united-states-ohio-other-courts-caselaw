@@ -1,0 +1,39 @@
+---
+court: "Licking County Court of Common Pleas"
+decided: "1896"
+citations: ["3 Ohio N.P. 172"]
+reporter: "ohio-np"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. B. CLARK and CHARLES W. MILLER v. THE B. & O. R. R. Co., et al."]
+source_url: "https://static.case.law/ohio-np/3/cases/0172-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1524918
+cites_cases: ["18 Ohio St. 134", "39 Minn. 382", "39 Ohio St. 158", "40 La. Ann., 273", "48 Pa. St. 70"]
+---
+
+# Clark v. B. & O. R. R.
+
+## Majority (WAIGHT, J,)
+
+WAIGHT, J,
+Suit is brought by the plaintiff to recover against the defendant for having made a false answer as garnishee. The defense is that the defendant has settled any liability in the case with the judgment creditor, without notice of any rights of this plaintiff in the judgment and cause of action.
+The case is submitted to the court upon the admitted facts in the pleadings, and an agreed statement of facts.
+They show that Eli Hull brought a suit against the coal company and garnisheed this defendant. Such proceedings were had that Hull recovered a judgment against the coal company by default. Immediately therafter Hull assigned a portion of his judgment to this plaintiff, assigning other portions to other parties. This assignment was immediately put upon the appearance docket by the assignee. The defendant answered in this case“no funds,’’and nothing further was done in the case. Suit was1 afterwards brought by the coal company against the railroad company, to which Hull, the judgment debtor, was made a party, but his assignee, this plaintiff, was not made a party. Such proceedings were had in this last case that the Baltimore and Ohio-Railroad Company paid Hull, the judgment creditor, 82,081, on their liability to the coal company, existing at the time of the garnishee process. This plaintiff now sues the defendant on the false answer made in the first case, and the defendant sets up this payment made on the liability in the second case.
+Authority for this proceeding against the-garnishee is found in section 5551.
+That the cause of action passed by the assignment to the assignee of the judgment is held in 18 Ohio St. 134.
+While the plaintiff is only the assignee of a part of the Hull judgment, the provisions of our code are liberal enough to allow his bringing the action by joining the others having an interest either as plaintiffs or defendants.
+So the case must depend upon whether the defendants were justified in the settlement made with Hull in the second case. It being admitted that the defendant had no-actual notice of the assignment of the judgment by Hull to plaintiff, was the putting of the assignment on the appearance docket constructive notice?
+Section 4958 provides what shall be entered on the appearance docket, and an assignment of the judgment is not a paper authorized to be copied on the appearance> docket.
+I am cited to a case in 39 Ohio St. 158, but think the rule there, that a debtor executing a promissory note should look out when garnisheed as to who is his creditor, is limited to negotiable paper, and has no application to a judgment. A judgment is not negotiable in the sense that a note is. The law permits its transfer, rather than autorizes it.
+The transfer of judgments, as it affects the rights of the judgment debtor and the assignee, is treated in section 426, Freeman on Judgments, where it is said:
+“While it is said that notice of an as signment need not be given directly to the judgment debtor, yet there is no doubt that he is protected in payments made to the judgment creditor, until he has either actual notice of an assignment or notice of such facts as put him on inquiry, and are therefore equivalent to actual notice.”
+Does putting the assignment of the judgment on the appearance docket in the case put the judgment debtor upon inquiry? 40 La. Ann., 273, second syllabus: “The mere filing or placing the transfer among the papers of the suit and recording it in the Pooks of the parish record, are not equivalent to the notice required by law, which must bring home to the debtor knowledge of the fact.” See 39 Minn. 382; also 48 Pa. St. 70. The third syllabus says: “An as■signment of a judgment on record is not constructive notice thereof to the debtor; hence, payment by him to the obligee, before notice of the assignment, is good.”
+J. A. Flory and C. W. Miller, on behalf of plaintiff.
+Edward Kebler, on behalf of defendant.
+On page 72 of the decision of the court in 48 Pa. St. 70: “The third assignment of err- or has a better foundation. The note, with warrant of attorney to confess judgment, was given on the 25th of April, 1859,to William Brothers,the plaintiff. Judgment,however, was not entered until September 23rd, 1859. It was then entered for the use of William E. May. No notice seems to have been given by Mr. May to the debtor that the debt had been assigned to him. Yet the court instructed the jury that ‘anything given’ (by the debtor on account of'judgment), ‘after the 23rd day of September, 1859,’ (that is the date the judgment was entered for the use of William E. May),
+* would not be a credit on this action, for on that day the judgment was entered on the public records for the use of William E. May, and this would be a legal or constructive notice to Mr. Henry, that the claim was transferred to Mr. May.
+This, we think, was erroneous. Legal or constructive notice, as distinguished fiom actual, is that which the law regards as sufficient to give knowledge. If the existence of Knowledge is presumed from any other fact, if the presumption be juris et de jure, the other fact must be certain. But there is no certainty that a debtor has knowledge of the entry of a judgment against him, by virtue of a warrant of attorney which he may have signed, much less that he has knowledge of an assignment of a judgment. He is under no obligation to make inquiry. A subsequent encumbrancer or purchaser must know, for it is his duty to examine the records. Not so with the debtor himself. The judgment docket is not for his benefit. It would be an intolerable hardship if every time he desires to make a payment on account of his debt, or to obtain a credit, he must go to the county seat and inquire whether the judgment has not been assigned. It is true, the purchaser of a judgment is affected with knowledge of the state of the record. He is bound to inquire for all the defenses the debtor may have, whether they appear of record or not It is his duty to give notice of the assignment if he would protect himself against subsequent payments to his assignor And as he purchases but an equity, he stands in the place of his vendor, exposed to all the ■defenses which might be set up against a vendor, before he has given notice of the assignment. Until actual notice, the debtor does no wrong in making a partial payment.
+As was said by Gibson, J.. in Bury v. Hartman, 4 S. & R., 178: “Notice of an equitable assignment is always required, and the reason for it is a plain one. Not being an assignment made in pursuance of the terms of the contract, and not being recognized by the common law, but merely tolerated by courts of equity to effect purposes of convenience, an olbigor is not to presume an assignment to have been made, and therefore negligence is not to be imputed to him for making a payment without requiring the production of the instrument.”
+“If he is not bound to presume an assignment, he is under no obligation to search the records. ”
+Prom these authorities the court is of opinion that placing the assignment upon the appearance docket is not constructive notice to the judgment debtor of the assignment, and he, having no actual knowledge of the assignment, would be protected in any payment made to the judgment creditor, as against the assignee of the judgment.
