@@ -1,0 +1,37 @@
+---
+court: "Fayette County Court of Common Pleas"
+decided: "1907-09-25"
+citations: ["7 Ohio N.P. (n.s.) 567", "7 Ohio N.P. 567"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State, ex rel Record Publishing Co., v. Sollars et al."]
+source_url: "https://static.case.law/ohio-np-ns/7/cases/0567-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1538709
+cites_cases: ["56 Ohio St., 631"]
+---
+
+# State ex rel. Record Publishing Co. v. Sollars
+
+## Majority (Newby, J.)
+
+Newby, J.
+The case of the State of Ohio, on relation of the Record Publishing Company, against .Charles Sollars et al, as county commissioners .of this county, and others, is brought to enjoin the publication of the commissioners’ financial statement. The court is asked to enjoin the publication because, as is claimed, the report as filed does not conform to the requirements of the statute.
+The statute which provides for the making of the report is Section 917, Revised Statutes. That section provides that :
+“The county commissioners, annually, on or before the third Monday in September, shall make -a detailed report in writing, itemized as -to amount, to whom paid and for what purpose, to the court of common pleas of the county, of their financial transactions during the next year preceding .the time of making such report. ’ ’
+The objection to the report is that it is not itemized in all respects as required by the statute. The statute has been amended (97 O. L., 167), by the addition of the words “itemized as to amount, to whom paid and for what purpose.” The statute as it existed prior to the amendment simply required “a detailed statement of the financial transactions of the commissioners during the preceding year.
+AYhile the statute was in -this form the Supreme Court, in the case of State v. Washington County, 56 Ohio St., 631, held that the statute did not require a specific statement of each item of expenditure, or the name of the person or persons to whom paid.
+In that case the court said, in substance, that while such facts might properly appear in a detailed statement, yet a much-less specific and extended subdivision would satisfy the statute.
+This report is as specific and more specific, in fact than the one held sufficient by the Supreme Court in State v. Washington County, supra, but the authority of this decision has been nullified by the amendment since made to the statute requiring the detailed report to be “itemized as to amount, to whom paid and for what purpose.” The statute now requires greater precision and detail than formerly.
+Upon examination of the report before me, I conclude that it does not .conform to the requirements of the statute in this, that in some instances the report fails to show for what purpose funds were expended.
+Under the heading “Justices’ and Mayors’ Courts” will be found-the following statements: “C. C. Bateman, Justice, $71.-65; D. J. Barber, Constable, $13.10; C. C. Smith, Marshal, $130.15”; and so on through á long list.
+The report fails to state for. what purpose the money was paid to the officers named, and in that respect does not meet the requirements of the statute as to definiteness. It is not stated whether the money was paid to these officials for their fees earned in criminal cases or in civil eases or for police duty or for what purpose.
+And again, further on in the report, under the heading “Miscellaneous Expenditures” we find a number of amounts paid to different members of the bar, noted in the report' as to some of them as “defending,” without stating whether it was for defending indigent prisoners, or for services for defending civil suits against the commissioners or other county officers, while as to others no indication whatever is given as to the purpose for which the payments were made.
+It is contended by counsel for the plaintiff that, to fulfill the requirements of the statute, the report should show the dates of the payments. Take, for instance, the first item referred to, “C. C. Bateman, Justice, $71.65,” the date of that payment should be stated, and if that item is made up of several payments, it is claimed the date of each payment and the amount of each payment should be stated, and it does not satisfy the statute to state the aggregate of the payments and omit dates.
+I do not think this contention well founded, provided the aggregate amount was paid for a single purpose, for the statute goes no farther than to require that the name of the person receiving the money, the amount paid and the purpose for which paid be stated, and does not require the dates and amounts of several payments to one person for a single purpose to be given, but permits .the several payments to be stated in the aggregate, because by such a statement the public are advised as to the amount paid, the name of .the person to whom paid, and the purpose for which paid, and the detail contended for is not necessary to serve any purpose of the statute.-
+The commissioners’ statement, in respect to the purposes of the payments as above pointed out, is not in accordance with the form prescribed by the Auditor of State, nor as required by the statute governing the matter. I do not hold, however, that the Auditor of State and the bureau of inspection and supervision of public offices have the right, as argued by counsel for defendants, to prescribe a form for making out these reports.
+The statute prescribes the form and what the report shall contain, what information it shall give .the public, and the purpose of the legislation contained in Section 181«-2, Revised Statutes, is that these officers shall prepare a form in accordance with the statute and submit it to county auditors for 'their guidance, to the end that thereby uniformity may be secured in the making of the reports for the different counties of the state.
+The form, however, which was submitted to the auditor in this case by the Auditor of State is faulty and indefinite in this: under the heading “Justices’ and Mayors’ Courts,” we find the following, “Allowances to Justices and Mayors, etc., R. H. Parker, $62.50.” And then under “Allowances to Constables, etc.,” it is stated that a marshal and a constable each received sums of money.
+The form furnished states that the money was paid to these officials for ‘ ‘ allowances, ’ ’ still I think it should be more specific by stating what the allowances were for, and whether under the statutes for official fees earned, or for what other purpose. The report, in order to fully and properly inform the public, ought to- specify the .authority for these payments by referring to the section of the statute granting the authority. I think that necessary to show fully the purpose of the payment.
+However, it is immaterial whether the model sent out by the Auditor of State is sufficient or not, because the report in this case does not come up to the model or the statute. I conclude that the report, by failing in the instances pointed out, to show for what purpose the money was paid to certain officers and attorneys named, does not satisfy the statute, and the report should be either withdrawn or another filed. At any rate, it is not such a report as the commissioners are authorized to publish in any paper, because it does not convey to the tax-payers the information which the statute entitles them to receive from the report, A temporary injunction will be allowed accordingly.
