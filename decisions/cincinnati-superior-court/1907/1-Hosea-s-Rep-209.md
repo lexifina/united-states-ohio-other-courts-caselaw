@@ -1,7 +1,8 @@
 ---
 court: "Cincinnati Superior Court"
 decided: "1907"
-citations: ["1 Hosea's Rep. 209", "1 Hosea's Rep. 217"]
+decided_precision: "year"
+citations: ["1 Hosea's Rep. 209"]
 reporter: "hoseas-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["Aetna Life Insurance Co. v. E. G. Penn."]
 source_url: "https://static.case.law/hoseas-rep/1/cases/0209-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1518039
-cites_cases: ["1 Atl. Rep., 320", "102 N. Y., 143", "107 La., 390", "11 Neb., 169", "110 Pa. St., 236", "111 Mass., 542", "117 Mass., 6", "128 U. S., 195", "131 Mass., 167", "145 U. S., 368", "16 Ohio St., 1", "18 W. Va., 400", "20 Ohio St., 38", "24 O. C. C., 56", "28 N. E. Rep., 672", "28 Ohio St., 90", "29 Am. Rep., 693", "31 So. Rep., 773", "36 L. Ed., 739", "39 Ohio St., 240", "42 Ohio St., 82", "44 Ohio St., 156", "45 Conn., 480", "48 Ohio St., 443", "5 N. E. Rep., 417", "50 N. W. Rep., 173", "52 N. E. Rep., 194", "55 Am. Rep., 787", "58 Am. Rep., 806", "59 Ohio St., 221", "6 N. E. Rep., 267", "6 Ohio St., 81", "60 N. E. Rep., 561", "64 Ohio St., 354", "69 N. E. Rep., 738", "69 Ohio St., 414", "7 N. W. Rep., 745", "70 N. E. Rep., 900", "70 Ohio St., 88", "8 Ohio St., 1", "88 Mich., 177"]
+cites_cases: ["1 Atl. Rep., 320", "102 N. Y., 143", "107 La., 390", "11 Neb., 169", "110 Pa. St., 236", "111 Mass., 542", "117 Mass., 6", "128 U. S., 195", "131 Mass., 167", "18 W. Va., 400", "24 O. C. C., 56", "29 Am. Rep., 693", "31 So. Rep., 773", "39 Ohio St., 240", "44 Ohio St., 156", "45 Conn., 480", "5 N. E. Rep., 417", "55 Am. Rep., 787", "58 Am. Rep., 806", "6 N. E. Rep., 267", "60 N. E. Rep., 561", "64 Ohio St., 354", "7 N. W. Rep., 745"]
 ---
 
 # Aetna Life Insurance v. Penn
