@@ -1,0 +1,93 @@
+---
+court: "Cuyahoga County Court of Common Pleas"
+docket: "853991"
+decided: "1970-12-15"
+citations: ["25 Ohio Misc. 161"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jira, a Minor, v. Erie Lackawanna Railroad Co."]
+source_url: "https://static.case.law/ohio-misc/25/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1441237
+cites_cases: ["153 F. 2d 212", "24 F. R. D. 493", "27 FRD 392", "329 U. S. 495"]
+---
+
+# Jira v. Erie Lackawanna Railroad
+
+## Majority (McMonagle, J.)
+
+McMonagle, J.
+On June 28, 1966, an automobile collision occurred between a train of the defendant and an automobile occupied by the plaintiff and other persons. Two persons in the automobile were killed and two were injured. Lawsuits are pending in this court for the recovery of damages claimed to have resulted because of said deaths and injuries. There are a total of five pending lawsuits, and by agreement these have been consolidated for trial.
+An action in behalf of one of the injured persons had been filed in the United States District Court by counsel who represents all the plaintiffs. In response to the following interrogatory which had been filed under the provisions of the Federal Civil Rules of Discovery in that case, counsel for the plaintiff was provided by the defendant with the names and addresses of approximately 38 persons. The question was as follows:
+“Interrogatory No. 1
+“What are the names, home addresses and business addresses of each of the following persons, other than plaintiff or persons in the automobile with plaintiff:
+“(a) Those who actually saw all or any part of the occurrence.
+“ (b) Those who were present at or near the scene at the time of the occurrence in question, including all persons within sight or hearing of the occurrence and their location ;
+“ (e) Those who have any knowledge of the condition of the equipment, the locale, and circumstances involved immediately prior to or immediately after the occurrence.”
+In response to a second interrogatory, counsel for the plaintiff was provided with the names and addresses of those who had been interviewed by a representative of the defendant and those from whom statements were procured and the dates such statements were procured. The answers to the interrogatories indicated that, on the day following the collision the defendant-claims investigator secured statements from 26 persons who had been in the area of the collision and on July 5,1966, he secured statements from eleven others.
+Mr. Alex Toth was one of those so named.
+The answers to these interrogatories were served on plaintiff’s counsel on or about February 14, 1969. Following receipt of this information counsel for the plaintiff had an investigator contact those so named. He procured statements from most of those persons who had been so interviewed in July, 1969.
+Mr. Toth was in the service and he was interviewed by plaintiff’s representative by long distance telephone on September 16, 1969. On September 21, 1970, a deposition was taken of Mr. Toth in Pensacola, Florida, on behalf of the defendant.
+The affidavit filed by the counsel for the plaintiff in support of his motion states that this witness in his deposition—
+“ * * * testified with exactness as to his location prior to the accident, when the whistle blew, the length of time it blew and many other details. In a statement this same individual gave to plaintiff on September 16, 1969, he stated:
+<<<*** went to scene but didn’t stay long * * * do not remember if the train blew the whistle or not * * * might have told the railroad investigator I heard it, but do not know * * ”
+It is the plaintiff’s contention that Mr. Toth testified, on deposition, in the respects he did, because he had the opportunity, before testifying, to review the statement given by him to the defendant’s representative almost immediately following the collision; that this refreshed his recollection and contributed to the right and ability of all parties to learn the true facts as to the occurrence; that plaintiff, although diligent, had not previously been able to really discover what this witness had actually seen or heard because, with the passage of time, Mr. Toth had been unable to recall all the facts.
+An examination of the statements procured by the plaintiff from various other witnesses, and which were produced in court at the time of the hearing hereof, indicate that many of the witnesses did not recall, at the time of giving such statements, many of the facts surrounding the occurrence ; in at least one instance a person stated she had not been interviewed by defendant’s representative.
+It is further the contention of the plaintiff that in the furtherance of justice and in the interest of discovering the true facts surrounding the collision between the automobile and the train that an examination of the statements taken by the defendant almost immediately after the occurrence will provide the means of refreshing the recollection of other witnesses and thus enable all the parties, and uitimately the court and the jury, to better determine the true facts.
+Plaintiff’s counsel for these reasons, therefore, requested the defendant to produce, and permit counsel for the plaintiff to inspect and copy, the statements of witnesses taken by the representative of the defendant on June 29, 1966, and July 5, 1966.
+This request was made in accordance with the Ohio Civil Buies pertaining to discovery and of production provided by Buies 26 and 34.
+Defendant refused to comply with the request and the within motion to compel, under the provisions of Buie 37, was filed.
+‘ ‘Rule, 26. General Provisions Governing Discovery
+it # # #
+“(B) Scope of Discovery.
+“Unless otherwise ordered by the court in accordance with these rules, the scope of discovery is as follows:
+“(1) In General. Parties may obtain discovery regarding any matter, not privileged, which is relevant to the subject matter involved in the pending action, whether it relates to the claim or defense of the party seeking discovery or to the claim or defense of any other party, including the existence, description, nature, custody, condition and location of any books, documents, or other tangible things and the identity and location of persons having knowledge of any discoverable matter. It is not ground for objection that the information sought will be inadmissible at the trial if the information sought appears reasonably calculated to lead to the discovery of admissible evidence. tt* # •
+“(3) Trial preparations: materials. Subject to the provisions of subdivision (B)(4) of this rule, a party may obtain discovery of documents and tangible things prepared in anticipation of litigation or for trial by or for another party or by or for that other party’s representative (including his attorney, consultant, surety, indemnitor, insurer, or agent) only upon a showing of good cause therefor. A statement concerning the action or its subject matter previously given by the party seeking the statement may be obtained without showing good cause. A statement of a party is (a) a written statement signed or otherwise adopted or approved by the party, or (b) a stenographic, mechanical, electrical, or other recording, or a transcription thereof, which is a substantially verbatim recital of an oral statement which was made by the party and contemporaneously recorded.”
+“Rule 34. Production of Documents and Things for Inspection, Copying, Testing and Entry upon Land for Inspection and Other Purposes
+“(A) Scope.
+“Subject to the scope of discovery provisions of Rule 26(B) any party may serve on any other party a request to produce and permit the party making the request, or someone acting on his behalf, (1) to inspect and copy, any designated documents (including writings, drawings, graphs, charts, photographs, phonorecords, and other data compilations from which intelligence can be perceived, with or without the use of detection devices) which are in the possession, custody or control of the party upon whom the request is served; (2) to inspect and copy, test, or sample any tangible things which are in the possession, custody or control of the party upon whom the request is served; (3) to enter upon designated land or other property in the possession or control of the oarty upon whom the request is served for the purpose of inspection and measuring, surveying, photographing, testing, or sampling the property or any designated object or operation thereon.”
+Rule 26(B) (1) and Rule 34 require a party to produce and permit inspections and copying by his opponent of designated documents relevant to the action. There is no requirement for a showing of good cause to obtain such discovery. However, Rule 26(B)(3) Trial preparation; materials, provides the right to inspection and copying of documents prepared in anticipation of litigation only upon a showing of good cause therefor.
+The philosophy of discovery as contained in the Ohio Civil Rules is basically one that affords liberal rights to discovery so that the basic facts may become known to all the parties prior to the time when the action comes on for trial. This includes the procuring of information which of itself may not be admissible in court but which in turn may lead to admissible evidence. This philosophy is founded upon the theory that all parties should be entitled to become aware of all the facts pertaining to any particular occurrence, so that a lawsuit may be determined on the presentation of all the facts as distinguished from being determined only on a presentation of such facts as may be within the knowledge of one party. This philosophy is written into the rules so that it will be possible for all parties to become aware of all facts and that an unjust disposition will not result because it was impossible for one of the parties to learn the truth. It is the function of counsel for each side of a lawsuit to diligently attempt to ascertain all the facts in connection with an occurrence and, of course, to have knowledge of all the applicable law.
+The Ohio rules on discovery are chiefly patterned after the Federal Eules and the decisions of the Federal Courts with reference thereto provide some guidelines for the Ohio Courts.
+Both the Federal Eule and the Ohio Eule, however, with reference to discovery of information that is related to trial preparation condition such discovery upon a showing of good cause therefor.
+The definition of what is meant by “good cause” in each individual case cannot be precisely stated and to a large extent depends upon the facts in the individual case.
+Many instances uphold the contention of the plaintiff as to his right to the requested discovery, even without a factual showing similar to the Toth incident.
+4 Moore Federal Eules, Discovery—Statements of Witnesses, Section 15.06 [8], pages 1181 and 1182 read as follows:
+“A rather persuasive argument can be made that ‘good cause’ need not be shown to get copies of statements made by witnesses to an event. If an oral statement is made, the person taking the statement can be forced to disclose the nature of the statement made. It would seem to follow that if the statement is made in a written form, that such information should be just as readily available; that is, without a showing of good cause. This line of argument asserts that it is not a document which is being sought here, but rather what a particular person has said. The fact that this is recorded in writing, does not really change the nature of the request.
+“From an analytical viewpoint there is much to be said in favor of this point of view presented most forcefully by Judge Kirkpatrick. As a practical matter, however, it is probable that most courts will continue to require some sort of showing before ordering production of statements of witnesses.
+“The ‘good cause’ requirement has been particularly troublesome in connection with discovery of the statements of witnesses. The courts have differed on the showing required. Some courts have held that if the witnesses are available to the party, good cause cannot ordinarily be shown for production of statements made by such witnesses at an earlier time. An approach more in line with the purposes of the discovery provisions has been accepted by some courts. They have adopted the idea that ‘the statement of a witness taken immediately after the accident, on the spot as it were, is a catalyst of unique value in the development of the truth through the judicial process. ’ These courts feel that statements taken at any earlier time should be available to the requesting party if he can show that the accident took place some time ago, that the adverse party took statements from witnesses at that time, and that the requesting party was unable to do so at that time.”
+The case of Hickman v. Taylor, which was decided by the Supreme Court of the United States, 153 F. 2d 212 (C. C. A. 3d, 1945); 329 U. S. 495, 67 S. Ct. 385, 91 L. Ed. 451 (1947), establishes some guidelines as to the right of a party to require preparation of copies of the statements of witnesses provided by his opponent.
+In 4 Moore Federal Eules, Discovery—Hickman v. Taylor, Section 15.02 [5], at page 1079, the author concludes that Hickmcm has established the following:
+“(1) Information as to facts of the case and statements of witnesses obtained by the adverse party’s attorney are not within the common-law attorney-client privilege;
+“(2) Even the broader policy against invasion of the attorney’s privacy and freedom in the preparation of the case does not make them absolutely immune, but
+“ (3) The party asking for disclosure is bound to show that the situation is a rare one having exceptional features which make the disclosure necessary in the interests of justice; and
+“ (4) Where the party seeking discovery has obtained or is able to obtain the information asked for elsewhere, he has not met the burden.” (Emphasis theirs.)
+Various decisions are to the effect that before a party may be required to permit inspection of witnesses’ statements in its possession the party requesting such right must establish that he has taken diligent steps to attempt to procure the requested information and that nevertheless reasons exist why, in the furtherance of justice, that such statements should be provided.
+In the within case the plaintiff’s representative interviewed practically all the witnesses who had previously been interviewed by representatives of the defendant. The statements of many of the witnesses, other than Mr. Toth, interviewed by the plaintiff’s representative indicated an inability to actually remember facts surrounding the occurrence. It having been demonstrated in the ease of Mr. Toth that upon his being provided with a copy of a statement taken almost immediately following the occurrence that he was then in a position to recall and testified as to what he actually did see or hear at the time of the collision, plaintiff’s counsel therefore contends that an inspection of the statements of other witnesses would in all reasonable probability have the same result.
+“Hood cause was shown for discovery and inspection of statements of witnesses where witnesses stated that they did not remember the facts or refused to discuss them. In such circumstances a party should not be forced to take the depositions of the witnesses and seek to obtain copies of their statements by means of subpoenas duces tecum under Rule 45. Such procedure would serve ©nly to pro-mete circuity of pre-trial discovery proceedings. Sachse v. W. T. Grant Co., 4 FR Serv. 2d 34.411, Case 2; 27 FRD 392 (DCD Conn., 1961).”
+“In an action for damages arising out of an auto-train collision, plaintiff may inspect statements of witnesses taken by defendant upon a showing that the statements are in existence, and relevant and material to the action. Statements taken at about the time of the accident are unique in that they constitute the immediate impression of the facts. There can be no duplication by further statements or depositions that rely upon memory. Guilford Nat. Bank of Greensboro v. Southern Ry. Co., 3 F. R. Serv. 2d 34.411, Case 1; 24 F. R. D. 493 (D. C. M. D. N. C., I960).”
+It is the finding of the court that the plaintiff has shown exceptional features which make the requested disclosure necessary in the interests of justice; that although he exercised due diligence plaintiff has been unable to obtain necessary information; that it has been established in this case that the statement of a witness taken immediately after the accident is a catalyst of unique value in the development of the truth herein; that good cause has been shown for the granting of the motion of the plaintiff, in part.
+Therefore the attached order (Attachment A) has been entered.
+Attachment A Order oe the Court
+(October 29,1970)
+This matter came on to be heard on the motion of the plaintiff requesting an order compelling the defendant to produce, and permit counsel for the plaintiff to inspect and copy, statements of witnesses relative to the within action taken by a representative of the defendant on June 29,1966, and July 5, 1966. The matter was heard on the affidavit and brief of the plaintiff in support of said motion, the brief of the defendant in opposition to said motion, and the evidence given in open court.
+Upon due consideration thereof the court finds that good cause has been shown by the plaintiff for the granting of said motion in part and that said motion should be and is hereby granted in part.
+It is therefore hereby ordered that the defendant and/or its counsel shall on or before November 4, 1970, permit counsel for plaintiff to inspect the statements of the witnesses hereinafter mentioned; said inspection shall be made in the office of defendant’s counsel.
+It is further ordered that on or before November 4, 1970, that defendant’s counsel shall either reproduce a copy of said statements at plaintiff’s expense and provide said copies to counsel for the plaintiff or permit plaintiff’s counsel to cause copies thereof to be reproduced for his use and paid for by him.
+Following is a list of the persons whose statements shall be so provided to counsel for the plaintiff, to wit:
+Mrs. Anna Bailey
+Mr. A1 Fill
+Mrs. Walter Fill
+Mrs. Neil Kilby
+Mrs. Mizwinski
+Mrs. Howard Norman
+Mrs. Richard Rajewski
+Miss Julia Robens
+Mrs. Julia Rudnay
+Mr. James Wade
+Mr. Thomas Wade
+Mr. George Whitten
+Mrs. Ruth Withem
+S/George J. McMonagle
+George J. McMonagle, Judge
