@@ -1,0 +1,51 @@
+---
+court: "Ohio Circuit Court"
+decided: "1906-11-12"
+citations: ["10 Ohio C.C. (n.s.) 9"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Marvin, J.; Winch, J., and HeNry, J., concur."]
+parties: ["Fannie Meek v. The Village of Collinwood et al."]
+source_url: "https://static.case.law/ohio-cc-ns/10/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1809500
+---
+
+# Meek v. Village of Collinwood
+
+## Majority
+
+This is a suit brought by Fannie Meek against the village of Coilinwood and its treasurer to restrain the collection of an assessment made upon the property owned by the plaintiff. It comes here on appeal from the judgment of the court of common pleas.
+The facts are that Fannie Meek owned, or did own, a lot in-the village of Coilinwood, abutting on Kirby avenue; that the village or the council of the village passed a resolution to construct a sidewalk on Kirby avenue, from Adams avenue to Elm street in the village of -Coilinwood. The specifications appear here in the general statement of facts, and provide that a sidewalk shall be constructed on that street to be of sand-stone, sawed on both sides, and to be five feet in width and two and one-half inches thick, laid to the proper grade and six inches from the lot line. That resolution was passed on the 23d day of March, 1903, and thereafter a notice was served upon each of the property owners who resided in the village or the county, and published to the non-residents. This plaintiff was a resident of the village of Collinwood and received this notice, or the notice which was directed to be served and was delivered to the proper officer of the village, notifying the plaintiff of the passage of the resolution, and the notice containing the following:
+“Mayor’s Office, Collinwood, 0.
+June 10, 1903.
+‘ ‘ To Fanny Meelc:
+“You are hereby notified that according to the provisions of a resolution passed by the council on the 11th day of May, 1903, you are required to construct a sidewalk in front of your premises on the southerly side of Kirby avenue, between Adams street and Elm street, known as No. - on said street. Said sidewalk to conform to the following specifications: to be of sand-stone sawed on both sides, to be 5 feet wide, 2y2 inches in thickness and laid 6 inches from the lot line, and to be constructed in accordance with the general ordinances of the village pertaining to sidewalks.
+“If said sidewalk is not constructed within thirty days from receipt of this notice, the council will have the same done at your expense, and the costs will be made a lien upon your property and collected with penalty and interest as provided by law. ’ ’
+And then follows the endorsement by the clerk.
+The notice, as already said, contained a copy of the resolution that upon the failure of the property owners to construct the sidewalk, the village would proceed to construct the sidewalk and assess the expense thereof upon the property owners; that is, the proper amount of such assessment upon each property owner.
+The plaintiff did not construct the sidewalk. The village did construct a sidewalk at this point in front of the premises of the plaintiff, nearly a year after the passage of the resolution. At the time this sidewalk was constructed, this plaintiff was absent from the village and knew nothing of its being done, until after the work was completed.
+As a matter of fact, the sidewalk which the village constructed was constructed of cement and not of sand-stone. And the agreed statement of facts contain these words: “A cement side- ■ walk is of a different material than sand-stone; it is a mixture of cement, sand and gravel.” And then it tells what sand-stone is. And the cost of said cement sidewalk is substantially the same as the cost of the sand-stone.
+The plaintiff failed to pay the assessment which was certified as a lien upon her property to the county treasurer of Cuyahoga county, who, if not enjoined, will proceed to collect the amount of that assessment.
+It is said, first, the village could not lawfully construct a sidewalk and have it assessed upon the property owner under the proceedings that were had in this case. And attention is called to Section 1536-210 of the statutes, which is Section 50 of the municipal code, which provides that—
+“The council of any municipal corporation may assess upon the abutting, adjacent and contiguous or other specially benefited lots or.lands in the corporation, any part of the entire cost of and expense connected with the improvement of any street, alley, dock, wharf, pier, public road, or place by grading, draining, curbing, paving,” etc., and any part of the cost and labor by a percentage of the tax value of the property assessed, in proportion to the benefits which may result from the improvement, or by the foot frontage of the property. ’ ’
+And by Section 1536-211a:
+“Whenever it is deemed necessary by any city or village to make any public improvement to be paid for in whole or in part by special assessments council shall declare by resolution (three-fourths of the whole number elected thereto concurring, except as otherwise provided herein), the necessity of such improvement.
+“At the time of the passage of said resolution council shall have on file in the office of the board of public service in cities, and of the clerk in villages, plans, specifications, estimates and profiles of the proposed improvement, showing the proposed grade of the street and improvement after completion, with reference to the property abutting thereon, which plans, specifications, estimates and profiles shall be open to the inspection of all persons interested.”
+And then it states that council shall also determine in said resolution the method of the assessment, the mode of payment thereof, etc.
+• It will be observed that the proceedings here were not in conformity with these sections of the statute. But there is a further provision in the statute with reference to sidewalks. Beginning with Section 1536-232, which is Section 70 of the municipal code, as published in Ellis’ work:
+“The council of cities and villages may provide by ordinance for the construction and repair of all necessary sidewalks, or parts thereof, within the limits of the corporation,” etc.
+And then it provides—
+“When the council of cities or villages declares by resolution that certain specified sidewalks shall be constructed, the clerk of council shall cause a written notice of the passage of such resolution to be served upon the owner or agent of the owner of each parcel of land abutting on such sidewalk, who may be a resident of such city or village,” etc.
+And in Section 1536-235, it is provided that—
+“If such sidewalks are not constructed within fifteen days * * * from the service of the notice, * * * the depai’tment of public service in cities and council in villages may have the same done at the expense of the owner, ’ ’ etc.
+And I call attention especially to the last provision of Section 1536-235, which is Section 73 of the code — ■
+“No other or further proceedings shall be necessary by council proceedings,” etc.
+It is said that notwithstanding that provision it was still necessary before the council of the village or the board of public service in the city may assess upon the property owner the cost of constructing the sidewalk, that there shall have been an ordinance passed, and that there shall have been the plans and specifications on file, as provided in Section 1536-210.
+The Legislature has distinctly said that no other or further proceedings than those contained in the sections last read, which provide for exactly what was done in this case, would be necessary.
+And so we hold that the proceedings of the council in providing for the construction of the sidewalk and the serving of the notice and the like, was all that was necessary to authorize the construction of the sidewalk, if it constructed the sidewalk which it said it would construct, and to have the cost of such construction assessed upon the property.
+So that there remains the question only whether having provided for a sidewalk of sand-stone it should be constructed, and that upon failure of the owners to construct such sidewalk the village should proceed to do the work and assess the cost upon the property owner. In short, did the village do what it said it would do ? Did it say to' this woman unless within fifteen days from the service of this notice you construct a sand-stone sidewalk, six feet wide — giving the dimensions of the sidewalk'— Ave will construct such sidewalk at your expense, and you will have to pay for it. Is there a greater obligation upon her than if she had entered into a contract? The village had the authority to construct a sidewalk of cement if it Avanted it. It could have passed a resolution and notified her; and if such sidewalk A\ras constructed by the village, provided she did not construct it, and they put in something else Avhieh was just as good and did not cost as much and want her to pay for that, I can’t see Avhere she is under obligation other than she would be under obligation to do if she had entered into a contract. If she entered into a contract with the village, the village had the right to do just as' provided in this resolution and require her to pay for it. The village said, if you do not care to do it, you let us do it and you pay for it. By her silence she said, you proceed; and, instead of putting in the sidewalk they told her they Avould put in they put in something else that was just as good. I suppose it could hardly be claimed by any one that if an arrangement had been made, that in a house that was being built there should be a particular finish, a particular wood used in the parlor, that it should be finished in a particular Avay, and a wholly different kind of woodwork was put in, that though just as good, that the owner would be required to pay.
+Miller & Lincler, for plaintiff.
+G. L. Stocker and IS. II. Tracy, for defendant.
+We think this woman was not bound to pay for this sidewalk. The injunction prayed for in the jietition is allowed.
