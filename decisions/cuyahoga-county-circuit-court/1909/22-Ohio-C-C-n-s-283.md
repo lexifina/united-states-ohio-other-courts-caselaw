@@ -1,0 +1,27 @@
+---
+court: "Cuyahoga County Circuit Court"
+decided: "1909-05-10"
+citations: ["22 Ohio C.C. (n.s.) 283"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Henry, J.; Winci-i, J., and Marvin, J., concur."]
+parties: ["Asa Anderson v. Godfrey Fugman et al; two cases."]
+source_url: "https://static.case.law/ohio-cc-ns/22/cases/0283-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 400575
+---
+
+# Anderson v. Fugman
+
+## Majority
+
+These two appeals from the same judgment will be consolidated. Plaintiff seeks the reformation of a lease under which he is the tenant. The lease was made before the premises were improved. The improvements were made in accordance with plans agreed upon between lessor and lessee, and are connected with and a part of an improvement of the remainder of defendant’s lot not covered by the lease. At present the leased premises located chiefly in the rear of said lot consist of a large dancing academy with an entrance gallery or corridor, giving means of ingress and egress to and from the street on which the lot fronts. The front of the lot is occupied by a building, which except for the corridor aforesaid, is used for stores and offices. The dispute here centers in the boiler room in one of the rear corners of the basement under this store building. The lease as actually executed excludes this boiler room, whereas the plaintiff claims that both parties understood it to be included.
+After the execution of the lease and during the erection of the building the lessor installed his heating plant, consisting of a boiler in the room now in dispute, with pipes leading therefrom to both buildings. This mode of construction plaintiff acquiesced in, claiming now, however, that it was simply an experiment which he consented to for the landlord’s convenience, with a view to seeing whether both buildings might not be adequately heated from a common plant. This, however, proved unsatisfactory to him and he now insists upon his right to the exclusive use of this boiler room and such heating plant as may now or hereafter be installed therein of a capacity sufficient for his needs in heating his dancing academy. To this end he seeks a reformation of the lease.
+In support of this contention he points out in the building plans, and in the store building, as erected, ample provision of smoke stack, flues, etc.,'by means of which a separate heating plant could have been and may be installed for the use of the store building alone.
+The defendants claim on the other hand, that there was no mistake in leaving the boiler room out of the description of the leased premises, the intention of the parties all the while being that the lessor was to furnish the lessee with heat and that the lessee was to pay the lessor the reasonable cost or value thereof.
+The provisions of the lease in regard to the tenant’s payment of rent, etc., seem to us to support the defendants’ contention in this behalf. Those provisions are:
+“Said second party is to pay a rental in the sum of twenty-three hundred ($2,300) per year for the first period of ten years and the sum of twenty-seven hundred ($2,700) for the second period of ten jrears, of which said annual rental for first year has been paid in advance, upon terms and conditions stated in a receipt given therefor, and thereafter said annual rental is to be paid in quarterly installments in advance. In addition thereto, said second party is to pay for such lights, heat and water as he may use in said premises, and is to do all the interior repairing at his own expense.”
+This provision is less consonant with the idea that the plaintiff, as lessee, was to furnish his own heat than that the lessor was to furnish it to him. In order to do so the lessor must necessarily control the heating plant and the room where it is located. At all events the evidence of a contrary contention is not so clear and convincing as the rule in such cases requires in order to authorize a reformation. It is not claimed that the lessee entered into this particular covenant under any mistake of fact. If there was any mistake on his part as to what the language meant, it was a mistake not of fact, but of interpretation of the contract; that is to say, an error of law, against which he can not have relief in equity.
+There are certain other errors in the description of the premises which both parties concede. For example, the description of the land covered by the dancing academy fails to correspond by a few inches in some cases with the lines of the building as actually constructed. Moreover, certain rooms on the first and second floors of the store building adjacent to the corridor aforesaid, occupied by the plaintiff with the acquiescence of the defendants, are either not described or misdescribed in the lease, and the rights of plaintiff in the basement under the rear part of the corridor are not clearly defined. In these respects the lease should be reformed, but not as to the boiler room. If the plaintiff is not furnished such heat as he reasonably requires for his dancing academy, he has his plain remedy at law under the lease.
+The plaintiff may take a decree to the extent thus indicated, but inasmuch as the defendant appears to have been ready to concede such reformation of the lease as the court now awards, the plaintiff must pay the costs.
