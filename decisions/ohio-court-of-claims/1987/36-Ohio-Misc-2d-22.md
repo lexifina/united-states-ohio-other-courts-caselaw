@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Claims"
+docket: "V85-62456"
+decided: "1987-05-26"
+citations: ["36 Ohio Misc. 2d 22"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Guy G. Cline, J., retired, of the Probate Court of Pickaway County, sitting by assignment."]
+parties: ["In re Lyon."]
+source_url: "https://static.case.law/ohio-misc-2d/36/cases/0022-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6712762
+---
+
+# In re Lyon
+
+## Majority (Cline, J.)
+
+Cline, J.
+This cause came to be heard before a judge of the court on April 30,1987, upon the appeal filed by the Attorney General from the decision of the panel of three commissioners journalized on December 31, 1986.
+The issues presented are: (1) whether the three-commissioner panel erred in concluding that the victim’s parents’ lost wages qualify as work loss, as defined in R.C. 2743.51(G); and (2) whether the victim’s parents’ lost wages qualify as an allowable expense, as defined in R.C. 2743.51(F).
+On November 2,1984 and again on November 15, 1984, the victim, Eric Lyon, was sexually assaulted by an individual identified as Wilburn Toppins, a neighbor who resided directly across the street from the victim and the victim’s family in Reynoldsburg, Ohio. At the time of the incidents, the victim was twelve years old and the offender was sixty-seven years old. The applicant, Diane J. Roush, is the mother of the victim.
+The first incident occurred at the offender’s residence during an overnight visit by the victim with the offender’s grandson. The second incident occurred at the victim’s residence while the victim was at home alone after school and prior to the time his parents normally returned to the residence following their respective workdays. On this second occasion, the offender simply walked into the victim’s residence unannounced and uninvited. During both assaults, the offender threatened the victim by telling him that if he did not do what the offender wanted him to, or if he told anyone else about the incidents, the offender would shoot the victim as well as the victim’s mother, stepfather, and sister.
+From the time that the incidents were reported to the Reynoldsburg Police Department on November 18, 1984 to January 1985, the offender continued to reside directly across the street from the victim and his family. Since the offender was retired from his previous employment, he was able to spend most of his time at his residence. The applicant testified before the panel of commissioners that this proximity of the offender caused the victim to experience nightmares and develop a fear of having the curtains in the house open during the daylight hours.
+Both the applicant and her husband, the victim’s stepfather, were forced to miss hours from their regular work schedules in order to accompany the victim to medical service providers and court proceedings. In addition, the applicant curtailed her normal work schedule during those weeks that the offender continued to reside directly across the street from the victim so that she would be at the residence when the victim arrived home from school. According to the applicant’s testimony at the panel hearing, she discussed this change in her work schedule with both law enforcement officials and medical service providers prior to her having started working this curtailed schedule.
+In their decision, the three-commissioner panel determined that the applicant and her husband incurred work loss, as defined in R.C. 2743. 51(G), as a result of the time they missed from work to attend court proceedings and to effectuate the applicant’s curtailed work schedule so that she could arrive at the residence before the victim returned from school. In this regard, the three-commissioner panel’s decision reversed the single commissioner’s May 28, 1986 opinion wherein it was determined that the victim’s parents’ lost wages did not qualify as work loss, as defined in R.C. 2743.51(G).
+This court finds that the single commissioner properly determined, and the three-commissioner panel erred in reversing that determination, that the victim’s parents’ lost wages did not constitute work loss. R.C. 2743.51(G) defines “work loss” as a “loss of income from work that the m-jured person would have performed if he had not been injured * * *.” (Emphasis added). The “injured person” referred to in the preceding quote is the injured person who has had the criminally injurious conduct, that has resulted in the claim for reparations, perpetrated against him. The statutory language is clear and unambiguous.
+In the instant claim, the “injured person” is Eric Lyon who was the victim of sexual assaults. As he was only twelve years old at the time of the incidents and was, therefore, unemployed at the time, this court finds that work loss was not incurred as a result of the assaults upon the victim.
+Regarding the issue of whether the victim’s parents’ lost wages qualify as an allowable expense, R.C. 2743.51(F) defines “allowable expense,” in pertinent part, as: “reasonable charges incurred for reasonably needed products, services, and accommodations, including those for medical care, rehabilitation, rehabilitative occupational training, and other remedial treatment and care.” The Attorney General does not dispute the fact that, considering the minor victim’s age at the time of the incidents, the victim’s parents’ lost wages incurred as a result of their missing time from work in order to transport the victim to medical or psychotherapy services constitute an allowable expense. Similarly, due to the victim’s age and the nature of the offenses, the Attorney General does not dispute that the parents’ lost wages incurred as a result of their accompanying the victim to those court appearances, which he was required to attend during the offender’s criminal trial, were necessary for the psychological rehabilitation of the victim and, therefore, also constituted an allowable expense. In re Tallman (June 7, 1985), Court of Claims No. V85-50687 sc, unreported. Thus, the only remaining issue before this court is whether the applicant’s lost wages incurred as a result of her curtailing her work schedule so as to be present in the residence when the victim arrived home from school constitute an allowable expense.
+This court finds that, under the unique circumstances of this claim, the applicant’s lost wages incurred as a result of her curtailed work schedule did constitute an allowable expense, as defined in R.C. 2743.51(F). Specifically, the following circumstances found in this claim convince this court that the applicant’s curtailed work schedule was a reasonably needed service for the rehabilitation and the remedial treatment and care of the victim:
+(a) the age of the victim and the nature of the criminally injurious conduct;
+(b) the fact that the applicant is the rnother of the minor-aged victim;
+(c) the offender continued to reside directly across the street from the victim prior to his criminal trial;
+(d) the victim exhibited pronounced manifestations of fear regarding the proximity of the offender;
+(e) the offender had threatened the victim with serious bodily harm; and
+(f) the applicant discussed' the change in her work schedule with both law enforcement officials and medical service providers prior to her having started the curtailed work schedule.
+In that both the applicant and her husband testified before the three-commissioner panel that they were in agreement with the wage-loss calculations contained in the Attorney General’s finding of fact and recommendation filed February 4, 1986, the applicant is granted an award of reparations in the amount of $877.97. Such an award represents the applicant’s total unreimbursed allowable medical expense of $7 and additional allowable expense in the amount of $870.97 representing the combined lost wages of the applicant and her husband.
+Judgment accordingly.
+Guy G. Cline, J., retired, of the Probate Court of Pickaway County, sitting by assignment.
