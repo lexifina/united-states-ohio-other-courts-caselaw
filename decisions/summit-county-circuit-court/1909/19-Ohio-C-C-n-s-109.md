@@ -1,7 +1,7 @@
 ---
 court: "Summit County Circuit Court"
 decided: "1909-12-30"
-citations: ["19 Ohio C.C. (n.s.) 109", "19 Ohio C.C. (n.s.) 119"]
+citations: ["19 Ohio C.C. (n.s.) 109"]
 reporter: "ohio-cc-ns"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
