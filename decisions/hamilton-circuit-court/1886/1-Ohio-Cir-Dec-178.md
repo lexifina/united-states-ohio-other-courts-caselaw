@@ -1,0 +1,30 @@
+---
+court: "Hamilton Circuit Court"
+decided: "1886-02"
+citations: ["1 Ohio Cir. Dec. 178"]
+reporter: "ohio-cir-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cox, Smith and Swing, JJ."]
+parties: ["Buning, on behalf of Cincinnati v. Cincinnati Street Railway Co."]
+source_url: "https://static.case.law/ohio-cir-dec/1/cases/0178-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1616637
+---
+
+# Buning v. Cincinnati Street Railway Co.
+
+## Majority (Cox, J.)
+
+Cox, J.
+This is a petition in error to reverse the judgment of the court of common pleas. The petition was filed in the court of common pleas by Buning, the present plaintiff in error, to enjoin the defendant from operating what is called the extension of route No. 4, under an ordinance of the city of Cincinnati, and to declare the ordinance null and void.
+The petition sets forth that the plaintiff is a taxpayer; that he made application to the city solicitor under the statute to bring this action, who declined to do it, and thereupon he brought it under sections 1778 and 1779: “In case the
+city solicitor fails, upon the request of any taxpayer of the corporation, to make the application provided (or in the preceding section, it shall be lawful for such taxpayer to institute suit for such purpose in his own name on behalf of the corporation.” Section 1779: “If the court healing such case is satisfied that
+such taxpayer had good cause to believe thát his allegations were well founded, or if the same is sufficient in law, it shall make such order as the equity and justice of the case demands.”
+S. A. Miller, for plaintiff in error.
+Stallo, Kittredge & Wilby, Paxton & Warrington, for defendant in error.
+Plaintiff alleges that he is a taxpayer, and that the city, in enacting the ordinance to extend route No. 4, exceeded its corporate powers. There is no statement in the petition that there was an5' misapplication of funds of the corporation, or that there was likely to be any expense, by way of taxation or otherwise, upon this plaintiff. It is admitted that plaintiff’s residence is in the neighborhood of three-quarters of a mile from the route; that he owns no property at all upon the route as established by the city council, and that he has no pecuniary interest otherwise than that of a mere taxpayer, a general taxpa> er of the city.
+There' are a great many exceptions taken to this ordinance. It is claimed, in the first place, that this is not an extension of the lou'e No. 4; that route No. 4 had expired by its own limitation, twenty years, and that this was the enactment and the grant of a new franchise entirely, and not an extension of the old one. It is claimed that it is not an extension of the route, because it runs upon some lateral streets parallel with the original track, and that there are no termini fixed. It is claimed also that this ordinance was obtained by fraud, because previous to the passage of the ordinance certain street railroad tickets had been given to the members of council. It is admitted that no application for this injunction was made until the track was laid and in use.
+We have not thought it necessary to go into the examination of all these questions. We have lelt ourselves satisfied upon one point, and that is this: This plaintiff does not reside on and has no p¡ operty on this route. It is a long-route, extends through the central pait of the city, along its most valuable property, valuable interests are affected by it, and if the owners of property abutting upon the road were injured by the track, either single or double, in access to their propertjq or otherwise, it would be the duty of the court on their complaint to hear them to the fullest, and perhaps grant such relief as they might be entitled to if the ordinance were not passed with their consent. It is claimed that no consent has been given by these owners of propeity to the extension of the road. There is, perhaps, some little want of form, an inform dity in the manner of filing the consents of the property h lders for the grant, and in their consents, but the case has been pending here tor over two years ; no property holder along this entire route has complained, although the road has been in constant operation ; none of them are in court appearing to complain ; all seem to be satisfied. The court below heard the testimony, and proceeding to do as the statute provides they shall do, made such order as in its opinion the equity and justice of the case demanded, by dismissing the petition. Upon full examination of the case we are not satisfied that the court committed error. We think that where such large interests are involved as are in this route, where so many conflicting interests would arise between the railway company and property holders if they were injured, that some oí them would have asserted those rights in court; and where a party owning no property on the route, and living three-quarters of a mile lrom it, is the only person in the city who complains of it, and especially when the road has been completed and in operation before his petition was filed, we think the court committed no error in dismissing his petition.
+I may say that the plaintiff himself says he does not know anything at all about the case except what his counsel informs him. He is under no expense in employing counselor even pa\ing notary’s fees for swearing to his petition. His name as a taxpayer has simply been used by parties not owning property on the route, who desire to have this ordinance held invalid.
+The judgment will therefore be affirmed.
