@@ -1,0 +1,35 @@
+---
+court: "Warren County Court of Common Pleas"
+decided: "1930-01-28"
+citations: ["27 Ohio N.P. (n.s.) 578"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elias Oglesbee et al. v. Joseph Moeller et al."]
+source_url: "https://static.case.law/ohio-np-ns/27/cases/0578-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8808296
+cites_cases: ["119 O. S., 610"]
+---
+
+# Oglesbee v. Moeller
+
+## Majority (Dechant, J.)
+
+Dechant, J.
+One of the questions raised by this action is the constitutionality of the Riggs law, embodied in Sections 1121-1 to 1121-25, General Code, which provides for the examination, inspection and testing of cattle for bovine tuberculosis and, under certain circumstances, for the summary destruction of the diseased animals. The constitutionality of this law is settled in this state by the decision of the Supreme Court in the case of Kroplin v. Truax, 119 O. S., 610.
+Plaintiffs object because the court rejected testimony offered by plaintiffs tending to show that the tuberculin test was unreasonable, oppressive, confiscatory and not calculated to eradicate bovine tuberculosis. Plaintiffs also contend that they offered to prove by evidence that the method of testing cattle selected by the Department of Agriculture, under the discretion conferred upon it by .the Legislature in General Code 1121-3, namely the “tuberculin test,” as applied by it, is unreasonable, oppressive, confiscatory and in contravention of the right to carry on an occupation with due regard to law and the health of the community. They therefore claim that their right to an injunction can be established without attacking the constitutionality of the Riggs law itself, but only the method of its enforcement by the Department.
+Section 1121-3 General Code is as follows:
+“The term ‘tuberculin test,’ as used in Sections 1121-1 to 1121-25 of the General Code, shall mean any method of testing by tuberculin, or by any other method of testing, approved by the Department of Agriculaure.”
+That the court was correct in excluding the evidence offered by plaintiffs as to the cause, nature and effects of said test I quote from a decision of Judge Jones of Miami county in a similar case.
+“At the outset of the case I entertained grave doubts as to whether the courts would be permitted to go into the question of the efficiency of the test methods prescribed by the State Board of Agriculture in accordance with the statutory authority. I deemed it best and prudent and fair, however, that the plaintiffs should be allowed to introduce their evidence in this particular, reserving the question of its competency or relevancy, feeling that in case of an adverse decision the plaintiffs should be permitted to have in the record the evidence upon which they relied to support the allegations of the petition in this respect.
+Is it the province of the court to determine what methods, remedies, or processes are beneficial or detrimental to the physical condition of cattle, or is the court to determine how they are to affect the human race? Is not this purely a legislative instead of a judicial function? The fathers of our government and the framers of our constitutions, both national and state, have always sought to draw a distinct line between the three great branches of government, executive, legislative and judicial, and carefully separate their jurisdiction and powers. Courts may interpret laws, but they cannot make them. It seems that the proposition that the court should undertake to exercise the police power, or even to- divide it with the representative branch of the government, is on its face an invasion by the courts of a matter'which belongs solely to the Legislature. It is net within the province of the courts to enact health regulations, prohibitory laws, traffic laws, quarantines, for anyone, or to interfere with the proceedings of legislative or executive bodies expressly charged with the case of such matters.
+# * * * * *
+I am therefore clearly of the opinion that the evidence on this proposition cannot be considered by the court or in any way affect its decision.”
+Similar complaints have been made as to the efficiency of vaccination for small pox and some of these complaints are from men of the medical profession. No doubt, in some instances, the vaccine has been unskillfully applied with unsatisfactory results, but the fact is apparent that the deadly epidemics of small pox have ceased.
+The court deems it unnecessary to consider the conflicting testimony as to whether or not a majority of the cattle owners representing more than seventy-five per cent, of the cattle in each township of Warren county have petitioned for the tuberculin test. The last paragraph of Section 1121-18 of the General Code reads as follows:
+“Whenever ninety per cent, of the cattle of a county or township have been quarantined or tested as herein provided, the Department of Agriculture may, through its authorized veterinarians, enter the premises where the remaining ten per cent, are kept and test all cattle and order the reactors destroyed without the consent of the owners, but compensation or indemnity shall be paid as in other cases.”
+The affidavits of Dr. A. J. DeFosset, Inspector in Charge of the Bureau of Animal Industry, United States Department of Agriculture for contagious disease control and eradication in the state of Ohio, and of Dr. C. McCandless, Chief of the Division of Animal Industry, Department of Agriculture of the state of Ohio, show that 98.73% of the cattle in Warren county have been tested. And upon this question the court again quotes, with approval, from .the decision of Judge Jones:
+“Upon full consideration I have reached the conclusion that it is unnecessary to go into this branch of the case, and immaterial for the purpose of this case whether the prerequisite of the area test had been complied with, for the reason that I consider the last clause of Section 1121-18 is an independent enactment, or, in other words, not dependent upon whether the area test has gone into effect or not. * * *
+The record in this case shows that more than ninety per cent, of cattle in the county have been tested. It is urged, however, on behalf of the plaintiffs that this is qualified by the expression contained in it ‘as herein provided.’ I do not understand that there is any such limitation contained in the statute, but that this latter clause applies whenever the mathematical result is obtained,, that ninety per cent, have been tested, whether voluntarily or otherwise, and that the words, ‘tested as herein provided’ clearly referred to the test mentioned in Sections 1121-1 and 1121-3. I therefore do not regard it necessary to go into the question as to whether any particular percentage of the cattle is represented by the petitions, as it is the ninety per cent, clause, and not the seventy-five' per cent, that applies.”
+The application for a temporary restraining order will be denied.
