@@ -1,0 +1,34 @@
+---
+court: "Hamilton Circuit Court"
+decided: "1891-01"
+citations: ["3 Ohio Cir. Dec. 196"]
+reporter: "ohio-cir-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Swing, Cox and Smith, JJ."]
+parties: ["ALFRED SQUIER v. CINCINNATI (CITY)."]
+source_url: "https://static.case.law/ohio-cir-dec/3/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1620548
+cites_cases: ["42 O. S., 522", "46 Ohio St., 296"]
+---
+
+# Squier v. Cincinnati
+
+## Majority (SMITH, J.)
+
+SMITH, J.
+We find and hold in this case as follows:
+First — That if Hyman, while he was the owner of this property, had signed a petition (with three-fourths of the other owners of property abutting on the avenue proposed to be improved), addressed to the board of public affairs, asking for the improvement thereof, in a particular way, and the action of the board or council was in any way influenced thereby to order such improvement, neither he nor his grantee, to whom he had conveyed the lots in question after the improvement was ordered, would be in position to claim that the assessment on said lots over and above twenty-five per cent, of the value thereof was invalid.
+Second — Hyman’s petition (signed by him alone) was signed in Denver, Colorado, March 11, 1887. The main petition signed by more than three-fourths of the owners of the abutting property, was presented to the board, January 14, 1887, and notice of such filing was duly entered on its journal, and on the recommendation of the board, the council passed a resolution declaring it necessary to improve this avenue. A few days after March 11, 1887, the petition of Mr. Hyman was taken by Mr. Boyd, to whom it was sent for that purpose, to the office of the board of public affairs, and left with some person, and very soon thereafter, it was attached to the original petition, and placed with the files of the board, and afterwards with such petition pasted in a book kept for that purpose. There was no mention of the Hyman petition on the journal of the board, and no evidence to show that it actually came to the knowledge of the board or of the council.
+Third — But after the filing in this manner, viz., on May 13, 1887, the council on the recommendation of the board passed an ordinance providing for the improvement of this avenue, and on August 3, 1888, the assessing ordinance was passed, and on September 30, 1887, Hyman conveyed the premises in question to the plaintiff, who had no knowledge of the fact of the signing of any petition by Hyman. The assessment on each of the lots exceeds twenty-five per cent, of the value thereof. The question is, whether the excess of the assessment over twenty-five per cent, of the value should be enjoined.
+We are of the opinion that as this petition of Hyman was in fact filed in the office of the board, and placed .with the other papers relating to this improvement before the passage of the ordinance to improve the avenue, and was evidently dealt with by those having charge of the papers and files of the board, as an addition to the original petition, which files would be likely to come before the board when recommending the passage of the ordinance to make the improvement, that the presumption is very strong that it did come to the knowledge of the board, and influenced it in the making of the recommendation. The fact that no mention of it is made on the journal, and the want of recollection of the secretary of the board of his having seen it, to our minds is not sufficient to overcome this presumption.
+Bateman & Harper, for plaintiff.
+Theo. Horstman, city solicitor, for defendants.
+But if the fact was that the board did not consider it, while making this recommendation, we are not prepared to say, that where a person by such supplemental petition duly filed in the office, and the place where the law provides for the filing of such papers, asks for the. improvement which is afterwards ordered and made in accordance with his petition and the petition of others in like form, that he should be allowed to escape from the assessment made to pay for the same, even if the board had not in fact considered his petition.
+Fourth — One of these lots, No. 26, is a corner lot, and it is agreed that if the assessment is to be in accordance with the laws in force just previous to March 11, 1887, it should be assessed for only 41.34 feet, instead of 135 feet, as -was done
+Under the decision of the supreme court in Cincinnati v. Seasongood, 46 Ohio St., 296, the general principle is laid down that the assessment to pay for a street improvement must be under, and be governed by, the law in force -at the time of the passage of the improvement ordinance. As the improvement -ordinance in this case was passed on May 13, 1887, which was after the taking .effect of the law of March 1 r, 1887, it would follow that the assessment would foe under this law, unless sec. 79, Rev. Stat., changes the rule. This section provides that “whether a statute is repealed or amended, such repeal or amendment shall in no manner affect pending actions, prosecutions or proceedings, civil or criminal, and when the repeal or amendment relates to the remedy, it shall not affect pending actions, prosecutions or proceedings, unless so expressed.” If this act of March 11, 1887, relates merely to the remedy, it is manifest that it does not in any way, express or implied, provide that it shall apply to pending proceedings.
+In our judgment, the action had before the board and the council in this matter, was such a proceeding as comes within the terms and meaning of such section 79. and that so far as this assessment is concerned, the act of March 11, 1887, had no operation. It could only affect those proceedings commenced after its passage, and assessments in proceedings then pending must be made under the laws before that time in force.
+Such is a strong .intimation, if not in the direct holding in Cincinnati v. Seasongood, supra, and to the same effect is the decision in Raymond v. Cleveland, 42 O. S., 522, in similar language.
+This is certainly right and just. The owners of property knowing that under existing laws their property will be assessed in a particular manner, petition for the improvement of a street, and a resolution is passed by the board and council declaring it is necessary to do so, and this initiates the proceeding. It would be manifestly inequitable that a law passed thereafter, providing for a wholly different mode of assessment, and greatly increasing the burdens on the part of the property, should apply to such a pending proceeding.
+For these reasons we hold that the prayer of the petition to enjoin the assessment over 25'per cent, should be denied, but order that the assessment on lot No. 26 should be only on 41.34 feet thereof, instead of on 135 feet.
