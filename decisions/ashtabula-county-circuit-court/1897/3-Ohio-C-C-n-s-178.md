@@ -1,0 +1,46 @@
+---
+court: "Ashtabula County Circuit Court"
+decided: "1897-10"
+citations: ["3 Ohio C.C. (n.s.) 178"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Frazier, J.; Laubie, J., and Burrows, J., concur."]
+parties: ["F. R. Simmons et al v. Admr. of Sarah J. Moore et al."]
+source_url: "https://static.case.law/ohio-cc-ns/3/cases/0178-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1795176
+cites_cases: ["26 Ohio St., 317", "31 Ohio St., 447", "38 Ohio St., 401", "43 Ohio St., 63"]
+---
+
+# Simmons v. Admr. of Moore
+
+## Majority
+
+Proceedings in error are prosecuted by F. R. Simmons and others, claiming to have liens by reason of levies made after the death of Sarah J. Moore on executions issued on judgments against A. ^U. Moore.
+A. U. Moore, as administrator of his wife’s estate, commenced proceedings in the probate court for the sale of the real estate of his deceased wife. It is an uncontroverted fact that Mrs. Moore was insolvent at her decease.
+The administrator made not only himself, as heir, but the mortgagees of his wife parties, and averred that certain other parties claimed an interest in these premises, as creditors of the surviving husband, who was also administrator.
+The case was disposed of in the probate court, which, under our statute, had full jurisdiction in the matter and authority to determine the validity and priority of the liens. The case was then, appealed to the court of common pleas and was submitted in that court upon an agreed statement of facts. The case was disposed of by the learned judge of the court of common pleas, and his opinion is published in Moore v. Moore, 6 Dec., 154. We only propose to remark upon such matters as are urged in this hearing as do not appear to be directly alluded to in that opinion.
+By the agreed statement of facts, it is shown that A. U. Moore received an order of sale from the probate court in this proceeding for the sale of all of the real estate of which Sarah J„ Moore died seized on November 18, 1895, and that on said date he received an offer for tract 1 of said property from Richards Brothers, to purchase said tract for $3,500, the appraised value thereof.
+That on March 14, 1896, the defendant Moore was remarried, and since that date has been a married man, the head and support of a family; that he is a resident of Ohio, and neither he nor his wife own a homestead.
+That on March 19, 1896, he accepted the offer of said Richards Brothers for said tract 1, and reported to the probate court the sale, which was confirmed and deed made and delivered, and said $3,500 paid.
+That on August 26, 1895, the creditors of A. U. Moore caused executions to issue and they were levied and return made by the sheriff:
+“No goods or chattels of the within named A. U. Moore being found to levy, I did, on the 26th day of August, A. D. 1895, at the hour of two o’clock p. m., levy the annexed writ upon the following described real estate (describing the same real estate described in the petition filed by the administrator to sell lands’ in the probate court in this case). No further proceedings by me under and by virtue of the annexed writ and the same is returned: No money made, not satisfied.”
+It is now inquired, what was brought into the court of common pleas by the appeal, and it is urged that the order and finding in the probate court, upon which the premises were sold, was not appealed.
+One thing I apprehend is certain: There can be no question but the order of distribution in this case was appealed from. The appeal was perfected within the time prescribed by statute from the making of that order.
+It is contended that the finding of the amount due each creditor, and the priorities, is in effect a judgment, and the finding that the creditors of A. U. Moore had obtained liens upon his dower interest by their levies not being opened up by the appeal, the proceeds of sale must be distributed as there found. We think the same rule prevails in this action, as would prevail in an ordinary proceeding to foreclose a mortgage, where other mortgagees and judgment creditors are made parties to marsha liens, and a finding of amount due each, and the priorities^ with an order to sell to satisfy the sums found due. If a party is found to be entitled to an exemption in lieu of a homestead under Section 5441, Revised Statutes, it is not necessary to change the findings and order of sale. The mere fact that a lien exists does not bar the right to an allowance of homestead or exemption in lieu of it. It is allowed because in law the debtor’s right to it is a higher and better right, a right more favored and superior to a judgment lien.
+In McConville v. Lee, 31 Ohio St., 447, 450, it is said:
+“Nor can it make any difference that previous to the sale, an order had been made that the proceeds of the sale should be applied first in payment of costs, then in satisfaction of the mortgage debt, and then in satisfaction of the judgment. The decree in that respect was within control of the court until there was actual distribution.”
+The only effect, so far as creditors are concerned, is that there is that amount less to distribute under the order, and they are affected just as they would have been had the premises been sold for that sum less than it brought. A lien may exist, but it is only valuable to the lien-holder if the property is not consumed in payment of prior liens or superior claims.
+The demand for exemption was made by motion filed in the probate court on the day before sale. The court has authority to make or refuse an allowance under Section 5441, Revised Statutes, out of the proceeds of sale, as warranted by the facts or changed circumstances of the parties, as they exist at the time the surplus is disposed of.
+The order appealed from and in question here is only the right of A. U. Moore to have an allowance in lieu of a homestead.
+The authorities appear numerous upon the question to which I have referred, especially Niehaus v. Faul, 43 Ohio St., 63, where it is held:
+“The right to demand an allowance in lieu of a homestead under Section 5441, Revised Statutes, out of the proceeds of the second sale, is to be determined by the state of facts at the time the surplus arising from such sale was finally disposed of by the court.”
+It is claimed also that it was a fraud upon the creditors for him to get married, and put himself in a state to make a demand in lieu of a homestead. We have upon that subject the case of Mortley v. Flanagan, 38 Ohio St., 401, the syllabus of which is:
+““Where the members of a firm acting in good faith, dissolve the partnership, and one member sells his interest in the partnership property to the other, the latter will not be deprived of the right to hold such property exempt from the payment of a debt thereafter asserted against him, on the ground that such debt was a partnership debt due at the time of the dissolution, nor will the fact that the partners knew the firm to be insolvent at the time of such dissolution make any difference. Gaylord v. Imhoff, 26 Ohio St., 317, distinguished.”
+Judge Okey, in the opinion, comments as follows:
+“The denial in the reply seems to be as broad as the averments in the answer; but if we construe the reply as admitting that one of the reasons which induced the dissolution and the sale to A. C. Flanagan was to enable him, to claim an exemption from execution, the result would be the same. A sale fairly and honestly made by one member of a firm of his interest in the partnership property and effects to the other partner, will not be rendered invalid by the fact that it was expected such partner would thereafter avail himself of the provisions of the statute to hold such property exempt from execution. Such a purpose where the purchase is Iona fide is not the subject of averment or proof. ’ ’
+If it is a fraud for a man to put himself in a position to demand a homestead, the whole right to have a homestead would be a fraud.
+Hoyt & Munsell, for judgment creditors.
+G. W. Belknap and C. A. White, for U. A. Moore.
+Having said this much we are content to affirm this ease on the other questions made in the record, upon the reasoning of Judge Howland in Moore v. Moore, supra. Judgment will be affirmed with costs; no penalty.
