@@ -1,0 +1,41 @@
+---
+court: "Shaker Heights Municipal Court"
+docket: "65-8741"
+decided: "1967-10-18"
+citations: ["14 Ohio Misc. 34"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Yoe et al., v. Warner et al."]
+source_url: "https://static.case.law/ohio-misc/14/cases/0034-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6694448
+cites_cases: ["122 Ohio St. 560", "159 Ohio St. 505", "173 Ohio St. 181", "8 Ohio Misc. 176"]
+---
+
+# Yoe v. Warner
+
+## Majority (Disbbo, J.)
+
+Disbbo, J.
+(acting judge). Initially, there having been various preliminary motions filed in this canse prior to its coming on for trial and those motions having been ruled upon and disposed of in advance of this cause being tried, all such motions as ruled upon were and are considered the law of the case.
+Plaintiffs brought their action in the Shaker Heights Municipal Court which has jurisdiction in the city of Shaker Height's, county of Cuyahoga, state of Ohio as well as other municipalities in said county. The defendant Warner, at all times herein referred to, was a resident of the city of Shaker Heights, Ohio. The defendant, Johnson, at all times herein referred to, was a resident of Cuyahoga County but not a resident of any of the municipalities over which the Shaker Heights Municipal Court has stated jurisdiction.
+The plaintiffs ’ action was one for the recovery of damages arising out of an automobile collision which occurred in Cuyahoga County, but outside the municipal boundaries of any of the municipalities over which the Shaker Heights Municipal Court has stated jurisdiction.
+Proper service of summons was had upon the defendant Warner in the municipality in which the action was brought. Service was obtained upon- the defendant Johnson through the office of the Secretary of State as is provided for by the statutes of the state of Ohio. The case was tried to a jury and a verdict rendered against the defendr ant Johnson in favor of the plaintiffs. The jury also found in favor of the defendant Warner. Thereupon counsel for the defendant Johnson moved this court for an order dismissing the jury’s verdict against said defendant for the reason that there being a verdict in favor of the resident defendant the court therefore had no jurisdiction over the nonresident defendant, Johnson.
+Various cases have been cited to the court as well as several of the statutes which the respective parties believe are applicable to the situation. The court is of the opinion that the motion made on behalf of the defendant Johnson is controlled by the provisions of Section 1901.19 (D), Revised Code, the applicable portion of this section provides as follows:
+“Subject to Section 1901.17, Revised Code, a Municipal Court has jurisdiction within the limits of the county or counties in which its territory is situated:
+“(D) In any civil action or proceeding at law in which the subject matter of the action or proceeding is located within the territory or when the defendant or some one of the defendants resides or is served with summons within the territory:”
+Counsel for the defendant Johnson does not dispute the jurisdiction of a Municipal Court having county-wide scope where the subject matter of the action is located within the municipality, citing Gastaldo v. The Parker Appliance Co. (1962), 173 Ohio St. 181. The holding in Gastaldo was predicated upon the language found in Section 1901.19 (D), Revised Code. To the identical effect in an action for damages arising out of an automobile acci-den, is the holding in the later case of Carbin v. Major (1966), 8 Ohio Misc. 176, wherein the Akron Municipal Court on page 178 held as follows:
+“Under the Gastaldo case as above mentioned, the Akron Municipal Court has jurisdiction of the subject matter and thus can serve defendant anywhere within the county of Summit.”
+In the case now before the court, the subject matter of the action was not located within the territory and that principle is therefore not herein involved. However, a continuation of Section 1901.19 (D), Revised Code, by its clear and unequivocal language provides two clear cut additional tests for a jurisdiction of a municipal court, namely, when (a) the defendant or (b) some one of the defendants resides or is served with summons within the territory. TMs language is written clearly in the alternative and is not conditioned upon the preceding language of subsection (D). It follows therefore that in an action of the kind involved herein there being one of the defendants residing within the territory, this Municipal Court had jurisdiction over the defendant who was a resident of the same county as that of the court but not a resident of the particular territory involved.
+Turning now to the determinative issue involved herein, the basic question involved, simply put, is this: does the jurisdiction this Municipal Court originally had over the defendant Johnson, terminate by reason of the jury’s verdict in favor of the resident defendant Warner. The question appears to be novel insofar as Municipal Courts are concerned.
+Two precedents brought to the court’s attention involve situations where an action was brought in the county where one or more defendants resided and service was obtained in another county upon an additional defendant.
+See: Stark County Agricultural Society v. Brenner (1930), 122 Ohio St. 560, and Glass v. McCullough Transfer Company (1953), 159 Ohio St. 505.
+Upon verdicts in favor of the resident defendants, the cases against the nonresident defendants were dismissed for lack of jurisdiction. The rationale of the court in the Stark case was set forth at page 575:
+“The right of DeMichele to be sued, if at all, in the county of his residence, is a valuable right, because of less annoyance and expense and greater facility for calling witnesses and securing counsel.”
+In the Glass case the court held the verdict in favor of the in county resident defendants changed the original action from one that was “rightly brought in” the county of suit to one not rightly brought.
+Without attempting to discuss the subject of county wide jurisdiction of Municipal Courts, one must none the less give meaning to that portion of Section 1901.17, Revised Code, providing for Municipal Court jurisdiction within the limits of the county in which it is situated. While the Legislature did not necessarily extend the jurisdiction of Municipal Courts as the express language would indicate, it certainly did not mean to unduly limit such jurisdiction nor to encumber it so as to defeat substantial justice.
+The present action, perhaps not advisedly, was none the less properly brought in the Shaker Heights Municipal Court. In addition to being a resident of Shaker Heights, the defendant Warner was an integral part of the lawsuit. It was her car that actually struck the plaintiff’s vehicle. No claim of sham or fraud in bringing the action against her was or could be made. The verdict in her favor did not make that which was proper, improper.
+Within the confines of his own county, no hardship was worked on a defendant such as Johnson as to annoyance, expense, facility for calling witnesses or securing counsel.
+Over simplification of a problem cannot serve the best interests of justice. No one would dispute the importance and significance of the geographical limitations of counties. They are separate and distinct and operate completely and totally independent of one another. On the other hand, municipalities within a county are for many purposes blended together and have many identical agencies, public and private, regulating and serving the needs of the populace.
+Having in mind that the unnecessary extension of litigation and multiplicity of lawsuits serves no useful purpose ; and further having a valid statutory basis for jurisdiction in the first instance, with no mandate existing to sever that jurisdiction because of one verdict or another, the court is of the opinion that the jury’s verdict in this case did not terminate this court’s jurisdiction and that the motion made on behalf of the defendant Johnson to dismiss plaintiffs’ action against him for the reason of the failure of jurisdiction should be overruled.
