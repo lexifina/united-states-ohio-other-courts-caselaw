@@ -1,7 +1,8 @@
 ---
 court: "Ohio Circuit Court"
 decided: "1885-10"
-citations: ["1 Ohio C.C. 161", "1 Ohio C.C. 139"]
+decided_precision: "month"
+citations: ["1 Ohio C.C. 161"]
 reporter: "ohio-cc"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["The State of Ohio ex rel. George W. Hardacre v. Daniel J. Dalton et a
 source_url: "https://static.case.law/ohio-cc/1/cases/0161-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1487866
-cites_cases: ["14 O. S., 322", "14 O. S., 323", "14 O., 322", "21 Ohio St., 311", "25 Ill., 328", "26 O. S., 554", "26 O. S., 557", "35 O. S., 64", "38 O. S., 602", "38 O. S., 603", "38 O. S., 604", "44 Mo., 223"]
+cites_cases: ["14 O. S., 322", "14 O. S., 323", "21 Ohio St., 311", "26 O. S., 554", "26 O. S., 557", "44 Mo., 223"]
 ---
 
 # State ex rel. Hardacre v. Dalton
