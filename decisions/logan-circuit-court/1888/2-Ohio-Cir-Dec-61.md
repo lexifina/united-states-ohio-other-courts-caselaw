@@ -1,0 +1,38 @@
+---
+court: "Logan Circuit Court"
+decided: "1888-03"
+citations: ["2 Ohio Cir. Dec. 61"]
+reporter: "ohio-cir-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moore, Seney and Jenner, JJ.", "Moore and Tenner, Judges, concur."]
+parties: ["JACOB SHERER v. JOHN A. PRICE."]
+source_url: "https://static.case.law/ohio-cir-dec/2/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1618403
+cites_cases: ["32 O. S., 33", "38 Ia., 166", "62 Md., 422"]
+---
+
+# Sherer v. Price
+
+## Majority (Seney, J.)
+
+Seney, J.
+The plaintiff in error, Jacob Sherer, brought an action in the court of common pleas of this county against his wife, Catherine Sherer, for divorce. While the action was pending, the parties by agreement dismissed the proceeding, and they again went to living together; during the pendency of said divorce suit, on the motions of the wife, made at different times, the sum of $500 alimony pendente lite was allowed by the court, which was paid by the husband, and said sum came to the hands of the defendant in error, which the defendant in error applied by paying the wife a part, the necessary expenses attached to the suit on behalf of the wife, and the remainder he retained as attorney’s fees.
+In this divorce suit the defendant in error, John A. Price, was retained and employed by the wife as her attorney; he claims that his fee as attorney was reasonably worth the sum of $1,000, and seeks to recover in this action a judgment against the husband, Jacob Sherer, plaintiff in error, for the said sum of $1,000, his fee, less the amount he received as alimony pendente lite.
+The question presented to this court is: Under this state of facts, can a recovery be had in Ohio?
+We are cited in support of the position that a recovery can be had, to the case of McCurley v. Stockbridge, Handy v. Stockbridge, 62 Md., 422.
+That was a case where the attorneys of the wife brought suit to recover of the husband’s administrator fees earned by them in prosecuting a suit for divorce, and (as distinguished from the case at bar) no alimony had been allowed in the action, and a recovery was sustained solely and alone on the common law liability of the husband for necessaries furnished the wife while living separate and apart from her husband, holding that fees earned by attorneys in protecting the wife from the charges made by the husband, she not being in fault, were necessaries, the amount of the fees depending largely upon the circumstances of the case and the pecuniary resources of the parties (in fact, just such a state of facts upon which alimony is allowed in Ohio). At common law the liability of the husband for necessaries furnished the wife depended upon such a state of facts, varying as to what are necessaries by the condition of the parties. In one case a $1,000 fee might be necessaries; in another a much less sum. In the case at bar no facts are plead.
+We are also referred, in support of a recovery, to the case of Porter v. Briggs, 38 Ia., 166.
+This was a case where the attorneys of the wife brought suit to recover, of the husband, fees earned by them in defending the wife from a charge made by the husband, and is distinguished from the case at bar in the same manner as the Maryland case. And this decision is also based upon the common law liability of the husband for necessaries furnished the wife.
+Without passing upon the question whether or not the husband would be liable, in Ohio, for a fee earned by an attorney, in a case where no alimony pendente lite was allowed, growing out of the separate and distinct rights of a married woman given her by the statutes of the state, is he liable for necessaries when alimony pendente lite is allowed and paid? This brings us to the consideration of the question, for what purpose is alimony pendente Hie allowed in Ohio? This is settled by sec. 5701, Rev. Stat., which gives the power to the court to allow the alimony, and reads:
+“A court, or a judge thereof in vacation, may, on notice to the opposite party of the time and place of the application, grant alimony to the wife for her sustenance and expenses during the suit, and an allowance to her for the support of her minor children, dependent upon the husband for support and not provided for by him, during the pending of an action for divorce or for alimony alone, etc.”
+So by this section the kind of liability that the husband is liable for at common-law, viz.: support and necessaries, is provided for.
+The amount for which the husband is liable for necessaries furnished the wife is fixed and determined by order of the court. This binds the parties, and everybody that deals with a married woman living separate and apart from her husband, is bound, at his peril, to take notice of the limit thus put upon the liability of the husband. His liability is thus established beyond which he is not liable. If the amount allowed is not sufficient to support the wife and furnish her means to defend herself, upon proper showing made, the court would increase it. The amount is determined by the nature of the case and the condition of the parties, and when determined, conveys to the world the limit that has been placed upon the common-law liability of the husband for necessaries to be furnished the wife pending the divorce proceedings. So in -this case, when the defendant in error sought and obtained for his client alimony pendente lite, in the sum of $500, the implied contract of the husband to pay his fees had been fixed and determined by the court. So what the law implied he should pay had been determined and settled by order of the court; what was implied at the start, had been expressed and made the express contract of the husband, and to this extent he was liable, and no more.
+We are sustained in this by the case of Hare et al. v. Gibson, 32 O. S., 33, the syllabus of which reads as follows:
+“When a wife is living separate and apart from her husband, and in a suit against her for divorce and alimony, has obtained a decree fixing the amount of alimony to be paid by the husband for her sustenance during the pending of her petition, and the husband is hot in default in respect to the payment of the alimony so allotted, he is not liable for necessaries subsequently furnished at her request during the pending of her petition.”
+“2. Persons dealing with the wife under these circumstances do so at their own peril, and are chargeable with knowledge of the allotment and payment of the alimony.
+“3. The adequacy of the alimony decreed in such case cannot be collaterally drawn in question, especially by a stranger to the suit. With these views, we hold that the court below erred in overruling the demurrer to the petition; that the court erred in rendering judgment upon the pleadings for the defendant in error; and further that there can be no recovery upon the facts stated in the pleadings.”
+The judgment below will be reversed, and this court rendering 'the judgment upon the pleadings that the court below should have rendered, will render a judgment against the 'defendant in error, with costs, and the cause is remanded for execution.
+It was stated in argument that this case was heard by the district court and supreme court. The journal entries furnished show that this is the first time the case has been beyond the common pleas court. This evidently is a mistake, occurring probably from the fact that the mandates from the district court and supreme courts have not been entered upon the common pleas court journal.
+Moore and Tenner, Judges, concur.
