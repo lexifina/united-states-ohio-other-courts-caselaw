@@ -1,0 +1,24 @@
+---
+court: "Stark County Court of Common Pleas"
+decided: "1818-03"
+citations: ["1 Tapp. Rep. 247"]
+reporter: "tapp-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BARNES vs. SHINNEBERGER & SHORB, ADM’RS OF LOUTZENHEISER, DEC’D."]
+source_url: "https://static.case.law/tapp-rep/1/cases/0247-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 628289
+---
+
+# Barnes v. Shinneberger & Shorb
+
+## Majority (President.)
+
+President.
+The petition sets forth, that on the 17th day of December, 1803, the deceased, together with one Martin Holman, were appointed administrators on the estate of one Samuel Harnet, then late of Beaver county, in the commonwealth of Pennsylvania, deceased, and that, on the same day, the jjetitioner, Barnes, one Jacob Stough, Loutzenheiser and Holman, executed their joint bond for three hundred dollars, payable to the Commonwealth of Pennsylvania, conditioned, that if the said Loutzenheiser and Holman should make, or cause to be made, a true and just account of their administration, at or before the 17th day of December next, ensuing the date of the bond before the Orphans’ court of the county of Beaver, then the said obligation to be void, &c., that Barnes and Stough were securities for' the others, although the bond was in form a joint one — that Loutzenheiser and Holman wholly neglected to comply with the condition of the bond, but embezzled the property belonging to the estate of Harnet, and that the bond became forfeited to the Commonwealth of Pennsylvania, tor the benefit of the heirs of Harnet; that after the bond became forfeited, some time in the year 1808, Holman became insolvent, and went off to parts unknown; that in 1810, Loutzenheiser died in the county of Stark, and that administration was granted on his estate to the defendants; that in 1811, a suit was commenced on said bond for the use and benefit of tbe heirs of Harnet, against the petitioner, on which such proceed-lugs were had, as that judgment was recovered against him, and he was obliged to pay three hundred and twenty-three dollars, and nine cents, debt and costs. The petition further states, that the defendants, as administrators of Loutzenheiser have in their hands both real and personal property, more than sufficient to satisfy the claim of Barnes, that he is entitled in equity to be paid, and indemnified out of Loutzenheiser’s property, and that the defendants refuse to pay him : it then prays relief, &c.
+To this petition, the defendants demur generally, and contend in support of the demurrer, that as the bond is a joint one, the surviving obligor is alone liable; and this is undoubtedly a correct position at law, and the complainant is without remedy in a common law court, but the question will be: Has he a right for which he may have remedy in chancery, although he cannot have at law ?
+I say, although he cannot have at law, for it seems that when a surety pays money for his principal, he can recover the amount in an action for money paid, laid out and expended' — but when, as in this case, the surety has not been called upon to pay, until after the death of the principal, I doubt much whether he could sustain such action against administrators, because the money would not be claimed as paid to the use of a man, who at the time of payment had deceased, and on no other ground would the administrators, as such, be liable.
+There can be no doubt that the law implies a contract by the principal to indemnify his security; and where there are several principals, I would construe such contract most beneficially for the sureties as a joint and several one on the part of the principals — and were Loutzenheiser living, and a defendant instead of his administrators, the demurrer would be clearly sustainable, because the plaintiff would have a complete and adequate remedy at law.
+The facts stated in the petition must be taken to be true on this demurrer, and so taking them, the complainant has been compelled to pay the penalty of the bond, and some costs, as security for Loutzenheiser; he is most clearly entitled to an indemnity now, “where there is no remedy at law, at all, equity will certainly grant one." “ Courts of equity not suffering a right to be without a remedy, interpose in all cases in which the right is clear, but from the want of particular evidence, &c. unavailable at law." 1st Fonb. 144, and note f— and “ equity will enforce payment of debts, on simple contract, if the executor has assets, though the executor is not liable by common law." 2 Com. Dig. 483 — for “ a. court of equity will decree any contract that ought, in foro conscientia, to be carried specifically into execution.” — 2d Pow. Cont. 10.
+I have therefore no doubt but that the bill presents a case in which the complainant is entitled to relief. Demurrer overruled.
