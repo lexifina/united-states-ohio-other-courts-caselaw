@@ -1,0 +1,28 @@
+---
+court: "Lucas Circuit Court"
+decided: "1894-01"
+citations: ["4 Ohio Cir. Dec. 507"]
+reporter: "ohio-cir-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bentley, Háynes and Scribner, JJ."]
+parties: ["Henry Bender v. Ulrich Buehrer."]
+source_url: "https://static.case.law/ohio-cir-dec/4/cases/0507-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1623128
+cites_cases: ["105 Ind., 281", "15 Pick., 209", "27 Ia., 503", "40 Ind., 545", "47 Mich., 456", "49 Cal., 609", "49 O. S., 416", "52 Ind., 117", "59 Wis., 364"]
+---
+
+# Bender v. Buehrer
+
+## Majority (Bentley, J.)
+
+Bentley, J.
+The plaintiff sued the defendant on an account for certain work and labor, alleged to have been performed by the plaintiff for the defendant at his request, in the construction of a house and the making of certain shelving, etc., therein.
+The defendant denied the account, and alleged that there was a contract between the parties whereby the plaintiff was to build for the defendant a house like that of a certain other party named in the contract, which contract included the work charged for in this action, and that said house was to to be built for a certain gross sum, and was to be completed by a certain timé named; but that the plaintiff had not completed the house in time, and had not built it as large as the said model house, and had failed to comply with the contract in certain other particulars, and alleged that the defendant had suffered damages thereby in excess of the contract price. The reply denied these allegations of the answer, and set up that the defendant, knowing the several matters as to which' he now asks damages, made payment of the full amount of the contract, and accepted said house, and took possession thereof, and that therefore he cannot now recover damages for the alleged non-fulfillment of the contract by the plaintiff. On the trial, evidence was given by each of said parties tending to support their respective claims, and the court, on motion, ordered that the jury view the said house, and the jury were taken for such view under the charge of a bailiff. The court instructed the jury, in effect, that they should make a careful view of said house,, and might take measurements, and that the facts bearing upon the issues which they should ascertain in and by said view might be considered by them as evidence in the case. The jury returned a verdict for the defendant, and assessed his damages at a certain sum, Within the time allowed by law the plaintiff filed his motion for a new trial, and, among other causes, assigned misconduct of said jury and of said defendant. On the hearing of the motion for a new trial, the plaintiff offered and the court received and considered two affidavits, showing that while said jury were thus viewing said house of the defendant, he, in the absence of the plaintiff, spoke to them, stating as facts certain material matters-in issue in the case, and then asked said bailiff if he might treat the jury, and said bailiff thereupon answered: “Yes, the jury are now discharged and can go where they have a mind to, and can do as they please.” Thereupon the defendant offered to treat the jury, and a majority of the jurors were treated by him to-beer and cigars, twice around. Afterwards the jury returned said verdict into-court. The said two affidavits were the only evidence offered by either party on said motion.
+Kinney & Newton, for plaintiff in error.
+Mwphy & Lemmon, for defendant in error.
+Held,-. 1. That whether it was or was not proper to instruct the jury that they might take measurements, the record does not show that they took anj measurements other than of dimensions as to which there was no practical dispute between the parties, and hence the plaintiff was not prejudiced by the instruction, and so far as said instruction allowed the jury to take into consideration as evidence matters apparent to them upon a mere view, it was not clearly erroneous. (See 12 A. & E. Cy. of Law, 367, et seq.; 27 Ia., 503; 15 Pick., 209; 52 Ind., 117; 40 Ind., 545; 105 Ind., 281; 49 Cal., 609; Wharton’s Ev., 346; 59 Wis., 364; 47 Mich., 456; Thompson on Trials, 845; Craig v. State, 49 O. S., 416; 10 Dec. R. 219; Hotelling v. State, 2 Ohio Circ. Dec. 366; Miller v. Weber, 1 Ohio Circ. Dec., 77; secs. 5191, 6428, 7283, Rev. Stat.)
+2. That the court of common pleas did not err in instructing the jury, in substance, that the mere occupation by the defendant of the house built upon his. land, did not necessarily imply an acceptance by him of the house as being built according to the terms of the contract, and that the payment by the defendant to-the plaintiff, after the latter had ceased work on the house, of a sum of money, which, with prior payments, exceeded the original contract price for building the house, would not estop the defendant from recovering damages for defects in said work of which he might have known at the time of such payment, by way of counterclaim in an action by the plaintiff to recover for alleged extra work on said house, where it is not shown that the defendant himself made or directly authorized such last payment.
+3. That said acts specified in said affidavits constituted misconduct of said defendant and said jury, and being wholly uncontradicted, said court of common pleas erred in refusing a new trial therefor.
+Judgment reversed, and verdict set aside.
