@@ -1,0 +1,38 @@
+---
+court: "Sandusky County Court of Common Pleas"
+decided: "1933-01-20"
+citations: ["30 Ohio N.P. (n.s.) 223"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Peoples Credit Clothing Store v. John Brunner."]
+source_url: "https://static.case.law/ohio-np-ns/30/cases/0223-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1569320
+cites_cases: ["273 U. S. 510", "83 O. S. 230"]
+---
+
+# Peoples Credit Clothing Store v. Brunner
+
+## Majority (Overmyer, J.)
+
+Overmyer, J.
+This is a proceeding on appeal from the court of a Justice of the Peace of Fremont township, brought under favor of Section 10259, General Code, to reverse the action of the Justice of the Peace in overruling a motion to discharge an attachment in his court.
+The grounds of the motion are, — “That the affidavit of the plaintiff was sworn to before Justice Frank E. Seager, and that the said Frank E. Seager did write the same, and that since he must rule upon the form of said affidavit and judicially determine whether, it is sufficient or defective, he could not act in the capacity of both attorney and at the same time administer the oath to the plaintiff who signed the affidavit.”
+Defendant moved that the affidavit be dismissed on the ground that the affidavit was improperly executed, and his motion was overruled by the justice and from that order this appeal was prosecuted.
+In 1910 the Supreme Court decided that in Ohio “an affidavit in attachment cannot be made before a notary public who is the attorney for one of the parties in the action.” 83 O. S. 230.
+In the case at bar the original papers before the court disclose that the justice, Mr. Seager, made out the bill of particulars in the case in his court, for it is all in his handwriting, but at the end thereof, where there is a blank line followed by the words “Plaintiff’s Attorney,” he did not sign it, and no signature appears there. However, in the affidavit in attachment, which is also in the handwriting of the justice, Mr. Seager, the plaintiff’s signature appears and the acknowledgement thereto is made by “Frank E. Seager, J. P.” Does this render the attachment invalid, he being the court who must pass on the sufficiency of the affidavit, and being and acting in effect as attorney for the plaintiff?
+It must of course be conceded that if the affidavit upon which the attachment issued is invalid, then the attachment was a nullity and the motion to discharge should be allowed.
+Section 11532, General Code provides, “The officer before whom depositions are taken must not be a relative or attorney of either party, or otherwise interested in the event of the action or proceeding,” and Section 11524, General Code provides, “An affidavit may be made in or out of this state before any person authorized to take depositions,” etc.
+By a number of decisions, including the Supreme Court decision above referred to in 83 O. S. 230, it is held that this statutory inhibition applies to affidavits in attachment cases, and therefore an affidavit in attachment cannot be verified before the “attorney of either party, or an officer interested in the event of the action or proceeding.”
+Now what is meant by the word “attorney” as used in said section, since it does not say “attorney at law?”
+The Circuit Court of this district in Volume 20 O. C. C. Rep. page 136, defined the term as here used and say: “An attorney is one who appears on behalf of another, and it is not necessary to bring such person within the provisions of the statutes above referred to relative to affidavits that he should be a member of the bar or an ‘attorney at law.”
+In the opinion, on page 141, the court say further: “The statute does not say ‘an attorney at law5; it says ‘an attorney.5 The first definition of Webster is: ‘One who takes the turn or place of another5; and the second definition is; ‘One who is legally appointed by another to transact any business for him.5 ”
+Under these definitions and the interpretation placed thereon by the Circuit Court, there can be no question but that Mr. Seager did represent the plaintiff as his attorney in the preparation and filing of the affidavit and the preparation and filing of the bill of particulars which began the suit in which the attachment was issued, and that he was disqualified from taking the acknowledgement of the plaintiff to the affidavit.
+Quoting further from the Circuit Court in the case referred to, we fully agree with the following language: “We think it would be contrary to the policy of the law and to public policy to hold that affidavits might be taken to be used before a justice of the peace or in any court, before attorneys and parties interested in the result of causes. These statutes explain themselves; it is not necessary to cite authorities or decisions to interpret them; the meaning of the statutes, when taken together, is clear, the purpose and object of the provisions are plain.”
+This Court holds that in the instant case the justice was acting as attorney for the plaintiff in the preparation and filing of the bill of particulars and the affidavit in attachment, and therefore he was disqualified from taking the acknowledgement to the affidavit, and the motion to discharge must be allowed on that ground.
+Now if the policy of the law and public policy, as the Circuit Court say, does not permit an “Attorney or one interested in the event of the case” to take the acknowledgement to the affidavit, surely the same policy of the law would bar the court who must hear the case from preparing, acknowledging and filing the affidavits and pleadings in the case. An affidavit in attachment may be attacked in sundry and various ways and on various grounds, as to its form,' its sufficiency, and the truth or falsity of the ground for attachment.
+If the court prepares and acknowledges the affidavit and then is permitted to sit in judgment and pass upon the sufficiency or correctness of the affidavit or pleadings which he himself prepared and acknowledged, it would seem to this court to be a much more serious breach of the policy of the law and of public policy than the mere acknowledgement of the affidavit by a notary who is also attorney for a party in the case. Swan’s Treatise, which has been the legal Bible and guide for Ohio Justices of the Peace since 1836, says on page 396; under the title of “Attachment”: “The justice must issue the attachment, if the affidavit conforms to the requirements of the statute. He should not draft the affidavit; for the defendant may require him, on motion to judicially determine upon its form, and tuhether it is defective or sufficient; and the defendant is entitled to an unbiased opinion from, the justice upon that question.”
+The celebrated Turney decision (273 U. S. 510) broke up the practice of making the fees of justices of the peace dependent in certain cases upon conviction, and it seems to this court equally important to put a stop to the practice of having justices of the peace preparing pleadings and affidavits and acknowledgments in their own courts, upon the legal sufficiency of which they may be called upon later to pass as a court, and the value and weight of which may be and often is determinative of the issues in the case.
+This court is of the opinion they cannot legally do so, and that upon that ground the motion to discharge the attachment should be allowed.
+The finding and judgment of the court is that the motion to discharge the attachment in this case should be, and is allowed.
