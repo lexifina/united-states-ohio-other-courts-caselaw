@@ -1,0 +1,58 @@
+---
+court: "Cuyahoga County Court of Common Pleas"
+docket: "009886"
+decided: "1984-08-06"
+citations: ["17 Ohio Misc. 2d 3"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Carmo et al. v. Frankel."]
+source_url: "https://static.case.law/ohio-misc-2d/17/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6707433
+cites_cases: ["13 Ohio App. 3d 336", "14 Ohio App. 3d 222", "16 O.O.3d 169", "17 O.O.3d 136", "427 F.2d 1152", "5 Ohio St. 3d 217", "62 Ohio St. 2d 151", "63 Ohio St. 2d 220"]
+---
+
+# Carmo v. Frankel
+
+## Majority (George J. McMonagle, J.)
+
+George J. McMonagle, J.
+This matter came on to be heard on the motion of the plaintiffs for the assessment of prejudgment interest in accordance with R.C. 1343.03(C) which became effective July 5, 1982. The matter was submitted for decision by the court on the evidence, briefs and arguments of counsel.
+Since the adoption of said R.C. 1343.03(C) and the opinion of this court in the case of Holmes v. Lombardo Investment Builders (Jan. 31, 1983), Cuyahoga C.P. No. 996531, unreported, there have been several opinions by reviewing courts. However, none are from the Supreme Court of Ohio.
+The most recent opinion is in the case of Cox v. Fisher Fazio Foods, Inc. (1984), 13 Ohio App. 3d 336, in which the Court of Appeals for Cuyahoga County affirmed an award of prejudgment interest by this court.
+The opinion of the court states at 337:
+“An award of prejudgment interest is within the discretion of the trial court. Cincinnati Ins. Co. v. First Natl. Bank (1980), 63 Ohio St. 2d 220 [17 O.O.3d 136]; Reiss Steamship Co. v. United States Steel Corp. (C.A. 6, 1970), 427 F.2d 1152. The term ‘abuse of discretion’ has been defined by the Ohio Supreme Court in Blakemore v. Blakemore (1983), 5 Ohio St. 3d 217:
+“ ‘The term “abuse of discretion” was defined by this court in State v. Adams (1980), 62 Ohio St. 2d 151, 157 [16 O.O.3d 169]:
+“ ‘ “The term ‘abuse of discretion’ connotes more than an error of law or judgment; it implies that the court’s attitude is unreasonable, arbitrary or unconscionable. * * *” ’
+ii* * *
+“There was sufficient evidence in this case to support the decision of the trial court. * * *”
+In the Cox case, the court of appeals judges were John V. Corrigan, Presiding Judge, and Judges Markus and Patton. The concurring opinion by Judge Markus states at 337-338:
+“* * * Before allowing such prejudgment interest, the court must find (a) ‘that the party required to pay the money failed to make a good faith effort to settle the case,’ and (b) ‘that the party to whom the money is to be paid did not fail to make a good faith effort to settle the case.’ * * *
+<(* * *
+“I read R.C. 1343.03(C) to require the party seeking prejudgment interest to demonstrate its aggressive prejudgment settlement efforts and its adversary’s lack of aggressive prejudgment settlement efforts. The failure to make a good faith effort is not equivalent to bad faith conduct. A party’s inactivity can constitute a failure to make good faith efforts without demonstrating bad faith.
+“For settlement purposes, good faith efforts include the following: (a) an affirmative effort to gather relevant data, (b) an affirmative effort to disclose relevant data to the adversary, (c) an affirmative effort to evaluate that party’s risks in litigation reasonably, and (d) an affirmative effort to propose settlement consistent with that reasonable evaluation.”
+In Hardiman v. Zep Mfg. Co. (1984), 14 Ohio App. 3d 222, the Court of Appeals for Cuyahoga County held that R.C. 1343.03(C) is constitutional. The court stated at 227:
+“* * * The prejudgment interest issue is rather a collateral matter to the tort action, more akin to an award of attorney fees, which does not require a jury trial, even though a monetary award is involved. We find nothing in appellant’s argument to support its contention that the issue of lack of good faith must be presented to a jury. The judge at trial who is familiar with the case, the issues, and the parties, and who has had the opportunity to observe the progress and conduct of the case, is capable of determining if either party has failed to make a good faith effort to settle the case. Appellant has demonstrated no constitutional grounds which justify overturning the legislature’s determination that a judge, not a jury, should decide the good faith issue.
+“Additionally, R.C. 1343.03(C) does not penalize those who choose to go to trial; it only affects those who choose to go to trial and then abuse the trial process, those who fail to conduct a lawsuit in good faith. Appellant concedes that the legislature could constitutionally impose prejudgment interest for all tort judgments. While it could do that, the legislature is not required to act to the full extent of their powers, which is what they appear to have done with R.C. 1343.03(C).”
+In the Hardiman case, the court of appeals also held at fn. 8 that the ten percent interest should not apply for the entire period, but that it should be computed based upon the legal rate in effect, to wit: interest at six percent to July 30, 1980; at eight percent to July 5, 1982; and ten percent thereafter.
+The court, however, stated, at 228:
+“R.C. 1343.03(C) allows prejudgment interest to be awarded where the liable party ‘failed to make a good faith effort to settle the case.’ Appellant wrote only one letter to appellee, stating that appellant felt it was not liable, but indicating it would be willing to talk. Ap-pellee responded by saying that the value of the case was $750,000. No other steps toward settlement took place until the trial was underway.
+“We do not believe this is the proper case to delineate what ‘failure to make a good faith effort to settle' entails or requires. The minimal efforts to settle made by both sides are essentially equivalent. Therefore if appellant’s conduct is considered a failure to make a good faith effort to settle, we believe ap-pellee also failed to make a good faith effort to settle.”
+The court thereupon disallowed the prejudgment interest award.
+In this action, the plaintiff, Robert A. Carmo, was injured on December 23, 1978, when the defendant, Howard Frankel, operated his car so as to cross the median strip of 1-90 in Euclid, Ohio and collide with the plaintiff who was operating in the opposite divided lane.
+The original major injury for which the plaintiff was hospitalized was an un-displaced oblique fracture of the right acetabulum. During 1980, the plaintiff moved to California where he came under the care of a Milton Lagome, M.D., an orthopedic surgeon, who first examined him on September 19, 1980, and diagnosed a chronic grade II acromioclavicular joint separation, sub-deltoid dorsal thickening, rotator cuff tendinitis, mild right elbow flexion deformatory, history of right acetabular fracture. This diagnosis was basically reconfirmed on February 23, 1982. The plaintiffs right shoulder injury was subsequently diagnosed as including a rotator cuff tear and a non-union fracture of the acromion, for which surgery was refused.
+Plaintiffs special expenses as asserted by him on November 5, 1981 and December 15, 1981 were $4,538.89 for lost wages, $1,984.87 for hospitalization, $1,989 for therapy and other miscellaneous expenses, totalling approximately $12,000.
+In the case of Holmes v. Lombardo, supra, where prejudgment interest was allowed, it was stated in the opinion:
+“Arguments have been made in support of the amendment to the law so that pre-judgment interest may be allowed in tort actions. These generally were to the effect that it was unjust for a defendant to have the use of money which is ultimately adjudicated as being owed to a plaintiff; that a defendant should not be entitled to the earnings on such money so retained by him; that there is no incentive on a defendant to bring a case to an early trial or settlement; that the plaintiff, however, chiefly with respect to special damages, was not only being deprived of the benefit of the use of money, but was burdened with the cost or expense of the special damages. In this action, the evidence was to the effect that Walter Holmes had incurred what we call special damages in the amount of $140,817.11, and the defendants had been seasonably so notified.
+“If a plaintiff had borrowed said $140,817.11, he, of course, would be obligated to pay interest on it from the date of such borrowing.”
+It is the obligation of the plaintiff in every action to initiate settlement negotiations with the defendant’s representative. It is also the obligation of the plaintiff to propose a settlement consistent with a reasonable evaluation thereof. This does not necessarily mean counsel should request some irreducible amount — the bottom figure — but a reasonable, negotiable figure.
+The plaintiffs’ counsel herein did initiate many settlement discussions; however, the evidence does not disclose he proposed a settlement consistent with a reasonable evaluation of the case until just prior to the trial.
+The defendant had a $500,000 primary policy and a $1,000,000 umbrella. This was made known to plaintiffs’ counsel soon after the accident.
+On January 8, 1980 plaintiffs’ counsel wrote to USF&G (defendant’s insurer):
+“Finally, while you refuse to provide us with a copy of the insured’s policy per our request of November 2, 1979, we have nevertheless been informed that the insured’s policy limits are $500,000.00. Therefore, in order to protect our client, we will settle for the policy limits.”
+On November 15,1981, in their pretrial statement, plaintiffs had typed their lowest demand as $10,000,000. This was crossed out and $500,000 inserted in writing. On June 23, 1983, the plaintiffs’ latest demand was $300,000. This was increased .to $400,000 under date of June 24, 1983. The case was set for trial. A pretrial was held on Friday previous to the Monday trial date when the plaintiffs reduced their demand to $300,000 and the defendant increased his offer from approximately $125,000 to $150,000. Defendant had previously, on October 24, 1983, made an offer of settlement in writing of $80,000 after the rotator cuff tear was confirmed. Prior offers by defendant were $15,000, $23,000 and $25,000. These were prior to the diagnosis of the right rotator cuff tear, etc. On the day of trial, counsel indicated he had reduced his demand to $200,000 and would probably settle for $180,000. On the day of trial, defense counsel stated he had $150,000 to settle the case. This was refused by plaintiffs. The verdict and judgment were for $175,000.
+The proposals of settlement by plaintiffs were as outlined above. The initial demands even before the rotator cuff injury was diagnosed were apparently tapered to the amount of insurance coverage rather than to the extent of the known injuries to plaintiffs. It cannot be considered that the defendant failed to make a good faith effort to settle with respect to the original negotiations when a realistic demand had never been made.
+The actual good faith demands and offers were really made in January 1984, on the eve of the trial, when the plaintiffs proposed a settlement of $180,000 and the defendant offered $150,000, with a trial and a resulting judgment of $175,000. It would not be fair to order over five years of interest on the $175,000 judgment in the face of all the facts herein.
+The motion of the plaintiffs for assessment of prejudgment interest under R.C. 1343.03(C) is overruled.
+Motion for prejudgment interest overruled.
