@@ -1,7 +1,8 @@
 ---
 court: "Cincinnati Superior Court"
 decided: "1898"
-citations: ["6 Ohio N.P. 122", "6 Ohio N.P. 127"]
+decided_precision: "year"
+citations: ["6 Ohio N.P. 122"]
 reporter: "ohio-np"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["JOHN J. BRADY v. TILDEN R. FRENCH, TREASURER OF HAMILTON COUNTY, OHIO
 source_url: "https://static.case.law/ohio-np/6/cases/0122-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1529856
-cites_cases: ["4 C. C., 268", "51 Ohio St., 327", "57 Ohio St. 86"]
+cites_cases: ["51 Ohio St., 327"]
 ---
 
 # Brady v. French
