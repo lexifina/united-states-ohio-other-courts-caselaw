@@ -1,0 +1,33 @@
+---
+court: "Lorain Circuit Court"
+decided: "1903-10-08"
+citations: ["16 Ohio C.C. Dec. 77"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hale and Winch, JJ., concur."]
+parties: ["A. J. Turner v. Clinton DeWitt."]
+source_url: "https://static.case.law/ohio-cc-dec/16/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8816791
+---
+
+# Turner v. DeWitt
+
+## Majority (MARVIN, J.)
+
+MARVIN, J.
+The case of A. J. Turner against Clinton DeWitt is a proceeding in error to reverse the judgment of the court of common pleas of this county. In that court suit was brought by DeWitt against Turner upon this state of facts: Turner was the owner of real estate at the corner of Forest and Livingston streets in the city of Lorain, and this real estate thus owned, whether divided into lots or not I do not know, I believe it was, but in any event the property, fronting on Forest, the part of this real estate fronting on Forest and not abutting upon Livingston, was sold by Turner to DeWitt; on the property thus sold to DeWitt was a dwelling house. Water was supplied to the lot sold to'DeWitt by a pipe running from the main water pipe across the other part of this real estate of Turner’s, and extending clear into and upon the lot of DeWitt; this was so at the time DeWitt received his deed from Turner. The deed was an ordinary warranty deed, and granted the premises with all the appurtenances thereunto belonging, practically that is the reading. And by the way, I think it would be well enough to criticise tbe petition in this case to this extent — the deed is not only made an exhibit, but a part of the petition. It would be a good deal better to follow the statute and make it an exhibit and not make it a part of the petition. But it is admitted that the copy attached is a true copy of the deed.
+So when DeWitt owned the property, he held it by a deed from Turner, which conveyed to him the property by metes and^ bounds, together with all the appurtenances thereunto belonging. As alreadv stated, the pipe passing along of course under the surface of the other land of Turner, conveyed water to DeWitt’s property. After DeWitt purchased the property he had connections made with the hydrant which was already upon the lot and to which water was conveyed by the pipe already spoken of, so that water was conveyed into his house.
+Some time after the purchase by DeWitt, Turner cut the water pipe near the line or close to the line, between his own property which he still retained and that of DeWitt, and thereby cut off the supply of water to DeWitt. In his answer he says that DeWitt was in arrears for water rent, and under some rule of the water company the water would be cut off from them both, but that is not sustained by the evidence.
+The claim on the part of Turner is, that he had a right to cut tíiat water off; that he sold by metes and bounds to DeWitt the lot; that DeWitt still-has the lot; he never has interfered with his having the lot, but that he did not sell him any water pipe or any rights in any water pipe. Of course if he did convey to him any rights, it is because either to the necessary enjoyment of the property which he did sell this pipe was a,n appurtenance or because the deed conveyed the land with the appurtenances.
+The evidence shows that to the proper enjoyment of this property purchased from Turner by DeWitt it was necessary to have the water upon the lot, and the cutting off by Turner of the water pipe necessitated DeWitt making a connection from Forest street to his premises, and that connection, the evidence shows, was an expense of $23.80; that is to say, that amount was paid to the man who put jn the connection, then he had to pay the water company $5 for something, I do not exactly know what, and he says his land was injured by the earth being thrown up to make the ditch, and it was a good deal of injury to his. lawn.
+The case was tried to the court without a jury. The court rendered judgment in favor of DeWitt for $25.
+Neither in the motion for new trial nor in the petition in error is. any complaint made that the amount allowed yras excessive; if that were made, we should hold against it, but as it is not made it is not important to know what we would do about it.
+We understand that by this deed' DeWitt had an interest as an ap purtenance to his property in this water pipe, and that it was an interference with the appurtenance which Turner had warranted to DeWitt when he cut it.
+In Johnson v. Jordan, 43 Mass. (2 Metc.) 234 [37 Am. Dee. 85], certain propositions are announced by the court, and pretty well recognized by the profession, and well expressed here. On page 240 it is said:
+“There are some general and well-settled rules of construction of conveyances, which tend in some degree to settle the question. The language of the deed is the language of the grantor; he selects the terms, and it being supposed that he will insert all that has been agreed upon beneficial to himself, and will be less careful to stale fully all which is beneficial to the grantee, the language is to be construed most strongly against the grantor.
+“Another well-settled rule of construction is, that a grant of any principal thing shall be taken to carry with it all which is necessary to the beneficial enjoyment of the thing granted, and which it is in the power of the grantor to convey. When therefore a party has erected a mill on his own land, and cut an artificial canal for a raceway through his own land, and then sells the mill, without the land through which such artificial raceway passes, the right to use such raceway through the grantor’s land shall pass as a privilege annexed de facto to the mill, and necessary to its beneficial use: * * *
+“Under these rules, i£ might perhaps be held, that if a man, owning two tenements, has built a house on one, and annexed thereto a drain, passing through the other, if he sell and convey the house with *the appurtenances, such a drain may be construed to be de facto annexed as an appurtenance, and pass with it; and because such construction would be most beneficial to the grantee.”
+Without reading further we think that authority is in point, that when that deed was made granting this property and appurtenances, it carried with it the right to have water through this water pipe; when that was cut off a damage was done to the plaintiff below, DeWitt, which, under lfis deed, Turner was bound to warrant against, and he was therefore liable in damages, and the judgment of the court of common pleas is affirmed.
+Hale and Winch, JJ., concur.
