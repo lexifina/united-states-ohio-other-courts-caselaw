@@ -1,0 +1,38 @@
+---
+court: "Hamilton County Court of Common Pleas"
+decided: "1897-06"
+citations: ["4 Ohio N.P. 219"]
+reporter: "ohio-np"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE MERCHANTS’ NATIONAL BANK v. M. E. RIECK et al."]
+source_url: "https://static.case.law/ohio-np/4/cases/0219-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1526395
+cites_cases: ["15 Ohio St., 419", "36 Ohio St., 506", "59 Wis., 172", "98 Ill., 625"]
+---
+
+# Merchants' National Bank v. Rieck
+
+## Majority (DAVIS, J.)
+
+DAVIS, J.
+'The plaintiff obtained a judgment against the defendant, M. E. Rieck, April Term, 1895, for $4,629, and an execution was issued and the same was returned unsatisfied. ■August 3, 1895, the plaintiff filed its petition against the defendants, setting out that the defendant, M. E. Rieck, is a benettciary under the will of one John Rieck, deceased, and this suit is to subject said beneficial interest to the payment of said judgment against M. E. Rieck; the petition further avers that the defendant, D. D. Bramble, as trustee under the will of said John Rieck, holds said beneficial interest in trust for said M. E. Rieck.
+The whole question turns upon the construction of item 5 of the will of John Rieck, deceased, which item reads as follows: “I give, devise and bequeath to my son-in-law. D. D. Bramble, of Cincinnati, Ohio, all the rents in sections 13 and 25, Sycamore township, Hamilton county, Ohio, (the same being about one hundred and seventy-five acres of the probable value of S18,000,) in trust, however, he to have full and complete control and possession thereof, with full power to rent or lease the seme to such persons and on such terms and for such price as he may deem best, to collect and receive the rents derived from such premises, and from rents received to pay the taxes on said lands, the premium necessary to insure the buildings on said lands against loss by fire, the charges necessary for keeping the said premises in repair, and to retain a reasonable compensation for his services therefrom, and to pay the remainder of said rents to my son,- M. E. Rieck, for the support of himself and his family; the said D. D. Bramble to make annual settlements with said M. E. Rieck, in which shall be shown in writing, all the receipts and expenditures relating to said premises.”
+The plaintiff argues that said item, and especially the words, “and to pay the remainder of said rents to my son, M. E. Rieck, for the support of himself and his family,” make a clear gift to M. E. Rieck, and that said net rents are absolutely his property ; while the defendants contend that said phrase creates a trust in M. E. Rieck and family, and that said net rents are not to be subjected to the payment of the debts of said M. E. Rieck.
+There are a great many authorities covering this and kindred questions.
+Beech on Wills, at sec. 219, gives the following rule:
+“In order to create a trust it must appear that the words were intended by the testator to be imperative; and when property is given absolutely and without restriction, a trust is not to be lightly imposed upon mere words of recommendation and confidence. So for example, it is held that no trust is implied from the words in which the testator may be understood to state a motive, or assign a reason for a gift ’as to maintain the children, or that he may support himself and children.’”
+Stephens & Lincoln, for plaintiff.
+J. C. Smith and S. N. Maxwell, contra.
+See 59 Wis., 172; 98 Ill., 625; 1 Perry on Trusts, sec. 119; Gray on Alienation, sec. 115.
+The case is not without precedent in Ohio. In the case of Thornton et al. v. Stanley, in construing the will almost identiieal with the one in question, it was held that no trust was created, the court saying:
+“It will be observed that the testator gives all his property to his trustee, upon the express trust, however, that the net income shall goto the child, Emma, during her life, for her support and education. The purpose named, however, is no limitation upon the gift itself, it only expresses the motive of the gift. No discretion is given the trustee as to the amount he may so apply; it is all the incomo, after deducting the expenses and a reasonable compensation to himself. Whilst, under the rule that is admitted to prevail in England, such a bequest might be alienated and would, without doubt, be subjected to the claims of creditors, it is claimed that under the rule that prevails in Massachusetts and many other states, such is not the case. This rule permits the testator, through the agency of a trustee, to make the bequest in such wise as to preclude the claims of creditors against the beneficiary, where ttie purpose is clearly expressed, on the ground that a testator has a right to dispose of his property as he sees fit; and may, therefore, so limit a bequest as to protect it from the claims of creditors against an improvident beneficiary.”
+See 36 Law Bulletin, 309 310.
+It will be observed that in the case at bar, the trustee is to pay the net rent to M. E. Rieck, and the testator uses the following language: “And the said D. D. Bramble to make annual settlements with said M. E. Rieck, in which shall be shown in writing, all the receipts and expenditures relating to said premises.”
+The testator in this sentence did not say that it was to be paid to M.. E. Rieck as trustee, but that it was to be paid to M. E. Rieck, which phrase, or sentence, taken in connection with the sentence, “and to pay the remainder of said rents to my son, M. E. Rieck, for the support of himself and his family,” clearly shows that M. B. Rieck, personally and individually, was to have the income and use of said net rents; and the testator expresses a motive, or desire, or purpose, or a wish that said M. E. Rieck was to have said net income or rent for the support of himself and his family.
+If the testator had intended that said net rents were to beheld in trust for the benefit of M. E. Rieck and family, it seems to the court that he should make the statement that the payments of said net rents should be made to M. E. Rieck and family. Taking all of the language in the will relative to this question, and construing them together makes, in the opinion of this court a clear and strong statement that M. E. Rieck individually, is the owner of said net rents, and that it was never the intention of the testator that said M. .E Rieck should hold such funds or net rents in trust.
+Further, the trustee, D. D. Bramble, has no authority or any power over such net rents. The only direction to him is, that he pay the same to M. E. Rieck.
+A person can not own property, either legal or equitable, in Ohio, by grant or devise by which the same can net be subjected to the payment of his debts, and the question has been before our supieme court upon several occasions. Bee 15 Ohio St., 419; 36 Ohio St., 506; 2 Handy, 78; 36 Law Bull.. 309, 310.
+The court is, therefore, of the opinion that the net rents in this case are liable to the claims of creditors, and that an account ing will be ordered ; and Judge James B. Swing is hereby appointed a referee for that purpose.
+It is admitted in argument in this case, that the trustee has permitted M. .B. Rieck to take possession of said lands and not account to said trustee for the rents. The court is of the opinion that the trustee has violated his trust in this regard, and that it is the duty of said trustee to rent said premises for a fair rental, such as like premises would rent in the community, and carry out- the objects of the said testator by making payments as in said will provided.
