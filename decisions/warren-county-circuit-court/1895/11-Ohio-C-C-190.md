@@ -1,7 +1,8 @@
 ---
 court: "Warren County Circuit Court"
 decided: "1895-10"
-citations: ["11 Ohio C.C. 190", "11 Ohio C.C. 193"]
+decided_precision: "month"
+citations: ["11 Ohio C.C. 190"]
 reporter: "ohio-cc"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,6 @@ parties: ["THE HUBER MANUFACTURING CO. v. CLARA W. SWENEY et al. (No. 1.)"]
 source_url: "https://static.case.law/ohio-cc/11/cases/0190-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1505036
-cites_cases: ["14 Ohio St. 488"]
 ---
 
 # Huber Manufacturing Co. v. Sweney
