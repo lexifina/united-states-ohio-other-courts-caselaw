@@ -1,0 +1,63 @@
+---
+court: "Ohio Circuit Court"
+decided: "1909-01"
+citations: ["21 Ohio C.C. Dec. 20"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Walters, Cherrington and Jones.", "Cherrington and Jones, JJ., concur."]
+parties: ["Detroit, Toledo & Ironton Ry. v. State of Ohio."]
+source_url: "https://static.case.law/ohio-cc-dec/21/cases/0020-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1646407
+cites_cases: ["1 Doug. (Mich.) 207", "10 Atl. Rep. 676", "102 U. S. 541", "107 U. S. 365", "108 Mo. 550", "11 Mich. 43", "116 Fed. Rep. 873", "12 L. Ed. 213", "124 U. S. 465", "128 U. S. 96", "129 Fed. Rep. 522", "133 Ind. 69", "135 Fed. Rep. 122", "135 U. S. 100", "14 L. Ed. 306", "140 U. S. 545", "141 U. S. 47", "149 Fed. Rep. 486", "150 Fed. Rep. 229", "154 Fed. Rep. 897", "154 U. S. 204", "156 Fed. Rep. 182", "157 Fed. Rep'. 616", "16 L. Ed. 799", "160 Fed. Rep. 696", "161 U. S. 677", "165 U. S. 628", "169 U. S. 311", "169 U. S. 613", "17 L. Ed. 191", "17 S. W. Rep. 884", "170 U. S. 287", "173 U. S. 285", "175 U. S. 211", "177 U. S. 584", "179 U. S. 343", "18 Gratt. (Va.) 933", "18 L. Ed. 257", "18 L. R. A. 502", "21 Sup. Ct. Rep. 115", "32 L. Ed. 353", "34 N. E. Rep. 536", "45 L. Ed. 194", "5 L. Ed. 19", "5 Leigh (Va.) 707", "5 Sup. Ct. Rep. 739", "50 Ohio St. 378", "55 L. R. A. 99", "59 Am. Rep. 247", "60 L. R. A. 391", "61 N. E. Rep. 143", "64 N. H. 323", "65 N. E. Rep. 730", "65 Ohio St. 70", "87 Am. St. Rep. 547", "93 Am. St. Rep. 190", "94 U. S. 155", "95 N. C. 428"]
+---
+
+# Detroit, Toledo & Ironton Ry. v. State
+
+## Majority (WALTERS, J.)
+
+WALTERS, J.
+The state of Ohio brought this action in the court of common pleas of this county, against the railroad company, defendant below.
+It was alleged in the petition that defendant was a corporation organized under the laws of the state of Michigan; that its road extended from Detroit, in the state of Michigan, to Ironton, in the state of Ohio; that it was engaged in the business of carrying freight and passengers as a common carrier, and that on ‘January 17, 1907, in violation of the statute of Ohio, it carried a car, No. 4661, doing state business and engaged in state traffic and belonging to said railroad company, which was not equipped with an automatic coupler, a device, which when used, renders it unnecessary for an employe, when desiring to couple or uncouple the cars, to go between the ends of. the same to do so.
+The statutory penalty of $100 was demanded.
+The railroad company, in its answer, admitted its incorporation; that it was engaged in the business of a common carrier, and alleged that as such it owned locomotives, engines, ears, equipment and rolling stock, all of which, together with its employes, were commonly engaged in interstate traffic and business.
+It further alleged that the congress of the United States was empowered, under the commerce clause of the constitution, to regulate interstate traffic, which included automatic couplers upon cars commonly used in interstate commerce, and that the congress had exercised its power so given, and passed an act which was in operation at the date mentioned in the petition, and that the act of the general assembly of Ohio passed before that time, had thereby become superseded and was void.
+The second defense contained a further allegation that this particular car in question was in a train composed of ten other cars, which were all loaded with freight and were then being transported from points within the state of Michigan, to plaees outside of said state.
+A demurrer for insufficiency was interposed to' each of these defenses and sustained by the court. The exact point presented for decision is: Whether the federal law regulates or controls a car operated by a railroad which is, commonly, and was engaged in interstate traffic, over a track commonly' so used by employes commonly so engaged, in a train actually at the time so used and engaged, but which particular car, at the time, happens to be loaded with intrastate traffic, as distinguished from interstate traffic, and whether said car is so regulated and controlled by the federal law as to thereby withdraw it from the operation of state legislation?
+Article 2 of the articles of confederation provides:
+“Bach state retains its sovereignty, freedom and independence, and every power, jurisdiction and right which is not by this confederation expressly delegated to the United States, in congress assembled.”
+Article 10 of the amendment to the constitution of the United ■States provides:
+“The powers not delegated to the United States by the constitution, nor prohibited by it to the states, are reserved to the states respectively, or to the people.”
+Article 1, See. 8 of the federal constitution grants to the congress, among other things, the power,
+“To regulate commerce with foreign nations, and among the several states, and with the Indian tribes.”
+Under the power thus granted, the congress passed an act entitled,
+“An act to promote the safety of employes and travelers upon railroads, by compelling common carriers engaged in interstate commerce to equip their cars with automatic couplers and continuous brakes and their locomotives with drive wheel brakes and for other purposes.”
+Section 2 is as follows:
+“That on and after the first day of January, 1908, it shall be unlawful for any such common carrier to haul, or permit to be hauled, •or used, on its line, any car, used in moving interstate traffic, not equipped with couplers coupling automatically by impact, and which ■can be uncoupled without the necessity of men going between the ends ■of the ears.”
+The general assembly of the state of Ohio, 1906 (98 O. L. 75), enacted a law upon the same subject. Section 2 of this act, which the state claims in this case was violated, is as follows:
+“That it shall be unlawful for any such common carrier to haul,, or permit to be hauled or used on its line, any locomotive, car, tender, or similar vehicle used in moving state traffic, not equipped with •couplers coupling automatically by impact, and which can be uncoupled, without the necessity of men going between the ends of the cars.??
+In so far as these two acts refer to ears, and require automatic couplers thereon, the language used in each is identical.
+The word “such” in Sec. 2 of the Ohio law, refers to the kind of a common carrier described in Sec. 1 of that act, which is as follows:
+“•Any common carrier engaged in moving [state] traffic by railroad between points within this state.”
+Placing this definition of a kind of carrier meant by the word “such” into Sec. 2, it would read as follows:
+‘ ‘ That it shall be unlawful for ' any common carrier engaged in moving state traffic by railroad between points within this' state * * * to haul * * any car * * used in moving state traffic, etc.
+The car must-be “engaged in moving state traffic between points, within this state.”
+The Supreme Court of the United States has held that there are three general classifications of legislative acts, federal and state, under the commerce clause of the constitution, in one of which classes each enactment must fall :
+First. Where the federal congress has exclusive jurisdiction.
+Second. Where the state has exclusive jurisdiction.
+Third. Where the state has jurisdiction to act until the federaL congress passes an act upon the same subject. ' ' ■
+The object to be attained by the Ohio law would indicate that it fell within the second class. The safety, life and health of the employes, passengers and citizens of the-state, lie at the bottom of the-regulation. These objects are clearly within the police power of the-state, and unless such a law conflicts with a regulation of a federal law upon the same subject, over which the congress has delegated power to-act'and has acted, the state law is valid.
+The states have a right to enact a law forbidding the consolidation of' parallel and competing lines engaged in interstate commerce. Louisville & N. Ry. v. Kentucky, 161 U. S. 677 [16 Sup. Ct. Rep. 714; 40 L. Ed. 849]. The state can regulate the speed of interstate trains within city limits; it can establish a rule of evidence ordaining the character of proof by which a carrier may show its liability to. be limited. Richmond & A. Ry. v. Tobacco Co. 169 U. S. 311 [18 Sup. Ct. Rep. 335; 42 L. Ed. 759]. It can enforce track connections between two railroads. Wisconsin, M. & P. Ry. v. Jacobson, 179 U. S. 287 [21 Sup. Ct. Rep. 115; 45 L. Ed. 194].
+In all the cases upon the subject there is ah important distinction. and difference between regulation of commerce among tbe states, and a regulation of the instruments of commerce. The one is confided to the congress, the other the regulation of the instruments of such commerce is within the jurisdiction of the states under their police power. All police regulations of interstate traffic interfere indirectly more or less with commerce between the states, in the fact that they impose a burden upon the instruments of such commerce, by adding something to the cost of transportation by the expense in conforming to such regulations.
+In Louisville & N. Ry. v. Kentucky, 161 U. S. 677, 702 [16 Sup. Ct. Rep. 714; 40 L. Ed. 849], Justice Brown says:
+“It has never been supposed that the dominant power of congress over interstate commerce took from the states the power of legislation with respect to the instruments of such commerce, so far as the legislation was within its ordinary police powers. * * * In the division of authority with respect to interstate railways congress reserves to itself the superior right to control this commerce and forbid interference therewith; while to the states remains the power to create and te regulate the instruments of such commerce, so far as necessary to the conservation of the public interests. ’ ’
+The state of Ohio having the right to legislate and regulate thereby for the safety and lives of its people, under’ its police power, and having done so, and employed language in the act that confines its. operations to a “common carrier engaged in moving traffic, by railroad,, between points within this state” it could not conflict, with a federal law upon the same subject and regulating the .same instrumentality when engaged in moving interstate traffic, among the several states, because to the state is reserved the exclusive right to regulate its own internal commerce.
+The Ohio law instead of being in conflict with the federal law, as. to cars, is rather a harmonious supplement thereto, compelling the roads to have the safety device on all cars engaged in moving traffic between points within -this state, a subject without the jurisdiction of the congress, and the Ohio and federal law, each acting and operating within its own proper and constitutional sphere, bring about the intended result by requiring such safety device to be placed on all cars by all roads, whether such cars are being engaged in moving interstate or intrastate traffic.
+Otherwise, without the force and effect of the Ohio law, all cars loaded with freight moving from point to point within the'state of Ohio, would be absolutely immune from the operation of the federal law, and all such safety couplers could be'omitted.
+The national pure food and drug act has been supplemented by acts passed by the various states,' containing similar provisions, applicable to-dhe manufacture, sale and transportation of impure foods and drugs within the states, without which the national act would lose' much of its value.
+The claim is made that, by reason of the peculiar situation of this car No. 4661, being as the answer alleges, nested in a train consisting of ten other cars, and all the other ten containing freight which was being transported from one state to a point in another; the equipment consisting of a locomotive, cars, track and train crew, all then being engaged in interstate transportation and commerce, it must be held that this particular car partook of the same characteristics as the other ten ears.
+The Ohio as well as the federal act, designates a “car;” and not a .train ..of cars, as being .subject-to the penalty prescribed in the acts. The device is attached to each car and each as such, must be complained of separately in a petition asking for the penalty. The car. is thus made the unit, by the statute.
+Each ear shall be provided with the coupler and any road hauling a car not so provided, is doing an unlawful act, prohibited and penalized.
+The demurrer was properly sustained, and the judgment below is affirmed.
+Cherrington and Jones, JJ., concur.
