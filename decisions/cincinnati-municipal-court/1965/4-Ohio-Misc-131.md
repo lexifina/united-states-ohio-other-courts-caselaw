@@ -1,0 +1,48 @@
+---
+court: "Cincinnati Municipal Court"
+docket: "869784"
+decided: "1965-06-01"
+citations: ["4 Ohio Misc. 131"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Buckeye Union Casualty Co. v. Nichols, d. b. a. Reading Motors Co."]
+source_url: "https://static.case.law/ohio-misc/4/cases/0131-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1432188
+cites_cases: ["155 Ohio St. 541", "173 Ohio St. 387", "176 Ohio St. 1", "75 Ohio App. 305"]
+---
+
+# Buckeye Union Casualty Co. v. Nichols
+
+## Majority (Bettman, J.)
+
+Bettman, J.
+This case presents the following issue: Does the orignal owner of a stolen motor vehicle holding an Ohio certificate of title to such vehicle have a right to replevin it from a bona fide purchaser without notice, also holding an Ohio certificate.
+The facts of the matter as substantially agreed on between the parties are as follows:
+One Gibbons was the owner of a 1963 Chevrolet and held an Ohio certificate of title to said vehicle. On the night of June 15, 1964, this vehicle was removed from his used car lot by persons unknown. The vehicle was located in November 1964, in the possession of defendant. Investigation by the Federal Bureau of Investigation revealed that the thief had removed the manufacturer’s serial number plate which was welded to the door post of the vehicle and substituted in its place a different serial number plate in such a fashion that ordinary inspection would reveal nothing unusual about the serial number. The thief or someone acting on his behalf then sold the motor vehicle through one Storch, a used car dealer, upon presentation of an Ohio certificate of title, bearing the substituted serial number. The automobile then passed through several bona fide purchasers without notice to defendant, who holds an Ohio certificate of title for a 1963 Chevrolet of the correct description, with the substituted manufacturer’s serial number. The F.B.I. was able to identify the vehicle as the one stolen from Gibbons by a duplicate serial number which manufacturers place on motor vehicles in secret locations, unknown to anyone except themselves and the police. In this case the number was on top of the frame of the vehicle underneath the gasoline tank, in a location which could only be found by jacking the vehicle up, cleaning off the frame, and using a flashlight and mirrors.
+Plaintiff, Buckeye Union Casualty Company, who had insured Gibbons against loss by theft had paid Gibbons the sum of $2,175. and secured from him an assignment of his certificate of title as well as a subrogation agreement and, being subrogated to all and any rights of Gibbons, had issued to it a certificate of title for the vehicle.
+In summary, plaintiff holds an Ohio certificate of title regular in all respects and showing the true manufacturer’s serial number of the vehicle and defendant holds an Ohio certificate of title regular in all respects and showing the substituted manufacturer’s serial number which was on the door post of the automobile.
+Two factual questions must first be disposed of. Plaintiff has argued that defendant was negligent in not discovering that the substituted serial plate had been glued rather than welded to the door post. The court has concluded as a matter of fact that there was no negligence on defendant’s part and that he made the same inspection which any reasonably prudent person would under the same or similar circumstances.
+Defendant has argued that Gibbons was careless in not more adequately protecting the vehicle while it was parked at night on his used car lot. The court has concluded that the evidence does not support this position, and that Gibbons likewise exercised the same care an ordinary prudent person would under similar circumstances.
+The issue therefore is clearly made: Which of these two innocent parties is to bear the loss.
+Defendant argues strongly that this issue is determined by Commercial Credit Corp. v. Pottmeyer (1964), 176 Ohio St. 1, in which the fourth paragraph of the syllabus states:
+“An Ohio bona fide purchaser of a motor vehicle may be protected whether his Ohio certificate of title resulted from fradulent representations of a swindler or of a thief.”
+Boiled down, the facts of that case were that plaintiff was a lien holder with its lien recorded on a West Virginia certificate of title and defendant was a bona fide purchaser without notice holding an Ohio certificate of title with no notation of any lien thereon.
+The substance of the court’s holding is that under the provisions of the Ohio Certificate of Title Law (Chapter 4505, Revised Code) the holder of an Ohio certificate of title will prevail in an Ohio court over any other evidence of right, title, or interest in a motor vehicle.
+In other words, as stated in the third paragraph of the syllabus:
+“One who claims a right, title or interest in or to a motor vehicle but whose claim is not noted upon any Ohio certificate of title cannot prevail in an action in replevin against a purchaser in Ohio of such motor vehicle, who acquired possession in Ohio of such vehicle together with an apparently valid Ohio certificate of title therefor in good faith and without notice of any right, title or interest in such vehicle not set forth in his certificate of title.”
+The court thereby reasserted its position in Kelley Kar Co. v. Finkler (1951), 155 Ohio St. 541, and overruled its decision in Atlantic Finance Co., Inc., v. Fisher (1962), 173 Ohio St. 387, in which the majority had held that the claim based on a validly issued certificate of title from a sister state prevailed over that of a bona fide purchaser without notice holding an Ohio certificate of title which was derived through the thief.
+However, the logic of Atlantic Finance Co. v. Fisher applies to the case at bar. As between the owner of a motor vehicle with an Ohio certificate of title and a bona fide purchaser for value, without notice, of such vehicle also holding an apparently valid Ohio certificate of title, bqf whose title is derived through a thief, the former must prevail. The Pottmeyer case does not say that if you are an Ohio bona fide purchaser for value without notice holding an Ohio certificate of title you have good title against the world, it holds only that you have title good in an Ohio court against someone else’s out-of-state title.
+One starts out with the common-law doctrine as stated in Atlantic Finance Co. v. Fisher that a bona fide purchaser for value without notice from a thief obtains no better title than the thief. Kelley Kar and Pottmeyer abrogate this principle on the basis of legislative intent as set forth in Section 4505.04, Revised Code, which states:
+“No court in any case at law or in equity shall recognize the right, title, claim, or interest of any person in or to any motor vehicle sold or disposed of, or mortgaged or encumbered, unless evidenced:
+“(A) By a certificate of title or a manufacturer’s or importer’s certificate issued in accordance with Sections 4505.01 to 4505.19, inclusive, of the Revised Code. * * *”
+Where both parties hold Ohio certificates of title, it would appear that the effect of the statute is neutralized and the court must revert to common-law principles.
+Plaintiff must prevail in this case for a second reason, illustrated by Mock v. Kaffits (1944), 75 Ohio App. 305. In that case, plaintiff held a good Pennsylvania certificate of title. His car was stolen and the thief defaced and changed the serial numbers on the automobile and obtained an Ohio certificate of title. The car was then transferred to defendant, who was a bona fide purchaser for value without notice. The court held for plaintiff, stating on page 307:
+“If the chattel in question were other than a motor vehicle, which did not involve the Ohio Certificate of Title Law * * *, the problem would be promptly solved by application of the rule that stolen property is recoverable from an innocent purchaser so long as it is susceptible to identification.”
+While Mock v. Kaffits was in effect overruled by the principle enunciated in Pottmeyer, because the plaintiff held a Pennsylvania certificate and the defendant an Ohio certificate, in this court’s opinion the rationale given in its second reason for its opinion still stands, This was that the party holding the certificate of title giving the vehicle’s true serial number had the only certificate of title for the vehicle which was the subject of the litigation. The court stated on page 310:
+‘ ‘ The fact that the thief has defaced the correct motor number in two places and substituted a fictitious motor number in its place cannot change the car’s true motor number, any more than a heart becomes a spade just because it is denominated. ’ ’
+Similarly, in the case at bar, plaintiff has an Ohio certificate of title which shows on its face the true serial number of the vehicle which is the subject of this litigation. The Ohio certificate of Title held by defendant is for a vehicle whose whereabouts is unknown.
+One more point argued by defendant is that normally individuals carry insurance against theft of their automobile (as was done in this case) whereas it is unusual for individuals to carry title insurance on automobiles. Consequently, urges defendant, a judgment for the innocent purchaser would be economically reasonable and sound. This is an appeal to the court’s sentiments, which cannot outweigh the settled principles of the comm on law which the court deems applicable.
+Plaintiff, having shown its right to possession, is entitled to its writ of replevin.
+Writ granted.
