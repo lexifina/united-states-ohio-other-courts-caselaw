@@ -1,0 +1,41 @@
+---
+court: "Ohio Circuit Court"
+decided: "1903-04"
+citations: ["1 Ohio C.C. (n.s.) 469"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hale, J.; Marvin, J., and Winch, J., concur."]
+parties: ["Catharine Knapp v. Charles B. Harold."]
+source_url: "https://static.case.law/ohio-cc-ns/1/cases/0469-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 391287
+---
+
+# Knapp v. Harold
+
+## Majority
+
+Error is prosecuted in this court' to reverse a judgment of the court of common pleas. We think this judgment should be reversed.
+The action was prosecuted to enforce the payment of a promissory note signed by Mr. and Mrs. Knapp. After the execution of the note each filed a petition in bankruptcy, and in due process of such proceedings received their discharge in bankruptcy. Knapp placed this note on his schedule of indebtedness, the creditor received the proper notice under the bankrupt act, and, it is conceded, he is ‘released from the payment of the. note by that proceeding. Mrs. Knapp did not schedule this claim among her indebtedness, amid the bolder of the claim received no written notice under tbe provision of the bankrupt iaet. The question is, Was she discharged by that proceeding from the payment' of this note? The regularity of the proceedings in the bankruptcy court is not questioned. This indebtedness -was not scheduled and Harold had no written notice under the bankrupt 'act of its existence. The true answer is found in a proper construction of a clause of the bankrupt act which reads:
+“A discharge will not release a bankrupt from debts which have not been duly scheduled in time for proof and allowance with the name of the creditor, if known to the bankrupt, unless such creditor had notice or actual knowledge of the proceedings in bankruptcy.”
+Where the court has jurisdiction and claims have been placed upon the schedule, or if omitted from it, the creditors have notice or actual knowledge of the proceedings, the debt, if provable, is released by the discharge. Counsel for defendant in error insist that the notice referred to in this clause of the bankrupt act refers to the written notice required by another section of the bankrupt act. We think otherwise. Manifestly it provides for a ease in which the debt has not been scheduled and in which no notice under the bankrupt act had been served upon the creditor. In such case the bankrupt is discharged if the creditor had notice within the meaning of this act, or actual knowledge of the bankrupt proceedings. It is simply a fact whether he had notice or whether he had actual knowledge of the proceedings. There is no iron-clad rule that the fact of notice can only be proved by fact's and circumstances transpiring after the bankrupt proceedings. All facts, whether occurring before or after the commencement of the proceedings, tending to'establish notice, are competent to be given in evidence. There is nothing peculiar in establishing notice to a creditor in bankruptcy proceedings. If facts exist such as should reasonably put the creditor upon inquiry, he should make the inquiry, and whether he makes it or not he is charged with notice of all facts concerning which he was bound to inquire.
+The court adopted the theory of the defendant in error, and, upon this question of notice, said to the jury:
+“If you find from the evidence that she (that is, Mrs. Knapp) knew of the name of the plaintiff as one of her creditors at the time this schedule was made out, and you find that his name (the creditor’s) was not placed in the schedule — that, however, is admitted; but if you find further that he did not know of the bankruptcy proceedings so' far as she is concerned, had no actual knowledge ■of the fact, then those proceedings would not bar him from recovering in this action.”
+No reference is made in that’charge to the effect of notice. The language of the statute is, “had notice or actual knowledge.” The •court here says, unless he had actual knowledge the verdict should be for the defendant.
+The court was then interrupted by Judge Tibbals, “If he had tíiat notice, then, Your Honor, what?”
+The Court: “Certainly, the converse.is if he had that knowledge — if he had knowledge of those proceedings; that is, actually-knew of those proceedings going on at any time preceding the 25th day of February, 1899, that would be a complete release. That date is all wrong. It limits the time in which knowledge might have been given to him shorter than the time fixed by the statute.”
+Then Mr. Parsons said: “May I ask the court to further charge that notice of the expectancy or probability of the defendant, Catherine Knapp, availing herself of the bankruptcy act, would not be notice of her actually doing so?”
+The Court: “I don’t just get your meaning.”
+Mr. Parsons: “That is to say, before these proceedings were brought if some one, an agent of Catherine Knapp or Frank J. Knapp, or both of them, should call up and say that both or either •of them expected to go into 'bankruptcy, ¿that «would not be notice of the fact they had so done, if at that time they hadn’t filed their petition in bankruptcy ?”
+The Court: “In other words, gentlemen, on the subject of notice, it means this: The burden is on the defendant to show that the plaintiff in this case actually had notice 'that these proceedings were going on at some time prior to the 25th day of February, 1899. If he didn’t have that notice, and the burderf is on the de.fendant to show that fact, then that would be no b'ar to the plaintiff’s right to recover. Now, you are the sole judges of the weight to be given to this testimony and of the credibility to be given to witnesses. Those are matters for you and for you only.”
+Mr. Parsons: “Do I understand the court to mean by that, if “the jury should find a certain notice was given and this notice was given, before the..proceedings were actually had or entered into and the petition filed, that that was not notice?”
+B. 31. Smith and N. D. Tibiáis, for plaintiff in error.
+G. F. Grant and Patrsons & Burch, for defendant in error.
+The Court: “No, it means that after the proceedings were commenced.”
+Mr. Parsons: “Any statement that might have been made before the proceedings were commenced was not notice ?”
+The Court: “I mean to say, after the proceedings in bankruptcy were commenced, and not until after they were commenced, when it reached a point that it devolved upon the creditors who were notified to file their claims, if at any time between that time and the time the discharge was handed out to her, the plaintiff had actual notice or notice and actual knowledge of these proceeding that had thus far been instituted, that would amount to notice so that he would not be entitled to recover so far as that proposition is concerned. Now, I think I have made myself as plain upon the matter as I could.”
+This charge manifestly was misleading. There was evidence tending to show that while the schedules were being prepared this very “creditor was told that both the Knapps were going into bankruptcy. He was asked if he had any claim and he replied he had a claim against' Mr. Knapp, but said nothing about Mrs. Knapp. We think that that was competent testimony as one step towards bringing notice home to this defendant in error, and, taken in connection with the investigations and circumstances that followed it, the jury may have found, under a proper charge, that defendant in error had knowledge or notice of the proceedings in bankruptcy. Indeed, we think the finding of the jury should, under a proper charge, have been that the defendant in error had such notice of the proceedings in bankruptcy 'as is contemplated by the bankrupt act, and that she ■was, in fact, discharged from that indebtedness by that proceeding.
+We find no other error in this record.
+The question of payment, the question of estoppel were properly disposed of by the court and jury in the court' below.
+For the error in the charge of the court as misleading, and because the verdict of the jury was not sustained by sufficient evidence, this judgment is reversed and the cause remanded.
