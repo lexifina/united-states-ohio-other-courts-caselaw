@@ -1,0 +1,39 @@
+---
+court: "Darke Circuit Court"
+decided: "1887-05"
+citations: ["1 Ohio Cir. Dec. 532"]
+reporter: "ohio-cir-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Stewart, Shauck and Shearer, JJ."]
+parties: ["State of Ohio ex rel. Prosecuting Attorney v. Treasurer of German Twp. et al."]
+source_url: "https://static.case.law/ohio-cir-dec/1/cases/0532-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1616504
+---
+
+# State ex rel. Prosecuting Attorney v. Treasurer of German Twp.
+
+## Majority (Stewart, J.)
+
+Stewart, J.
+This is a suit brought by the prosecuting attorney of this county against the treasurer of German township, the board of education of the same township, and other parties, to enjoin the payment and collection of the following warrant:
+“$247.50. Office of the Board of Education,
+German Township, Darke Co., O., Nov. 20, 1883.
+“To the Treasurer of German Tp.: Pay to the order of Nickerson and Willoughby, two hundred and forty-seven and 50-100 dollars for eleven cases of complete school charts and McGuffey’s reading charts; one-half payment; purchased at a regular called meeting of the Board of Education. Value received. Payable at the Second National Bank of Greenville, Ohio, Sept. 1st, 1885, out of the school house and contingent funds in the treasury, for the use of schools for German township, Darke county, Ohio. By order of the Board of Education.
+“O. P. Widcox, Clerk. Jas. Widcox, President.”
+The grounds upon which an injunction is asked are the following, as stated in the petition: “That no part of said sum was or is due for building school houses or furnishing the same. That the said board of education had no right or authority of law to pass the resolution attempting to purchase said charts nor any part of them: and that said board of education had no right, authority or jurisdiction to purchase or attempt to purchase charts; that the said president and clerk had no right or authority of law to issue said warrant.”
+The firm of Ivison, Blakeman, Taylor & Co. filed an answer setting up that they are the owners of the draft, and denying any irregulariiy or illegality in its consideration or issuance. The reply is a general denial. Upon the issues thus joined and the testimony, the cause was submitted to the court, and the only question made is, whether the articles purchased for which the warrant was so issued, were such as the board of education was authorized to purchase under the provisions of sec. 3987, Rev. Stat., or under the provisions of sec. 3995, Rev. Stat.
+The sections read as follows:
+“Section 8987. The board of education of any district is empowered to build, enlarge, repair and furnish the necessary school houses, purchase, or lease sites- therefor, or rent suitable school rooms and make all other necessary provisions for the schools under its control.”
+“Section 3995 (78 O. L., 10). In any district the board of education may appropriate money from the contingent fund for the purchase of such books, other than school books, as it may deem suitable for the use and improvement of the scholars and teachers of the district, and in the purchase of philosophical or other apparatus for the demonstration of such branches of education as may be taught in the schools of the district, or for either of such purposes; but not more than one-half of the amount herein aúthorized to be appropriated shall be expended in the purchase of such apparatus; such appropriation shall not exceed in any one year $1,200 in city districts containing cities of the first grade of the first class; $300 in other city districts of the first class; $150 in city districts of the second class, and $75 in other districts; and the books so purchased shall constitute a school library, the control and management of which shall be vested in the board of education.”
+The testimony shows that these charts were purchased by the board of education at a special meeting October 25, 1883; that soon afterwards the charts were placed in the schools, and November 20, 1883, the order set forth in the petition was given; that they have been in use in the schools of that township ever since, and are considered by the teachers as very necessary in order to properly instruct the pupils; that they are especially beneficial in ungraded schools, and that there are no graded schools in German township. It further appears from the testimony that these or similar charts are in use in most of the schools in this state and are considered by the teachers as necessary and useful, and that the scholars could not be successfully instructed without their aid. Some of the charts were exhibited during the progress of the trial, and their use and especial benefits explained by those conversant with them. The benefit to be derived from them and their usefulness in the schools are not controverted by the plaintiff, and we do not think in view of the testimony that they could be, successfully, but it is claimed that they are embraced in the term “apparatus” used in sec. 3995, Rev. Stat., and not in the articles which the board of education are empowered to purchase to “furnish” their school house under sec. 3987, Rev. Stat.
+It is always presumed that the legislature in the use of words in a statute used them in their ordinary and natural signification, and there is no reason for supposing that they made an exception in the school laws.
+Webster defines the verb “furnish” as follows: “To supply with anything necessary or useful; to fit up; to supply with proper goods, etc.; as ‘to furnish a house or a room.’ ”
+He defines the noun “apparatus” as follows: “Things provided to some end, especially a full collection or set of implements or utensils for performing scientific experiments or operations.”
+It follows then that the board of education was by sec. 3987, Rev. Stat., authorized to supply their school houses with anything necessary or useful for the purposes of education. There exists, of course, as great a difference between these charts and the children’s school books, as there is between the blackboards and their slates. These charts are necessary for the purpose of enabling the children understandingly to study their books, and useful in fixing in their minds what they have learned from their books, and are so necessary and useful that the board of education was warranted in purchasing them for the purpose of furnishing the school houses in the district. In the Ohio school laws tor 1883, issued by the state commissioner of common schools, in a note under sec. 3995, Rev. Stat., is the following:
+“The question sometimes arises as to what is apparatus. It is not customary to regard maps and charts as such. These, like clocks, desks, blackboards and blackboard furniture, would be classed among the essentials for furnishing a school and they may probably be purchased under sec. 3987, Rev. Stat., as provisions necessary for the convenience and prosperity of the schools.”
+J. C. Elliott, Prosecuting Attorney, and Jno. C. Clark, for plaintiff.
+M. T. Allen, for Ivison, Blakeman, Taylor & Co.
+While this cannot have the force of a judicial interpretation, it is of great force as the opinion of an eminent educator, who was at the head of the school system of the state, and presumably familiar with the necessities of the schools, and the usefulness of such articles. And as it is printed in a book which he is required by law (sec. 360, Rev. Stat.), to prepare for the use of school officers throughout the state, it may be properly considered as in the nature of advice to them.
+It follows, therefore, that the injunction heretofore allowed in this case must be dissolved, and the petition dismissed, and a decree will be so entered.
