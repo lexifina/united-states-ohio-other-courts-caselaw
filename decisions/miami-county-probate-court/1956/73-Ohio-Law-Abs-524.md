@@ -1,0 +1,70 @@
+---
+court: "Miami County Probate Court"
+docket: "37125"
+decided: "1956-05-15"
+citations: ["73 Ohio Law Abs. 524"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WEATHERHEAD, Estate of, In re."]
+source_url: "https://static.case.law/ohio-law-abs/73/cases/0524-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1785850
+---
+
+# In re Estate of Weatherhead
+
+## Majority (By FAUST, J.)
+
+OPINION
+By FAUST, J.
+This cause came on to be heard upon the exceptions of Alma Amelia Weatherhead to the Inventory and Appraisement of the estate of Elmer Weatherhead, deceased, filed by G. E. Landrey, as Ancillary Administrator with Will Annexed, evidence and briefs prepared and submitted by counsel.
+The Exceptor alleges the following irregularities in inventory which was approved by the Probate Court on November 3, 1954.
+No. 1: Exceptor alleges that no set off was made to Alma Amelia Weatherhead as surviving spouse, of property exempt from administration, Schedule F, contrary to law and the provision of §2115.13 R. C.
+No. 2: No widow’s year’s allowance, Schedule G, was made to Alma Amelia Weatherhead, as the widow of the decedent, contrary to law and the provisions of §2117.20 R. C.
+No. 3: No notice was given to Alma Amelia Weatherhead, as widow of decedent, stating the time and place of making of Inventory and Appraisement, contrary to law and the provisions of §2115.04 R. C.
+No. 4: No certificate of assets and liabilities, as required by §2129.15 R. C., was forwarded to the domiciliary Administrator, Alma Amelia Weatherhead or the Court having jurisdiction in the County of decedent’s residence (County Court, Jefferson County, Texas) within five months after the Ancillary Administrator’s appointment.
+No. 5: No notice of the ancillary administrator’s appointment as required by §2129.09 R. C., was forwarded to the domiciliary administrator or to the Court having jurisdiction in the County of the decedent’s residence, until after more than nine months subsequent to the ancillary administrator’s appointment.
+No. 6: No notice of the probate of decedent’s will in this Court was given to the surviving spouse, contrary to law and §§2107.13 and 2129.10 R. C.
+No. 7: No notice of the admission of the Will to Probate in this Court was ever given to the surviving spouse, nor was any affidavit filed to the effect that her name and address was unknown and could not with reasonable diligence be ascertained, all of which was contrary to law and the provisions of §§2107.19 and 2129.10 R. C.
+The facts submitted to the Court, and in which there is no dispute, that Elmer Weatherhead died testate in and a resident of the state of Texas owning an interest in real estate in Miami County, Ohio. That his only heirs at law and next of kin are his widow Alma Amelia Weather-head of Beaumont, Texas, and Pauline Dimrack, an adult daughter, Pittsburgh, Pennsylvania; that on October 20, 1953, Alma Amelia Weather-head was appointed and qualified as Independent Executrix of the Estate of Elmer Weatherhead, deceased, in Jefferson County, Texas.
+The Court of Appeals for Lorain County, Ohio, has made a recent pronouncement of the law relative to exception No. 1 In Re: Mitchell, 97 Oh Ap 450.
+A careful examination of the Mitchell case reveals that Roland Mitchell, a resident of the State of Florida, died in that state, July 16, 1952, possessed of personal and real property located in Lorain County, Ohio. To the Inventory and Appraisement filed by Elizabeth Mitchell, Ancillary Administratrix, Gladys Mitchell, surviving spouse of Roland Mitchell, deceased, filed her exceptions to the inventory July 3, 1953, stating that the appraisers of the estate and the Ancillary Administratrix had not provided her a year’s allowance under the provisions of §10509-74 GC; that the appraisers and the Ancillary Administratrix had not set aside to her the property exempt from administration under the provisions of §10509-54 GC.
+The Court of Appeals found “an allowance for property exempt from administration, as provided for under §10509-54 GC, must be set off to a nonresident surviving spouse in the local estate of a nonresident decedent.”
+“Sec. 10509-54 GC, made no distinction between residents and nonresidents, and this Court is bound by the language of that statute. We, therefore, determine that the surviving spouse herein, though a nonresident is entitled to have set off to her the property deemed exempt from administration, provided for by the statutes in effect at the time the husband died.”
+The Court after due consideration sustains exception No. 1 to the Inventory and Appraisement of the estate of Elmer Weatherhead, deceased, and directs Ancillary Administrator and Appraisers to set off to Alma Amelia Weatherhead the property deemed exempt from administration.
+The Court now considers exception No. 2 which states that no widow’s year’s allowance was made to Alma Amelia Weatherhead, as widow of Elmer Weatherhead. deceased.
+Counsel by well considered briefs have injected into the issue of this cause §§2117.23 and 2129.10 R. C. The amendments to §10509-78 GC, have presented to the Court justified questions as to the intent of the legislature, exactly what did it say, not what it ought to have said or could have said.
+Although the widow, Alma Amelia Weatherhead was not notified of the filing of the Inventory and Appraisement as is now provided by §2117.23 and 2129.10 R. C., and the section apparently contemplates that an ex parte application should be filed; relative to the applicant’s allegations as to the year’s allowance, waiver by surviving spouse, facts before the Court in brief form, prayer of exceptions to Inventory, and hearing, are sufficient to bring before the Court the issue of whether or not the surviving spouse is entitled to a year’s allowance under §2117.23 R. C. (§10509-78 GC).
+Attorneys for the Ancillary Administrator call to the Court’s attention that under §2117.23 R. C., that before the widow and a child or children of a nonresident decedent is entitled to a year’s allowance the will of the decedent must have been originally admitted to probate in Ohio.
+Sec. 2117.23 R. C., Year’s Allowance when decedent is nonresident.
+“When a nonresident decedent dies leaving property in Ohio and the will of such decedent has been admitted to probate in Ohio as provided by §§2107.11 and 2107.18 R. C., the person granted letters testamentary or of administration shall, at any time prior to the approval of the inventory and appraisement notify the widow and a child or children, etc.”
+Under the above quoted section the widow and child or children have received only the right to be notified by the person granted letters testamentary or of administration that “they have sixty days after approval of the inventory and appraisement to apply for a year’s allowance to be set off out of the Ohio property of the decedent.”
+In reading further in the statute we find that “the probate court may set off a year’s allowance to such widow and child or children or apportion the same among them as it seems just and reasonable, etc.”
+Under the liberalization of the terms of the statute it is still within the discretion of the court, upon proper application of the widow and children, whether or not the year’s allowance will be granted.
+We have considered §2117.23 R. C., wherein a nonresident decedent dies leaving property in Ohio and his will has been admitted to probate as provided by §§2107.11 and 2107.18 R. C.
+We are now confronted with §2129.10 R. C., which states as follows:
+Procedure; year’s allowance.
+“Except as otherwise provided by §§2129.01 to 2129.30, inclusive, R. C., the procedure in ancillary administration shall be the same as in the administration of the estates of resident decedents.
+“All rights, powers, and duties authorized by §2117.23 R. C., relating to a year’s allowance shall be available to a widow and a child or children under the age of eighteen of a nonresident decedent except that the duty to notify such widow and child and children of their right to apply for a year’s allowance out of the Ohio property shall be exercised by the person granted ancillary letters of administration or ancillary letters testamentary.”
+We have found that under §2117.23 R. C., that the widow and children have a right to be notified after the approval of the Inventory and Appraisement and to make application for a year’s allowance; now under §2129.10 R. C., we find that all rights, powers and duties authorized by §2117.23 R. C., relating to a year’s allowance shall be available to a widow and child or children except that the duty to notify them shall be exercised by the persons granted ancillary letters of administration or ancillary letters testamentary.
+The Court finds that first paragraph of §2117.23 R. C. and second paragraph of §2129.10 R. C., are in pari-materia and that after an application is filed, in either event, there is no assurance that the Probate Court will grant a year’s allowance to the widow and children.
+An article written by Francis J. Eberly under the title Probate Code amendments, Volume 14, 1953, Ohio State Law Journal, pages 372 and 373, reviews the legislation sponsored by the Probate and Trust Law Committee of the Ohio State Bar Association, pertaining to §§2117.23 and 2129.10 R. C.
+It is observed that In re Estate of Mitchell, supra, that no year’s allowance was set off to the surviving spouse as “the state of Florida making provision for a personal property exemption to a surviving spouse as an allowance for a year’s support.”
+However, the Court takes notice that in the application for appointment of Ancillary Administrator in Miami County, Ohio, that it alleges that Elmer Weatherhead died at Beaumont, Texas, testate, on or about the 29th day of September 1953, or a couple days prior to the effective date of the Revised Code of Ohio, and approximately fifteen days prior to October 16, 1953, the effective date of the present §2117.23 R. C. as amended.
+The Appellate Court also held In Re Mitchell, that “the surviving spouse, though a nonresident is entitled to have set off to her the property deemed exempt from administration, provided for by the statute in effect at the time her husband died.”
+If the nonresident surviving spouse has a right to property deemed exempt from administration, provided for by statute in effect at the time of her husband’s death, then also her right for consideration of a widow’s year’s allowance should be determined according to the statute in effect at the time of his death.
+The first amendment of §10509-78 GC, effective October 1, 1953, was not in effect on the date of the death of Elmer Weatherhead. Even though the subsequent amendments had been in effect at the time of his death they serve only to liberalize and not to restrict, particularly the present §2117.23 R. C., the power of the Probate Court in granting a year’s allowance to the widow and children of a nonresident decedent.
+Does the state of Texas make provisions for a year’s allowance for a widow?
+9 Vernon’s Texas Statutes, Title 54, Chapter 16
+Art. 3476. Within twelve (12) months after the original grant of letters testamentary or of administration, the court shall fix an allowance for the support of the widow and minor children of the deceased.
+Art. 3477. Such allowance shall be of an amount sufficient for the maintenance of such widow and minor children for one year.
+Art. 3478. No such allowance shall be made for the widow when she has separate property adequate to her maintenance; nor shall such allowance be made for the minor children when they have property in their own right adequate to their maintenance.
+Judge Love, In Re Estate of McCombs, 52 Abs 353, interpreting the statute §10509-78 GC, before the new code revision date effective October 1, 1953, found that the laws of Texas have not made “provision for” widows and minor children as contemplated by the Ohio legislature.
+“This Court cannot but believe that the intention of the legislature was to disqualify nonresident widows or minor children only when there exists in the state of domicile a benevolent law giving to all such persons the right to an allowance; that a statute which gives to one-fourth or three-fourths or any other percentage of such families such an allowance or a law that creates the right conditioned on wealth, color, age, belief, or some other state of facts which must be proved in the courts of that state does not make provision for such persons within the meaning of the Ohio statute. Any contrary holding would be a strict construction of this statute, not a liberal one.”
+The Court finds that whereas the State of Texas has not made provisions for a widow’s year’s allowance as contemplated by the Ohio Legislature, Alma Amelia Weatherhead, upon her request, is entitled to have set off to her a year’s allowance.
+The Court sustains exceptions No. Two to the Inventory and Appraisement of the Estate of Elmer Weatherhead, deceased.
+In determining a year’s allowance for the widow the Court is without the benefit of the testimony of Alma Amelia Weatherhead and the only facts before the Court is contained in exceptor’s brief concerning the assets of the estate of Elmer Weatherhead being administered in the State of Texas. These facts are undisputed by Ancillary Administrator.
+Wherefore, the Court, after due consideration of the facts and circumstances, sets off to Alma Amelia Weatherhead, widow, the sum of Fifteen Hundred ($1500.00) as and for her year’s allowance.
+As the Court has sustained the first two exceptions to the Inventory and Appraisement the remaining exceptions although important become immaterial to the issue. For many years §10511-12 GC (now 2129.10 R. C.) has prescribed the procedure in ancillary administration.
+The Court directs that Inventory be amended accordingly and that an appropriate entry be submitted by Counsel.
