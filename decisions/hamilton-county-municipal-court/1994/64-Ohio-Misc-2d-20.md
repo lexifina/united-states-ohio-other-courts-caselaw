@@ -1,0 +1,33 @@
+---
+court: "Hamilton County Municipal Court"
+docket: "94 TRC 4145 A/B"
+decided: "1994-05-04"
+citations: ["64 Ohio Misc. 2d 20"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The STATE of Ohio v. HAM."]
+source_url: "https://static.case.law/ohio-misc-2d/64/cases/0020-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6710707
+cites_cases: ["11 OBR 56", "11 Ohio St.3d 24", "1983 WL 5416", "3 OBR 224", "3 Ohio App.3d 197", "311 N.E.2d 16", "358 U.S. 307", "379 U.S. 89", "38 Ohio St.2d 122", "384 U.S. 436", "444 N.E.2d 481", "462 N.E.2d 1222", "67 O.O.2d 140"]
+---
+
+# State v. Ham
+
+## Majority (Timothy S. Black, Judge.)
+
+Timothy S. Black, Judge.
+This matter is before the court upon defendant Walter Ham’s motion to suppress, which pleading asserts that the defendant’s arrest for driving under the influence of alcohol was made without probable cause and, hence, that the matter must be dismissed at this stage of the proceedings. The motion to suppress also seeks to suppress all statements made by the defendant because said statements were made without advice of his constitutional rights.
+As a threshold matter, it is necessary to point out the obvious, to wit: that the evidence that the defendant was driving under the influence must not yet be proved beyond a reasonable doubt. All that is required currently is that the state prove that it had probable cause to believe that the defendant committed the offense. Establishment of probable cause essentially requires nothing more than proof that the state has more evidence than not that the offense was committed. See, generally, Black’s Law Dictionary (5 Ed.1979), at 1081; see, also, Beck v. Ohio (1964), 379 U.S. 89, 85 S.Ct. 223, 13 L.Ed.2d 142; Draper v. United States (1959), 358 U.S. 307, 79 S.Ct. 329, 3 L.Ed.2d 327.
+Defendant relies upon State v. Taylor (1981), 3 Ohio App.3d 197, 3 OBR 224, 444 N.E.2d 481, for the proposition that the state lacked probable cause to arrest the defendant. While State v. Taylor does hold that proof only of the mere evidence that a defendant had a slight odor of alcohol about him and was engaged in nominal speeding does not give rise to probable cause that the defendant was driving under the influence, that opinion has been strictly limited to its facts by subsequent holdings of the Hamilton County Court of Appeals. See, e.g., State v. Denlinger (Feb. 2, 1983), Hamilton App. No. C-820252, unreported, at 2, fn. 1, 1983 WL 5416; State v. Jones (Oct. 13, 1983), Hamilton App. Nos. C-820959 and C-820960, unreported, at 2.
+The facts presented during the suppression hearing in the case at bar reflect the following indicia of impaired driving: the defendant rear-ended a police officer’s off-duty vehicle which had stopped briefly in the middle of the Hopple Street Viaduct with its hazard lights flashing; the defendant was inordinately drowsy, first falling asleep at the wheel and rear-ending the officer, and then again at the station; the defendant was apparently traveling at an unreasonable and excessive speed (albeit asleep); the defendant had a slight odor of alcohol about him; the defendant admitted having been drinking, albeit only one beer, later supplemented by the defendant to reflect one beer and one vodka and juice; and the defendant was unbalanced at the scene and subsequently failed at least one of four balance tests at the station. Moreover, two police officers of considerable experience opined that the defendant was driving under the influence of alcohol.
+While many of these symptoms may well be evidenced at trial to have been equally likely to have resulted from the blow to the defendant’s head during the accident, these same symptoms, in the context of a determination as to probable cause, may be linked just as easily to impaired driving by reason of alcohol.
+Accordingly, based on the existence of the several indicia of impairment evidenced as to this defendant, the court finds that probable cause existed to arrest the defendant for driving under the influence. Whether the state can prove the offense charged beyond a reasonable doubt is, of course, a very different question.
+As to the defendant’s second basis for suppression, to wit: the motion to suppress all statements made by the defendant as having been made without advice of his constitutional rights, the court sustains the motion.
+A defendant is entitled to be advised of his constitutional rights as soon as his liberty is restrained to a significant degree. Miranda v. Arizona (1966), 384 U.S. 436, 478-479, 86 S.Ct. 1602, 1630, 16 L.Ed.2d 694, 725-727; State v. Buchholz (1984), 11 Ohio St.3d 24, 11 OBR 56, 462 N.E.2d 1222. Based on the evidence adduced at the suppression hearing herein, the court concludes that this defendant was not free to go at any time after the accident and, accordingly, that the state was required to advise the defendant of his constitutional rights at the earliest possible moment. Accordingly, all statements made by the defendant before being advised of his Miranda rights are hereby ordered suppressed. The breathalyzer results and statements developed after the defendant was advised of his constitutional rights are not suppressed.
+So ordered.
+. Probable cause exists if there is proof of reasonably trustworthy evidence sufficient to warrant a prudent person in believing that the suspect has committed the offense. Id.
+. The existence of probable cause is determined by factual and practical considerations of everyday life upon which a reasonable and prudent person would act. Id.
+. "This Court is ever mindful of the difficult task of our police authorities, and in our decisions weigh every individual constitutional claim in light of the voluminous responsibilities of our constabulary. However, the holding of this case merely reiterates the long-established law that an individual must be protected in his constitutional guarantees, and when a close question presents itself such must be answered in a manner to protect the individual, which individual, in a given instance, may be any one of us.” State v. Timson (1974), 38 Ohio St.2d 122, 130, 67 O.O.2d 140, 144, 311 N.E.2d 16, 21.
+. At the pretrial conference subsequent to entry of this order, the parties submitted this entire matter to the court for trial on the merits based solely on the evidence presented at the suppression hearing, whereupon the court found the defendant not guilty of driving under the influence of alcohol but guilty of failing to maintain an assured clear distance in violation of Cincinnati Municipal Code 506.8 and R.C. 4511.21(A).
