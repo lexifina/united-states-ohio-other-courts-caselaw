@@ -1,0 +1,31 @@
+---
+court: "Ohio Circuit Court"
+decided: "1894-01"
+citations: ["8 Ohio C.C. 477"]
+reporter: "ohio-cc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Baldwin, Caldwell and Hale, JJ."]
+parties: ["John Walworth v. The Village of Collinwood."]
+source_url: "https://static.case.law/ohio-cc/8/cases/0477-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1501382
+---
+
+# Walworth v. Village of Collinwood
+
+## Majority (Baldwin, J.)
+
+Baldwin, J.
+In this case a plat was made by Coe, Gilbert & Shipherd, of certain lands divided into forty or fifty lots in the township of East Cleveland, now within the limits of the village of Collinwood. In was recorded on the 26th of February, 1872. It contained certain streets, and among them Beech street, running to Lake Erie. Beech street was unimproved, and for a short time inclosed, until a little short of twenty-one years. The incorporation of the village of Collinwood took place in 1883. In 1892 the village undertook, in pursuance of an ordinance, to improve the street. On the 13th day of September, 1892, John Walworth, the owner of a lot that adjoined that street, brought a suit for an injunction. He' had become the owner of the lot by a title which in its terms conveyed the lot by number, bounding it by the middle of the street, and naming Beech street as a street.
+It is said that there was no law under which that allotment was properly made. The statute is not as definite and clear as it might be. The statute in force at that time was passed March 3, 1831 (2 S. & C., p. 1482), and was the statute under which almost all plats were made long thereafter. But it is said, it only authorized a plat where a corporation was to be made. The act provides that “ whenever any person wishes to lay out a town within this state, they shall cause the same to be surveyed, and a plat or map thereof made by the county surveyor of the county in which the town is situated;” and then provides that “ the plat or map shall particularly describe and set forth all the streets, alleys, commons, or public grounds, and all in- and out-lots, or fractional lots within, adjoining, or adjacent to said town, describing the same by courses, boundaries, and extent.”
+There is no question but that, as far as the provisions of this statute were concerned, they were strictly complied with. The question is whether or not this statute applies to such an allotment. It is said that this was not a town; that a town means a body corporate. It clearly appears by this act that there it does not mean a body corporate, because the act contemplates that any person may lay but a town, and no man can make a body corporate all by himself. When “any person” wishes to lay out a town he can do so. The statute provides the manner in which the plat or map shall be made; that it shall be recorded, and says what effect shall be given to the plat, without any provision whatever for the formation of the municipal body. There were other statutes that provided for the formation of municipal bodies. But this statute operates completely by itself simply on the plat made by that one person or more, in due form of law, and recorded as provided.
+Section 8 provides that the plat or map, when recorded as required by this act, shall be deemed and considered in law a sufficient conveyance to vest the fee-simple of all such parcel, or parcels of land as are therein expressed, named, or intended for public use, in the county in which the town is situated, and for no other use or purpose whatever.”
+It appears very plainly to us that the act could not possibly have meant that the dedicator should become a body corporate. The act in regard to towns and cities (2 S. & C., page 1493), provides for such incorporation by petition “ of the inhabitants,” etc., before it can be a body corporate; so that the definition of the municipal body cannot be given to the word “ town,” as used in this statute.
+We think the construction to be given to this statute is that it embraces such a plat as was made here, of forty or fifty lots in a township which, if settled up by forty or fifty families, would make something of a village.
+Says the Century Dictionary: “ The word town is used also in the sense of a collection of dwellings.”
+Next we are cited to an act (2 S. & C., p. 1296, sec. 29, now Rev. Stat., 4636), providing how a state road, unless it is improved within ten years, shall' be vacated. This was not a state road.
+The act of 1853, sec. 29 (2 S. & C., p. 1296), now section 4668, provides that unless a county road shall be improved within seven years, it shall revert. Although the fee of this land vested in the county, it was not such a county road as is provided for in section 29, made such by virtue of proper proceedings under the act of which that was a part (2 S. & C., p. 1289), so that neither of these provisions apply to this case. There may be a fair ground for legislative distinction in this, that both the state and county roads were established in invitum by judicial proceedings, while in such a case as this the owner expressly, himself, and of his own free will, grants the land in fee to the county for the purposes named.
+Now, what is the statute of limitations ? We know of no other limitation than that provided in the general statute of twenty-one years, and that statute of limitations does not apply. The twenty-one years had not run. To be sure, it was undertaken to be applied in'supplemental pleadings after this suit was commenced, wherein it was alleged that the twenty-one years had then expired. But it was already alleged in the petition that the village of Collinwood had undertaken to take possession of this land, and if they did nothing more, it was simply by virtue of the injunction which was granted in' this case; and it hardly needs any argument to show that a man cannot patch on the time after suit is commenced, to make out his claim under the. statute of limitations. We think the injunction asked for by the plaintiff in this case must be refused, and there must be a decree for the defendant,
+Hon. Theo. E. Burton, for plaintiff in error.
+T. K. Dissette, for defendant in error.
