@@ -1,0 +1,27 @@
+---
+court: "Cuyahoga County Circuit Court"
+decided: "1900-12-03"
+citations: ["25 Ohio C.C. (n.s.) 408"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Caldwell, J.; Marvin, J., and Hale, J., concur."]
+parties: ["State of Ohio, ex rel John C. Larwill, v. Harry L. Vail, Clerk of the Courts."]
+source_url: "https://static.case.law/ohio-cc-ns/25/cases/0408-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1603163
+---
+
+# State ex rel. Larwill v. Vail
+
+## Majority
+
+This is an action in mandamus, brought by the plaintiff against the defendant in this court, asking for an order from this court directing the clerk to issue execution on the judgment obtained by John C. Larwill against Stevenson Burke in the court of common pleas of this county.
+In that action John C. Larwill was plaintiff, and it was brought against Stevenson Burke and Charles H. Hickox, executor of the estate of Charles Hickox, deceased, and against Lee and Hull and others. The complaint in that action was, that Burke and Hickox had in their hands, as directors of the Cleveland & Snow Fork Coal Company, certain moneys that belonged to the company, and that the company was under the control of Burke and Hickox as directors of the Cleveland & Snow Fork Coal Company, and that a prosecution on the part of the company could not be had for the reason that the company was entirely under the control of Burke and Hickox. The relief asked was that the stockholders might recover from Burke and Hickox the money that was due them from the company by reason of their being stockholders in the same. Larwill claimed to be such a stockholder and was found to be such; so were Lee and Hull; and it was found that the allegations above referred to in the petition were true. A judgment was rendered in favor of Larwill for the amount of his claim as found by the common pleas court against Burke and Hickox, and a like judgment was obtained by Lee and Hull. There was a contest in that action between Larwill and Lee, and also a contest between Larwill and Hull. Larwill claimed to be the owner of the stock which formed the basis of the claim of Lee against Burke and Hickox, and that was denied by Lee.
+The same was true as to the issue between Larwill and Hull. Those issues were determined severally in favor of Lee and Hull, and against Larwill. Hickox, as administrator, appealed. The corporation, the Cleveland & Snow Fork Coal Company, was a party to the action and it appealed. Larwill appealed as to the issues found against him, which issues were between himself and Lee, and himself and Hull.
+The case was brought into the circuit court by these appeals, and has been tried by the circuit court. In that trial the circuit court held that the case was of such nature that it was appeal-able, and it is not necessary at this time to say anything more upon that proposition, and it is not sought to have the court reverse itself as to that holding in this action.
+The questions to be considered here are, whether the appeal by Hickox, as administrator, and by the Cleveland & Snow Fork Coal Company, and by Larwill, one or all of them, brings up the ease as to the issues against Judge Burke.' The case is one against Burke and Hickox, as administrator, as joint obligors in such a manner that they are not separated in any manner by the pleadings or anything that was done in the case as to the other, unless it is the fact that Charles Hickox in his lifetime is said to have become liable jointly with Judge Burke for this money to the stockholders of the company, but that by his death and the appointment of his administrator, the obligations became separated and several, and that being true, the appeal by the administrator would not bring the action up as to Judge Burke.
+We are unable to agree with counsel, that the death of Hickox had any such effect as is claimed for it, and it is our opinion that the appeal of Hickox brought up the case as to Judge Burke as well as to himself.
+Larwill appealed, in which appeal he seeks to have the judgment obtained against him by Lee, as well as the judgment obtained against him by Hull, reversed and a different holding made. If that appeal brings up only Lee and Hull, and Lee and Hull are unable to obtain a judgment against Judge Burke, then Larwill can get none unless Burke is in the circuit court, for setting aside the judgment of Lee and Hull by the appeal would leave money in the hands of Burke and Hickox unappropriated so far as can be done by any adjudication; and it is that money that is sought to be reached by Larwill. It appears to us that in order to reach the money that was to be paid by Judge Burke on the part of Larwill, that Judge Burke must be here as the custodian of the money, whether as trustee or in any other capacity.
+Hence we conclude that the appeal of Larwill as against Lee and Hull brought up the subject-matter of their litigation, which was as to who was entitled to the money going to the person who should be held to hold the stock in litigation between them, and that the money can not be in the court without the persons who hold it are there,; and that, therefore, that appeal brought up all persons connected with the case so far as any questions in this action are concerned.
+The writ of mandamus is denied.
