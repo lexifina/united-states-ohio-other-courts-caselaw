@@ -1,0 +1,32 @@
+---
+court: "Lucas County Court of Common Pleas"
+decided: "1910-01-04"
+citations: ["9 Ohio Nisi Prius (n.s.) 396"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edward S. Baker, Executor, v. Emmet N. Hall."]
+source_url: "https://static.case.law/ohio-np-ns/9/cases/0396-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1540529
+cites_cases: ["1 O. S., 262", "20 Wend., 24", "28 O. S., 251", "41 O. S., 552", "55 O. S., 274", "81 O. S., 67"]
+---
+
+# Baker v. Hall
+
+## Majority (Johnson, J.)
+
+Johnson, J.
+This action was brought by the plaintiff, as executor of the estate of Hettie A. Hall, deceased, against the defendant, Emmett N. Hall, who is the widower of plaintiff’s decedent, upon a promissory note, dated in 1894. The petition follows the short form provided by statute. The defendant .answers that the note was without consideration. The reply denies the allegations of the answer.
+Evidence offered in behalf of plaintiff showed the custody of the note; Mrs. Hall in her lifetime placed the note with her attorney for collection; that the note had been included in an inventory of her estate; that she' had brought property into the family .and had, at and after the time of her marriage with defendant, assisted him through loans of money; and in this connection also a letter, written by defendant to the plaintiff in this action, enforced the other testimony with respect to the financial relations of the parties. The note sued upon, however, was not connected with any special advancement of money, nor with any occasion when the wife gave either money or property to her husband. The note itself was offered in evidence and the plaintiff relied upon the presumption of consideration attending the execution and delivery of the paper, without other evidence upon that subject than the circumstances and letter above alluded to.
+The defendant offered evidence tending to show that the note was executed and delivered as a part of a fraudulent plan and device to forefend a claim growing out of a lease which the parties, in 1894, anticipated would be asserted by a creditor of defendant. The evidence showed circumstantially the transaction as it was made between the parties, and if the testimony of Judge Commager be accepted, no consideration whatever passed between the parties at or about the execution of the note, as a part of this transaction. A chattel mortgage was drawn to accompany the note; and this mortgage, duly verified, was filed and refiled in the proper office until finally withdrawn. Testimony was also given showing conversations with various persons when Mrs. Hall was present, in which the existence of the note and its obligation were discussed. Mrs. Hall, the decedent, is said to have expressed surprise that the note could not be found, and, as testified to, she made no claim by virtue of the note nor did she challenge the assertion, made in her presence, that •the note was not enforcible.
+While it is apparent that some disagreement existed between Mr. and Mrs. Hall respecting their financial relations, and while Mrs. Hall can not present her version .of these transactions, yet considering all of the evidence that which supports the contention of the defendant preponderates over the presumption and supporting circumstances relied upon by the plaintiff. I conclude that there was no consideration for the execution and delivery of the note sued upon. This conclusion disposes of the action. Ginn, Admx., v. Dolan, 81 O. S., 67.
+But the labor and diligence of counsel in the presentation of the question as to the validity of the note made in fraud of creditors, and of the right to its enforcement by plaintiff here as against the maker, require an expression of opinion upon the matter.
+In passing it may be observed that the estoppel claimed by the plaintiff against the defendant was not pleaded. Some-doubt exists whether under the pleadings estoppel may be claimed. But, inasmuch ás the evidence relating to consideration introduced by defendant imported estoppel into the case without the pleadings, the defendant ought to be free to assert such rights as the facts first thus shown entitle him to. Schutz, Admr., v. Colvin, 55 O. S., 274, at p. 292; Bank v. Flour Co., 41 O. S., 552.
+In the case at bar, the syllabus in the case of Goudy, Admr., v. Gebhart, 1 O. S., 262, although the work of the reporter, expresses the law aplicable as follows:
+‘ ‘ No action will lie by the obligor against the obligee in a bond the consideration of which is a sale made by the former to the latter to defraud creditors; both of them having been guilty of the fraudulent intent.
+“In such case, proof of fraud may come from the defendant.”
+This case seems to settle the law in Ohio. Plaintiff urges; that the cause of action in that case arose upon a bond, while the case at bar rests upon a promissory note; that bonds are specifically mentioned in Section 4196, Revised Statutes of Ohio, while promissory notes are not thus mentioned; and that therefore, not being within the statute, the ease last above cited does- not apply. In the decision of the case Judge Thurman adopts the doctrine of the case of Nellis v. Clark, 20 Wend., 24. There the court held that at common law, wholly independent of the statute, no action would lie on a fraudulent note in favor of the payee or an endorser with notice. This was held upon the principle that a cause of action can not rest upon corrupt grounds. The eases of Nellis v. Clark and of Goudy, Admr., v. Gebhart seem to have been leading cases upon this subject and are cited and generally followed in other states.
+This distinction between executed and executory contracts must be observed in the case at bar. In Ohio, where an executory contract} fraudulent in its character, was partially executed by one party, the court refused to intervene in behalf of the’other party who failed to execute. Hooker v. DePalos, 28 O. S., 251,
+The authorities are fully reviewed in the ease of McCausland v. Bolston, Admr., 12 Nevada, 195. While all of the reported cases are not entirely in accord with the decision now made in the ease at bar, the weight of authority, as well as enlightened reason, support the conclusion reached.
+Counsel may prepare findings in accordance with this decision and submit them to the court, together with an entry of judgment to be approved by the court.
