@@ -1,0 +1,36 @@
+---
+court: "Hamilton County Court of Common Pleas"
+docket: "34905, 34906"
+decided: "1951-04-11"
+citations: ["60 Ohio Law Abs. 183"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE ex DAVIS, v. BROWN."]
+source_url: "https://static.case.law/ohio-law-abs/60/cases/0183-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1761269
+cites_cases: ["156 N. E. 214", "26 N. E. 2d 460", "36 N. E. 2d 808"]
+---
+
+# State ex rel. Davis v. Brown
+
+## Majority (By BADER, J.)
+
+OPINION
+By BADER, J.
+The complainant, Marie Davis, and the defendant, Moses Brown, are the same in both Cases Nos. 34905 and 34906 respectively. Both cases come before this court on similar pleadings, to wit: (1) Plea in Abatement; (2) Special Demurrer; and (3) Motion to Quash, filed by the defendant who presents as his reason therefor that the “prosecution or proceeding was commenced more than six years following the alleged commission of the offense” and that “prosecution is forever barred by reason of the provisions of §§11222, 11224, 11225 and 12381 GC.”
+In Case No. 34905 the affidavit sets forth among other statements that the complainant, Marie Davis, was delivered of a bastard child on the 15th day of December, 1943 and that Moses Brown is the father of that child.
+In Case No. 34906 the affidavit sets forth among other things that the complainant, Marie Davis, was delivered of a bastard child on the 22nd day of June, 1942, and that Moses Brown is the father of this child. Counsel for complainant and defendant are in accord in their contentions that bastardy proceedings are civil in nature and the court will not discuss this phase of the case.
+This action is brought by authority of §12110 GC, which reads as follows: “Complaint of unmarried woman. When an unmarried woman, who has been delivered of or is pregnant with a bastard child, makes a complaint in writing, under oath, before a justice of the peace, or in juvenile court charging a person with being the father of such child, ,the judge or justice thereupon shall issue his warrant, directed to any sheriff, police officer or constable of the state, commanding him to pursue and arrest such accused person in any county therein, and bring him forthwith before such judge or justice to answer such complaint.”
+At common law there was no remedy for the mother of a bastard child available. The putative father was not compelled to support or provide for his illegitimate children. That duty was imposed upon him by statute in the State of Ohio and was in full force and effect, at the time the children were conceived, when the children were born, and is still in full force and effect. This is in derogation of the common law and must be strictly construed. State ex rel. Griffin v. Zimmerman, 67 Oh Ap 272, 36 N. E. 2d 808: “[1] §12123 GC (117 Ohio Laws, 808), relating to the duties and obligations of an adjudged reputed father to his illegitimate child, is in derogation of the common law and must be strictly construed, and, there being no mention in this section of the reputed father’s responsibility for the expense incurred in the support of the child from birth to the adjudication establishing the child’s paternity, it is not error for a trial court to refuse to allow any amount for the support of the child during such period.”
+It appears to the court that the defendant cannot be made to pay for the support of an illegitimate child until he has been found to be the father of that child. He can only be made to pay for complainant’s support, maintenance and necessary expenses caused by pregnancy and childbirth, together with costs of prosecution and a weekly sum to be paid complainant for support and maintenance of said child from the date he is adjudged to be the father of that child to the time the child becomes eighteen years of age. There is nothing in the statute which provides that he can be made to pay for the child’s support from his or her birth until he is adjudged the father in bastardy proceedings instituted by authority of §§12110 to 12123 inclusive GC. See State ex rel. Beebe v. Cawley, 116 Oh St page 377, 156 N. E. 214; State ex rel. Griffin, v. Zimmerman, 67 Oh Ap 273, 36 N. E. 2d 808.
+In the case of State ex rel. Griffin v. Zimmerman, 67 Oh Ap on page 274, 36 N. E. 2d on page 809, the court said:
+“The Legislature, when it amended §12123 GC, in January, 1938, did not see fit to insert that the reputed father should support or pay for the support of the child from the date of its birth until the date of the adjudication establishing the paternity.
+“We therefore hold that the trial court was correct in not making any allowance for the support of the child from the date of its birth to the date of adjudication of its paternity.”
+The law in Ohio is silent as to when an action in bastardy may be commenced or whether it is subject to any Statute of Limitations. This is a mute question in this state. It has been held, however, in Sullivan v. Wilkoff, 63 Oh Ap 269, 26 N. E. 2d 460, in syllabus 2 as follows: “The only action provided by the statutes of Ohio whereby the mother may institute proceedings against the father of an illegitimate child is found in §12110 GC, which action may be maintained only by an unmarried woman.”
+Sec. 12110 GC provides that “When an unmarried woman, who has been delivered of or is pregnant with a bastard child, makes a complaint” as provided for in that section the defendant will be brought before the Judge of the Juvenile Court or a Justice of the Peace to answer the complaint.
+It does not appear to this Court that the Legislature intended that there should be a limited time within which a putative father could be charged with bastardy under §12110 GC and subsequent sections of the General Code.
+It appears to this Court that the prime purpose of the bastardy statutes in the State of Ohio is to determine the paternity of the child so that responsibility for its support and maintenance after that determination has been made may be properly placed. The question of the expenses caused by pregnancy and childbirth and support, maintenance and necessary expenses for the complainant during that period is only secondary. The obligation to pay for the items listed in §12123 GC, including the support and maintenance of the child until he or she shall become eighteen years of age, is not placed and does not begin until the defendant is found to be the father of the illegitimate child.
+It is the opinion of this court that, while bastardy proceedings are civil in nature, it was not intended by the legislature that the Statute of Limitations having to do with other civil causes of action, should apply to causes instituted under §12110 GC and that bastardy proceedings may be instituted by authority of §12110 GC at any time an unmarried woman, who has been delivered of or is pregnant with a bastard child makes a complaint in accordance with the provisions of that section. ,
+The court is further of the opinion that the plea in abatement, the special demurrer and the motion to quash are not well taken and the same should be denied and overruled.
