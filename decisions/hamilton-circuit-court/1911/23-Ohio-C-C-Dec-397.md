@@ -1,0 +1,38 @@
+---
+court: "Hamilton Circuit Court"
+decided: "1911-11-25"
+citations: ["23 Ohio C.C. Dec. 397"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Smith, Swing and Jones, JJ.", "Smith' and Swing, JJ., concur."]
+parties: ["Louis J. Dolle, Tr., et al. v. Thomas R. Roberts et al."]
+source_url: "https://static.case.law/ohio-cc-dec/23/cases/0397-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 638406
+---
+
+# Dolle v. Roberts
+
+## Majority (JONES, J.)
+
+JONES, J.
+On June 29, 1909, the defendant, Thomas R. Roberts, conveyed to plaintiff, as trustee, property valued at about $40,000 t'o be held in trust for the wife and children of said Thomas R. Roberts, the wife, Anna R. Roberts, to have the net income from same during her life, or until her re-marriage, in which latter event the income will go to a minor son, Thomas W., until he becomes of age. Upon her death, or (in case of her re-marriage) upon the son’s becoming of age, said property will go, absolutely, to the four children.
+This arrangement and settlement was reached after the filing of an action for alimony in the insolvency court of Hamilton county by Mrs. Roberts on or about May 31, 1909, in which cause Mr. Dolle represented the plaintiff as attorney.
+At the time said action was brought, Mrs. Roberts agreed in writing to pay Mr. Dolle 20 per cent of such sum as might be ordered paid to her as alimony in said cause, the parties to said agreement evidently contemplating that whatever sum should be received by her would be in gross or as commonly called a “lump sum.” This, Dolle, as her attorney, insisted upon in the early negotiation for a settlement and Mr. Roberts, by his attorney, Mr. Pyle, was equally or more insistent that a trust fund should be set aside for her and the minor son, they to use and enjoy the income tnerefrom.
+This latter plan was ultimately agreed upon and thereupon at the instance of Mr. D611e a new agreement was entered into as to attorney fees, which-provided that the former agreement should be canceled and that Dolle should receive for his services 15' per cent “of the market value of any and all real estate, money, securities or other personal property which he. may succeed in having conveyed or transferred by the said Thomas R. Roberts, in trust for the' benefit of said Anna Roberts or Thomas R. Roberts, or either or both of them during their life or lives, and thereafter the principal sum to be paid or delivered to their children, the said commission to be paid rout of the principal fund so conveyed or transferred immediately upon the delivery thereof, to the said trustee or trustees; :and the said trustee or trustees of said fund-, or either of them, is hereby authorized to pay to the said Louis J. Dolle upon demand a sum equal to 15 per cent of the total value of all property which the said Thomas R. Roberts may hereafter convey to him or them or either of them in trust as aforesaid.”
+This agreement bears date of June 16, 1909, and is signed by Louis J. Dolle, Anna Roberts, Stella Roberts, Mae Browning, Florence Roberts and by Thomas W. Roberts, a minor, by Anna Roberts, his natural guardian.
+The instrument of June 29, creating the trust and setting forth its terms and conditions and signed by the husband, Thomas R. Roberts, contains in Art. 7, the following direction to the trustee:
+“The said trustee shall # ■* * pay and discharge the court costs and fees due Louis J. Dolle for services rendered and expenses incurred by him in the action of the said Anna Roberts against Thomas R. Roberts for alimony * * ■* and for this purpose he is authorized to sell a sufficient amount of said securities and other personal property to pay the same. ”
+It is for a construction of the above paragraph that this petition is filed by the trustee, he claiming, out of the trust fund 15 per cent of the market value of all property held by him as trustee, being as he contends, the “fees due” him under his contract of June 16 with Mrs. Roberts and the children and amounting to $5,964.15.
+Objection to this charge is made by Mr. Roberts and other beneficiaries of the trust, it being urge,d that Dolle is only entitled to charge the reasonable value of his services without reference to any agreement he may have had with his clients.
+It is conceded that at the time he signed the trust instrument Thos. R. Roberts had no knowledge of the contract for fees existing between Mrs. Roberts and her attorney by which the latter was to receive a contingent fee of 15 per cent.
+Such being the case, we do not see how the trustee can recognize said contract, as he only has- such powers as are conferred upon him expressly by the trust instrument and such as are necessarily implied. The creator of the trust having had no information as to any special contract for fees, it is not reasonable to suppose that he contemplated such an agreement when providing for the payment of fees. On the contrary, the presumption is that he had in mind only such fees as would fairly compensate the attorney for services rendered, fixed under the conditions then surrounding the parties at a time when he was making provision to safely secure and pay same, rather than a fee fixed at an earlier date when its ultimate receipt depended and was contingent upon the success of a proceeding in court, and the recovery and satisfaction of judgment.
+• We are of the opinion, therefore, that the word “fees” in Art. 7 of the trust instrument relates in no way to the contract of June 16; that under the terms of Art. 7, Mr. Dolle is entitled to be paid out of the trust fund the value of his services; that all the services on the part of Dolle and his associate counsel, including the negotiations for and preparation of the trust instrument, were rendered in the alimony proceeding and in effecting a settlement thereof.
+All parties to this cause have united in a request that the court proceed to fix the fees due Mr: Dolle in the event of the above finding. After careful consideration of the question we are of the opinion that there should be paid to him the sum of $2,500 dollars for legal services, provided that upon payment to him of said amount he relinquish all claims for attorney fees against Mr. and Mrs. Roberts and their children.
+The trustee, in his account, a copy of which is attached to the petition herein, credits himself with $828.24 paid out for the benefit of Mrs. Roberts and children prior to June 29, 1909, or paid upon obligations incurred prior to that date. It is claimed that the items making up this amount are properly chargeable to the trust fund under “expenses” as provided in Art. 7 of the agreement above quoted.
+The following items should be eliminated from said account as not being embraced within said provision: 1909, June 2, $185.85; June 10, $8; June 14, $2.25; June 15, $14.95; June 15, $1.65; June 30, $1.50; June 30, $1.90; total $216.10.
+No question is raised but that all the items were paid by Dolle. and the payments appear to have been made 'in good faith. Hence, we have resolved doubt as to several in his favor and allow the remainder of the account, to wit, $612.33.
+These amounts have.been fixed with the idea and upon the theory that they should be accepted in full satisfaction of the respective claims upon which they are based.
+We find no evidence in the entire transaction of any fraud on the part of Mr. Dolle, as attorney, or in his capacity as trustee.
+Smith' and Swing, JJ., concur.
