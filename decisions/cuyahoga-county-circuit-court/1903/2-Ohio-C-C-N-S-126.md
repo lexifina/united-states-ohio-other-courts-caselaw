@@ -1,0 +1,33 @@
+---
+court: "Cuyahoga County Circuit Court"
+decided: "1903-11-23"
+citations: ["2 Ohio C.C. (N.S.) 126"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Winch, J.; Hale, J., and Marvin, J., concur."]
+parties: ["City of Cleveland v. Michael Wolf."]
+source_url: "https://static.case.law/ohio-cc-ns/2/cases/0126-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1793967
+cites_cases: ["61 O. S., 298"]
+---
+
+# City of Cleveland v. Wolf
+
+## Majority
+
+On tbe 15th day of November, 1899, the City of Cleveland was engaged in laying water pipes on Kirtland street, in said city, which pipes were lowered into a trench dug for that purpose, by means of a derrick placed over said trench. Michael Wolf was on that day in the employ of said city, his duty being to assist in putting the pipes in proper position after they were lowered in said trench, and to make the joints water tight. While he was at the bottom of said trench engaged in the performance of his duties, he was injured by a portion of the west wall of said trench falling in upon him.
+He brought suit against the city, alleging the weak and unsafe condition of said west wall at the particular place where lie was injured where stood a telegraph pole, which he says the city knew, or by the exercise of ordinary care ought to have known, but which was to him unknown; the failure of the city to brace or timber said trench so as to prevent said wall from caving in; the failure of the city to notify him of the danger to which he was exposing himself while performing his duty. Another allegation of the petition I will give in its exact language :
+“The defendant’s foreman then in charge of the work, and whose orders and commands plaintiff was bound to obey, peremptorily ordered plaintiff to descend into said trench; * # # in obedience to defendant’s order, by its agents and servants whom he was bound to obey, and not knowing the weak and dangerous condition of said trench wall at or near said pole, and having neither time nor opportunity to examine said wall before going into the trench, he descended into said trench at or near the socket end of the pipe, to which the pipe lowered as aforesaid was to be joined, and where plaintiff was to perform his duty; the trench near said socket was apparently in safe condition,” etc.
+The city answered, denying all averments of negligence on its part, and alleging contributory negligence on the part of Wolf.
+Trial upon the issues resulted in a verdict and judgment for the plaintiff.
+To reverse this judgment, petition in error has been filed in this court, alleging, among other things, that the charge of the trial judge was erroneous. Attention is called to the following part of the charge:
+“It was the duty of the plaintiff in this action to exercise ordinary and reasonable care for his own safety, and if he failed to do so he would be negligent, and if such negligence on his part directly contributed to cause the injuries complained of, he can not recover in this action. But I say to you, that if you find from the testimony that the plaintiff was ordered by one of the defendant’s foremen to go into the trench at the time he was injured, he would not be negligent by reason of obeying such order, unless the danger of so doing was so obvious that a man of ordinary prudence would not have exposed himself to it; and I further say to you, that unless the plaintiff knew, or by the exercise of ordinary care ought to have known, that by reason of the character of the soil where the trench was dug, or by reason of the proximity of the telegraph pole to the ditch, there ivas danger of earth falling upon persons who might be in said trench, he is not chargeable with negligence in going into said trench at the time he went therein.” '
+This part of the charge was warranted by the allegations of the petition above quoted ( Van Duzen Gas & Gasoline Engine Co. v. Schelies, 61 O. S., 298), but it was not applicable under the evidence produced at the trial, and was, therefore, misleading.
+There was no evidence produced showing that Wolf was peremptorily ordered into the trench at the time he was hurt. He himself says, upon cross-examination, that he always knew his duty and went down into the trench without being told, and that the pipe was put in the trench that day in the same way and in the usual manner of putting pipes in trenches.' Wolf had worked for the city twelve or thirteen years, the first five or six years in digging water pipe trenches, and the remainder of the time in putting water pipes in position at the bottom of the trench and connecting them together, the very things he started to do when he was injured. While he says that one •Henry Benedig, assistant foreman on the job, told him to go down into the trench, it appears Benedig preceded Wolf therein, and Wolf descended into the ditch at the proper time, in the usual manner, and to perform his usual and ordinary duties. It is apparent that Wolf, at the time he was injured, went into the ditch pursuant to the general orders all servants may be said to receive from their masters that they do their work at the proper time and place, and not pursuant to any special or peremptory orders given him at the time, or any orders different from the orders he had received many times a day for many years.
+The reason the charge is misleading is because the trial judge failed to define the kind of order which would relieve Wolf from the thought, care and scrutiny which he was bound to exercise while engaged in his ordinary duties in an occupation which had in it certain elements of danger which he assumed when he engaged in it. It permitted the jury, having found that Wolf had general orders to go into the trench each time a pipe was lowered into it, to conclude that “he would not be negligent by reason of obeying such orders, unless the danger of so doing was so obvious that a man of ordinary prudence would not have exposed himself to it.” Such can not be the law; it ignores the rule of assumed risk.
+Newton D. Baker and C. J. Estep, for plaintiff in error.
+Hermann Preusser, for defendant in error.
+The proper rule in eases like this is set forth by the Supreme Court in the recent case of The Northern Ohio Ry. Co. v. Seth Rigby, Ohio Law Reporter, January 11, 1904, page 755. The latter ease distinguishes the Van Luzen case above referred to, 61 O. S., 298.
+Judgment reversed.
