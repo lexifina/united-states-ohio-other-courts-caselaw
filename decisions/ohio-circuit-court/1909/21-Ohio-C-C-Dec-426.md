@@ -1,0 +1,28 @@
+---
+court: "Ohio Circuit Court"
+decided: "1909-01-16"
+citations: ["21 Ohio C.C. Dec. 426"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Wildman and Kinkade, JJ.", "(Parker, J., not sitting.)", "Kinkade, J., concurs."]
+parties: ["In re Vacation of Part of Michigan Street, Toledo."]
+source_url: "https://static.case.law/ohio-cc-dec/21/cases/0426-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1646453
+---
+
+# In re Vacation of Part of Michigan Street
+
+## Majority (WILDMAN. J.)
+
+WILDMAN. J.
+Case No. 2212 is entitled, In the Matter of the Vacation of Michigan Street. It is a somewhat peculiar title for a proceeding in error, which this is. An application was made in the court of common pleas under Sec. 2655 (Lan. 3940; B. 1536-148) of the Revised Statutes to vacate that part of Michigan street extending from Cleveland street to Troy street in the northern part of the city of Toledo. The application was refused by the court below, and to reverse the judgment of dismissal, ©f the petitioner’s application, this proceeding was instituted here.
+"We have in the statute alternative proceedings for ..the vacation of streets. Section 2655 provides for the seeking of the vacation of the street by a proceeding in the court of common pleas, the remedy being by the section of the statute made cumulative to like procedure before the municipal body, the city council, as provided in Sec. 2652 (Lan. 3337; B. 1536-145) Rev. Stat. The present proceeding in the court below was based upon Sec. 2655, which reads as follows:
+“On petition filed in the court of common pleas by any person owning a lot in any city or in an incorporated or unincorporated hamlet •or village, for the establishment or vacation of a street or alley in the immediate vicinity of such lot, the court, upon hearing, and being satisfied that it will conduce to the general interests of such city, hamlet, or village, may declare such street or alley established or vacated; but the remedy shall be in addition to those prescribed in this title.”
+The present proceeding was started by what is known as the Toledo Boiler Works Company, which owned property on both sides of the part of the street sought to be vacated. The claim is made that the evidence disclosed in the court below was sufficient to require the court, proceeding under this statute, to vacate this part of the street.
+The statute requires as a prerequisite to the vacation of a street that the court shall be satisfied that such vacation will conduce to the general interests of the municipality. Until so satisfied the court should refuse its judgment in favor of the petitioner.
+It appears that this part of the street named has received no improvement at the hands of the city; that it is in a marshy region, the part of the street referred to being not directly upon marshy land or across it, but closely adjacent to it; and perhaps it sufficiently appears that at the present time there is no very practical demand for the use ■of this street by the public. The court, however, is not altogether apprised of the general purposes and plans of the city in the extension of its avenues, its thoroughfares, its streets and alleys. It is something like a condition which may arise where a city under the authority given by law establishes a general system of sewerage, and works towards it, making sewers from time to time according to the necessities of the public and the means available. To say that such a plan should be abandoned because there are no present means for the carrying out of some of its details, might be an interference with wise action of the municipal body.
+The claim is made here in behalf of this application that it will be •conducive to the general interests of the city to vacate this street because it is in a locality where it is of no special use to the traveling public or to adjacent property; that it is an ideal spot for the establishment of such factories as the one owned by this applicant, the Toledo Boiler Works Company, and that it is to the interest of the city to encourage manufacturers. It may be altogether true that it is to the general interest of the city to encourage them. It is not made to appear to us, however, by the record before us, nor was it, apparently, to the court below, that any-general interest of the city of Toledo would be subserved by maintaining this particular spot of ground as a place for the putting up of factory buildings or the maintenance of a manufacturing plant, nor does it appear that if the street is not vacated the factory will be lost to the city in any way. There seems to be an abundance of territory owned and controlled by the Toledo Boiler Works Company for the maintenance of their plant without their intruding upon the territory comprised within the street boundaries. There was much plausibility in the arguments made to us by counsel for the applicant, the present plaintiff in error, but we have not been able to arrive at the conclusion that the evidence adduced upon the hearing in the court below is of such character as to make it manifest and clear that the court should have been satisfied that the public interests would be subserved by the vacation of the street.
+Our judgment, therefore, is that the order dismissing the plaintiff’s application be affirmed at the costs of the plaintiff in error.
+Kinkade, J., concurs.
