@@ -1,7 +1,8 @@
 ---
 court: "Clark County Probate Court"
 decided: "1898-08"
-citations: ["5 Ohio N.P. 449", "5 Ohio N.P. 453"]
+decided_precision: "month"
+citations: ["5 Ohio N.P. 449"]
 reporter: "ohio-np"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["WM. S. THOMAS et al. v. THE BOARD OF COUNTY COMMISSIONERS & W. W. WIL
 source_url: "https://static.case.law/ohio-np/5/cases/0449-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1527959
-cites_cases: ["1 O. C. C., 130"]
 ---
 
 # Thomas v. Board of County Commissioners
