@@ -1,0 +1,48 @@
+---
+court: "Cleveland Municipal Court"
+docket: "2127"
+decided: "1943"
+citations: ["39 Ohio Law Abs. 554"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CLEVELAND (City), Plaintiff v. TUSSEY, Defendant."]
+source_url: "https://static.case.law/ohio-law-abs/39/cases/0554-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1719477
+cites_cases: ["307 U. S. 496"]
+---
+
+# Cleveland City v. Tussey
+
+## Majority (By McDERMOTT, J.)
+
+OPINION'
+By McDERMOTT, J.
+The defendant herein named has been arrested and charged with a violation of the aforesaid Municipal Code of the City of, Cleveland.
+That particular ordinance says:
+“The parks are constructed and maintained for the use of the public at large and shall be opened daily to all citizens on absolutely equal terms and none shall- be given special privileges therein, or be permitted to make use of them for any purpose not practically common to all and not in consonance with the proper use of the park: ‘To that end no person shall have or give any musical, theatrical or other entertainment nor shall any military society or other parade, procession, public gathering or meeting of any kind, take place in "any of the parks, and no person shall in any of the said parks or in any refectory, restaurant, building or place on the same, solicit fares, or beg or publicly solicit subscriptions or make any oration, harangue, demonstration or address; nor shall the speaker’s stand be used, except upon the written permission of the director of parks and public property.’ ”
+Pursuant thereto the defendant is specifically charged with unlawfully and wilfully making an oration and address in a public park of the City of Cleveland, to wit: in Gordon Park without a written permission of the director of parks and public property, on or about the 14th day of August, 1943.
+To all of which the defendant has entered a plea of not guilty and has demanded a trial of said cause before a jury, which said request has been allowed by this court.
+The defendant herein as a matter of law prior to the impaneling -of a jury to try the cause and immediately thereafter after opening statements to said jury by counsel for both the City of Cleveland and the defendant has requested the court by motion to dismiss the proceedings and quash the affidavit therein for the reason that the ordinance under color of which the defendant was about to be tried was unconstitutional on its face and under the terms of its enforcement because of the rights guaranteed to this defendant by the Constitution of the State of Ohio and the Constitution of the United "States of America and more particularly because of the decision of the Supreme Court of the United States in.the case of Hague, Mayor of Jersey City, etc. v. Committee for Industrial Organization et, 307 U. S. 496 to page 533, specifically referring to syllabus No. 7 therein which is as follows:
+“A municipal ordinance requiring the obtaining of a permit for a public assembly in or upon the public streets, highways, public parks or public buildings of the city and authorizing the director of public safety, for the purpose of preventing riots, disturbances, or disorderly assemblage, to refuse to issue a permit when after investigation of all the facts and circumstances pertinent to the application he believes it to be proper to refuse such a permit is not a valid exercise of the police power.”
+This court does not believe that the decision of the United States Supreme Court in the Hague case meant to completely wipe out the validity of such an ordinance as we have herein in the City of Cleveland. Rather this court feels that the Supreme Court meant if a city adopted the policy of providing an adequate number of places similar to Hyde Park in London, to be used exclusively for outdoor meetings, it might constitutionally close both its streets and ordinary parks to such meetings if in the judgment of the city authorities, the requirements of traffic and recreation made this'^advisable. . .
+This court further is mindful of the language of the Supreme Court in the Hague case “Wherever the title of streets and parks may. rest, they have immemorially been held in trust for the use of the public, and, time out of mind, have been used for purposes of assembly, communicating thoughts between citizens, and discussing public questions and such uses of the streets and public places has from ancient times been a part of the privileges, immunities, rights and liberties of citizens. The privilege of a citizen of the United States to use the streets and parks for communication of views on national questions may be regulated in the interest of all; it is not absolute, but relative and must be exercised in subordination to the general comfort and convenience and in consonance with peace and good order; but it must not in the guise of regulation be abridged or denied.”
+. This court acting on and following the interpretations expressed by the United States Supreme Court in the Hague case has reserved its rulings on the motions heretofore presented by the defendant and has allowed the City of Cleveland to present all of its evidence as to the alleged violation of the defendant as charged. Whereupon the city having rested its case and the defendant having renewed its motions the court finds these facts and evidence before it on behalf of the City of Cleveland’s case against the defendant. The ordinance involved was passed by the council of Cleveland on December 11, 1918. The ordinance has never been enforced, nor tested in the courts of this state.
+On the 25th day of November, 1912, the council of the City of Cleveland by resolution set aside the northwest section of Public Square of said city as a forum for public discussion and for artistic purposes.
+The availability of such a place in Cleveland was in the common and public knowledge of all citizens including this defendant and for a long time prior to and up to and including the date of the alleged violation herein.
+At the time of the original designation of this place, the City of Cleveland proper could not have had a population of over one half its present population which roughly is that of a million people.
+At that time there were three rostrums for the use of public addresses there. Today and for some time prior to this alleged violation there was only one rostrum available for public addresses. During the past two or three years and anyway before the date of this alleged violation there have been erected on this designated place a War Service Center Building and also a children’s play ground.
+The defendant is an organizer for the Socialist Labor Party. He made two written requests on behalf of his organization to conduct a series of outdoor meetings in the public parks of Cleveland, Ohio.
+His requests were refused by the Director of Parks of the city after due deliberation and the defendant was told of the designated place in the public square of the City of Cleveland.
+It is further in evidence that the City of Cleveland maintains a large public hall at public expense but fees are charged for the rental of said hall and its rooms which may be far in excess of what an ordinary individual or a small group might be able to pay. The City of Cleveland in territory embracing is one of the actually big cities of the United States and it has. innumerable city parks embracing in territory many, many hundreds of acres.
+There is no question but what the defendant made, an address such as he is charged with in spite of the fact that he was refused permission by the Director of Parks of the City of Cleveland ás he is so charged.
+It is further a fact that the City of Cleveland has never interfered with anyone making an address or oration in the place designated by resolution as the northwest corner of the Public Square of Cleveland, Ohio.
+The evidence introduced also shows that the City of Cleveland has never refused nor given written or oral permission for a public oration or address to be given in the city parks of Cleveland such as is mentioned in the ordinance involved.
+The evidence of the city further shows that public addresses and orations are the most common of events in all of the city parks and that this has been a true fact for many, many years without any restrictions or interference from past or present city authorities.
+These have been in conjunction with the activities of innumerable of the city’s cultural, patriotic and civic troups and by both present and past political, civic and public figures of fame and renown or of lesser public status.
+There was nothing disturbing or of any annoying nature in the address made by this defendant on the occasion mentioned. Nor was there any other interference of any kind or description inconsistent with the rights of the public in the public parks on that date.
+From all of this in ruling on the motion, the court must take notice that on the date mentioned herein, the City of Cleveland had not adequately complied with the constitutional requirement of providing for freedom of assembly and of speech and that the refusal of the city director of parks to grant a permit to the defendant under the circumstances- involved as described in the city ordinance was an arbitrary infringement of his constitutional rights and not a valid exercise of police power, in the guise of regulation which cannot be countenanced in view of the provisions of the state ana federal constitutions and the law set down in the Hague case.
+Motion granted.
+Defendant .discharged.
+Bond cancelled.
