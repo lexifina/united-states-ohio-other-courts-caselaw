@@ -1,0 +1,35 @@
+---
+court: "Montgomery County Court of Common Pleas"
+docket: "126035"
+decided: "1967-01-26"
+citations: ["19 Ohio Misc. 125"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lough et al. v. Varsity Bowl et al."]
+source_url: "https://static.case.law/ohio-misc/19/cases/0125-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1438758
+cites_cases: ["119 Ohio App. 9", "119 Ohio St. 94", "173 Ohio St. 239", "73 Ohio App. 339", "86 Ohio App. 73"]
+---
+
+# Lough v. Varsity Bowl
+
+## Majority (Marttn. J.)
+
+Marttn. J.
+This cause comes first before the court on the motion of plaintiffs for judgment in their favor on the pleadings.
+This is an appeal from the final decision of the appellate body of the American Bowling Congress from a hearing hold in Springfield, Chirk County, before officers of the Clark County Bowling Association affiliate of A. B. C.
+The procedure followed by the American Bowling Congress in such organizational hearings is prescribed in the 1963-64 constitution, specifications and rulings thereof. The final appellate decision of said body denied plaintiffs the right to participate in howling prize money awarded through competition in which plaintiffs participated during the Dayton Journal Herald National Industrial Dowling Tournament hold in Dayton, Ohio, in 1964.
+The principal basis of the decision was a disqualification of one .Terrv Shaffer, a member of plaintiffs’ team, on the grounds that his prize monev winnings of prior vears was not reported to the tournament official* in coninnetion with the entrv form of Jerry Shaffer, and that such failure deprived the director of the tournament, defendant Harry Zavakos. of the opportunity to determine whet tier or not Shaffer’s nverncp should he re-rated and that therefore under rule 3fl6('e), last paragraph, such failure bistified the disnmalifieation and llie forfeiture of what otherwise would have been the prize winnings of plaintiffs arising from a tie for first place.
+Plaintiffs ehnim in support of their motion for judgment that the pleadings clearly show (hat ride 32 of (lie constitution, specifications and rides of the American Bowling Congress require that the complain! made hv defendant, TTarrv Zavakos. residling in plaintiffs’ disqualification as a team shmdd have been made and was not made within 72 hours after plaintiffs’ games were howled. That as a result the final decision of the American Bowling Congress was capricious and arbitrary as a protest was not made within the time limited hv rule 32.
+After review of the 1963-64 specifications and rides of the American Bowling Congress, as applied to the facts in Ibis case, including specifically the language of ride 32, and ahso a review of the trnnsevint of the hearing and testimony taken before the Clark Conntv Bowlin" Association on January 16 and 16 1066. titled “Tn re: Jerry L. Shaffer,” plus the stipulations of counsel, and the affidavits filed herein, we are of the opinion that rule 32 is not applicable to and does not govern the facts of this case as they relate to the ruling of Harry Zavakos as tournament manager and the disqualification of plaintiffs, and that consequently the failure on the part of defendants to protest the eligibility of plaintiffs’ claims because of the 72-hour limitation under Rule 32 could not in and of itself constitute the basis for a finding that the findings and decisions of the American Bowling Congress were an abuse of discretion or arbitrary and capricious.
+It is clear that the action of Harry Zavakos in ruling that plaintiffs were disqualified did not constitute a “protest” within the moaning of said rule 32, as no infraction occurred in a “game.”
+Plaintiffs’ motion for a judgment on the pleadings will, therefore, be overruled.
+This cause comes on further before the court on the motion of defendants herein to dismiss this cause for the reason that this court does not have jurisdiction or should not take jurisdiction of the subject matter involved.
+The first ground alleged in support of defendants’ motion is that the American Bowling Congress had exclusive and final jurisdiction to determine the controversy heroin through its own organizational procedure. The second and third grounds of said motion, which are interrelated and may be treated as one, were that since all necessary and proper parties have not been made parties to this suit, this court, even if it has jurisdiction, could not fully and finally resolve this controversy in this action.
+With relation to the first ground, plaintiffs claim that since the controversy between the parties involving whether or not plaintiffs are entitled to a share of the prize money concerns the property rights of the plaintiffs, they have a right to appeal to the court having jurisdiction without regard to whether or not the finding and decision of the American Bowling Congress is unreasonable, arbitrary, capricious or oppressive.
+After an examination of the text and case law of Ohio cited by counsel for parties plaintiff and defendant, we are of the opinion that even though property rights are involved, it is necessary for plaintiffs to allege and prove that the action of the American Bowling Congress was also unreasonable, capricious or arbitrary. International Union etc. v. Owens, 119 Ohio St. 94 ; State, ex rel. Ohio High School Athletic Assn., v. Judges, 173 Ohio St. 239 ; Robbitt v. Cleveland etc. Ry. Co., 73 Ohio App. 339 ; Heunekes v. Maupin, 119 Ohio App. 9 ; Gallagher v. Harrison, 86 Ohio App. 73, 76.
+We find no legal support in Ohio for plaintiffs’ contention that where a property right is involved no abuse of discretion or arbitrary action need be shown. This is not a case where title to an office is in dispute, although property rights are involved.
+Since it appears from the pleadings, the evidence and the exhibits submitted to the court that plaintiffs, particularly Jerry L. Shaffer, were given a fair hearing in accordance with the constitution, specifications and rules of the American Bowling Congress, and since there was no allegation in plaintiffs’ petition and amended reply tending to claim fraud, collusion, arbitrariness or capriciousness, and since rule 32 was and is not applicable to the facts of this case, we are of the opinion that this court should not interfere with the decisions of the American Bowling Congress for the reason that the procedure provided by the constitution, specifications and rules (1964) of the American Bowling Congress were consistent with due process of law as interpreted judicially. We find, therefore, that defendants’ motiou to dismiss this suit should be sustained on the grounds that the court should not take jurisdiction of this suit, and that consequently the court has no jurisdiction thereof. Such ruling makes it unnecessary for the court to pass on the second and third grounds of said motion, although such grounds are probably well taken.
+Defendants’ motion to dismiss sustained.
