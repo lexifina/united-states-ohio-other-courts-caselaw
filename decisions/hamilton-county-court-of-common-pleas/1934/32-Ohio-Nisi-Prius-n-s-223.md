@@ -1,0 +1,48 @@
+---
+court: "Hamilton County Court of Common Pleas"
+decided: "1934-03-17"
+citations: ["32 Ohio Nisi Prius (n.s.) 223"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McCullough Seed Co. v. Tax Commission of Ohio, et al."]
+source_url: "https://static.case.law/ohio-np-ns/32/cases/0223-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1571784
+cites_cases: ["188 Ky., 570", "41 O. S., 691"]
+---
+
+# McCullough Seed Co. v. Tax Commission
+
+## Majority (Darby, J.)
+
+Darby, J.
+There is but one question involved in this case, i.e., Does the plaintiff in error come within the meaning of Section 5381, General Code, which defines a merchant for the purpose of listing personal property for taxation? That section provides as follows:
+“A person who owns or has in possession, or subject to. his control, personal property within this state, with authority to sell it, which has been purchased either in or out of this state, with a view to being sold at an advanced price or profit, or which has been consigned to him from a place out of this state, for the purpose of being sold at a price within this state is a merchant.”
+The defendant in error claims that the plaintiff in error is a merchant within that statute, and therefore liable to list its property according to the rules provided for merchants. On the other hand, the plaintiff in error claims that it comes within the meaning of Section 5385, General Code which defines a manufacturer as follows:
+“A person who purchases, receives or holds personal property, of any description for the purpose of adding to the value thereof, by manufacturing, refining, rectifying, or by the combination of different materials with a view of making a gain or profit by so doing, as (is) a manufacturer, and, when he is required to make and deliver to the assessor a statement of the amount of his other personal property subject to taxation, he shall include therein the average value estimated, as hereinafter provided, of all articles purchased, received or otherwise held for the purpose of being used, in whole or in part, in manufacturing, combining, rectifying or refining, and of all articles which were at any time by him manufactured or changed in any way, either by combination or rectifying, or refining or adding thereto, which, from time to time, he has had on hand during the year next previous to listing day annually, if he has been engaged in such manufacturing business so long, and if not, then during the time he has been so engaged.”
+Statutes substantially the same in the definition of merchant and manufacturer, were under consideration in Engle v. Sohn, 41 O. S., 691, in the consideration of which the court on p. 694 say:
+“In both definitions there is the common element of purchasing personal property, with a view of making a gain or profit. But the definition of a manufacturer contemplates the attainment of such object by adding to the value of the property after purchase, by some process or combination with other materials, while the merchant is supposed to get his advanced price or profit by selling the article as it is, without subjecting it to any change by hand, by machinery, or by art. The material entering into the manufactured article may be modified, more or less, in its identity, as it passes through the several stages of a manufacturing process; but the merchant deals in the manufactured article itself, or its constituents, by buying and selling them in the same condition in which he purchases them. His business is that of exchanges, and not of making or fabricating from raw materials.”
+It was laid down in that case that—
+“A person who purchases and slaughters hogs, for the purpose of adding to the value thereof by certain processes and combination with other materials — whereby they are converted into bacon, lard and cured meats, — with a view of making a gain or profit thereby, is a manufacturer and taxable, as such, under Section 2742 of the Revised Statutes.”
+Do the facts in this case bring the plaintiff in error within the definition of merchant as interpreted by the court in the last mentioned case?
+The transcript shows that the plaintiff in error is a dealer in seeds; that it buys them in bulk from the farmers as the seeds come from the threshing machine; that the bulk as purchased by the plaintiff in error consists of a mass of seeds, weeds, chaff and dirt. This mass in its state in which the plaintiff in error receives it, may not be sold under the laws of Ohio, or shipped under the Federal law as seed. It seems that its only use as received would be for feeding purposes, but it could not be used otherwise.
+The plaintiff in error has a large plant in which many processes are employed, great quantities of machinery used and expert employees are engaged for the purpose of separating the seed from the bulk of material which is delivered at the plant of the plaintiff in error; the waste matter is hundreds of thousands of pounds yearly..
+The plaintiff in error does not and cannot sell and dispose of the seed as it comes to its plant. The processes referred to above, are absolutely essential before the seeds may be packed, labeled and put upon the market. Much time and labor is necessary to the separation of the seed from such chaff, noxious weed seeds, weeds and dirt.
+The plaintiff in error does, not deal in seeds by “selling them in the same condition in which he receives them”.
+Laboratory tests are engaged in, by the plaintiff in error, to determine the fertility of the seed.
+The defendant in error very frankly admits that the seeds as received by the plaintiff in error are put through the various processes above stated, and that the laboratory tests, etc., are used for the purposes named, but its claim is that, notwithstanding all the processing and separation which is required in the handling of the bulk as received by the plaintiff in error, and the vast amount of work necessary to separate the good seed from the bad and the other deleterious material present, that the "plaintiff in error is not within the definition of a manufacturer which it claims for the purposes of its return for taxation.
+Though there may be some reasonable contention that the plaintiff in error is not strictly within the definition of a manufacturer, it is clear to the court that it is not within the definition of a merchant as interpreted in Engle v. Sohn, supra.
+The legislature had some very definite purpose in the use of the language it employed in defining a manufacturer. Had it said “manufacturer” and that only, there would have been more reason in the claim of the defendant in error, but the definition is—
+“A person who purchases, receives or holds personal property of any kind for the purpose of adding to the value thereof by manufacturing, refining, rectifying, or by the combination of different materials with a view to making a gain or profit by so doing, is a manufacturer * ‡ * 99
+In its interpretation of the statutes involved, the Supreme Court said in Engle v. Sohn, supra:
+“* * * it was not the intention of the legislature to tax the labor, skill and capital which, when in combination with the raw material, produces the manufactured article.”
+That quotation may in a measure, point the way to a proper determination of the question in hand.
+By the use of the words “manufacturing, refining, rectifying, or by the combination of different materials”, the legislature clearly indicates its purpose with reference to this matter. And where capital is expended, complicated machinery essential, expert employees and labor required to produce the seed which is saleable, it seems reasonable to say that a person so operating is within the spirit of the law, and fixes his status as a manufacturer and not as a merchant.
+A great many authorities have been called to the court’s attention, and as is always the case, there are differences of opinion concerning the general subject in- mind, though the exact question seems not to have been considered except in one case to which attention has been called.
+In City of Louisville v. Zinmeister & Sons, 188 Ky., 570, a similar question was presented. The syllabus is as follows:
+“Under Section 4019 A-10 Kentucky Statutes, one who imports raw coffee which at the time is wholly unfit for human consumption, and puts it through several processes of refinement in the city of Louisville, turning out a finished product, ready for the general market and for consumption, is a manufacturer within the meaning of said statute, and entitled to exemption from taxation on his manufacturing machinery and raw material at the place of manufacture.”
+On p. 574 of the report, the contentions of the parties are set forth as they appear in this case; the city contending that Zinmeister & Sons were not manufacturers, in that coffee grows and is not manufactured, while on the other hand, Zinm/eister & Sons contend that it is manufacturing coffee in the sense that the term manufacturing is used in the statute, and that it takes a raw material which is then absolutely unfit for use and converts it into a finished article of commerce.
+After full consideration of all the authorities in the case, and based upon the principles heretofore stated, the court is of the opinion that the judgment of the tax commision should be reversed, it being the holding of the court—
+1. That the plaintiff in error is not a merchant within the meaning of the statute; and
+2. That it is a manufacturer within the meaning of Section 5385, General Code.
