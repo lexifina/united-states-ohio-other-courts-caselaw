@@ -1,0 +1,33 @@
+---
+court: "Cincinnati Superior Court"
+decided: "1871-04"
+citations: ["1 Cin. Sup. Ct. Rep. 264"]
+reporter: "cin-sup-ct-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert Groff, Adm’r of John H. Groff, deceased, v. The Cincinnati and Indiana Railroad Company et al."]
+source_url: "https://static.case.law/cin-sup-ct-rep/1/cases/0264-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1520263
+cites_cases: ["7 Ohio St. 341"]
+---
+
+# Groff v. Cincinnati & Indiana Railroad
+
+## Majority (Storer, J.)
+
+Storer, J.
+This action is brought to recover damages against the defendant, under the provisions of the act of March 25,1821, requiring compensation for causing death by wrongful act, neglect, or default.
+The intestate, John H. Groff, engaged as a fireman upon one of the defendant’s locomotives, was killed while crossing a bridge temporarily erected over the Whitewater river. It was charged in the petition that the accident was caused by the imperfect structure used as a bridge, it having been built of bad material, and erected carelessly and unskillfully, wherefore the engine, in passing over, was precipitated to the bottom of the river and the intestate killed.
+A denial of the facts set forth in the petition is found in the answer, with an averment that the deceased was in fault at the time the bridge fell down, and might have escaped all injury if he had exercised ordinary care himself in performing his duty as fireman.
+On the trial at Special Term a mass of testimony was read, which is minutely stated in the bill of exceptions; many instructions were' asked by both parties, some of which were refused and others given, involving for the most part the law which is so often discussed in cases where negligence is the gravamen of the action.
+The court also charged upon the general question, covering, as we think, the -whole ground of the controversy, and deciding, as we believe rightly, the law regulating the liability of the parties.
+A verdict was rendered for the plaintiff, and damages assessed at $2,500. A motion for a new trial followed the verdict, which has been reserved for our detezmzination here, with all the questions involved in the evidence and the pleadings.
+One of the questions, to which it appears the attention of the court was mainly directed, was, that if the bridge was badly constructed, or was otherwise unfit for the purpose of bearing the weight of the locomotive, and the fact was known to the deceased, he should not have exposed himself to injury by remaining on the engine while the train was crossing the bridge. In other words, it was assumed that an employe of a railroad company, who has engaged himself in its service, may be permitted to abandon his duty at any point in the usual line of travel when he either suspects or may have good reason to anticipate danger before him; nay, further, that although a locomotive had previously passed over the structure in' safety, and no signal of peril was given when the engine approached the bridge, even if since the bridge had last been used a sudden rise in the river should be the immediate cause of weakening its foundation, the act of the fireman may be held to imply per se a want of prudence on his part, and thus establish a case of mutual fault where both parties are to be blamed, and there can be no remedy for the neglect of either. But the evidence on this point was before the jury, and the charge of the court clearly defined how it should be applied, either to sustain the plaintifPs action or to defeat it, and their verdict establishes the fact that the accident was the consequence of a defect in the bridge, and negatives any neglect on the part of the deceased.
+So far, then, as the liability of the defendant is concerned, we find no error in the finding of the jury as to the fact, or in the rulings of the court.
+Another question arises upon the record as to the extent of the damages that should be allowed in a case like this, where it is averred the brothers and sisters of the deceased, as the next of kin, are alone entitled to participate in the amount of the recovery.
+Since the statute of 9 and 10 Victoria, chap. 93, secs. 1 and 2, which owes its origin to Lord Campbell, and the subsequent legislation on the subject in those States of our Union which have followed the remedy first given in England, we find the object of the enactments has been to provide a remedy for a real loss — not where those bearing the relation of next of kin, without any claim on the support of a deceased relative, or who never have depended upon him while alive for aid, shall administer upon the dead body and divide it as assets, when perchance they have not furnished, or were unable to furnish, a burial for the intestate. On the principle that those who represent as kindred him who has died from the unlawful or negligent act of another are theoretically entitled to bring their action, as the statute says, for the death, it does not follow they should be regarded as a wife or child would be in deciding a question of this kind.
+In the case of Pym v. The Great Northern Railway, 4 Best & Smith, 396, Earle, C. J., said that the right to damages is based on the reasonable expectation of pecuniary advantage from the continuance of the deceased’s life. This ruling had already been made by Pollock, C. B., in Franklin v. Southeastern Railway Co., 3 H. & N. 211. And our Supreme Court, in Lyons v. Cleveland and Toledo Railroad Co., 7 Ohio St. 341, while they held the special circumstances need not be stated upon which the plaintiff’s claim is founded, yet it might well be concluded that the statute gives a right of action, and seems to regard the widow and next of kin as sustaining a nominal pecuniary injury in all such cases for the wrongful act of the defendant.
+The case before us presents a claim by collateral kindred for damages, when the deceased, for whose death they bring the action by an administrator, who appears to be one of the kindred, was a very poor man, his only property being his monthly wages as fireman, and without any reasonable expectation of any • anticipated advantage to either of them if he had survived.
+Upon the whole, we think the damages allowed, by the jury were excessive, and a new trial should be granted, unless the plaintiff remits $1,500. If he shall consent to this remission, judgment may be entered for the residue. The judge who tried the cause at Special Term concurs fully in this- opinion.
+A remittur being entered, judgment was entered for *1 000.
