@@ -1,7 +1,8 @@
 ---
 court: "Clark County Probate Court"
 decided: "1895"
-citations: ["6 Ohio N.P. 481", "6 Ohio N.P. 479"]
+decided_precision: "year"
+citations: ["6 Ohio N.P. 481"]
 reporter: "ohio-np"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
