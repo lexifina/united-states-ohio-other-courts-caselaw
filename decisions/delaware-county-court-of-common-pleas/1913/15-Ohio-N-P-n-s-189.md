@@ -1,0 +1,30 @@
+---
+court: "Delaware County Court of Common Pleas"
+decided: "1913"
+citations: ["15 Ohio N.P. (n.s.) 189"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cornelius Walker, Executor, et al, v. Edna Walker et al."]
+source_url: "https://static.case.law/ohio-np-ns/15/cases/0189-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1547657
+---
+
+# Walker v. Walker
+
+## Majority (Fulton, . J.)
+
+Fulton, . J.
+This action is submitted to tbe court upon the question as to whether or not Amanda Whitney Walker, or Amanda Whitney, is entitled to dower in the real and personal property of Abraham Walker, deceased.
+The defendant, Amanda Whitney Walker, or Amanda Whitney, claims dower in this property as the wife of Abraham Walker. It is admitted that there was no statutory marriage between Abraham Walker and Amanda Whitney, but it is claimed that there was a common-law marriage existing between them at the time of the death of Abraham Walker and that, by reason of that common-law marriage, she is entitled to dower in his property.
+That common-law marriages are recognized in this state is beyond contradiction, for several times common-law marriages' have been recognized by the courts of this state.
+The latest case in which the subject is discussed, and where the Supreme Court states what it takes to constitute a common-law marriage, is in 85 Ohio State, at page 238, in the case of Umbenhower v. Labus. The syllabus in that case reads as follows :
+“An agreement of marriage in praesenti when made by parties competent to contract, accompanied and followed by co-habitation as husband and wife, they being so treated and reputed in the community and in circle in which they move, establishes a valid marriage at common-law, and a child of such marriage is legitimate and may inherit from the father.”
+The evidence shows that on Decoration day, at Johnstown, Ohio, in the cemetery, Abe Walker and Amanda Whitney, in the presence of Lee Skinner, made a contract by which they agreed to live together thereafter as man and wife; that, during that talk, it was discussed between them as to whether or not they could do that lawfully and that Abraham Walker informed Mrs. Whitney that he had been informed by an attorney that such a marriage was legal; that Abraham Walker gave to her as a reason for not wanting to be married with a ceremony under the statute that business relations between himself and his brother would prevent it, that he would be compelled to divide his property with his brother, and that he would lose money in that way if a marriage was made in the usual way by license and the performance of the ceremony by an authorized person.
+The testimony tends to show that, from that time on, Amanda Whitney went to live with Abraham Walker,' and that she lived with him as his wife; that they bedded together; that she cooked for him, and that she washed for him and that she had a child by him. And while the testimony discloses that there might have always been some doubt in the mind of Amanda Whitney as to the legality of the marriage which she had entered into with Abraham Walker, yet she carried out the contract of marriage and the agreement with him, • and she performed all the duties of a wife toward him; she had a child by him, and Walker himself on many occasions stated that she was his wife the same as any other married couple in that' community. When he spoke of his will, he told Albert Dresback that he had left, in a manner, everything to his child. Dresback then asked what he had done for the mother of the child — what arrangements he had made for her. His reply was: “She will come in just the same as my wife, and that is what I wanted to tell you; that she will come in as a common-law wife; that he had left his brother as executor without bond to look after everything, to go ahead just as they had been doing.”
+• This conversation with Dresback was just before Abraham Walker started to the hospital to have an operation performed, and from which operation he died.
+Abraham Walker always stated, whenever the subject came up, that Amanda Whitney was his wife the same as if legally married, and never at any time did he claim anything, when talking of this matter, except that she was his wife, and legally his wife.
+That Amanda Whitney had some doubts about this marriage, there can be no question, because her acts can not be explained in any way except that she doubted the legality of their relations and of this marriage. .
+We all know and recognize the fact to be that common-law marriages are rare and there was doubt, not only in the mind of Amanda Whitney, but in the minds of some of the people of the community whether , this was a legal marriage, because they only knew of the statutory marriage. However that may be— whatever may have been in the minds of her neighbors, who knew the facts .and circumstances would not control or change the fact as to this marriage, if the marriage was a common-law marriage, and all the actions and statements of Abraham Walker were to the effect that she was his wife; that the child born was his own daughter, and in his will he treats her as his daughter and gives her the bxdk of his estate; and it seems to the court, under all these circumstances, it would be an outrage and a great wrong to hold otherwise than • that Amanda Whitney was the common-law wife of Abraham Walker.
+The court finds, from the testimony, that they did make a solemn contract, in the cemetery, to live together as man and wife, and that they immediately carried out that contract by going to live together; that they continued, with a few interruptions, to live continuously together as man and wife up until the'death of Abraham Walker; and Amanda Whitney, as such wife, is entitled to dower both in his real and personal property, .and such is the holding of this court. Exceptions may be noted; bond for appeal in the sum of $—.
