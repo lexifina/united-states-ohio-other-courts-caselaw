@@ -1,0 +1,31 @@
+---
+court: "Hamilton County Court of Common Pleas"
+decided: "1932-07-13"
+citations: ["29 Ohio N.P. (n.s.) 524"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Golde v. George Golde, Inc."]
+source_url: "https://static.case.law/ohio-np-ns/29/cases/0524-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1567356
+cites_cases: ["102 Me., 376"]
+---
+
+# Golde v. George Golde, Inc.
+
+## Majority (Matthews, J.)
+
+Matthews, J.
+The only point raised on this motion for a new trial is that the court erred in not allowing the lessor to prove for the rent that had accrued u.p to the time of. trial. In other- words, it is urged that the court should- not have limited the claim to such rent as had accrued at the time the receiver was directed to wind up the corporation after the decree of dissolution was entered. This date, to-wit, July 17, 1981, was fixed because it was the date of-the decree of dissolution and the order continuing the receivership to wind up which, Section 8628-92, General Code, as the- court construes it, is the time established by' the legislature for that purpose. It is contended among other things that that section does not mean that and if it does, it is unconstitutional.
+The plain language of that section is that
+“All the rights, interest, liens or claims of creditors, claimants and shareholders shall be fixed and determined as of the day on which such receiver was appointed.” :
+Webster’s definition of “fixed” is “securely placed or fastened; settled, established; firm; immovable; unalterable.” The definition of “determine” is “to bring to a conclusion, as a question of controversy; to settle by authoritative or judicial sentence; to decide as the court has determined the cause.” If claims are to be regarded as unalterable as of the day on which the receiver was appointed, and the court is to decide or determine the cause as of that date, it is difficult to see how a right arising thereafter can be given validity without doing violence to the plain language of the section. The lessor had certain rights arising out of the lease on that date. He did not have any -right to rent accruing thereafter. True, he had a potential right to the rent when it accrued less what he might receive from reletting the premises, but he did not have any existing claim, either matured or unmatured. The right to the rent accrues only when it becomes due. It has no legal existence before then, notwithstanding the existence of the lease out of which it will perhaps come into existence on the passage of time and the happening of the other contingencies.
+In the administration of estates a time must be fixed .by some authority on which the rights of the various -claimants will be unalterable."" The'judicial rule was'not uniform and was involved in some doubt. It was to make the rule certain that Section 8623-92, General Code was enacted. That this was the purpose is shown by the statement of the committee of the State Bar Association that drafted the section. The committee said:
+“It is intended to provide by these sections that when a court takes jurisdiction over the liquidation or winding-up of a dissolved corporation, all rights, claims and liens shall be ascertained as of the date on which jurisdiction is taken.”
+It seems to the court that the language of the section accomplishes that purpose. Nor is the section unconstitutional when so construed. It gives the lessor all to which he was entitled at the time. The fact that he may have other rights in the future and that at that time his debtor may be unable to respond is no sufficient reason for withholding from existing claimants the remedy to which they are entitled, or for procrastinating in awarding to them such remedy. Had this hearing taken place on the day the receiver was appointed, it is conceded now that the lessor could not have proved for unaccrued rent. This section enacts that the hearing must be considered as having-taken place then. To hold that the law is unconstitutional it is necessary to predicate that holding on the proposition that the lessor has a vested right in the law’s delays. With greater reason the other creditors can claim a vested right in a prompt remedy. They can with propriety assert that justice delayed is justice denied.
+Counsel urges that this statute is a bankruptcy law and therefore inoperative because of the existence of the National Bankruptcy Law. In answer to this, it is sufficient to say that -there is no provision for a discharge. That distinguishes this law from the law under consideration in Moody v. Development Co., 102 Me., 376.
+In 8 Fletcher Cyclopedia Corporation, Section 5410, it is said:
+“The dissolution of a corporation is not unconstitutional as impairing the obligation of contracts made by it with other parties during its existence, for they may still assert their rights against the property of the corporation 'by the mode, if any, prescribed by statute, or, if no adequate remedy is provided by statute, in a court of chancery in accordance with the general principles and practices in equity. * * * Every creditor must be presumed to understand the nature and incidents of such a body politic, and to contract with reference, to them. And it would be a doctrine new to the law, that the existence of a private contract of the corporation should force upon it a perpetuity of existence contrary to public policy, and the nature and objects of its charter.”
+The creditor can no more prolong the life of an artificial person than that of a natural person, and when either ceases to exist a law providing for a distribution of the assets of the dissolved corporation or the decedent among, its or his creditors, according to their rights at the time of dissolution or death, is due process of law and protects vested rights. The law holds inviolate all vested rights and provides the remedy for their assertion. It cannot supply the debtor against whom the remedy can be asserted, nor the property out of which the wrong can be redressed.
+For these reasons the motion for a new trial is overruled.
