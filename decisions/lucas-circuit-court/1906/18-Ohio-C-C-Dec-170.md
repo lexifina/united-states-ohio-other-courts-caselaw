@@ -1,0 +1,37 @@
+---
+court: "Lucas Circuit Court"
+decided: "1906-02-05"
+citations: ["18 Ohio C.C. Dec. 170"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Haynes and Parker, JJ., concur."]
+parties: ["State ex rel. Lyman W. Wachenheimer v. Lucas Co. (Comrs.)."]
+source_url: "https://static.case.law/ohio-cc-dec/18/cases/0170-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9501587
+cites_cases: ["21 Ohio St. 1", "46 N. E. Rep. 511", "56 Ohio St. 126", "64 N. E. Rep. 570", "64 N. E. Rep. 573", "66 Ohio St. 546", "66 Ohio St. 555", "69 N. E. Rep. 132", "69 Ohio St. 202"]
+---
+
+# State ex rel. Wachenheimer v. Lucas Co.
+
+## Majority (WILDMAN, J.)
+
+WILDMAN, J.
+This court recently announced its judgment that the demurrer to the plaintiff’s petition, which is one asking for a mandamus, should be sustained. We have been asked to put our reasons for this decision in such form that the case may be reported. The question involved is so important, as affecting the prosecuting attorneys of the entire state, as to justify this request and the assent .of the court.to it.
+The petition, I have said, is one for mandamus, brought by Lyman W. Wachenheimer, who is prosecuting attorney of Lucas county, and who seeks to compel the county commissioners to take action under Rev. Stat. 1297 (Lan. 2689), by fixing the times and amount of installments for the payment of his salary as such prosecuting attorney under said section. The section reads as follows:
+“The prosecuting attorney shall receive an annual salary not exceeding the sum herein named, to wit; In Hamilton county, thirty-five hundred dollars. In Cuyahoga county, four thousand dollars. In Lucas •county, two thousand dollars. In Franklin county, two thousand dollars. In Montgomery county, two thousand dollars. In each county ■containing less than twenty thousand inhabitants by the last federal ■census, four hundred dollars; and in each, other county two dollars for each one hundred inhabitants such county contained at the next preceding federal census, to be paid at such times and in such installments as the bounty commissioners may direct. ’ ’
+Our view, as previously announced, and as still held, is, tbat tbis enactment is clearly an infraction of Sec. 26, Art. 2 of the constitution of the state.
+Prior to the decision of the ease of the State v. Yates, 66 Ohio St. 546 [64 N. E. Rep. 570], acts of this character, fixing the compensation of county officers were understood, and had been hpld by the Supreme Court to be, constitutional and valid.
+In the case of Pearson v. Stephens, 56 Ohio St. 126 [46 N. E. Rep. 511], such an act had been sustained. But in the State v. Yates, supra, the following holding is made:
+“County officers are not local officers, but are a part of the permanent organization of the government of the state, and the subject of compensation to county officers is not local in its nature, and an act of the general assembly upon that subject is a law of a general nature which must operate* uniformly throughout the state. Pearson v. Stephens, 56 Ohio St. 126 [46 N. E. Rep. 511], overruled.”
+This case was decided by a majority of the court, Judge Davis announcing the opinion, and Burket, Shauek and Price concurring. Judge Spear announced no dissenting opinion, but his name is not among the judges so concurring.
+In the subsequent cases of the State v. Garver and State v. Mackey, 66 Ohio St. 555 [64 N. E. Rep. 573], the court held, as expressed in the first syllabus:
+“The act ‘to limit the compensation of county officers in Holmes county, ’ passed April 26, 1898 (93 O. L. 660), is a law of a general nature which does not operate uniformly throughout the state; and it is therefore in violation of the constitution, Art. 2, Sec. 26. State v. Yates, ante, 546, approved and followed.”
+In this case fit was very earnestly urged by counsel that since the decision of Pearson v. Stephens, supra, and in reliance upon it, local laws had been passed in eighteen counties in the state providing for the compensation of county officers, and it was argued that to hold such legislation invalid would be to plunge the county affairs of eighteen counties into hopeless and almost inextricable confusion. Notwithstanding this appeal, the court adhered to its decision in State v. Yates, supra, Judges Burket, Shauek and Price again concurring with Judge Davis, who announced the opinion. Judge Spear concurred in the judgment upon another ground but not upon the ground which has been stated.
+But in the láter case of State v. Lewis, 69 Ohio St. 202 [69 N. E. Rep. 132], the entire court united in this decision:
+“The doctrine stare decisis will not be allowed to interfere with tbe overruling of a former decision upon a constitutional question when such former decision is clearly erroneous and it does not appear that sucb decision bas been acted upon as a rule of property, or that rights have-vested under it so that more injury would follow if it were overruled than if it were allowed to stand.
+“State v. Yates, 66 Ohio St. 546 [64 N. E. Rep. 573], is approved and followed, and State v. Judges, 21 Ohio St. 1, is overruled.”
+We have then the entire Supreme Court finally concurring in the approval of State v. Yates, supra, and consequently the judgment that legislation of the character now under consideration is invalid as an infraction of the section and article of the constitution which have been mentioned.
+This act provides that the salaries of prosecuting attorneys in Hamilton, Cuyahoga, Lucas, Franklin and Montgomery counties shall not exceed the amount stated; and in each county containing less than twenty thousand inhabitants by the last federal census, four hundred dollars; and in all the other counties of the state two dollars for each one hundred inhabitants. A peculiarity of this enactment is, that no provision is made for a minimum compensation in any of the counties of the state, nor is any authority named which may 'determine the amounts of the*salaries in tbe several counties. A query naturally arises, and we desire to suggest it, as to whether this act, without regard to the constitution, may not be invalid because of uncertainty in its operation. It is an evolution from an earlier statute which provided that the county commissioners might fix the salaries in certain counties but should not fix them in an amount exceeding the amount or amounts named, but in the amendment of the statute and in the enactment of the section now before me, the provision giving to the county commissioners such power is eliminated, and no other tribunal or authority is substituted. The only power given to the county commissioners seems to be, that whatever salary is allowed is to be paid at such times and in such installments as the county commissioners may direct. It is not necessary -to our decision that we should hold this act invalid for this reason. It is enough to base our decision upon the adjudications of the Supreme Court to which reference has been made, and upon those adjudications and in recognition of the far reaching consequences of such holding, affecting tbe salaries of all prosecuting attorneys in the state, we are still constrained to sustain the demurrer to the petition upon the ground that it states no facts entitling relator to the mandamus sought.
+Haynes and Parker, JJ., concur.
