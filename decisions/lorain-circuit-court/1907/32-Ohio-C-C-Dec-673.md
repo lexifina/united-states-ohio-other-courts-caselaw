@@ -1,0 +1,31 @@
+---
+court: "Lorain Circuit Court"
+decided: "1907-05-01"
+citations: ["32 Ohio C.C. Dec. 673"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Winch, Henry and Marvin, JJ.", "Winch and Marvin, JJ., concur."]
+parties: ["Frank Lieblang v. State of Ohio."]
+source_url: "https://static.case.law/ohio-cc-dec/32/cases/0673-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1666533
+---
+
+# Lieblang v. State
+
+## Majority (HENRY, J.)
+
+HENRY, J.
+The plaintiff in error was convicted of uttering and publishing a forged instrument. An affidavit of prejudice was filed against the trial judge, who disregarded it upon the ground that it was filed immediately before the trial began and on the same day, and was, therefore, too late. Under the recent amendment of tbe statute in that behalf, we think the trial court committed no error in disregarding the affidavit.
+It is said that the prosecuting attorney was guilty of misconduct in his opening statement in intimating that the prisoner was guilty of attempted blackmail or extortion in connection with the offense for which he was tried. His statement was challenged at the time by the prisoner’s counsel but the court overruled the objection, stating that he could not at that stage of the case determine whether evidence of these collateral matters would or would not be competent. The prosecuting attorney seems to have been acting in good faith upon the supposition that the matters in question were material, but later in the trial when he attempted to introduce evidence thereof, such evidence was excluded. The trial judge, moreover, carefully instructed the jury to consider only the evidence introduced, and to disregard all statements made by the prosecuting attorney with regard to evidence offered but not admitted. In this, we find no prejudicial error.
+Apother error complained of is that the forged instrument set forth in the indictment did not contain the endorsement of the prisoner’s name, which appears on the back of the instrument' as introduced in evidence. We think there is no material variance in this respect. The evidence shows that before the forged check had been introduced, the prisoner sought to obtain money on it by presenting the same and requesting that it be cashed. This, of itself,, constitutes an uttering and publishing. The prisoner was told when he thus presented the check, which was payable to his own order, to write his name on the báck of it. He turned and went a few feet away to a desk and came back after a few moments with what purported to be the same check, bearing his signature. On this state of facts it is further complained that this endorsement was determined by the court to afford a sufficient basis of comparison to admit of the introduction of evidence of a letter alleged to have been written' by Lieblang, and to authenticate his handwriting thereon. Another writing proved to have been made by the prisoner was also used as a basis of comparison. It is objected, however, inasmuch as no one actually saw the prisoner endorse the check, the circumstantial evidence that the endorsement was written by him was not sufficiently'positive to make it a proper basis of comparison. We think that circumstantial evidence may, and in this case does suffice, to lay a proper foundation whereby one writing is so authenticated as to authorize the comparison therewith of another specimen of handwriting to show identity or diversity of authorship.
+It is further complained that the court committed error in proceeding with the trial when, after the evidence was all in, the prisoner failed to appear at the opening of court oh the morning of the last day of the trial:
+Section 7301 R. S. (Sec. 13676 G. G.) provides:
+“A person indicted for a misdemeanor may, upon his request in writing, subscribed by him and entered on the journal, be tried in his absence, or by the court; no other person shall be tried unless personally present; and if a person indicted escape, or forfeit his recognizance, after the jury is sworn, the trial shall proceed, and the verdict be received and recorded; if the offense charged is a misdemeanor, judgment and sentence shall be pronounced as if he were personally present; and if the offense charged is a felony the case shall be continued until the convict is in court, or is retaken.”
+It is insisted that this being a case of felony there is no authority for going forward with the trial during the prisoner’s absence and that the only course open in this event is indicated by'the words, “The case shall be continued until the convict is in court or. is retaken.”
+We think that counsel misinterpret this section. The true intent and meaning thereof is, that in the prisoner’s absence a trial may not be commenced and carried on in case of felony; that it may be commenced and carried on in case of' misdemeanor, upon the prisoner’s request in writing, subscribed by him and entered on the journal. If, after the trial is commenced the prisoner absent himself, the trial may continue whether it be a ease of felony or misdemeanor. Sentence, however, can not be pronounced in the prisoner’s absence, except in case of misdemeanor. ■ ■ •
+■ It is further contended that even with this interpretation of the statute, the trial was erroneously proceeded with, inasmuch as it did not appear that there had been an escape or forfeiture of recognizance. It is suggested that his absence may have been due to sickness, accident, arrest, or other cause beyond his control. This, however, would not be sufficient to prevent a forfeiture of his recognizance, although it might justify the setting aside of such forfeiture thereafter. The transcript here shows that the recognizance was duly forfeited on the same day that the bill of exceptions shows the objection to the further prosecution of the trial was made and overruled. We think there was no error in submitting the case to the jury and receiving their verdict under these circumstances in the defendant’s absence.
+No other error in the record is alleged, and we find none.
+Judgment is therefore affirmed.
+Winch and Marvin, JJ., concur.
