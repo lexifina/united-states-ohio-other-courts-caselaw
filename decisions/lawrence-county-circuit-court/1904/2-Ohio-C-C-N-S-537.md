@@ -1,0 +1,32 @@
+---
+court: "Lawrence County Circuit Court"
+decided: "1904-03-11"
+citations: ["2 Ohio C.C. (N.S.) 537"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cherrington, J.; Jones, J., and Walters, J., concur."]
+parties: ["The Leo Ebert Brewing Company and Otto Ebert v. The State of Ohio."]
+source_url: "https://static.case.law/ohio-cc-ns/2/cases/0537-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1793942
+cites_cases: ["24 O. S., 611", "86 Fed. Rep., 304"]
+---
+
+# Leo Ebert Brewing Co. v. State
+
+## Majority
+
+At the October Term, 1903, of the common pleas court, this county, the defendants, plaintiffs in error here, were indicted jointly for violating Sections 4364-21 and 6943, Revised Statutes.
+The indictment contained two counts, the first charging them with unlawfully selling intoxicating liquor to one Yint Lynd, a minor, knowing him to be such, etc.; the second,- with unlawfully furnishing intoxicating liquor to Yint Lynd, a minor.
+Each of the defendants filed a demurrer to the indictment for general cause, both of which were overruled by the court, whereupon the ease went to trial by the court, a jury having been waived, resulting in a finding and judgment of acquittal as to both defendants on the first count and a finding and judgment of guilty on the second.
+This proceeding in error is here asking for a reversal of the finding and judgment on the second count, assigning as errors the overruling of the demurrers to the indictment, and that the finding of guilty on the second count was against the manifest weight of the evidence.
+The first assignment presents a very important question and one upon which this court has not before been called to decide, viz., as to whether in Ohio a corporation can be held criminally liable for the unlawful sale of intoxicating liquors in its corporate capacity.
+The prosecuting attorney insisting upon the liability of the brewing company, presents an array of authorities among which are Hughes’ Criminal Law, Section 2738; 1 McClain on Criminal Law, Section 417, et seq.; 1 Bishop’s Criminal Law, 417, et seq.; 3 Greenleaf on Evidence, Section 9 and note; 86 Fed. Rep., 304, which seem to establish the principle that where a corporation in the transacting of its ordinary business performs an act which if done by a natural person would make such person guilty of a misdemeanor, it is likewise liable, and I think I may say with confidence that if there be an answer to this principle and the authorities cited, it is simply and only in the fact that there is no statute in Ohio making a corporation so liable.
+“Whoever” and “person” are the words almost, if not invaluably employed in our statutes to designate the one on whom a penalty is imposed for their violation; they are synonomous in meaning and refer to natural persons, and where an artificial person is intended it is so designated in the statute, an example of which is found in Section 6949, Revised Statutes, under the head of Nuisances, in which and following sections corporations are made expressly indictable. Section 7231, Revised Statutes, provides a mode of procedure against a corporation when indicted, meaning undoubtedly where properly indicted. To say that corporations should be held criminally liable for violation of statutes in the conduct of their usual business as are natural persons, would probably be argument in favor of what might be good policy, but certainly not as to the state of the law. Corporations act through their agents, who are amenable to the law for its violaion, just as Otto Ebert in this case, who is, secretary of the brewing company, as disclosed by the record.
+The State of Ohio v. Cincinnati Fertilizer Company, 24 O. S., 611, I think decisive of the question. The fertilizer company was indicted for erecting and keeping up a nuisance in Cincinnati. The common pleas sustained a demurrer to the petition. On final disposition in the Supreme Court, Judge Welch says:
+O. E. Belcher, for plaintiff in error.
+E. E. Corn, Prosecuting Attorney, for the State.
+“We think the court below was right. Criminal laws are to be construed strictly in favor of the accused. In its primary sense the word ‘person’ means á natural person only. I know of no criminal statute in Ohio where the word has been held to apply to a corporation; nor do I know of any case where any attempt has before been made in this state to indict a corporation. We have no common law crimes in Ohio, and the whole theory and machinery of our administration of criminal law seems adapted only to the prosecution and punishment of natural persons. There is no provision of law for bringing an indicted party into court by summons or otherwise, than by actual arrest of his person; under such a state of legislation and practice the Legislature could not have intended in the use of the word ‘person’ which is found in almost every criminal law of the state, to authorize an indictment against a corporation for this particular offense without any special or further provision as to the liability of a corporation or the mode of proceeding against them.”
+We are constrained to hold that the brewing company is not liable to indictment for the violation of the sections of the statute involved, and the court erred in not sustaining its demurrer to the indictment, but did not err in overruling demurrer of Otto Ebert.
+Is the finding of the court on the second count against the manifest weight of the evidence, which is indisputable and all one way, and shows a straight out sale for cash? The penalty for selling is both fine and imprisonment, while the penalty for furnishing is fine or imprisonment or both, thus seeming to recognize different grades of offense. We think that furnishing in the section under consideration means any mode of providing the minor with the liquor other than by sale. The proof does not support the allegations of the second count. The judgment will be reversed. The brewing company will be discharged, and the same remanded as to Otto Ebert, to be proceeded with according to law.
