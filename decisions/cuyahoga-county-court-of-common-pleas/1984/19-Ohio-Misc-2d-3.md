@@ -1,0 +1,54 @@
+---
+court: "Cuyahoga County Court of Common Pleas"
+docket: "057733"
+decided: "1984-03-29"
+citations: ["19 Ohio Misc. 2d 3"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ohio Insurance Guaranty Association v. Berea Roll & Bowl, Inc. et al."]
+source_url: "https://static.case.law/ohio-misc-2d/19/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6712348
+cites_cases: ["105 Cal. App. 3d 657", "123 Ohio St. 530", "164 Cal. Rptr. 567", "402 N.E. 2d 143", "54 Ohio App. 2d 61", "67 App. Div. 2d 850", "8 O.O.3d 63"]
+---
+
+# Ohio Insurance Guaranty Ass'n v. Berea Roll & Bowl, Inc.
+
+## Majority (James J. McMonagle, J.)
+
+James J. McMonagle, J.
+The issue raised by the cross-motions of the plaintiff and the defendants for summary judgment is one of first impression in the courts of the state of Ohio.
+The facts are not in dispute and the matters raised herein concern R.C. Chapter 3903, governing the liquidation of insurance companies, and R.C. Chapter 3955, establishing the Ohio Insurance Guaranty Association (“OIGA”) and further providing a mechanism for the payment of covered claims of insolvent insurance companies.
+On August 5,1981, Franklin County Court of Common Pleas, being a court of proper jurisdiction, declared the defendant Berea Roll & Bowl, Inc.’s insurer to be insolvent, and ordered the Proprietor’s Insurance Company to be liquidated.
+That court appointed the then Superintendent of Insurance, Robert L. Ratchford, Jr., as liquidator. On September 18, 1981, that court authorized the liquidator to solicit proofs of claim from prospective claimants, and to give notice to such claimants and to require that all proofs of claim be submitted to the liquidator on or before August 5, 1982.
+Subsequent thereto, the liquidator, in compliance with the court’s September 18, 1981 order, wrote to all known claimants, insureds and creditors of the Proprietor’s Insurance Company notifying them of the insolvency and the impending liquidation. The liquidator, as directed by the court, also solicited proofs of claim and required that such proofs of claim be submitted to the liquidator on or before August 5, 1982.
+Defendants Berea Roll & Bowl, Inc. and William Green, its president, received notice of the liquidation of Proprietor’s Insurance Company, and in December 1981, filed the required proof of claim for return of unearned premiums, thus indicating that they were aware of the proceedings and of the closing date for the filing of claims.
+On or about January 19, 1983, William Green notified the Ohio Insurance Guaranty Association for the first time of a claim being asserted against Berea Roll & Bowl, Inc., and/or himself, arising out of a claim of defendants Kevin and Marilyn Ruic, which incident allegedly occurred on or before December 7, 1980.
+Simultaneously with his notification, William Green, in his corporate capacity, made a demand upon the Ohio Insurance Guaranty Association to undertake the defense of the lawsuit.
+On January 27, 1983, the Ohio Insurance Guaranty Association denied the claims of Berea Roll & Bowl, Inc. and William Green on the grounds that it is not liable to pay the claims because they were not filed with the association prior to the final filing date set by the court for the filing of claims in the liquidation proceeding.
+On April 14,1983, plaintiff, Ohio Insurance Guaranty Association, filed this action for declaratory judgment, requesting that the court interpret and declare the rights and obligations of the respective parties.
+R.C. 3955.08(A)(1) provides in relevant part:
+“Notwithstanding any other provision of the Revised Code, the association shall not be liable to pay any claim filed with the association after the final date set by a court for filing claims in the liquidation proceedings of the insolvent insurer.
+In response thereto, the defendants cite R.C. 2305.03, which states in part:
+“A civil action, unless a different limitation is prescribed by statute, can be commenced only within the period prescribed in sections 2305.03 to 2305.22, inclusive, of the Revised Code. * * *"
+Since the underlying claim of the Ruics was one for bodily injury, the statute of limitations is two years, as provided in R.C. 2305.10.
+The plaintiff argues that R.C. 3955.08(A)(1) preempts R.C. 2305.03. The defendants have responded, stating that since no specific time limitations are laid out in R.C. 3955.08, the statute permits the setting of the date to the discretion of the court, and, therefore, since it is not set by statute, it cannot usurp or repeal R.C. 2305.03.
+The threshold question involves statutory construction. R.C. 3955.08 (A)(1) has a particular purpose and can be considered a special statute. See, e.g., Leach v. Collins (1931), 123 Ohio St. 530. As such, it operates as an exception to the general statute of limitations, and, therefore, we are guided by R.C. 1.51, which reads:
+“If a general provision conflicts with a special or local provision, they shall be construed, if possible, so that effect is given to both. If the conflict between the provisions is irreconcilable, the special or local provision prevails as an exception to the general provision, unless the general provision is the later adoption and the manifest intent is that the general provision prevail.” See, also, Cincinnati v. Thomas Soft Ice Cream (1976), 54 Ohio App. 2d 61 [8 O.O.3d 63].
+Thus, R.C. 3955.08(A)(1) supersedes R.C. 2305.10 under the circumstances of this case.
+We next turn to the underlying merits as to whether the grant of a power of setting a discretionary final date for filing of claims is a valid legislative enactment.
+The parties have directed this court to cases in other states which have similar statutes for guidance, and these are helpful in determining the merits of this dispute.
+In People, ex rel. O’Connor, v. Reserve Ins. Co., Circuit Court of Cook County, Ill., County Department, Chancery Division, No. 76 CH 2828, unreported, petitioners contended that their late-filed claims should be considered' and allowed on the same basis as the timely claims because they had no notice of the claim against them prior to the last date for filing claims. That court disallowed the consideration, stating in the following direct manner:
+“The subject claims are to be paid only after all timely and allowed claims are paid in full pursuant to sections 208(2) and 210(3) of the Illinois Insurance Code, Ill. Rev. Stat., Ch. 73, §§ 820(2), 822(3).”
+In Jason v. Supt. of Ins. (1979), 67 App. Div. 2d 850, 413 N.Y.Supp. 2d 17, affirmed (1980), 402 N.E. 2d 143, 425 N.Y.Supp. 2d 804, the Appellate Division of New York Supreme Court rejected a late claim filed against the estate of a medical malpractice insurer under their similar New York liquidation statute. The insured physician in Jason urged that he did not learn of the possibility of a malpractice claim until the date set for submitting claims against the insurer’s estate had expired. The Appellate Division reversed the trial court, relying on the express provision for late-filed claims contained in the New York statute. The court concluded that petitioner was limited to the relief provided by the New York Legislature:
+“While petitioner could not have filed any information respecting the Koellner claim by the deadline * * *, his ignorance of the claim is not recognized by statute to forgive a late filing. * * * [Citations omitted.] Late claimants such as petitioner are not ignored by the statute. Insurance Law § 543, subd (3). If the plight of others in petitioner’s situation merits amelioration, it is for the Legislature and not the courts to fashion the remedy.” 67 App. Div. 2d at 851, 413 N.Y.Supp. 2d at 18.
+That court specifically considered the question whether the existence of the legislatively-created New York security fund, whose purpose is similar to that of the OIGA, should affect the treatment of late-filed claims. The court held that the result should be the same, stating:
+“There exists a potential for dilution of the timely filed claims, and because the security fund is built up with premiums from policyholders of all carriers writing the types of coverage specified (Insurance Law § 334 subd (3)), they will be burdened with additional premiums to replenish the fund earlier than contemplated by the statutory scheme, if deferred claims are allowed to participate.” Id.
+California has a similar statute, and in Kinder v. Pacific Public Carriers Coop, Inc. (1980), 105 Cal. App. 3d 657, 164 Cal. Rptr. 567, the claimant filed her third-party liability claim approximately eight months after the filing deadline. The court disallowed a late-filed claim, holding that California insurance liquidation statute made no provision for late filed claims, and that the legislature had vested the courts with no discretion to allow for late claims.
+The purpose of permitting the court to set a date beyond which no claim shall be presented allows the early liquidation of the insolvent insurance company and, therefore, benefits the claimants and policyholders of the insolvent company. See R.C. 3955.03. Without this provision, a liquidation and distribution could not be effected until all potential statutes of limitations have run. Since the Ohio Insurance Guaranty Association is composed of most of the insurers in Ohio, R.C. 3955.01(D), and the funds that permit OIGA to pay covered claims are derived from assessments against its members and the assets of the insolvent insurance company, the legislature has specifically permitted the setting of a cutoff date different from other statutory limitations in the Revised Code. The term “notwithstanding,” as used by the legislature, has a plain and ordinary meaning as shown in Webster’s New Twentieth Century Dictionary, Unabridged (2 Ed. 1966), World Publishing Co., as “in spite of; without hindrance or obstruction from.” The intention of the legislature is clear, and the means they have adopted to implement their intentions are valid.
+It should be noted that the defendants in this case are not without relief. R.C. 3903.21 provides that late-filed claims may be processed against the estate of the insolvent insurer:
+“Proof of claims or good cause may be filed subsequent to the date specified, but no such claim shall share in the distribution of assets until all allowed claims, proofs of which have been filed before said date, have been paid in full.”
+However, this section does not provide the umbrella protection as does R.C. Chapter 3955, for timely filed claims.
+It is therefore ordered that the motion of the plaintiff for summary judgment is granted and the motion of the defendants for summary judgment is denied.
+Plaintiffs motion for summary judgment granted.
