@@ -1,0 +1,35 @@
+---
+court: "Ohio Circuit Court"
+decided: "1897-01"
+citations: ["13 Ohio C.C. 485"]
+reporter: "ohio-cc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Smith, Swing and Cox, JJ."]
+parties: ["MARY D. NOLAN v. MICHAEL KANE."]
+source_url: "https://static.case.law/ohio-cc/13/cases/0485-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1509108
+---
+
+# Nolan v. Kane
+
+## Majority (Swing, J.)
+
+Swing, J.
+This is a proceeding in error to reverse the judgment of the court of common pleas. The action below was brought by the plaintiff in error against the defendant in error for libel. The charge of the plaintiff was that defendant Kane did publish and present to the Superintendent of the Public Schools and Board of Examiners for teachers in said schools, a communication for the purpose of injuring her, in which were certain false, malicious and defamatory words, viz:
+“The Misses Kate and Molly Nolan (meaning thereby the p'aintiff and her sister Katherine C. Nolan), are applicants for teachers’ certificates; they (meaning the plaintiff and her sister), have been guilty of unladylike conduct. See the testimony against them.’’
+The petition further states, “meaning and charging and intending to charge that this plaintiff has been guilty of unladylike conduct. ’’
+The petition further alleges that the statements were false; that they were known to be false, and that they were made with express malice against the plaintiff.
+The defendant answered, setting out that he was a citizen and taxpayer of the city of Cincinnati; that on the 12th day of March, A. D. 1891, he united with other citizens and taxpayers in a petition to the Board of Examiners of the Board of Education of the. city of Cincinnati, which communication is as follows, to-wit:
+“In view of the fact that the Misses Kate and Mollie Nolan have made applications for certificates, to entitle them to teach again in our public schools, be believe that their usefulness as teachers has been destroyed by the very fair and impartial hearing before a committee of twelve honorable members of the school board, and conviction of the charges produced by the ten or fifteen witnesses. The charges of unladylike conduct were established beyond a question. We therefore ask your honorable body to examine the charges and testimony of said witnesses before granting certificates to the above mentioned parties. (Signed.) M. Kane, (and eighteen other citizens.)’’
+Defendant said, in signing and presenting said petition to said board, he was acting solely for the good of the public schools, and without malice; that he had reason to believe, did then, and still believes the statements therein contained to be true.
+Plaintiff admitted that the libel charged in her petition is contained in the communication set out - in defendant’s answer, which was as-alleged therein.
+On the trial of the case plaintiff offered evidence to prove that she had been a school teacher; that she depended on that vocation for her support; that she was a lady of the highest character and that she had never been guilty of unladylike conduct; that the defendant had been unfriendly to her; i;hat he had circulated the said petition to said board and presented the same, and that she had failed to be examined for a teacher’s certificate. At the conclusion of plaintiff’s evidence, the court, on motion of the defendant, directed the jury to return a verdict for the defendant. In doing this it is claimed that the court erred.
+This communication was, in its nature, a privileged one.
+The citizen, if he acts in good faith, and in a reasonable way, is protected. As a citizen he is interested in the public welfare. He not only has the right, but it is his duty as a citizen to communicate to the appointing power, whatever he knows for good or ill concerning one who is an applicant for a position as teacher, and when such communications are made in good faith, the citizen is protected,even though the statements contained in the communication be not true. No authorities need be cited to sustain this well settled principle of law. In order to create a liability of the citizen for the making of a communication under such circumstances.it is not only necessary to show the falsity of such utterances, but that it was done from malice. If either of these elements is lacking, there can be no recovery.
+These elements were set out in ' the petition, the charge, in substance, being that from malice the defendant charged to the board that the plaintiff had been guilty of unladylike conduct, which charge was false and known to be false by defendant.
+For the purpose of determining the question presented to us by the record, it must be taken for granted that plaintiff produced evidence tending to prove that the defendant was actuated by malice, and that she had not been guilty of unladylike conduct. But was this the issue? We think not. It is true that this evidence tended to prove the^allegations of the petition, but plaintiff admits that if any libel was. published,it was contained in the matter above quoted from defendant’s answer. Does this contain a statement that the plaintiff was guilty of unladylike conduct? As we read it, it does not. The whole of the communication should be read together, and so read, we think it in substance says, that they believe that their usefulness as teachers has been destroyed by the hearing before the committee of the school board wherein ten or fifteen witnesses were heard on the charge of unladlyike conduct, and that the charge was established beyond a question, and the board is asked to examine the charge and the evidence before granting certificates.
+There was no evidence introduced which tended to prove that there had befen no hearing before the board upon the charge of unladylike conduct, or that ten or fifteen citizens had not been heard, or that the evidence of the witnesses did not establish beyond question the conviction. The statement that there had been a “fair and impartial” hearing, and that the charges had been “established beyond a question,” appear necessairly from the communication to be an expression of opinion upon the part of the defendant, for he asks the board to examine the charges and the evidence to see whether his statement is not true. A statement that she had been convicted of a charge of unladylike conduct by the evidence of witnesses can not be construed in being a statement that she had not been guilty of unladylike conduct. It was the conviction beyond question that was charged,and not the truth of the charge that was made. If we are correct in our construction of this communication, there was no evidence which tended to prove its falsity, and the court of common pleas properly directed a verdict for the defendants.
+John W. Herron and Price J. Jones, for Plaintiff in Error.
+Thomas MoDougall, Willis M. Kemper and Alfred C. Cassatt, for Defendants in Error.
