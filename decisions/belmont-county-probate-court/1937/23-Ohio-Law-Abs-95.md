@@ -1,0 +1,39 @@
+---
+court: "Belmont County Probate Court"
+decided: "1937-01-16"
+citations: ["23 Ohio Law Abs. 95"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["COWAN v CAMPBELL et"]
+source_url: "https://static.case.law/ohio-law-abs/23/cases/0095-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8750705
+cites_cases: ["119 Oh St, 1", "119 Oh St, 17", "119 Oh St, 184", "162 NE 46", "4 O.O. 42"]
+---
+
+# Cowan v. Campbell
+
+## Majority (By ALBRIGHT, J.)
+
+OPINION
+By ALBRIGHT, J.
+This is a proceeding under §10509-95 et seq., GC, to determine heirship.
+The undisputed facts of this case are as follows: William C. Wilson died October 9, 1929, intestate and without issue, leaving Sarah Elizabeth Wilson, his widow. From the estate of William C. Wilson there was distributed to Sarah Elizabeth Wilson, as his surviving spouse and sole heir at law, the following property:
+Real estate which was sold and conveyed by said Sarah Elizabeth Wilson on March 2, 1931, for the sum of $3,000.
+U. S. Bonds of the par value of $2,600.
+Bank deposits and other moneys in the sum of $11,371.50.
+Said Sarah Elizabeth Wilson also received the sum of $2,500 as ’her year’s allowance and the sum of $500 as exempt property. Shortly after receiving the property Sarah Elizabeth Wilson purchased United States Government Bonds with the $3,000 received from the sale of the real estate, the bank deposits and other moneys including the sum of $3,000 received by her as her year’s allowance and exempt property.
+Sarah Elizabeth Wilson died intestate without issue on September 5, 1936, leaving the following property:
+Savings accounts and credits, $1,714.53.
+14 United States Treasury Bonds, 4% at $1,000 each of the par value of $14,000, which were appraised at the sum of $16, 121.70 leaving a total estate of the appraised value of $17,836.23.
+The judgment of direction of the court is asked in the distribution of the estate left by Sarah Elizabeth Wilson.
+Sec 10503-5, GC, provides as follows:
+“When the relict of a deceased husband or wife dies intestate and without issue, possessed of any real estate or personal property which came to such relict from any deceased spouse, by deed of'gift, devise, bequest or descent, then such estate, real and personal, except one-half thereof which shall pass to and vest in the surviving spouse, if any, of such relict, shall pass to and vest in the children of the deceased spouse from whom such real estate or personal property came, or the next of kin of deceased children. If there are no children or next of kin of deceased children, then such estate, real and personal, except for the one-half passing to the surviving spouse, if any„ of such relict, shall pass and descend one-half to the brothers and sisters of such relict, or the next of kin of deceased brothers and sisters, and one-half to the brothers and sisters of the deceased spouse from whom such real estate or personal property came, or the next of kin of deceased brothers and sisters.” §10503-4, et seq., GC, provides as follows: When a person dies intestate having title or right to any personal property or to any real estate or inheritance in this estate, such personal property shall be distributed, and such real estate or inheritance shall descend and jjass in parcenary, except as otherwise provided by law, in the following course: If there be no children, or their lineal descendants, three-fourths to the surviving spouse and one-fourth to the parents of the intestate equally or to the surviving parent; if there be no parents then the whole to the surviving spouse.
+The question then presented is: What property set 'forth in the inventory of the estate of Sarah Elizabeth Wilson did come to her from the estate of William C. Wilson?
+In the case of Guear et v Stechschulte, Admr., et, 119 Oh St, p. 1, 162 NE 46, the court held that the provisions of §8577, GC (now §10503-5, GC) govern and control the disposition of only such property as had come to an intestate from a former deceased husband or wife. Property thereafter acquired by purchase, though with the proceeds of property which had come from the former deceased husband or wife is not within the terms of that section or distributable in accordance with its provisions. The court held in the case of Wilson et v Eccles et, that §8577, GC, has application only to the identical property which came to an intestate from a former deceased husband or wife and has no application to property acquired by such intestate after death of such former deceased husband or wife even though such property is purchased from proceeds of property coming from such former deceased husband or wife or is the increase or accumulation of such property. In the case of Murphy, Admr. et v Niehus et, 54 Oh Ap, 299, 4 O.O. 42, it was held that corporate stocks, which are bequeathed to a relict by her deceased spouse is surrendered by the relict to the corporation issuing it, for which, a bond merger with another corporation, new stock is issued, such stock is not distributable, upon the death of the relict intestate and without issue in accordance with the provisions of §8577 GC (now §10503-5, GC). In the case of Foreman v Bank, 119 Oh St, 17, the court held that year’s allowance and property not deemed assets does not pass by descent and the proceeds thereof is not governed by the half and half statute, (§10503-5, GC). In the above case referred to, of Wilson v Eccles, 119 Oh St, 184, the court said: “In the absence of any binding or even persuasive authority it seems to this court at this time that the salutary rule would be that, in order that §8577 GC (now §10503-5, GC) shall have application, it must be the identical real and personal property which came from the deceased husband to the wife. Any other rule leads to confusion.
+It has been argued that this rule creates difficult and inequitable situations in cer-' tain circumstances, but it must be answered that it is always in the power of the surviving husband or wife to direct the course of descent and distribution by making a conveyance during lifetime, or by devise or bequest in a last will and testament.”
+In the case of Digby v Digby, 5 O.C.C. (N.S.) 130, it was held that the surviving spouse takes an absolute interest and not an interest as trustee and accordingly may change the character of the property so as to prevent its descent from being controlled by provisions of §10503-5, GC. And it was held in this case that money received by widow for the sale of oil from land derived by her from her deceased husband is not identical with the land and does not come under the half and half statute.
+In the case of Guear et v Stechschulte, Admr. et, 119 Oh St, 1, above referred to, the Supreme Court held that $8,500 in securities held by the widow which were obtained from the proceeds of mortgage notes, and which came to her from the estate of her deceased husband, upon the death of the widow, said securities pass to the heirs of the widow and not under the provisions of §10503-5, GC.
+The $3,000 derived from the sale of the real estate and the bank deposits and other securities invested in Govemment Bonds and owned and possessed by Sarah Elizabeth Wilson at the time of her death were not “property that came” to her from her deceased husband. Regardless of the time when the same were acquired by the widow, those bonds constituted property which came, not from the husband, but by purchases, and upon the death of the widow they pass under the statute to her heirs.
+It is therefore the conclusion of this court that only the $2,600 in Government Bonds held by William C. Wilson at the time of his death, was subject to distribution under the provisions of §10503-5, GC.
