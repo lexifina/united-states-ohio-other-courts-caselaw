@@ -1,0 +1,27 @@
+---
+court: "Ohio Circuit Court"
+decided: "1885-04"
+citations: ["18 Ohio C.C. 814"]
+reporter: "ohio-cc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Williams, Shauck and Stewart, JJ."]
+parties: ["ALFRED TRADER v. PERUNTES K. SALE ET AL."]
+source_url: "https://static.case.law/ohio-cc/18/cases/0814-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 409945
+cites_cases: ["13 W. L. B. 415", "6 Ohio St., 501"]
+---
+
+# Trader v. Sale
+
+## Majority (Shauck, J.)
+
+Shauck, J.
+Whether it is the imperative duty of this court, upon motion ánd notice, to dismiss appeals from the common pleas court in cases where no additional appeal bond has been given within thirty days after the 9th day of February, 1885, or whether it has discretion to allow further time for the giving of such bonds, are questions to be answered by the provisions of sec. 454d, of an act to provide for the organization of circuit courts, etc., passed April 10, 1884, 81 O. L., 168, and of secs. 5225, 5227 and 5233, Rev. Stat. as amended by “an act to revise and consolidate the statutes relating to the organization and jurisdiction of the circuit arid other courts,” passed February 7, 1885, 82 O. L., 32. Although these provisions do not seem to be of doubtful meaning, it may be worth while to consider the circumstances in view of which said sec. 454d was enacted and the other sections amended.
+_ On February 9, 1885, by virtue of the recent amendment to the judicial article of the constitution and the statute passed in pursuance thereof, the district court ceased to exist and the circuit court became its successor. Appeal bonds theretofore executed were conditioned upon the judgment of the district court. Sureties upon such bonds could not be held to have undertaken that their principles would abide and perform the judgment of the circuit court. They could be held only to the letter of their obligation. This general rule, as to the obligation of sureties was well settled, and an authoritative case had applied it to a situation that was altogether analogous to this. Meyres et al. v. Parker, 6 Ohio St., 501.
+The legislature did not attempt, by statute, to give effect to these bonds as though they had been conditioned upon the judgment of the circuit court. It is scarcely to be doubted that such attempt, if made, would have been futile. There being, then, after the ninth day of February, no valid bonds in the appealed cases, which upon that day passed into the jurisdiction of the Circuit court, it was provided in sec. 454d that within thirty days thereafter an additional bond should be given, conditioned upon the judgment of the circuit court, and, further, that upon failure to give such bond as required, upon motion filed and notice given, the circuit court may proceed in such action as if no bond had ever been given.
+The duty of the court in a case where no bond has ever been given is clearly indicated by the statute, and the decided cases. By the terms of sec. 5255, Rev. Stat., the jurisdiction of the circuit court by appeal depends upon the appellants compliance with certain conditions.Such conditions to its jurisdiction are the giving of notice and bond, as required by sec. 5227. Sec. 5233 confers all the authority possessed by the circuit court to order or permit new bonds to be given, and it is limited to cases where a bond has been given within 'the time prescribed by statute, but the bond is insufficient in form or amount, or the surety has removed from the_ state, or is insufficient. Where no bond has been given within the prescribed time, the court is without jurisdiction. It cannot draw jurisdiction to itself by permitting a bond to be given after the expiration of the time fixed by the statute. Being without jurisdiction, the court is powerless either to try the cause or to permit the filing of a bond. To enlarge the time within which an. act essential to jurisdiction may be performed, is not judicial, but legislative power. These propositions are all substantially held in Dennison v. Talmadge, 29 Ohio State, 433.
+The word “may,” as used in this section does not confer upon the court discretion to allow the bond to be given after the expiration of thirty days. It relates to the circumstances under which the court may proceed; that is, when a motion is filed’ and notice is given. It cannot be said to vest the court with discretion, for the court is authorized to proceed as if no bond had ever been given, and in no other way.
+-Nor does sec. 6 of art. 4 of the constitution as amended, prohibit the legislative requirement in question. Appeals are not matters of right. They affect the remedy only, and are within the continuing control of the legislature. If the district court had continued to exist it would have been within the power of the legislature to require such additional bonds to be given, though in that case,there would have been no occasion to exercise the power. It has been the settled policy of the state, that in order to vacate the judgment of any competent court of appeal, there must be sureties for the performance of the judgment of the appellate court. The provisions under consideration must be regarded as, designd to continue that policy rather than to subvert it.
+The motion to dismiss the appeal having been filed, and notice thereof given we regard it as imperative upon us to grant the motion.
