@@ -1,0 +1,26 @@
+---
+court: "Cuyahoga Circuit Court"
+decided: "1888"
+citations: ["2 Ohio Cir. Dec. 244"]
+reporter: "ohio-cir-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DONNEGAN ET AL. v. ARMOUR ET AL."]
+source_url: "https://static.case.law/ohio-cir-dec/2/cases/0244-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1618332
+---
+
+# Donnegan v. Armour
+
+## Majority
+
+Armour et al. sued Donnegan et al. for goods sent them to sell on commission, and procured an attachment which was executed, and remained undissolved iirdicrh?rg'’d.
+Hessenmueller & Gallup, for plaintiff in error.
+Henderson, Kline & Tolies, for defendant in error.
+Donnegan et al. as a second defense, sought to recover for said attachment as a wrongful attachment, in the same suit, and
+Third — For the same attachment as a malicious prosecution.
+Held: 1. As to the third defense, that it was insufficient, not setting forth the termination of the attachment.
+2. Again, it was not a proper counter-claim or set-off. As to the second defense.
+3. Held: First, not a counter-claim, as not connected with the subject ol the action.
+4. Second, it was no proper set-off, as not in existence at the beginning dfffhe suit.
