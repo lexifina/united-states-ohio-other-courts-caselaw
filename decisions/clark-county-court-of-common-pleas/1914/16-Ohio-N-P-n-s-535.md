@@ -1,7 +1,8 @@
 ---
 court: "Clark County Court of Common Pleas"
 decided: "1914-01"
-citations: ["16 Ohio N.P. (n.s.) 535", "16 Ohio N.P. (n.s.) 385"]
+decided_precision: "month"
+citations: ["16 Ohio N.P. (n.s.) 535"]
 reporter: "ohio-np-ns"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["State of Ohio v. Arthur B. Smith."]
 source_url: "https://static.case.law/ohio-np-ns/16/cases/0535-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1549587
-cites_cases: ["19 Ohio, 139", "39 L.R.A. (N.S.), 916"]
 ---
 
 # State v. Smith
