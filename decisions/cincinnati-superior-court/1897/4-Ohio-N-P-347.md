@@ -1,0 +1,42 @@
+---
+court: "Cincinnati Superior Court"
+decided: "1897-10-02"
+citations: ["4 Ohio N.P. 347"]
+reporter: "ohio-np"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PISO COMPANY OF WARREN, PENNSYLVANIA, v. WILLIAM L. VOIGHT ET AL."]
+source_url: "https://static.case.law/ohio-np/4/cases/0347-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1526323
+cites_cases: ["101 U. S., 51", "108 U. S., 218", "128 Mass., 477", "16 Col., 388", "19 L. R. A., 53", "40 Ohio St., 126", "40 Ohio St., 526", "56 N. Y., 115", "56 N. Y., 122", "58 N. Y., 223", "60 Penn. St., 156", "61 Md., 276", "7 Lans., 151", "9 Bush., 131"]
+---
+
+# Piso Co. v. Voight
+
+## Majority (HUNT, J.)
+
+HUNT, J.
+This case comes before the court on a motion for a temporary restraining order.
+The petition alleges that the plaintiff is a corporation under the laws of Pennsylvania, and that it is the sole and exclusive owner of a medicine known and called “Piso’s Cure for Consumption,” and of the formula for making the same, and of the good will attaching to said medicine, and the business of manufacturing and selling the same under the name aforesaid, and of certain trade-marks, under which and by means of which the medicine is known and sold.
+That the medicine is a valuable remedy for diseases of the throat and lungs, and has been manufactured and sold as such by this plaintiff and its predecessors in the ownership of said medicine since prior to the year 1864 continuously to the present time under and by the name “Piso’s Cure for Consumption, ” and that by said name the remedy has become renowned and in extensive demand owing to its merits; and that much time, labor and money have been expended by this plaintiff and its predecessors in the manufacture of said remedy, and in placing the same upon the market, and in advertising it, whereby a large and valuable trade in said medicine has been built up throughout the United States of America and the Dominion of Canada, and the United Kingdom of Great Britain and Ireland,and elsewhere, and the business has yielded and still yields large profits, and the trade mark is of great value.
+The petition further alleges that in addition to the name “Piso’s Cure for Consumption, ” as a means of designating said remedy and of preventing the same from be-. ing confounded with other alleged remedies, the said plaintiff and its predecessors adopted as a further and addition a trade mark and designation of said remedy, a method of putting up said remedy.
+The method and imitation are then described at length.
+It- is further claimed that the alleged remedy of the defendants has been extensively advertised among wholesale and retail druggists, and among other persons in the United States and elsewhere, including customers of the plaintiff, and that thereby the defendants have fraudulently sought to take away plaintiff’s trade,and deprive it of great profit, and to impose upon said persons and to make them believe that the said alleged remedy of the defendants is the remedy of the planintiff; and divers and sundry persons, to the great loss of the plaintiff, have thereby been deceived,, and that the defendants will continue their practice unless restrained by this court from so doing, and thereby the plaintiff will suffer great and irreparable damage.
+Harmon, Colston, Goldsmith &Hoadly for petition ; W. J. Davidson, contra.
+The equitable interference of this court is sought to perpetually enjoin the defendants and each of them from using and designating a remedy to be used for diseases of the throat and lungs by either the words, “Piso cure for Consumption, or any other word resembling the word “Pizo” in connection with the words, “Cure for Consumption,” or in connection with any other words purporting to describe a remedy for diseases of the throat and lungs, and that the plaintiff may have an account of the damages done to it by the said unfair competition of the defendants by the sale of the alleged remedies so pretended to be the remedies of plaintiff, and that until the final haring of the case the defendants and each of them may be enjoined according to the prayer thereof, and for all other relief.
+A motion was filed to issue a temporary restraining order as prayed for by plaintiff in its petition, and affidavits wore filed in suoport of the motion to the effect that the proprietary medicine known as “Piso’s Cure for Consumption” is one of the old established proprietary medicines, and has always sold well, and is a staple and reliable article, and that it is a valuable and reliable remedy for diseases of the throat and lungs.
+Neither demurrer nor answer has been filed by the defendants.
+The only question presented to the court is whether the plaintiff is entitled to a temporary restraining order on the showing made by the petition, and affidavits.
+Words merely descripitive can not be appropriated as a trade-mark. Neither can words which are only used to denote quality. Manufacturing Co. v. Kramer, 101 U. S., 51.
+It is a well established principle that old words or phrases which have been in common use,, and which indicate the character, kind, quality and composition of the thing can not be employed. Caswell, Jr., v. Davis, 58 N. Y., 223.
+It may be asserted also that tbe equity power of the court will not be exercised to protect a party in use of trade marks which are employed to deceive the public, and to deceive them by fraudulent misrepresentations contained in the labels and devices which are claimed to constitute wholly or in part such trade marks. Hobbs, agent, v Francais, 19 Howard Pr. R., 567.
+There are numerous authorities that a court of equity will not enjoin infringement of a trade-mark when the trademark contains an express or implied representation that is false and calculated to deceive the public. Manhattan Medicine C. o v. Wood, 108 U. S., 218; Connell v. Reed, 128 Mass., 477; Palmer v. Harris, 60 Penn. St., 156; Siegert v. Abbott, 61 Md., 276; Helmbold Mfg. Co., 53 Howard Pr., 453; Seabury & Johnson v. Grossman, 53 Howard Pr., 192; Wolfe v. Burke, 7 Lans., 151, afterwards affirmed, 56 N. Y., 122; the Solis Cigar Co. v. Pozo & Suarez, 16 Col., 388; Hobbs v. Francais, 19 Howard Pr., 567; Laird v. J. B. Wilder &Co., 9 Bush., 131; Buckland et al. v. Rice et al., 40 Ohio St., 526; Joseph v. Macowsky (Cal. Sup. Ct., Nov. 30, 1892,) 19 L. R. A., 53.
+The ground upon which equity restrains the counterfeiting of trademarks is the promotion of honesty and fair dealing. No one has a right to sell his own goods as the goods of another.
+Competition in business is justifiable and desirable, but a business built up by one man by the use of peculiar packages and names should not be appropriated by another by contrivances, which, although not strictly within the rule of liability, yet are designed to accomplish a purpose equally injurious. Wolfe et al. v. Burke et al., 56 N. Y., 115.
+In this case the simulation as to name and wrapper and advertisement is very apparent. Indeed it was not seriously denied.
+The sole resistance to tbe application for a temporary restraining order is based upon the proposition that the contrivances employed by the plaintiff contained express or implied representations that are false, and the further claim that the court would take judicial notice that consumption can not be cured.
+The court is not prepared to adopt the latter statement of counsel as the law, and whether the trade-marks or other names or devices or contrivances used by the plaintiff contain express or implied representations which are false will be determined by the court when the issue is properly made by the pleadings upon a presentation of the facts. Courts of equity would be justified in refusing to interfere in behalf of persons who claim property to a trade-mark acquired by advertising their wares under representations which are false. Equity will not extend its protection to one whose case is not founded on truth, and our Supreme Court holds that where a trade-mark contains a marked misleading representation, a court of equity will not protect it. Buckland et al. v. Rice et al., 40 Ohio St., 126.
+This may be shown under a proper answer and proof.
+In the meantime, under the showing made, the plaintiff is entitled to a temporary restraining order until further order of the court.
+Decree accordingly.
