@@ -1,0 +1,107 @@
+---
+court: "Bowling Green County Municipal Court"
+docket: "92-CV-F-012760"
+decided: "1993-10-29"
+citations: ["73 Ohio Misc. 2d 26"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FURLONG v. ALPHA CHI OMEGA SORORITY et al."]
+source_url: "https://static.case.law/ohio-misc-2d/73/cases/0026-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6709390
+---
+
+# Furlong v. Alpha Chi Omega Sorority
+
+## Majority (James W. Bachman, Judge.)
+
+James W. Bachman, Judge.
+INTRODUCTION
+The court heard this case on October 16, 1993 and took it under advisement. Both sides were well represented by counsel, and both sides presented good briefs and good evidence (testimony and exhibits).
+SUMMARY
+Plaintiff Johnathan James Furlong agreed to sell sweaters to defendant Alpha Chi Omega Sorority (“AXO”) according to a specified design, which plaintiff was to have imprinted on the sweaters by a third party. The purchase price for the custom-designed sweaters was $3,612. Defendant made a down payment ($2,000) on the purchase price and agreed to pay the balance ($1,612) upon timely delivery of the sweaters. Plaintiff changed the design in five particulars without notice to or consent by defendant.
+Immediately after timely delivery of the sweaters, defendant inspected the sweaters, found that the imprinted design did not meet the design specifications, and notified plaintiff that defendant was rejecting them. Defendant has held the sweaters for plaintiff since then, but plaintiff has not retrieved them. Defendant has refused to pay the balance due on the purchase price.
+Plaintiff has sued defendant AXO (and others: Emily Lieberman and Amy Altomondo) for the balance of the purchase price ($1,612). Defendant AXO (and others) have countersued plaintiff for return of the down payment ($2,000).
+Held: First of all, there is no evidence that those “others” were parties to any contract between Furlong and AXO; those “others” have no claim or liability in this matter.
+Second of all, as between Furlong and defendant AXO, the design specifications became a part of the basis of the bargain, and thus became an express warranty in the contract, pursuant to the law (R.C. 1302.26). Plaintiff breached the warranty because the sweaters did not meet those specifications and, thus, the sweaters were “non-conforming goods” within the meaning of the law: namely, they were not in accordance with the contract previously made (R.C. 1302.57; Official Comment 9 to UCC 2-513).
+Defendant rejected the sweaters, rather than accepted them, as those terms (“reject ” and “accept ”) are defined by the law (R.C. 1302.60; 1302.64). Defendant’s rejection was done within a reasonable time after delivery and was effective because of seasonable notice to plaintiff (R.C. 1302.61) and because of having stated in the notice the particular defect found (R.C. 1302.63).
+Therefore, plaintiff has breached the contract; defendant has not. Defendant is entitled to cancel the contract, recover so much of the price as has been paid, and hold the sweaters until recovery of that payment (R.C. 1302.85). Plaintiff is not entitled to recover the balance of the purchase price, but is entitled to the return of the sweaters upon return of the down payment to defendant.
+FINDINGS OF FACT AND CONCLUSIONS OF LAW
+The court makes the following findings of essential facts (by a greater weight of the believable evidence), along with conclusions of law. (Section numbers in parentheses refer to the section numbers of R.C. Chapter 1302 — the Uniform Commercial Code.) These findings and conclusions override anything to the contrary found in the above “Summary.”
+1. Formation in General (R.C. 1302.07)
+Findings of fact: In late September through mid-October 1992, plaintiff Johnathan James Furlong (“Furlong”) contacted defendant Alpha Chi Omega Sorority (“AXO”), by phoning the chairperson of its social committee, Emily Lieberman (“Emüy”), between a dozen and a dozen and a half times. Their discussions concerned Furlong’s offer to sell imprinted sweaters to AXO.
+Ultimately (about the first week in October), Furlong received Emüy’s order for one hundred sixty-eight imprinted sweaters at $21.50 each (plus one free sweater) for delivery on Friday, October 23, 1992, so as to arrive in time for AXO’s Midnight Masquerade III on the evening of Saturday, October 24, 1992.
+The price was to be $3,612, payable as follows: $2,000 down payment when the contract was made, and $1,612 balance when the sweaters were delivered.
+In late October after a dispute arose over the sweaters, Furlong communicated with AXO’s president, Amy Altomondo (“Amy”).
+Furlong had dealt with other representatives of AXO in at least two prior years, when sweaters were delivered and paid for without any problems. He had not previously dealt with Emüy or Amy.
+Conclusions of law: An oral contract for the sale of goods (the imprinted sweaters) was made between Furlong and AXO, at a definite price and with specified dates for payment and for delivery (R.C. 1302.07[A]). There is no evidence of any contract between Furlong on the one hand and either Amy or Emüy on the other hand.
+2. Express Warranty (R.C. 1302.26)
+Findings of fact: At some point in those phone calls with Furlong, Emily said that the sweaters were to be custom designed with the following specified design: namely, with three colors (hunter green létters on top of maroon letters outlined in navy blue, and hunter green masks). Furlong promised to have them so imprinted (by a third party whom he would select).
+Thereafter, he delivered to Emüy an Ohio Wesleyan sweater with maroon letters to show her the maroon color.
+Additionally, he faxed to Emily a two-page description of the sweaters, which not only included the designs for the fronts and the backs of the sweaters, but also included arrows showing where each of the three colors would go (hunter green letters on top of maroon letters outlined in navy blue, and hunter green masks).
+Conclusions of law: Under Ohio law (R.C. 1302.26[A]):
+“(A) Express warranties by the seller are created as follows:
+“(1) Any affirmation of fact or promise made by the seller to the buyer which relates to the goods and becomes part of the basis of the bargain creates an express warranty that the goods shall conform to the affirmation or promise.
+“(2) Any description of the goods which is made part of the basis of the bargain creates an express warranty that the goods shall conform to the description.
+“(3) Any sample or model which is made part of the basis of the bargain creates an express warranty that the whole of the goods shall conform to the sample or model.”
+Furlong and Emily created an express warranty by each of the above three statutory means: namely, by affirmation of fact (his initial phone calls) (R.C. 1302.26[A][1]); by sample (the maroon sweater) (R.C. 1302.26[A][3]); by description (the fax) (R.C. 1302.26[A][2]). This express warranty became part of the contract. Each of the three methods of showing the express warranty was not in conflict with the other two methods, and thus they are consistent and cumulative (R.C. 1302.30), and constitute the warranty.
+The design was a “dickered” aspect of the individual bargain and went clearly to the essence of that bargain (R.C. 1302.26; Official Comment 1 to UCC 2-313). Thus, the express warranty was that the sweaters would be in accordance with the above design (including types of colors for the letters and the mask, and the number of colors for the same). Further, the express warranty became part of the contract.
+3. General Obligations of Parties (R.C. 1302.W
+Findings of fact: On October 13,1992, AXO mailed Furlong a $2,000 check for the down payment; he deposited it in his bank account on October 16, 1992. Thereafter, as discussed below, Furlong had the sweaters imprinted (on Thursday, October 22) and delivered to AXO (on Friday, October 23). Upon receipt of the delivery, AXO gave a check to Furlong’s agent in the amount of $1,612 for the balance of the purchase price. However, later on that day, AXO inspected the sweaters, discovered the design changes (mentioned below), caused AXO’s bank to stop payment on the check, and stated AXO’s objections in a phone call with Furlong. AXO has never paid Furlong that balance on the purchase price.
+Conclusions of law: Furlong’s obligation as the seller was to transfer and deliver the goods in accordance with the contract. AXO’s obligation was to accept and pay in accordance with that contract. (See R.C. 1302.14.) We will now discuss whether it legally did so.
+4. Breach of Warranty (R.C. 1302.60)
+Findings of fact: Furlong was a jobber for Argento Bros., Inc. (“Argento”) and had Argento print the sweaters. In doing so, Furlong worked with Argento’s artists. Early in the morning of Thursday (October 22,1992), the artist(s) began to prepare the art work and recommended changes to the design. Furlong authorized the artist(s) to change the design without the knowledge or consent of AXO. Argento spent about eight hours printing the sweaters all day Thursday. Furlong did not phone AXO about the changes until the next day, Friday (October 23), after the sweaters were printed with those changes. Here are the five design changes that he made:
+• The first change was to delete the agreed-upon outline for the letters (namely, the navy blue outline).
+• The second change was to reduce the agreed-upon number of colors for the fronts and the backs (from three colors per side to two colors per side).
+• The third change was to alter one of the agreed-upon colors (from maroon to red).
+• The fourth change was to alter the agreed-upon scheme of colors for the letters on the fronts and the backs (namely, both sides were to have the same two colors of maroon and hunter green; whereas in fact the backs had neither of those colors, and instead had a navy blue color for the letters).
+• The fifth change was to alter the agreed-upon color of the masks (from hunter green to maroon — actually red).
+The court specifically finds that the color was red (actually, scarlet) and was not maroon (like the maroon-colored letters on the Ohio Wesleyan sweater).
+Conclusions of law: The sweaters did not conform to the contract (specifically, the express warranty in the contract). Thus (in the words of the statute), the sweaters did “fail in any respect to conform to the contract.” Actually, the sweaters failed in at least five respects (R.C. 1302.60). Further, not only did they “fail in any respect,” they failed in a substantial respect. In either event, they were a nonconforming tender of goods (R.C. 1302.60).
+Furlong asserts that — either through Emily’s present words and actions or by AXO’s past practices with Furlong — AXO promised to allow Furlong to make changes of the nature and extent that occurred here without his seeking and receiving AXO’s prior approval. The court disagrees. First, there is insufficient credible evidence to believe that AXO promised this in the present contract (R.C. 1302.05). Second, there is insufficient credible evidence that AXO authorized this by a course of performance from past dealings between Furlong and other AXO representatives on prior contracts (R.C. 1302.05 and 1302.11).
+5. Buyer’s Right to Inspect (R.C. 1302.57)
+Findings of fact: On Friday morning (October 28), Furlong picked up the five to six boxes of sweaters from Argento and had a friend deliver them from Columbus to Bowling Green. The boxes arrived at the AXO house around midday. Sometime thereafter on the same day, Emily inspected one of them and screamed her dismay upon discovering that the sweaters were not what AXO had ordered.
+Conclusions of law: AXO, as the buyer, had the right to inspect the boxes of sweaters before payment or acceptance (R.C. 1302.57[A]). AXO did so at a reasonable time and place, and in a reasonable manner, on the same day that Furlong had sent the sweaters and AXO had received them (R.C. 1302.57[A]). AXO’s purpose of inspection had (in the words of the statute) “to do with the buyer’s check-up on whether the seller’s performance is in accordance with a contract previously made * * (Official Comment 9 to UCC 2-513 [R.C. 1302.57].)
+6. Buyer’s Rights on Improper Delivery (R.C. 1302.60)
+Findings of fact: As concluded above, the sweaters were nonconforming goods because they “failed in any respect” — actually in many material respects — to conform to the contract (namely, to the express warranty in the contract).
+Conclusions of law: According to the statute, “if the goods * * * fail in any respect to conform to the contract, the buyer may: (A) reject the whole * * * [.]” R.C. 1302.60[A]. As concluded above, the sweaters were nonconforming goods. Therefore, Furlong breached the contract, and AXO had the right to reject the goods (sweaters).
+The court rejects Furlong’s assertion that he did all that he could do under the circumstances. The obvious answer is that he did not do enough. He should have gotten AXO’s prior consent to the changes. He could have done this by providing for more lead time — between the time that Argento prepared the art work and the time that it printed the sweaters. Instead, he had both done at the same time (Thursday morning).
+Further, he should have not entered into the contract until Argento had completed the art work and AXO had consented to it. Then, he would not have had to make “an immediate decision” at a time when it “would be difficult if not impossible, to contact [Emily]” — a day before the delivery due date. (See his trial brief.)
+Finally, and alternatively, plaintiff should have entered into a contract that gave him discretion to make design changes without AXO’s consent. We must remember that “these sweaters,” as Furlong himself admits (and describes), were to be “custom-designed” for AXO. Thus, they were to be printed according to AXO’s specifications, and not according to Furlong’s discretion.
+Next, Furlong asserts that AXO — after learning of the changes — should have agreed to his offer of compromise: namely, that he would reduce the unit price of the sweaters in exchange for AXO’s keeping them and paying the reduced price. Also, Furlong asserts that AXO should have communicated his compromise offer to AXO’s members and pledges. In both respects, the court disagrees: Although the law allowed AXO to do so (R.C. 1302.60[B]; 1302.88; 1302.89[B][1]), it did not require AXO to do so (R.C. 1302.60[A]). Instead, AXO did exactly what the law allowed: AXO rejected the nonconforming goods in whole (R.C. 1302.60[A]).
+7. Manner and Effect of Rightful Rejection (R.C. 1302.61)
+Findings of fact: About 4:00 p.m. on the same day that the sweaters arrived at the AXO house (Friday, October 23), Amy — -as the AXO president — phoned Furlong. She said that the sweaters were not what AXO had ordered. She stated the specifics as to why the sweaters were not as ordered. She offered to return the sweaters to him, but he said “No.” AXO still has possession or custody of the boxes of sweaters.
+Conclusions of law: One statute provides: “Rejection of goods must be within a reasonable time after their delivery * * *. It is ineffective unless the buyer seasonably notifies the seller.” (R.C. 1302.61[A]). AXO did what this statute requires.
+That statute further provides: “[I]f the buyer has before rejection taken physical possession of goods * * *, he is under a duty after rejection to hold them with reasonable care at the seller’s disposition for a time sufficient to permit the seller to remove them[.]” (R.C. 1302.61[B][2].) AXO has done this, too.
+Another statute provides: “The buyer’s failure to state in connection with rejection a particular defect * * * precludes him from relying on the unstated defect to justify rejection or to establish breach[.]” (R.C. 1302.63[A].) AXO did enough to avoid the effect of this statute also.
+8. What Constitutes Acceptance of Goods (R.C. 1302.6))
+Findings of fact: From the above, it is seen that AXO legally rejected the sweaters on the same day that AXO received physical possession of them.
+Conclusions of law: Thus, AXO never had an acceptance of the sweaters (as the term “acceptance” is legally defined) (R.C. 1302.64). That is, AXO never did any of the following (per the statute): (1) signified to Furlong that the sweaters were conforming or that AXO would take or retain the sweaters in spite of their non-conformity; (2) failed to make an effective rejection of the sweaters; (3) did any act inconsistent with Furlong’s ownership. (See R.C. 1302.64[A][1], [2], and [3].)
+The court disagrees with Furlong’s assertion that AXO accepted the sweaters. He is confusing a layman’s understanding of the term accept (“to receive a thing [with a consenting mind])” — Webster’s Collegiate Dictionary (5 Ed.1947), at 6, with the statutory meaning of the term (see R.C. 1302.64[A][1], [2], [3], paraphrased immediately above). The mere fact that AXO took physical possession of the sweaters does not, by itself, mean that AXO legally “accepted” them (R.C. 1302.61[B][2]; 1302.64[A]).
+9. Effect of Acceptance; Notice of Breach; (etc.) (R.C. 1302.65)
+Findings of fact: As concluded immediately above, there was no acceptance of the sweaters by AXO.
+Conclusions of law: The statute dealing with a buyer’s burden of establishing breach after acceptance is not applicable (R.C. 1302.65).
+10. Revocation of Acceptance (R.C. 1302.66)
+Findings of fact: As concluded above, there was no acceptance of the sweaters by AXO, so there was no revocation of acceptance thereafter.
+Conclusions of law: The statute dealing with a buyer’s revocation of acceptance is not applicable (R.C. 1302.66).
+11. Seller’s Remedies
+Findings of fact: (See, generally, above.)
+Conclusions of law: In regard to the following four types of seller’s remedies, Furlong has no legal remedies because AXO did not breach the contract. Thus, he is not entitled to an award for the $1,612 balance that he claims is due on the contract price. (See R.C. 1302.77, 1302.82, 1302.83, and 1302.84.)
+a. Seller’s remedies in general (R.C. 1302.77). As concluded above, AXO (as the buyer) did not breach the contract: namely (in the words of the statute), it did not “wrongfully reject goods” or “revoke its acceptance” or “fail to make a payment due on or before delivery” or “repudiate” with respect to a part or the whole of the goods.
+b. Seller’s damages for nonacceptance or repudiation (R.C. 1302.82). As concluded above, AXO did not effect a “nonacceptance” or a “repudiation” of the sweaters. Therefore, Furlong is not entitled to any damages.
+c. Action for the price (R.C. 1302.83). Although AXO did not pay the purchase price in full, that price was never due because — as concluded above— Furlong breached the contract and AXO did not breach the contract.
+d. Seller’s incidental damages (R.C. 1302.8k). Furlong does not claim any incidental types of damages, and there was no evidence to justify an award for them. Furthermore, as already concluded above, AXO did not breach the contract, so Furlong has no incidental damages allowable by law.
+12. Buyer’s Remedies
+Findings of fact: (See, generally, above.)
+Conclusions of law: AXO has the following buyer’s remedies:
+a. Buyer’s remedies in general; buyer’s security interest in rejected goods (R.C. 1302.85).
+• As concluded above, AXO rightfully rejected the sweaters, after having paid part of the purchase price: namely, $2,000. AXO is entitled to cancel the contract and to recover the partial payment of the purchase price (R.C. 1302.85[A]).
+• Also, as concluded above, AXO still has rightful possession or control of the sweaters. AXO has a security interest in the sweaters in its possession or control for the part payment made on the purchase price (R.C. 1302.85[C]) — but when reimbursed for that part payment AXO must return the sweaters to Furlong.
+• There is no evidence that AXO has incurred any expenses for their inspection, receipt, transportation, care, and custody (R.C. 1302.88[C] and 1302.89[A]). Further, AXO does not claim any such expenses. AXO is not entitled to recover for any such type of expenses.
+b. Buyer’s damages for breach in regard to accepted goods (R.C. 1302.88). As concluded above, AXO never accepted the sweaters, in the legal sense of the word “acceptance.” Therefore, AXO is not entitled to any damages under this statute.
+c. Buyer’s incidental and consequential damages (R.C. 1302.89). AXO does not claim any of these types of damages, and there was no evidence to justify an award for them. AXO is not entitled to any damages under this statute.
+CONCLUSION
+The court -will prepare, file, and serve a judgment entry as follows: dismissing with prejudice Furlong’s claim against all defendants; dismissing with prejudice Emily Lieberman’s and Amy Altomondo’s counterclaims against Furlong; granting AXO’s counterclaim (for $2,000, plus ten percent per annum postjudgment interest and costs).
+Further, that entry will order AXO’s attorney (Mr. Reddin) to retain possession of the sweaters either until further court order or until AXO’s judgment is satisfied in full (whereupon he shall surrender the sweaters to Furlong if Furlong picks them up within thirty days thereafter, or, if Furlong does not, he may then dispose of them as abandoned property without any liability).
+Judgment accordingly.
