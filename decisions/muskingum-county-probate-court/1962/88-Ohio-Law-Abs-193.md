@@ -1,0 +1,30 @@
+---
+court: "Muskingum County Probate Court"
+docket: "9146"
+decided: "1962-02-10"
+citations: ["88 Ohio Law Abs. 193"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Simpson, In re."]
+source_url: "https://static.case.law/ohio-law-abs/88/cases/0193-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1808840
+cites_cases: ["197 U. S., 11"]
+---
+
+# In re Simpson
+
+## Majority (Gary, J.)
+
+Gary, J.
+This matter arises upon an affidavit filed by Rosia Lee Simpson, mother of Nora Ann Simpson, alleging that said Nora Ann Simpson is feeble-minded. Upon hearing medical testimony, and in addition testimony of a psychologist as to the results of physchological tests which show Nora Ann has an I. Q. of 36, the court finds that Nora Ann Simpson is a feeble-minded person within the definition set out in Section 5125.24, Revised Code.
+Section 5125.28, Revised Code, provides for admission of such feeble-minded persons to state hospitals for the feeble-minded, “provided such persons are, in the judgment of the division of mental hygiene, proper subjects for care, treatment, and discipline. ’ ’ By virtue of the discretionary power granted in this section, the Commissioner of Mental Hygiene has established quotas for each county, under which Muskingum County is permitted to send eight persons per year to the Columbus State School. This county’s quota for 1962 has been filled for many months, and the waiting list for 1963 is nearing the quota limit.
+It has also been the observation of this court that the institutions for the feeble-minded, due to overcrowding and the constant pressure of new admissions, have been forced to return to the community some feeble-minded persons who were not yet capable of caring for themselves. One instance has come to our attention where a young man who had been released was drowned due to his lack of physical skill and his inability to exercise good judgment.
+Section 5125.30, Revised Code, provides that when the hospital is unable to receive such feeble-minded person, “The probate judge shall then take such action and make such order as he deems necessary to provide for the detention, supervision, care, and maintenance of said feeble-minded person.” Furthermore, Section 2101.24, Revised Code, provides: “The Probate Court shall have plenary power at law and in equity fully to dispose of any matter properly before the court, unless the power is expressly otherwise limited, or denied by statute.”
+Nora Ann Simpson is a physically attractive young woman, aged 18. She has already given birth to one illegitimate child, and according to the testimony of her mother, and her own admission, has been sexually promiscuous with a number of young men since the birth of the child. Nora Ann is unable to give her child proper care, and it is being cared for by her mother. A portion of the medical testimony stated: “Because of the combination of normal physical appearance and serious mental limitations, this girl is likely to become pregnant repeatedly and produce children for whom she cannot provide even the rudiments of maternal care.” There is the further probability that such offspring will also be mentally deficient and become a public charge for most of their lives. Application has been made to the Muskingum County Welfare Department for Aid for Dependent Children payments for the child already born. To permit Nora Ann to have further children would result in additional burdens upon the county and state welfare departments, which have already been compelled to reduce payments because of shortage of funds, and have consistently importuned the General Assembly for additional appropriations.
+The authority granted this court by the statutes is extremely broad, and should be construed so as to provide for the best possible care and maintenance of the parties before the court, as well as for the benefit of society as a whole. It is the opinion of the court that the welfare of both Nora Ann Simpson and society would best be served by having an operation performed which would prevent further pregnancies. Such an operation, termed medically “salpingectomy,” can be safely performed by any qualified surgeon. To deny Nora Ann such an operation would be to condemn her to a lifetime of frustration and drudgery, as she continued to bring children into the world for whom she is not capable, either physically or mentally, of providing proper care.
+This question has arisen frequently in other states, some of which have statutes specifically authorizing such operations. However, in at least one state, Maryland, the Circuit Court of Baltimore held, in Ex parte Eaton, in an unpublished memorandum opinion, that such an order could be made under the general equity powers of the court.
+The principle of sterilization has been considered by the U. S. Supreme Court in Buck v. Bell, 274 v. s., 200, in which Mr. Justice Holmes stated:
+“We have seen more than once that the public welfare may call upon its best citizens for their lives. It would be strange if it could not call upon those who already sap the strength of the State for these lesser sacrifices, often not felt to be such by those concerned, in order to prevent our being swamped with incompetence. It is better for all the world, if instead of waiting to execute degenerate offspring for crime, or to let them starve for their imbecility, society can prevent those who are manifestly unfit from continuing their kind. The principle that sustains compulsory vaccination is broad enough to cover cutting the Fallopian tubes. (Jacobson v. Massachusetts, 197 U. S., 11.) Three generations of imbeciles are enough.”
+Upon consideration of the testimony in this case, including the court’s interrogation of the parties, it is the order of this court that Nora Ann Simpson submit to a salpingectomy, to be performed in an approved hospital, by a licensed physician and surgeon, such operation having been found to be necessary for the health and welfare of said Nora Ann Simpson.
