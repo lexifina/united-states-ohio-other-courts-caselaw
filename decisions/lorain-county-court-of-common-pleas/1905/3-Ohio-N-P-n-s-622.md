@@ -1,0 +1,47 @@
+---
+court: "Lorain County Court of Common Pleas"
+decided: "1905-12-02"
+citations: ["3 Ohio N. P. (n.s.) 622"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Ohio v. D. W. Baker."]
+source_url: "https://static.case.law/ohio-np-ns/3/cases/0622-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1535625
+---
+
+# State v. Baker
+
+## Majority (Washburn, J.)
+
+Washburn, J.
+Application is o made on behalf of the defendant, who has been found guilty by a jury and sentenced to a term in the penitentiary, for an order suspending the execution of his sentence, and admitting him to bail pending the hearing of his cause on errpr in the circuit court, which his counsel says will be begun within the next day or two, and it is urged in his behalf that the statutes of Ohio confer authority upon this court to make such an order, and to admit him to bail.
+The prosecuting attorney admits that this court has authority to suspend execution of the sentence temporarily; but denies the authority of this court to admit the defendant to bail upon such temporary suspension.
+Section 7321 reads as follows:
+“When a person has been convicted of an offense, and gives notice to the court of his intention to file, or apply for leave to file, a petition in error, the court may on his application suspend execution of the sentence or judgment against him until the next term of the court, or for such period ,not beyond the session, as will give him a reasonable time to apply for such leave. ’ ’
+This is the only section that I know of which confers power upon the common pleas court to suspend the execution of its own sentence in a case like the one being considered. And it seems apparent from the reading of the section, that the suspension provided for in this section, is merely a temporary suspension, for the purpose‘’of affording the defendant a reasonable opportunity to file this petition in error in the circuit court, and to there secure a suspension of the execution of his sentence until that court disposes of his petition in error.
+By Section 7362, authority is conferred upon the circuit court to suspend execution of the sentence in this case, upon the filing of the petition in error in' that court.
+The suspension of execution of sentence which this court is authorized to make under Section 7321 is only “until the next term of the court, or for such period, not beyond the session, as will give him a reasonable time to apply for such leave.”
+It was not intended by this section to confer authority upon this court to suspend the execution of sentence until the case could be disposed of in circuit court, for at this time no petition in error has been filed in the circuit court, and this court has no means of knowing when the circuit court will be likely to dispose of the case if a petition in error is filed in that court, and this court has no control as to time of hearing of the case in circuit court, if one should be filed.
+, It is reasonable to suppose that the Legislature intended that the court having authority over the case should have authority over the suspension of the execution of the sentence, and that authority, as I have said, is expressly conferred upon the circuit court by Section 7362, which reads as follows:
+“Upon the filing of such petition in error in the Supreme Court, the execution of sentence shall, in eases of felony, be thereby suspended; and in cases of misdemeanor, the court or judge allowing the motion shall order such suspension. But no proceeding in error in any other court shall suspend execution of sentence, unless in capital cases, such suspension be for good cause shown, and on motion, and notice to the prose.cuting attorney of the proper county, ordered by a majority of the judges of the circuit court of the county, and in other cases in such court by one judge thereof, and in cases in the common pleas court by one of the judges of such court,”
+Again, this court, under Section 7321, could not suspend execution of sentence until the case could be heard in the circuit court, for the reason that the circuit court is not now in session in this county and will not be in session again until several months after the expiration of the present term of this court.
+I conclude, then, that this court has authority to suspend execution of sentence only temporarily; but the defendant does not desire such temporary suspension of sentence, unless this court has authority to admit him to bail during such temporary suspension.
+Has the court such authority?
+Section 7325, which was enacted at the same time that Section 7321 was passed, and which is a part of the same act, provides that—
+“When a person is sentenced for a felony, and execution of sentence is suspended, the court shall order him into the custody of the sheriff, to be imprisoned until the case is disposed of. ’ ’
+These two Sections 7321 and 7325 being a part of the same act, and being construed together, confer authority upon this court to grant a temporary suspension of execution of sentence, and in felony cases prohibits this court from admitting tho defendant to bail upon such temporary suspension of execution of sentence.
+But it is claimed by the defendant that authority is conferred upon this court to admit the defendant to bail upon, such temporary suspension of execution of sentence, by the latter part of Section 7362, which reads as follows:
+“In all eases of conviction for felony, except for murder in the first and second degree, where sentence has been or may hereafter be suspended, the judge who presided on the trial of the case may, in his discretion, admit the defendant to bail, conditioned that the defendant will prosecute his petition in error to effect and surrender himself to the custody of the proper officer of the county in which the conviction was had, in case such judgment against him be not revered or a new trial ordered, ’ ’
+This quotation is a part of a section which provides for suspension of sentence on petition in error; but does not refer in any way to any other suspension of sentence.
+It will be noticed that the bail provided for is conditioned “that the defendant will prosecute his petition in error to effect,” etc., implying that a petition in error must be filed at the time of admitting to bail.
+It is true that it uses this language: “In all cases of conviction for felony,” etc., but what precedes this language in that section, and what follows it, appears to me to plainly require a construction of that section which confines its operation to a suspension of sentence upon petition in error.
+If it was construed to apply to any other suspension of sentence, and to mean that this court could admit to bail upon temporary suspension, under favor of Section 73-21, then it would be in direct'contradiction of Section 7325, which provides “that upon a temporary suspension of execution of sentence the court shall order the defendant into the custody of the sheriff. ’ ’
+Such a construction of Section 7362 is a strained construction, and it does not seem to. me that it was meant by that section to annul the provision in Section 7325, which requires the defendant to be confined in jail during the temporary suspension of sentence.
+All of these sections being read and construed together mean simply this, that where a defendant has been tried in the common pleas court, found guilty of a felony, and sentenced by that court, then the court has authority, under Section 7321, to temporarily suspend the execution of sentence in order that the defendant may have time to begin his case in circuit court; but during such temporary suspension of sentence the defendant is required by Section 7325, to be confined in the jail of the county; then the defendant may secure, under Section 7362, a suspension of the execution of sentence in the circuit court, after filing his petition in error therein, until the circuit court can hear the case, and then after the circuit court has determined that there is such probability of error in the trial of the ease as warrants a suspension of execution of sentence, then the trial judge is given authority, under Section 7362, in his discretion, to admit the defendant to bail until the expiration of the suspension of sentence made by the circuit court.
+Lee Stroup, Prosecuting attorney, and George Chamberlain, for the state.
+W. B. Johnson, J. P. Pawley and Mr. Fisher, for defendant.
+Until the circuit court has suspended execution of sentence and fixed the time of such suspension, the common pleas court can not know how long to admit to bail even if it had authority to do so, and I think I ought not to take a bond conditioned “that the defendant will prosecute his petition in error to effect,” before s,uch petition in error has been filed.
+In this case there is no necessity for a temporary suspension; that I would gladly grant; but the only object of suspension of sentence is to procure the release of the defendant on bail, and as I have no authority to admit to bail until the circuit court has suspended sentence, I must deny the motion of the defendant.
+I am not doing so on the ground that admitting to bail at this time is discretionary with the court, but I am doing so solely on the ground that this court has no authority at this time to admit to bail.
