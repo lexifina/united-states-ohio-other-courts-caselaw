@@ -2,7 +2,7 @@
 court: "Cuyahoga County Court of Common Pleas"
 docket: "438880"
 decided: "1945-05-18"
-citations: ["52 Ohio Law Abs. 207", "52 Ohio Law Abs. 218", "58 Ohio Law Abs. 449"]
+citations: ["52 Ohio Law Abs. 207"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["SQUIRE, etc., Plaintiff, v. GUARDIAN TRUST COMPANY, et, Defendants."]
 source_url: "https://static.case.law/ohio-law-abs/52/cases/0207-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1749189
-cites_cases: ["100 Oh St 251", "112 Oh St, 526", "133 Oh St 111", "136 Kan. 736", "143 Oh St. 515", "144 Oh St 266", "176 F., 797", "176 Fed. 197", "2 Ohio Supp. 152", "24 Oh St, 182", "40 Oh St 111", "49 Oh St 60", "52 Oh St 487", "55 N. E. 2d 805", "57 Oh St 169", "58 N. E. 2d 651", "66 N. E. 2d 651", "66 Oh St, 166"]
+cites_cases: ["100 Oh St 251", "136 Kan. 736", "176 F., 797", "176 Fed. 197", "24 Oh St, 182", "40 Oh St 111", "49 Oh St 60", "66 Oh St, 166"]
 ---
 
 # Squire v. Guardian Trust Co.
