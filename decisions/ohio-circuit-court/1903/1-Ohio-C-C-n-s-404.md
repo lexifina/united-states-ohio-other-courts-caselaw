@@ -1,0 +1,45 @@
+---
+court: "Ohio Circuit Court"
+decided: "1903-05-26"
+citations: ["1 Ohio C.C. (n.s.) 404"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Winch, J.; Hale, J., and Marvin, J., concur."]
+parties: ["Adam Schaeffer v. Joseph Clauda and Lena Clauda."]
+source_url: "https://static.case.law/ohio-cc-ns/1/cases/0404-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 391336
+cites_cases: ["21 Ind. App., 621", "22 O. S., 32", "56 O. S., 162", "6 Ohio, 159", "65 Minn., 500", "83 Cal., 10"]
+---
+
+# Schaeffer v. Clauda
+
+## Majority
+
+Plaintiff is the owner of the northerly half of sub-lot number 16, in Robertson’s subdivision of part of original lots numbers 329 and 332 in the city of Cleveland, Cuyahoga county, Ohio, and defendants own the southerly half of said .lot.
+Said lot number 16 is on the northwesterly corner of Pier and Beaver streets, and. is about 165 feet deep, so that the defendants own the corner lot and plaintiff has the inside lot. He claims a right of way over the rear 12 feet of defendant’s premises to the rear portion of his lot, with the right at all times to pass and re-pass through 'and over the same on foot and with teams.
+Plaintiff bases his claims upon two grounds: first, by grant, and second, by prescription.
+As tending to prove his claim by grant plaintiff traced the title to both parts of the lot from a common owner and showed that on the 10th day of June, 1872, one Sanford L. Kennedy was the owner of the whole lot and on said day contracted in writing to sell it to Adam Burghardt and Adam Schaeffer, it being stipulated in the contract that “the said Kennedy is to make deeds to said parties of the second part, when the conditions of this contract have been complied with as follows, to-wit: Adam Burghardt is to have the south one-half of said lot No. 16 and Adam Schaeffer the north one-half of said lot, and the parties of the second part hereby agree to open an alley twelve feet wide in the rear of said lot.”
+The parties went into possession under this contract and on January 20, 1873, deed was made to plaintiff of his half of the ot, containing the clause: “The grantee hereby agrees to open an Bley twelve feet wide in the rear of said lot.” .
+A deed to the corner lot containing the same agreement coneemmg an alley was made to Adam Burghardt, and he built a house upon his lot in 1873 and a coal-shed and out-buildings upon the .'.rear part of his lot, leaving thirteen feet in the fear thereof; that is, he built nothing upon the twelve feet which he had agreed to bpen as an alley.
+On Beaver street he built a fence’back to his coal-shed and in ‘the rear of his coal-shed he placed a gate, closing the twelve-foot istrip which was to be opened as an alley.
+Plaintiff built a house the following year (1874), so constructing it as to leave no driveway from Pier street on either side of bis lot. He built a coal-shed upon the extreme rear of his lot Opening to the alley-way or twelve-foot strip in the rear of Burg/hardt’s lot. The gateway on Beaver street and the coal-shed on the plaintiff’s lot have continued down to the present day, so that it is apparent that no “alley twelve feet wide,” has ever been opened.
+May 4, 1874,-Burghardt sold the comer lot to-Neal, inserting in the deed the same clause about opening an alley; and on March 7, 1883, Neal sold to defendants, but the last deed contained no clause about the alley.
+The agreement to open a twelve-foot alley contained in the several. deeds referred to must' mean a public alley, yet from the beginning the owners of both.lots have uniformly denied the public any rights in said twelve-foot strip of land.
+Jones on the Law of Real Property in Conveyancing, Sec. 530, says:
+“A reservation expressed to be in favor of the public confers no rights in- favor .-of any one except the grantor, though there are intimations in some eases that such a reservation is valid in favor of the public. The reservation in such case may operate as an exception from the grant, and as notice to the grantee of adverse claims or rights as to the thing reserved.”
+The plaintiff has not sued as one of the public for the opening of this alley. By his own -acts -in building upon that part of th alley which he agreed to open upon his own lot he has barred himself from claiming the twelve feet to be a public alley, and applying the rule laid down by Jones, ahove referred to, the condition, reservation or exception contained in the deeds to the comer lot confer no rights in favor of t'he plaintiff. It thus appears that so far as he rests his claim upon a grant, the plaintiff must fail.
+To establish his rights by prescription, plaintiff must prove that the use and enjoyment of what is claimed as an easement was “adverse, under a claim of right, exclusive, continuous and uninterrupted, besides being within the knowledge and with the acquiescence of the owner of the estate over which the easement is claimed.”
+Cleveland, etc., Ry. Co. v. Huddleston, 21 Ind. App., 621; Paine v. Skinner, 6 Ohio, 159; McNeely v. Langan, 22 O. S., 32-37; Pavey v. Vance, 56 O. S., 162.
+The testimony is uncontradieted that plaintiff from the time he built his coal-shed in 1874, down until t'he defendants purchased in 1883, claimed the right to and did use the alley-wav in order to put in his coal; his milkman and others delivering goods to him used it. Both he and his wife testify that they had a key to the gate on Beaver street, which was the only key to it, although defendants say the gate was never locked after they purchased the comer lot until 1899. This use was not only adverse, hut was acquiesced in by Burghardt, who first owned the comer lot, as shown by the manner in which he located his coal-shed and' out'-buildings, leaving thirteen feet in the rear of them leading to plaintiff’s coal-shed.
+Plaintiff’s use of the alley-way can not be referred to a claim ■on his part that the premises in dispute was a public alley. Such inference is rebutted by the maintenance of the gate and location •of plaintiff’s coal-shed.
+The defendants testify that a day or two after they moved onto -the comer lot in 1883 they observed the plaintiff using the alley for access to his coal-shed. They say that they asked him why he was doing it and he replied that he had a right to — that it was in his deed. They replied that' it was not in their deed, but so long as the plaintiff was neighborly he might use the alley. All this conversation was denied by plaintiff and his wife; but assuming that it took place, it shows that plaintiff then claimed the right t'o use the alley and defendants acquiesced in it. It does not show that plaintiff for one moment admitted that he had no right to use the alley, or sought, desired or accepted the permission ■of defendants to use it. He so stood upon his rights that, defendants say, they consulted their lawyer, who looked up former •deeds in their chain of title and gave them actual knowledge of the agreement for an 'alley contained in the deed to Burghardt .and others, of which the law held them 'to have constructive notice. They had notice of plaintiff’s claim before they purchased, for 'they must have observed the location of his house and coal-shed, with no access to the latter from Pier street; the location of the ■coal-shed and other buildings on their own tot, leaving an alleyway leading directly to plaintiff’s coal-shed and necessarily showing signs of travel to it from Beaver street. They do not state that plaintiff made any reply to them when they told him he might use the alley so long as he was neighborly.
+J. H. Hardy, W. T. Clark, for plaintiff.
+T. H. Johnson, for defendants.
+Plaintiff continued to use the alley without objection from the defendants until November 7, 1899, and we find from the evidence that plaintiff’s use of the alley for the purpose of putting coal into his coal-shed for a period of twenty-five years was “adverse, under a chain of right, exclusive, continuous and uninterrupted, besides being within the knowledge and with the acquiclaimed,” within the rules laid down in the authorities above referred to, and that his prescriptive right to such use is established.
+It can not be claimed that because t'he use of the alley was not d'aily, but only occasional, it was not continuous.
+“If the claimant of an easement in real property needs its use from time to time, and so uses it, there is a sufficiently continuous use t'o be adverse, although it is not constant.”
+Swan v. Munich, 65 Minn., 500.
+Hesperian L. & W. Co. v. Royers, 83 Cal., 10.
+It appears that on November 7, 1899, defendants completely obstructed said way by moving a barn thereon, which prevents plaintiff from using said way for access to his coal-shed. It is the order of the court that said barn be so moved as to restore to plaintiff reasonable access to his coal-shed, and defendants are enjoined from interfering with plaintiff’s use of said twelve-foot strip of land in the rear of their lot for access to his said coal-shed.
