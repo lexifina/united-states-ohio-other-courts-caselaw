@@ -1,0 +1,28 @@
+---
+court: "Ohio Circuit Court"
+decided: "1894-01"
+citations: ["8 Ohio C.C. 253"]
+reporter: "ohio-cc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Smith, Swing and Cox, JJ."]
+parties: ["Wilson Saffin v. Jos. C. Thomas, Executor, et al."]
+source_url: "https://static.case.law/ohio-cc/8/cases/0253-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1501389
+---
+
+# Saffin v. Thomas
+
+## Majority (Smith, J.)
+
+Smith, J.
+We are of the opinion that we would not be justified in reversing the judgment rendered in this case, on the ground that the verdict therein was manifestly against the weight of the evidence. At first sight it might appear that the evidence offered on the part of the plaintiff as to the value of the services rendered by him to Mr. Swift, would clearly show that a recovery should have been had for something over and above the amount which had been paid thereon — $500. But an examinátion of this evidence discloses the fact that not one of the witnesses of the plaintiff, except himself, had any actual knowledge of the amount or character of the services so rendered, and that they only testified as experts in answer to a hypothetical question put to them, which assumed that such services were of a certain character. The other evidence, in the case clearly shows that these assumptions in the question were not at all correct in several very material respects, and the value of the services as fixed by these experts does not apply to the case as actually proved; and it can not be properly claimed that the testimony given by the plaintiff himself as to the value of his services, manifestly outweighs that of the attending physician, who was called by the defendant as a witness, both as an expert, and having personal knowledge of the services rendered, and of their value; and whose evidence fully justified the verdict as rendered.
+2. The bill of exceptions shows that “counsel for plaintiff offered evidence,” (without stating by whom), “tending to show the financial ability of Briggs Swift prior to his death, that he was a very wealthy man.” This w'as refused, and plaintiff excepted.
+The question whether in a case like this it is proper to receive evidence as to the pecuniary condition of a defendant, at the time the services were rendered, is an interesting one, and not free from doubt. It is a mattter of general knowledge that in practice, to some extent at least, professional men, in fixing a compensation for their services, do take into account, and rightly, it may be, the ability to pay of those to whom such service is rendered. In many cases patients or clients are entirely unable to pay the fair, ordinary and reasonable value thereof, and a wholly inadequate, or no charge at all, is made therefor. But the fact that this is so, would not tend to show that the amount, if any charged, would be the reasonable value thereof. This must be determined in great measure by proof of what such services rendered by men of skill in. their profession command at the place where they are rendered ; that is, what sum in accordance with the usage and practice of those who render such service and those for whom they are rendered is asked and paid therefor.
+We find no authority directly in point. The case from 35th Lousiana Annual, 796, seems to sustain the view that such evidence is admissible, but no authority is cited to sustain it. It is simply said in such case that the amount of the patient’s estate and his consequent ability to pay also enter into the calculation and influence it.
+In Wade’s Actions and Defenses, Vol. 3, page —, it is said as to the recovery on a quantum meruit: “ Where the contract is indefinite as to the amount to be paid, the reasonable value of the services may be recovered, and this value is generally ascertained by the usual price paid for like services at the time and place of performance.” The old Supreme Court of this state, in a case reported in Wright’s Reports, page 705, states the law thus: “ The claim is for what the services rendered were reasonably worth. You have a right to the customary wages. These can be shown by evidence of the usual price paid for such services in the place where these services were rendered. The rule is general, and fixes the compensation, where no price is agreed, at the common price for like services.” * * * “The plaintiff may recover what such services are reasonably worth, or that compensation .usually paid for like services at the time and place when and where those were rendered.”
+It would seem, then, that the question in such case is, what is the reasonable value of such services? In determining this, the jurors are authorized “to take into consideration the exhausting studies, the time consumed, and the expenses incurred to acquire great professioxxal knowledge and distinction, or great mechanical or other skill:” 34 Maine, 350. But when this reasonable value is found, the plaintiff is entitled to a verdict therefor, whether the person to whom the services are rendered is rich or poor.
+J. T. Harrison, for Dr. Saffin.
+Ramsey, Maxwell & Ramsey, for the estate.
+But if it be conceded that there are cases in which it might be competent to offer testimony as to the pecuniary ability of the person to whom the services are rendered — as, for instance, where it was shown that the usual price charged and paid for such services varied with the pecuniary ability of the defendant, no such foundation was laid in this case, and the evidence was not admissible. The judgment will be affirmed.
