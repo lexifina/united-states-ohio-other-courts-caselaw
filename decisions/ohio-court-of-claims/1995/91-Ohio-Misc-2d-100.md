@@ -1,0 +1,41 @@
+---
+court: "Ohio Court of Claims"
+docket: "V89-85434"
+decided: "1995-03-24"
+citations: ["91 Ohio Misc. 2d 100"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dale A. Thompson, William A. CarRoll and Steven A. Larson, Commissioners, concur."]
+parties: ["In re DOTSON."]
+source_url: "https://static.case.law/ohio-misc-2d/91/cases/0100-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6710918
+cites_cases: ["17 OBR 309", "17 Ohio Misc.2d 9", "310 So.2d 657", "455 N.E.2d 1374", "478 N.E.2d 1327", "619 N.E.2d 1218", "63 Ohio Misc.2d 68", "8 OBR 63", "8 Ohio Misc.2d 4"]
+---
+
+# In re Dotson
+
+## Majority
+
+Opinion and Order of Three-Commissioner Panel.
+This cause came to be heard before this panel of three commissioners on October 6, 1994 upon applicant Paul G. Dotson’s June 24, 1994 objection and notice of appeal from the May 27, 1994 decision of the single commissioner.
+The applicant, counsel for the applicant, and the Attorney General attended the hearing and presented the testimony of the applicant and oral argument for this panel’s consideration.
+The single commissioner had denied the applicant’s claim for work loss pursuant to R.C. 2743.52(A) because the commissioner found that the applicant failed to prove that he incurred work loss by a preponderance of the evidence. Specifically, the single commissioner found work loss must be based upon the claimant’s employment at the time of the criminally injurious conduct — from which the applicant had no earnings.
+At the hearing, the applicant testified that he worked for A.E.I. Group, Inc. during the first quarter of 1988, where he earned approximately $22,000 as a broker. In May 1988, the applicant started working with OMNI Financial Management to restructure an inactive intrastate brokerage house, Columbia Securities. The applicant stated that he received no salary for his work to take Columbia Securities active; however, the applicant stated that the agreement was that he would become president and general manager of Columbia Securities if and when Columbia became a licensed broker-dealer. The applicant also testified that he planned to take Columbia active in the first quarter of 1989 and would have earned $100,000 to $150,000 in 1989 but for the occurrence of the criminally injurious conduct. In addition, the applicant testified that he earned approximately $12,000 in commissions as a broker with Dublin Securities from September 1989 until December 1989, even though he was still disabled. Again, from January 1990 to March 1990, the applicant earned approximately $25,000 in commissions with Dublin Securities before resigning from that employment.
+R.C. 2743.51(G) defines “work loss” as follows:
+“(G) ‘Work loss’ means loss of income from work that the injured person would have performed if he had not been injured and expenses reasonably incurred by him to obtain services in lieu of those he would have performed for income, reduced by any income from substitute work actually performed by him, or by income he would have earned in available appropriate substitute work that he was capable of performing but unreasonably failed to undertake.”
+In In re Caminiti (1984), 17 Ohio Misc.2d 9, 17 OBR 309, 478 N.E.2d 1327, a judge of the Court of Claim held as follows:
+“Thus, while claims for work loss were denied in the above cases, the court recognized that where the victim has a history of employment, and there is the likelihood the victim would have returned to work had he not been injured, that a solid basis had been established upon which to predicate a work loss claim.”
+Similarly, in In re Zenni (1992), 63 Ohio Misc.2d 68, 619 N.E.2d 1218, a panel of three commissioners held that, based upon a case-by-case basis, it is reasonable to consider a victim’s extended work history when calculating dependent’s economic loss. Although Zenni involved a question of whether the two-year or five-year work history of the victim should be used to calculate dependent’s economic loss, implicit in that holding was a recognition of the court’s previous determination in Caminiti that a victim’s “work lifestyle” or history — and not just the specific employment held at the time of the criminally injurious conduct — should be considered in calculating work loss. See, also, In re Walker (July 29, 1983), Ct. of Cl. No. V81-55111tc, unreported; In re Woodfork (Aug. 2, 1984), Ct. of Cl. No. V83-56289te, unreported.
+R.C. 2743.52(A) places the burden of proof on the applicant to satisfy the Court of Claims commissioners that the requirements for an award of reparations have been met by a preponderance of the evidence. In re Rios (1983), 8 Ohio Misc.2d 4, 8 OBR 63, 455 N.E.2d 1374, paragraph one of the syllabus. Black’s Law Dictionary defines “preponderance of evidence” as follows:
+“Evidence which is of greater weight or more convincing than the evidence which is offered in opposition to it; that is, evidence which as a whole shows that the fact sought to be proved is more probable than not. Braud v. Kinchen, La.App., 310 So.2d 657, 659.”
+Ordinarily, a prima facie claim is made when the applicant files an application in accordance -with R.C. 2748.56 and submits such additional material, information, and evidence as required by R.C. 2743.59. In re Williams (Mar. 26, 1979), Ct. of Cl. No. V77-0739jud, unreported.
+From review of the file, with full consideration given to the testimony and oral argument adduced at the hearing, as well as the court’s prior determinations in Caminiti and Zenni, this panel finds that the findings of fact and conclusions of law of the single commissioner fail to properly address the issues and interpret the law'. In our opinion, it is reasonable to consider the applicant’s earnings as a stockbroker both before and after the criminally injurious conduct as a basis for calculating work loss. Medical documentation in the claim file substantiates that the applicant was totally disabled from December 28, 1988 until December 20, 1989. In addition, employment documentation corroborates the applicant’s testimony that he was employed to structure and take into active operation a somewhat speculative business venture, Columbia Securities, an intrastate broker-dealer, of which he would serve as president and general manager. However, as a result of the applicant’s injury, this business never got off the ground, so applicant cannot substantiate his claims that he would have earned considerably more as manager of a brokerage house than he had previously earned as a stockbroker. Nevertheless, the file does contain sufficient evidence of the applicant’s consistent earnings as a stockbroker from 1987 to 1990 upon which to calculate work loss. Tax records indicate that the applicant earned $22,699.46 in miscellaneous income from A.E.I. Group in 1987 and $21,919.49 in 1988 and, from Dublin Securities, Inc., $11,987.50 in 1989 and $25,537.33 in 1990. Accordingly, this claim will be remanded to the single commissioner for further determination consistent with the foregoing discussion and referred to the Attorney General for calculation of work loss. In calculating the applicant’s work loss, the Attorney General shall consider the documentation of earnings contained in the claim file, as well as any other relevant documentation that may be obtained, and shall consider whether and to what extent the applicant’s work loss was recouped from other persons, including collateral sources. The May 27, 1994 decision of the single commissioner shall therefore be reversed.
+IT IS THEREFORE ORDERED THAT:
+1. The May 27,1994 order of the single commissioner is REVERSED;
+2. This claim is remanded to the single commissioner for further determination and referred to the Attorney General for calculation of work loss and a new finding of fact and recommendation to be filed with the court on or before May 23, 1995;
+3. The applicant may respond to the new finding of fact and recommendation within twenty-one days after it is filed by the Attorney General;
+4. Costs assumed by the reparations fund.
+Judgment accordingly.
+Dale A. Thompson, William A. CarRoll and Steven A. Larson, Commissioners, concur.
