@@ -1,0 +1,32 @@
+---
+court: "Hamilton Circuit Court"
+decided: "1889-01"
+citations: ["2 Ohio Cir. Dec. 382"]
+reporter: "ohio-cir-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Swing, Cox and Smith, JJ."]
+parties: ["SOL. WEIL v. STATE OF OHIO."]
+source_url: "https://static.case.law/ohio-cir-dec/2/cases/0382-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1618390
+cites_cases: ["46 O. S.. 450"]
+---
+
+# Weil v. State
+
+## Majority (Smith, J.)
+
+Smith, J.
+At the April term, 1888, of the court of common pleas of this county, the plaintiff in error was indicted for a violation of the second section of an act passed May 4, 1885, entitled “an act to regulate conditional rates” (rents?) "and sales of personal property, and to provide for filing instruments pertaining to the same with certain officers, and making a violation thereof, a misdemeanor.”
+C. W. Baker, for plaintiff in error.
+W. Littleford, assistant pros, att’y, for the state.
+The indictment charged, that on November 9, 1887, Weil sold certain articles of personal property therein described, to fcne A. B., she agreeirig to pay him therefor $41.00, viz., $10.00 in cash, and the residue ($31.00) in equal weekly installments of $1.25. That in accordance with said agreement, she paid thereon $10.00, the cash payment, and $11.50 additional, in all the sum of $21.50. That on February 18, 1888, the defendant unlawfully took possession of the property so sold by him, without tendering or refunding any of the money so paid to him by said purchaser, but retained the whole thereof, which was greatly in excess of a reasonable compensation for the use of said property.
+The defendant demurred to this indictment on the grounds that it did not charge any offense against him; and that the statute on which it was based was unconstitutional. The court overruled the demurrer, to which the defendant excepted. Fie then entered .a plea of guilty, and filed a motion in arrest of judgment based on the same grounds, which also was overruled, and exceptions duly taken, and the court then adjudged and sentenced the defendant to pay a fine of $5.00 and the costs, and the defendant now seeks the reversal of this judgment.
+There is no claim that the indictment is informal, or that it does not properly charge an offense under the section of the statute, if that law be a valid one. The contention of the counsel for the plaintiff in error is, that it is unconstitutional and void, and first, for the reason that it does not comply with, and is in contravention of the provisions of sec. 16, art. 2 of the constitution, which says that “no bill.shall contain more than one subject, which shall be clearly expressed in its title.”
+Even if this be so, it can not avail the plaintiff in error, for as held in the case of Pim v. Nicholson, 6th O. S., 177, this provision is directory merely, and the supervision of its observance is left to the general assembly.
+It is also urged that it is invalid as a statute which impairs the obligation of contracts. As the transaction and contract set out in the indictment was had and entered into long after the passage of the law in question, we can not see how this can be the case. According to well settled principles of law, it must be conclusively presumed that the contract was made in view of this statute, which in effect became a part of the agreement of the parties, and the law is not therefore open to this objection in this case. It is unnecessary to decide whether it would be valid as to contracts made before its passage, but we suppose that it was prospective, and perhaps only applied to those entered into after it became a law.
+It is further claimed that the provisions of this section, which make such a vendor liable to a criminal prosecution, when he retakes the property so sold, without tendering or refunding to the purchaser the money paid by him, less a reasonable compensation for the use of the property,” which shall in no case exceed fifty per cent, of the amount so paid, is so indefinite and uncertain as to the amount that may be retained by the vendor, as, to make it wholly invalid as a criminal statute. That it imposes upon him the duty of determining at his peril what is a reasonable compensation for such use — that this should be fixed and determined by the statute itself, and not be left to the varying judgments of different tribunals to determine this.
+We think, however, that this claim is not well founded. Though it be true that different juries on the trial of a defendant, might, on substantially the same state of facts, differ from, each other as to what would be a reasonable compensation for the use of such property, this is no sufficient reason for holding that a statute of this character is therefore invalid. If so, many criminal statutes would fall. Such provisions are common, and many instances can be cited quite analagous to this. Questions of intent, purpose and knowledge of the defendant are essential elements of the crime charged against him in many cases, and the facts as to these must be found by the jury, and different juries might differ greatly as to those questions.
+By sections 6892, Rev. Stat., it is made an offense to carry a concealed weapon. But by sec. 7317 it is provided that the jury shall acquit the defendant, if it be shown that he was engaged in a lawful business, and” that “the circumstances in which he was placed were such as to justify a prudent man in carrying the weapon for the defense of his person, property or family.” Here the person carrying the weapon, has, in the first instance to decide at his peril, as in the statute under consideration, whether he is justified in so doing. Sections 6813-14-15-30, 71-7021 and 22, and many others that might be named, contain analagous provisions — and in our judgment we would be wholly without, warrant if we were to hold this statute invalid for any such reason.
+The legislature has seen proper to enact a law for the correction of an evil which undoubtedly existed. Whether all of its provisions are the wisest that could have been made, is not for the courts to say. It had tl'*e power to pass such law, unless it is in violation of some constitutional provision. This we hold is not the case,-but it can be easily understood and administered, and the judgment pf the court of common pleas will be affirmed, with costs.
