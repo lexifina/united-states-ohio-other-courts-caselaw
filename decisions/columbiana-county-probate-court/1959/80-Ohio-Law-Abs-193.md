@@ -1,0 +1,45 @@
+---
+court: "Columbiana County Probate Court"
+docket: "53845"
+decided: "1959-01-07"
+citations: ["80 Ohio Law Abs. 193"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARTIN, Estate of, In re."]
+source_url: "https://static.case.law/ohio-law-abs/80/cases/0193-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1795415
+---
+
+# In re Martin
+
+## Majority (By TOBIN, Probate Judge.)
+
+OPINION
+By TOBIN, Probate Judge.
+This matter came on to be heard on the exceptions filed by Evelyn Martin as an individual and as Executrix of the Estate of Edward T. Martin, deceased, relative to the inheritance tax chargeable on the transfer of the one-half interest in real estate in the amount of $44,225.00 within the two year period prior to death to-wit, on September 19, 1956, decedent having died on October 26, 1957. The State of Ohio, Department of Taxation was represented by the Attorney General’s Office and this matter was tried on the pleadings and evidence.
+The only evidence introduced in this case was introduced by the Exceptor, the State of Ohio introduced no evidence of any nature whatsoever. The evidence disclosed the following facts:
+That the will of Edward T. Martin was executed on June 29, 1948 and left all his property both real and personal to his wife, Evelyn, the Exceptor in the within case; that the parties had been married 38 years; that they had six children by this marriage, all living; that all the property owned by the decedent at the time of his death and by both parties, had been accumulated after their marriage. The evidence disclosed further that the decedent was a funeral director, doing a very active business in the city of East Liverpool, Ohio; that he had been in good health until July 8, 1956, when he suffered a stroke while visiting in Canada. That he was brought back to his home, and made a complete recovery. The testimony of Dr. Turner, his personal physician was that a month after the stroke, on August 21, 1956, he had examined him and found his condition to be very good except for a slight numbness of his right leg, and that he had made a remarkable recovery; his mental attitude was good and he proceeded to go back into the business as usual.
+The evidence further disclosed that Edward T. Martin died of a coronary thrombosis, or heart attack, in Florida on October 26, 1957.
+The sole evidence in this case also discloses that he and his wife on or about the 21st day of August, 1956, at the wife’s prompting, discussed the matter of his real estate, and it was discovered that the bulk of his real estate was in his name alone; that their Attorney, Joseph Cooper, was called and Mr. Martin told him he wanted one-half of all his real estate put in the name of his wife. The following is a copy of Mrs. Martin’s testimony: “I have heard him tell his friends, ‘my property is in both my name and my wife’s.’ About that time we were talking of different things, he was home more than usual. He said he thought he had better check up on his real estate. He said he knew there was some of the property just in his name alone and he had better get it in both names. Of course, as you brought out before, Mr. Martin did not have anything before we were married, and it was through my efforts that he went to school. I had to taire my baby and go home to my mother. It was through my pushing Mr. Martin before the time limit would run out. He never completed high school. He had to go to embalming school before the time limit on a high school education.
+Q. Did Mr. Martin check up on real estate, to your knowledge:
+A. Yes.
+Q. Did you assist him:
+A. Yes.
+Q. Is this deed the result of that conversation?
+A. Yes, it was at that time he was supposed to have a list of property in his name. I had never questioned him about anything because I had so many children to take care of, I didn’t have time for business affairs.
+Q. Did you call his attention to the fact as to whose name the properties were in?
+A. Yes, he seemed surprised there was that much property in his name alone. He said, T think I will call Joe up and have him take care of it.’ ”
+That all the real estate that they had acquired after 1941 was in the name of both him and his wife.
+There is remarkable little difference in the conditions of the parties as to law in this case, although there is a considerable amount of difference in the application of same in the instant case. The leading cases in Ohio in this question indicate the following rules: Sec. 5731.02-.04 it. C„ reads as follows: "A tax is hereby levied upon the succession to any property passing, in trust or otherwise, to or for the use of a person, institution, or corporation in the following cases: ....
+“(c) When the succession is to property from a resident ... by-deed, grant, sale, assignment or gift, made without a valuable consideration substantially equivalent in money or money’s worth to the full value of such property: (1) In contemplation of death of the grantor, vendor, assignor or donor;. . . .”
+Sec. 5731.04 R. C., provides: “Any transfer of property from a resident .... if shown to have been made without a valuable consideration substantially equivalent in money or money’s worth to the full value of such property, if so made within two years prior to the death of the transferror is deemed made in contemplation of death within the meaning of §§5731.01 to 5731.56, inclusive, R. C., unless the contrary is shown . . .”
+Sec. 5731.01 R. C., Definitions. Sub-Section E provides: “‘ Contemplation of Death’ means that expectation of death which actuates the mind of a person on the execution of his will.”
+Under this section of the Code a rebuttable presumption is set up, that the transfer was taxable since the decedent died within the two year period of transfer action there can be no question, but there is rebuttable presumption merely serving to shift the burden of proof to the Exceptor to satisfy the Court by preponderance of evidence that the said transfer was not made to avoid taxes and was not within the meaning of §5731.01 R. C., which defines “ ‘Contemplation of Death’ means that expectation of death which actuates the mind of a person on the execution of his will.”
+Applying the facts in the instant case, we find the following:
+That while decedent had suffered a stroke approximately six weeks before the execution of the deed in question, he had made a full recovery; that a conversation between him and his wife lead to a review of their real estate holdings and finding that property bought earlier than 1941 was in his name alone, and that all property bought after 1941 was in both names. The sole evidence in the case further indicates that the decedent had made a reasonably full recovery of his illness. A check of the inheritance tax and inventory in the case also shows there were joint and survivorship accounts in the name of both decedent and ex-ceptor and joint and survivorship United States Bonds, totaling $72,614.18. In addition thereto, there was $12,000.00 note owing to the decedent by the Martins, and a $32,000.00 note and mortgage owing to the decedent and Exceptor together, by the Wilsons. All this indicates that with the exception of the funeral business, this note of the Martins and the real estate in question, that all other properties were in the names of both husband and wife, who had been married better than 35 years. With this uncontroverted evidence as quoted above of the conversation between the husband and wife, of conversation between decedent and his attorney, and added to it the fact that he could have easily changed his will and did not, the Court can not help but find that the transfer of this real estate was made for the purposes as stated by the Exceptor, for the expressed intention of straightening out the title in the property of both husband and wife as a gift or reward for being a faithful wife and mother, of a lifetime.
+It does not come within the laws as expressed in the cases cited of attempting to make a disposal of the property, as you would in a will, prior to death. It is persuasive to the Court that a great deal of this estate was personalty which could have very easily been transferred to the Exceptor, if the decedent had merely in mind the question of inheritance taxes; that a new will could have meant a great saving in Federal Taxes; that all his property was not transferred to the wife if he were attempting to make a disposition to avoid taxes.
+Under all the evidence in the case as above expressed, the Court finds that the deed of transfer made 9/19/56 was made as a gift to his wife so that all of their real estate would be in both their.names, that it was not made in contemplation of death; the Exceptor having met the burden of proof, that the said values of the real estate represented in this said transfer of 9/19/56 is not taxable as a succession.
+Exceptions permitted to all parties.
+See Journal.
