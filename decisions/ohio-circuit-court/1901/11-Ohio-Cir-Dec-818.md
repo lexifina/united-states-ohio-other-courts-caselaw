@@ -1,0 +1,56 @@
+---
+court: "Ohio Circuit Court"
+decided: "1901-02-18"
+citations: ["11 Ohio Cir. Dec. 818"]
+reporter: "ohio-cir-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Caldwell, Hale and Marvin, JJ."]
+parties: ["Firemen’s Insurance Company v. Sam Stern."]
+source_url: "https://static.case.law/ohio-cir-dec/11/cases/0818-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1633953
+cites_cases: ["114 U. S., 309", "116 U. S. 567", "26 Ill. App., 355", "31 Pac. Rep., 111", "33 Pac., 830", "43 Pac. Rep., 935", "53 Ind., 365", "73 Ga., 718", "96 Cal., 265"]
+---
+
+# Firemen's Insurance v. Stern
+
+## Majority (Hade, J.)
+
+Hade, J.
+The defendant in error prosecuted his action in the court of common pleas upon a fire insurance policy issued to him by the plaintiff in error to recover upon merchandise which the defendant in error was-carrying in his business as a merchant and which were, during the lifetime of the policy, destroyed by fire. The petition is in the ordinary form.
+The policy contained this clause: “ This entire policy shall be void in case of any fraud or false swearing by the assured, touching any matter relating to this insurance or the subject thereof, whether before or after loss.”
+The answer alleged facts which would, under this clause of the policy, constitute a good defense to the plaintiff’s claim.
+On the first trial of the case in the court of common pleas a verdict was rendered for the plaintiff, which was set aside on motion for a new trial, not, however, on the weight of the evidence. The second trial of the case resulted in a verdict and judgm nt for the plaintiff. On error prosecuted in this court, that judgment was reversed on the ground that the court erred in overruling a motion for a new trial for the reason that the verdict was not supported by sufficient evidence.
+On the second trial of the case, the plaintiff again obtained a verdict, upon which, after the motion for a new trial had been overruled, judgment was rendered in his favor.
+Proceedings in error are now prosecuted in this court to reverse that judgment.
+The evidence in the last two trials was, in all essentials, the same. On both trials the issues were the same, and submitted on substantially the same evidence.
+At the close of the testimony on the last trial, counsel for plaintiff in error requested the court to direct a verdict in his favor on the ground that the circuit court had held that upon the facts then shown by the evidence, the plaintiff was not entitled to a verdict. This the court refused to do, and an exception was noted. After verdict, a motion for a new trial was interposed, and one of the grounds assigned in support of said motion was, that the verdict of the jury was not supported by sufficient evidence. This motion was overruled, and an exception taken.
+It is insisted by the plaintiff in error that effect should have been given to the former judgment of the circuit court, either by directing a verdict at the close of the evidence as requested, or by sustaining the motion for a new trial.
+By Sec. 5305, Rev. Stat., it is provided that a verdict shall be vacated and a new trial granted for certain specified causes, one of which is (Subdivision 6), that the verdict of the jury is not sustained by sufficient evidence.
+Our judgment as recorded, was that there was error of law in refusing a new trial for the reason that the verdict was not supported by sufficient evidence. For this court, that judgment is the law of the case until the facts are changed either by additional evidence material to the issue or our judgment set aside by a higher court.
+If the facts established by the evidence as shown by the record now before this court, are precisely the same as those established by the evidence on the former trial, then precisely the same question was presented to a trial court by motion for a new trial after the last verdict as after the former verdict; and, if the overruling of the first motion was an error of law, so was the overruling of the last motion. On precisely the same facts, we cannot adjudge that the ruling on the one was error, and sustain the other. We rather adhere to the law of the case as announced on the former hearing.
+We are of the opinion that as the evidence was unchanged, the trial court should have directed a verdict for the plaintiff in error as requested.
+Such holding is supported by many authorities and by good reasoning. Dodge v. Gaylord, 53 Ind., 365. It appears in this case that the judgment of the circuit court in favor of the plaintiff was reversed by the Supreme Court upon the evidence then in the record, upon the ground that upon the facts proved, the appellant was not entitled to recover; and the case was remanded for a new trial. The case was then re-tried in the circuit court upon the same evidence contained in the record upon which the case was reversed, and at the conclusion of the evidence the trial court directed a verdict for the defendant. This, on a second appeal to the Supreme Court, was affirmed. The second paragraph of the syllabus reads:
+“ The decision of the Supreme Court, rendered upon a given state of facts, becomes the law of the case as applicable to such facts; if the cause be remanded for a new trial, the parties have the right to introduce new this evidence and establish a new state of facts; and when this is done, said decision ceases to be the law of the case, and the court, in the trial of such case, is not conclusively bound by such decision, but should apply the law applicable to the new and changed state of facts; but if such cause be submitted to the court or jury for a re-trial upon the same identical facts on which said decision was rendered, such decision remains the law of the case, and the trial court must apply the law as laid down by the appellate court to the facts so submitted to the court or jury.”
+McFarland v. Washburn, 26 Ill. App., 355. It is said in the opinion :
+“ When a cause is reversed by this court for the reason that the evidence is not sufficient to sustain the finding of the court below, and upon the new trial it is again brought up for review, we shall adhere to the former holding, unless there is a substantial difference in the evidence introduced upon the two trials. The mere fact that upon a second trial the jury may have again found as upon the first trial, cannot avail, unless we can see , that they have had before them additional evidence, substantially different, and controlling in its character.”
+Furth v. Snell, 13 Wash. Rept., 660 ]43 Pac. Rep., 935]. On page 664 it is said in this case:
+“ This cause was before this court on a former occasion on appeal from a judgment in favor of the present appellants, and the judgment of the trial court was then reversed, and the cause remanded for the reason that it appeared to us that the evidence was entirely insufficient to sustain the verdict of the jury. The case was re-tried in the court below and we are again called upon to determine practically the same question which was determined on the first appeal. The facts appearing in the record on the first appeal are quite fully set forth in the opinion of this court reported in 6 Wash. at page 542 [33 Pac., 830]. Now, if the facts disclosed by the record now before us are substantially the same as those presented by the record on the first appeal, the former decision of this court established the law governing this case, and was a final adjudication and determination of the question now under consideration.” Citing a large number of authorities.
+Brusie v. Gates, 96 Cal., 265 [31 Pac. Rep., 111]. The third paragraph of the syllabus is as follows:
+“ Where the testimony of a constable as to what he did to effect an alleged attachment of real estate is substantially the same upon a second trial as upon a former, and upon a former appeal was held insufficient to prove notice to the occupant of the land, the decision as to the effect of such testimony is the law of the case, and it is conclusively insufficient upon the second trial.”
+Chaffin v. Taylor, 116 U. S. 567 [6 S. Ct. Rep., 518], The head note reads:
+“ At the former hearihg of this case Chaffin v. Taylor, 114 U. S., 309, every question of law was decided which is raised by the pleadings filed below after the judgment of reversal at that hearing.
+‘1 Whatever had been decided on one writ of error cannot be re-examined on a subsequent writ of error brought in the same suit.”
+Henderson v. Central Railroad, 73 Ga., 718. It is held:
+“ This court having held that, under the facts of this case, the plaintiff was not entitled to recover, such ruling is res adjudícala; and the same case being made on another trial, a non-suit was properly granted.”
+Many other authorities might be cited to the same effec..
+We' are of the opinion that, having refused the request to direct a verdict, the motion for a new trial should have been sustained, not only by reason of the former adjudication of this court, but on the merits of the case.
+But it is claimed by the defendant in error that under Sec. 5305, Rev. Stat., as amended, this court having reversed the case on the former hearing for the reason that the verdict of the jury was not supported by sufficient evidence, are now forbidden to again reverse the case for the same reason.
+We are of the opinion that that statute (Sec. 5305, Rev. Stat.), relied upon by counsel for defendants in error has no application to the case now before the court. As appears from that section: “A new trial is a re-examination, in the same court, of an issue of fact, after a verdict by a jury, a report of a referee or master, or a decision by the court; and the former verdict, report, or decision, shall be vacated, and a newtrial granted, on the application of the party aggrieved, for any of the folowing causes affecting materially the substantial rights of such party.”
+Subdivision 6 reads: “ That the verdict, report, or decision is not sustained by sufficient evidence, or is contrary to law.”
+Recently there was added to this, Sec. 5306, 93 O. L., 217, this clause: v
+'* The same court shall not grant more than one new trial on the weight of the evidence, against the same party in the same case.”
+We think it was the plain intention of this clause of the statute, to regulate new trials in the trial court. If the trial court had once set aside, a verdict for the reason that it was not sustained by sufficient evidence, and, on a second trial, had either sustained or overruled a motion for a new trial asked for the reason that the verdict was not sustained by sufficient evidence, and we were asked to reverse such ruling of the court of common pleas, a different question would arise which it is not now necessary to decide.
+What we do hold is, that, where the trial court has, in the first instance, overruled a motion for a new trial and this court has reversed the judgment because of the error in overruling such motion, we are not precluded by this clause of the statute from again passing upon all errors appearing upon the record, including the one that the verdict is not sustained by sufficient evidence.
+The judgment of the court of common pleas is reversed, and the cause remanded for a new trial.
