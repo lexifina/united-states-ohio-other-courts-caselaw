@@ -1,0 +1,64 @@
+---
+court: "Montgomery County Court of Common Pleas"
+decided: "1934-03-01"
+citations: ["32 Ohio Nisi Prius (n.s.) 8"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In Re Liquidation Mutual Home & Savings Assn."]
+source_url: "https://static.case.law/ohio-np-ns/32/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1571788
+---
+
+# In re Liquidation Mutual Home & Savings Ass'n
+
+## Majority (Cecil, J.)
+
+Cecil, J.
+This case is pending before the court' upon a motion filed in behalf of Paul A. Warner, superintendent of building and loan associations of Ohio to dismiss the application filed in behalf of the Mutual Home and Savings Association by Thomas A. Williams, its president, by which application said association seeks to require the superintendent of building and loan associations of Ohio to file a bill of particulars in accordance with Section 687-2, General Code.
+The case was submitted to the court upon the motion and application to which we have just referred; statement of facts agreed to by counsel for the respective parties, Exhibits A and B offered in behalf of the state, to which we will hereafter refer more particularly, and the arguments of counsel.
+It is evidenced by Exhibit A that on September 28, 1933, Paul A. Warner, superintendent of building and loan associations of Ohio, with the written approval on the same date of Theodore H. Tangeman, director of commerce of the state of Ohio, found that the Mutual Home and Savings Association of Dayton, Ohio, was a domestic building and loan association and that its affairs were in an unsound condition. By reason of these findings the said association was ordered to forthwith liquidate its business and property in accordance with Section 687-21, 687-22, and 687-23, General Code.
+It is further evidenced by Exhibit B that thereafter on the 6th day of February, 1934, Paul A. Warner, superintendent, with the written approval of Theodore H. Tangeman, director of commerce, found that the liquidation previously authorized was being improperly conducted and that the interests of said liquidation were not being properly protected.
+Thereupon it was ordered by Paul A. Warner, superintendent, that possession of the business and property of said association should be taken over pursuant to provisions of Sections 687, 687-1, et seq., General Code, and said order to take over was likewise approved in writing by the director of commerce.
+On February 6, 1934, the superintendent of building and loan associations posted or caused to be posted upon the door of the Mutual Home and Savings Association a notice which reads as follows:
+“The undersigned, superintendent of building and loan associations of the state of Ohio, has this day, at 8:00 o’clock A. M., posted this notice on the door of each office of the Mutual Home and Savings Association, and all the business and property of said association are in his hands, as provided in Section 687-1, General Code of Ohio, and the title to all assets and property of said company is vested in him as of said date and time, as provided in Section 687-3 of said code.
+In Witness Whereof, I have hereunto set my hand this 6th day of February, A. D., 1934.
+(Signed) Paul A. Warner,
+Superintendent of Building and Loan Associations of Ohio.
+At 8:32 A. M. of the same date, notice was filed in this court, which reads as follows:
+“Notice is hereby given that Paul A. Warner, the duly appointed, qualified and acting superintendent of building and loan associations of the state of Ohio, pursuant to the authority conferred upon him by Section 687-1, General Code, has taken possession of the business and property of The Mutual Home & Savings Association, of Dayton, Ohio, for the purpose of liquidation.
+Such possession was taken at eight o’clock A. M., February 6, 1934, at which time notice was posted at the door of each office of such building and loan association, as required by provisions of Section 687-1, General Code.
+A true copy of said notice marked Exhibit ‘A’ is hereto attached and made a part hereof.
+In witness whereof, I have hereunto set my hand this 6th day of February, A. D. 1934.
+(Signed) Paul A. Warner,
+Superintendent of Building and Loan Associations of Ohio.
+John W. Bricker, Attorney General.
+By L. H. Mattern, Special Counsel.”
+At 4:06 P. M. of the same date the association filed the application now under consideration by which it seeks to require the superintendent of building and loan associations to file
+“a bill of particulars specifying the ground or grounds named in Section 687, General Code of Ohio on which he 'has taken possession of the business and property of the Mutual Home and Savings Association and the operative facts found by him with respect thereto.”
+Sections 687, 687-1 to 687-24, General Code, constitute what has come to be familiarly known as the Eikenbary law. It is the contention of the association that its application is filed by virtue of authority granted in Section 687-2 of the above act. Section 687 provides in part as follows:
+“If upon examination, the superintendent of building and loan associations finds that the affairs of a domestic building and loan association are in an unsound or unsafe condition, * * * * he may, with the written approval of the director of commerce, forthwith take possession of the business and property of such building and loan association.”
+Section 687-1, General Code, sets forth the duties of the superintendent upon taking possession as authorized by Section 687. Section 687-2 provides that the association
+“May within seven days after the filing of notice” as required by the preceding section
+“make application to such court for an order requiring the superintendent, within such time, not exceeding fifteen days, as may be fixed by the court, to file therein a bill of particulars specifying the ground or grounds named in Section 687, General Code on which he has taken possession of its business and property and the operative facts found by him with respect thereto.”
+Section 687-21 provides in part:
+“In lieu of taking possession of the business and prop- ■ erty of a domestic building and loan association, for any of the causes specified in Section 687, General Code, the superintendent of building and loan associations may, with the written approval of the director of commerce, for like cause or causes order any such association to proceed to liquidate its business and property.”
+This section further fixes the powers and duties of the state superintendent and the directors of the association. It also provides
+“If at any time he (state superintendent) finds that such liquidation is being improperly conducted, or that the interests therein are not being properly protected, he may forthwith take possession of the business and property of such association and complete the liquidation thereof in the manner provided in this chapter.” .
+Section 687-22 provides in part
+“Any building and loan association deeming 'itself aggrieved by an order of the superintendent of building and loan associations issued under Section 687-21, General Code, may within fifteen days after receiving such order apply to the Common Pleas Court of the county in which the principal office of such building and loan association is located, to set aside such order and enjoin the further enforcement thereof.”
+The question here presented is one of procedure involving a construction of the Eikenbary law. So far as we know there have been no decisions by the courts of this state upon the proposition here involved, and eminent counsel have cited none in their briefs.
+When the state superintendent makes a finding that an association is in an unsound condition, the Eikenbary law outlines two courses of procedure. The first, in accordance with Section 687, gives him the right to forthwith take possession of the business and property of such association and Section 687-21 provides that in lieu of such action he may order the association to proceed to liquidate its business under such conditions as are provided in that section.
+When the state superintendent exercises the first option the association may contest his action by the provision set forth in Section 687-2. If the state superintendent exercises the second option, his action may be contested by the method prescribed in Section 687-22.
+By Exhibit A to which we have previously referred, the state superintendent exercised the option to liquidate the Mutual Home arid Savings Association in accordance with the provisions of Section 687-21, generally known as Section 21 of the Eikenbary law. As we have previously said, this order was based upon a finding that the Mutual Home and Savings Association was in an unsound condition as found by the superintendent on September 28, 1933.
+In accordance with Section 687-22, the association could within fifteen days after such finding was made, have contested the action of the state by applying to this court for an injunction. The association did not avail itself of this remedy. The Eikenbary law clearly provides a method by which the association could have contested the order of unsoundness. The procedure provided for in Section 687-22 appears to be a reasonable one and by the failure of the association for more than four months to raise a question upon the finding of unsoundness, we must conclude that the association did not consider such finding open to question.
+There was no right on the part of the association to contest this finding by requiring the state to file a bill of particulars, in accordance with Section 687-2 on September 28, 1933 and none is claimed by counsel for the association. We do not consider, therefore, that the finding of unsoundness is now an issue in this case.
+By Exhibit B, to which we have heretofore referred, the state superintendent found that the liquidation previously ordered in accordance with Section 687-21 was being improperly conducted and that the interests of said liquidation were not being properly protected. It appears, therefore, that the only issue that can now be raised is the finding, by the state superintendent of improper liquidation on the part of the directors.
+The request made by the application on behalf of the association is that the court require the state to file a bill of particulars specifying the ground or grounds named in Section 687. The only provision for a bill of particulars is prescribed by Section 687-2 and this provides that said bill of particulars shall specify
+“the ground or grounds named in Section 687, General Code on which he has taken possession of its business and property and the operative facts found by him with respect thereto.”
+Referring back to Section 687, we find that when an association is in an unsound condition, the state superintendent may take immediate possession of its business and property. The only issue then to be raised by a bill of particulars is the finding of unsoundness on the part of the state superintendent and as we have already seen, the association did not choose to contest that finding at a time when the statute gave it a right to make such a contest.
+It is claimed by the association that the state has taken possession under Section 687, but this claim we consider, is not supported by the evidence. The evidence discloses that it was taken over, under and by virtue of Section 687-21 upon a finding that such liquidation was being improperly conducted, and that the interests therein were not being properly protected.
+These issues cannot be raised by filing a bill of particulars. There is, therefore, no authority to support the contention of the association made in its application. At the time this case was argued before the court, counsel for the association argued at length upon the constitutionality of the Eikenbary law. This subject was dismissed by counsel in their brief with the statement that they do not consider the constitutionality of the act to be involved for the moment. They now contend that if there is no provision for a judicial hearing, the act would be unconstitutional.
+Since this application was filed, other proceedings have been filed on behalf of the association by which proceedings the actions of the state superintendent are drawn in question. Those proceedings will be before the court in due time. We have considered only the question before us raised by the motion filed in behalf of the state to dismiss the application of the association. We do not find hereby that there is no remedy open to the association but only that the procedure adopted is not authorized by law.
+The motion filed on behalf of the state to dismiss the application of the association will be sustained.
