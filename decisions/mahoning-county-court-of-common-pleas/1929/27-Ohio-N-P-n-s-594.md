@@ -1,0 +1,37 @@
+---
+court: "Mahoning County Court of Common Pleas"
+decided: "1929-03-21"
+citations: ["27 Ohio N.P. (n.s.) 594"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bodivinac v. Sloga."]
+source_url: "https://static.case.law/ohio-np-ns/27/cases/0594-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8808471
+---
+
+# Bodivinac v. Sloga
+
+## Majority (McClure, J.)
+
+McClure, J.
+This is an action in which this plaintiff seeks to recover the balance of five hundred dollars alleged to be due her on a certain policy of insurance issued by defendant society to one Nick Bukovich, and payable to her as the widow and designated beneficiary under said policy of said decedent. The defendant admitting the membership of the decedent, Nick Bukovich, in said society, and the issue of the policy as alleged, denies that plaintiff is the widow of said decedent, and denies that plaintiff is entitled to the death benefit provided in said policy. The defendant, Hriastina Bukovich, has by leave of court filed her answer and cross petition, in which she denies the claim of plaintiff, as widow of Nick Bukovich, and asserts her own claim to said insurance money, as being in law.the widow of decedent and therefore entitled to the same.
+The case has been fully heard upon the evidence of witnesses and the exhibits, which form an important part of the record. The plaintiff relies for recovery chiefly upon the decision announced in the case of Starr v. Knights of the Maccabees, found in 6 Cir. Ct. (N. S.), at page 473, the first branch of the syllabus being as follows:
+“A woman who has occupied the relation of wife for a period of twelve years, in the honest belief that she was the wife of the man with whom she was living, which relation however was unlawful, in that he had a wife living at the time from whom he had never been divorced, is a ‘dependent,’ within the meaning of the charter and bylaws of a benefit society which authorized the designation of dependents as beneficiaries in policies of insurance issued to their members, and is, therefore, as against the lawful wife or the heirs of the assured, entitled to the proceeds of a policy of insurance issued to him by the society without notice of such relation, in which she was referred to as his wife and designated as the beneficiary, notwithstanding the policy was issued after she discovered the unlawful relation referred to.”
+The court, on page 480 of the opinion, uses this language, after reviewing a number of the decisions referred to in the opinion of the trial judge:
+“The judge of the court below cited a number of cases in which persons not the lawful wives, but made beneficiaries as such, were allowed to avail themselves of the benefit of this form of insurance, though we find no case in which it is shown that the person occupying that position was aware that she was not the true and lawful wife.”
+It may thus be deduced that while the case supports the principle that a beneficiary cannot be deprived of the insurance where she is acting in good faith and the deception is practiced by the husband or wife of sueh innocent spouse, there is no case in which the person having knowledge of or being a party to such deception can be permitted to take advantage of his or her own wrongful act. This, of course, upon the familiar principle of law.
+The rights of the plaintiff to the fund can therefore be sustained only upon the proof that she, (a) is within the classification permitted by the laws of the society; (b) is without knowledge of any fraud or deception relating to a previous marriage which would render her ineligible as a beneficiary.
+Applying these tests to the instant case, we find the plaintiff and decedent, Nick Bukovich, living together without any formality of marriage, the existence of her former marriage being known to plaintiff, during some part of the year 1923. This relation continued and existed at the time of the filing of the application and the issue of the policy of insurance under date of June 25, 1924, at which time the plaintiff’s marriage to a former husband was still in force. In August of 1925, she filed her petition for divorce, upon which an affidavit for service by publication was filed August 19, 1925, and a decree of divorce entered in her favor upon the ground of willful absence for three years and gross neglect of duty, on February 22, 1926. Her marriage to Nick Bukovich took place on March 17, 1926, shortly after the granting of said divorce, and the death of Nick Bukovich occurred on March 26, 1927.
+The objects of the United Society Srbobran Sloga, as set forth in the second clause of its constitution are:
+“Moral and cultural uplifting of its members; materially aiding and supporting its members during their sickness; burying its members in case of death, and paying death benefits to their legal and designated beneficiaries.”
+Article 12, Sec. 31, paragraph 3 of the constitution, contains the following provision:
+“Death benefits shall be paid to those beneficiaries of deceased members whose names are written in the books of the Society, and the sub-assembly of which the deceased was a member, and in no case shall the society or sub-assembly accept the names of any other beneficiaries than those of the immediate family of a member, his heirs, blood relations or a legal spouse, or of persons depended upon the member.”
+Paragraph 4, Sec. 32, provides:
+“Those persons shall be considered legal beneficiaries who are recognized as such by the law of the state in which a member died.”
+It is, of course, not contended by counsel for plaintiff that she was at any time the lawful wife of Nick Buko-vich, but it is urged that she was dependent upon him at the time of the issue of the policy and at his decease, that she had no knowledge of his former marriage, and is therefore not to be charged with any bad faith or deception in describing herself to the officers of said Society as his wife at the date of the issue of said policy of insurance.
+The policy of insurance was, of course, the contract between the parties, and like other contracts requires for its enforcement the element of good faith in its acceptance to entitle the party claiming thereunder to its enforcement.
+While there might arise upon the showing made upon this record some doubt as to the knowledge of the plaintiff as to the previous marriage of Nick Bukovich, although this is brought home to her by the testimony of several witnesses, there can be no question of her knowledge, of her own marriage and of the irregularity of her relations with the decedent at the time of the issue of said policy such as to render her conduct in holding herself out as the wife of the said Nick Bukovich an act of bad faith which will defeat her claim as a beneficiary under said policy.
+A considerable number of cases are cited by counsel on both sides, an examination of which will in the opinion of the court support the conclusion here reached.
+The petition of the plaintiff is dismissed at her costs, and a decree will be entered in favor of the cross petitioner, Hriatina Bukovich, finding her entitled to the proceeds of said policy of insurance as the legal heir of her deceased husband, Nick Bukovich. Exceptions will be preserved for plaintiff and appeal bond fixed at one hundred dollars. Decree accordingly.
