@@ -1,7 +1,8 @@
 ---
 court: "Cincinnati Superior Court"
 decided: "1855-02"
-citations: ["1 Disney (Ohio) 18", "1 Disney (Ohio) 17"]
+decided_precision: "month"
+citations: ["1 Disney (Ohio) 18"]
 reporter: "disney-ohio"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
