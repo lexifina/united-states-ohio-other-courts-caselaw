@@ -1,0 +1,26 @@
+---
+court: "Cuyahoga Circuit Court"
+decided: "1907-01-21"
+citations: ["33 Ohio C.C. Dec. 385"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Marvin, Winch and Henry, JJ.", "Marvin and Winch, JJ., concur."]
+parties: ["Colonial National Bank v. Henry F. Johnson et al."]
+source_url: "https://static.case.law/ohio-cc-dec/33/cases/0385-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1670764
+---
+
+# Colonial National Bank v. Johnson
+
+## Majority (HENRY, J.)
+
+HENRY, J.
+This cause is a consolidation of two actions brought by different banks to foreclose a single mortgage. That mortgage was given August 26, 1895, by Henry F. Johnson to George H. Ford,, trustee for Boughton-Ford Co., ostensibly to secure notes aggregating $8,000. In truth, however, Johnson (who was doing individually and in partnership different kinds of business, under different trade names) then owed his bankers, Boughton-Ford &. Co., about $6,000, an indebtedness, the amount of which,- however, soon afterwards became and has since continued to be many times that amount. The mortgage and notes for $8,000' were intended merely as collateral security to Johnson’s debt given formal expression in a supplemental mortgage executed three months afterward.
+In the meantime, however (there is some uncertainty about-the date, but we find that it was between the dates of the two-mortgages), Boughton-Ford & Co., being largely indebted to thePainesville National Bank, assigned to the latter as collateral security for their debt, the original Johnson mortgage and notes-The Painesville bank did not know the real object of the mortgage, nor did Johnson know the Boughton-Ford & Co. were thus parting with it. But in the view we take of the case the question of notice is not material.
+A long time after this transaction Boughton-Ford & Co. discounted considerable amounts of Johnson paper with Cleveland banks, including the plaintiff in this action. It does not appear that the Cleveland banks then knew of or relied on the security of the Johnson mortgage. Boughton-Ford & Co. soon afterward, in 1904, failed, and their trustees in bankruptcy hold among the bank’s assets a book account and notes against Johnson for sums in excess of the amount of the mortgage. To that extent, at least, the debts so evidenced originated about the time of the execution of the mortgage, and long prior to the acquisition by the Cleveland banks of any interest therein. Johnson is also insolvent, and the Cleveland banks and the Painesville bank respectively each claim to have a prior right to share in the security of his mortgage, and either claim will exhaust the security. The claim of the trustees in bankruptcy must obviously be postponed to those of the Cleveland and Painesville banks.
+Their relative rights are, as we view them, very simple. It is argued in behalf of the Cleveland banks, that a mortgage not being negotiable, is subject even in the hands of a bona fide holder, to all the equities between the original parties; and also that the mortgage notes in this case, inasmuch as they were assigned to the Painesville bank as security for a pre-existing debt, are subject to the same equities. "We assent to both these propositions, but we are unable to apply them here. We think that there was nothing in the transaction between Johnson and Boughton-Ford & Co. that forbade an assignment of any or all of the latter’s claims against the former, together with the security therefor. Of course the Painesville bank acquired no higher or better right to enforce the mortgage and mortgage notes than Boughton-Ford & Co. would themselves have had, i. e., to enforce them as collateral security merely. And that, in effect, is what it now seeks to do, and what it has all the time been entitled to do, because in acquiring the Johnson mortgage and notes, it acquired and has ever since retained, at least an equitable title in like amount to Boughton-Ford & Co. claims against Johnson, which the mortgage and notes were given to secure. In applying the proceeds of the mortgage to the Painesville bank’s claim, the claims of Boughton-Ford & Co.’s trustees in bankruptcy against Johnson will of course be reduced in like amount.
+The Cleveland banks’ claims stand on no better footing than that of the Painesville bank save that the Cleveland banks have possession of and undisputed legal title to the Johnson paper on which their claims to participate in the mortgage are founded. The Painesville bank had a pledgee’s right and title to the Johnson mortgage and notes. Its equity is equally strong with the Cleveland banks, and being prior in time is superior in merit.
+A decree may be drawn according to the view thus expressed.
+Marvin and Winch, JJ., concur.
