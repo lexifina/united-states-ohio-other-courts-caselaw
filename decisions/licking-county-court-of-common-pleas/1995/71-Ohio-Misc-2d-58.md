@@ -1,0 +1,44 @@
+---
+court: "Licking County Court of Common Pleas"
+docket: "94-CV-491"
+decided: "1995-06-06"
+citations: ["71 Ohio Misc. 2d 58"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CENTRAL MUTUAL INSURANCE CO. v. FALLER et al."]
+source_url: "https://static.case.law/ohio-misc-2d/71/cases/0058-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6709542
+cites_cases: ["29 OBR 264", "29 Ohio App.3d 219", "46 Ohio App.3d 66", "504 N.E.2d 1164", "545 N.E.2d 920"]
+---
+
+# Central Mutual Insurance v. Faller
+
+## Majority (GREGORY L. Frost, Judge.)
+
+GREGORY L. Frost, Judge.
+On January 11, 1993, the defendants, Priscilla Faller and Jack Faller, executed a lease with Kressell, Inc. for the rental of residential property located at 101 N. 40th St., Newark, Licking County, Ohio. The defendant, Jack Faller, never resided in the premises with the defendant, Priscilla Faller, but his name remained on the lease. Through the negligence of Priscilla Faller, the rental unit was destroyed by fire and the landlord suffered damages of $14,086. The plaintiff in this action is the insurer of the premises and is subrogated to the claim of Kressell, Inc. in the amount of $13,836.
+The plaintiff instituted this subrogation action against both defendants and obtained a default judgment against the defendant, Priscilla Faller. The matter is now before this court as a result of a stipulation of facts filed herein and motions for summary judgment filed by both the plaintiff and the defendant, Jack Faller.
+The issue presented is whether a cotenant who is not in possession or control of the leased premises can be held liable to the landlord for damages caused by the negligence of the other cotenant who is in possession and control of the leased premises. Based upon the following analysis this court answers the question in the affirmative and enters a judgment in favor of the plaintiff.
+Although the issue in this case is somewhat simple and straightforward, there appears to be no Ohio case on point. The briefs filed by the parties offer no direct assistance, and the research indicates no statutory or case-law resolution. The plaintiff argues that Ohio’s landlord-tenant law is applicable as well as basic theories of contract law. The defendant, on the other hand, maintains that the defendant out of possession and control defendant is not a tenant and cannot be held responsible under landlord-tenant principles or under the contract theories advanced by the plaintiff.
+R.C. 5321.01(A) easily disposes of the defendant’s assertion that he is not a tenant. R.C. 5321.01(A) defines a tenant as “a person entitled under a rental agreement to the use and occupancy of residential premises to the exclusion of others.” Regardless of what arrangements may have been reached between the two cotenants, the written lease gave the defendant, Jack Faller, the right to use and occupy the premises. And, certainly, the rights conferred by the terms of the lease to the use and occupancy of the residential premises were paramount and exclusive to all others except the other cotenant. There is no question but that the defendant, Jack Faller, was a “tenant” as defined by Ohio law regardless of the fact that he chose not to exercise his rights to use and reside in the premises.
+The plaintiff claims that the obligations imposed by R.C. 5321.05(A) require that the defendant be found liable to the landlord for the damages incurred. It is true that R.C. 5321.05(C) provides for tenant liability if the tenant obligations are not met. R.C. 5321.05(C) states:
+“If the tenant violates any provision of this section, * * * the landlord may recover any actual damages that result from the violation together with reasonable attorneys fees. This remedy is in addition to any right of the landlord to terminate the rental agreement, to maintain an action for the possession of the premises, or * * * injunctive relief to compel access under division (B) of this section.”
+However, the obligations imposed pursuant to R.C. 5321.05(A)(1) and (6) cited by the plaintiff do not specifically address the issue in this case. R.C. 5321.05(A)(1) and (6) provide:
+“(A) A tenant who is a party to a rental agreement shall:
+“(1) Keep that part of the premises that he occupies and uses safe and sanitary;
+(( * * *
+“(6) Personally refrain and forbid any other person who is on the premises with his permission from intentionally or negligently destroying, defacing, damaging, or removing any fixture, appliance, or other part of the premises[.]”
+The language of R.C. 5321.05(A)(1) prevents that statute from being applied to the case sub judice. R.C. 5321.05(A)(1) applies only to those situations in which the tenant is occupying and using the leased premises. Accordingly, the plaintiff can avail itself of that statute only when proceeding against the in-possession defendant, Priscilla Faller.
+Case law prevents the application of R.C. 5321.05(A)(6) to the facts of this case. The Summit County Court of Appeals had an opportunity to interpret R.C. 5321.05(A)(6) in the context of a fire damages action. In the case of Allstate Ins. Co. v. Dorsey (1988), 46 Ohio App.3d 66, 545 N.E.2d 920, the court held that the tenant must be aware of the third person’s presence and of the actions of that third person. The syllabus of that case asserts:
+“In order for a tenant to be held liable to the landlord under R.C. 5321.05(A)(6) for damages caused by the negligent acts of a third person, the landlord must show that the tenant was at least cognizant of the third person’s presence, and of his intentions or actions.”
+This court agrees with the interpretation of the statutes as set forth in Dorsey, supra. See, also, Ohio Cas. Ins. Co. v. Wills (1985), 29 Ohio App.3d 219, 29 OBR 264, 504 N.E.2d 1164. Both cases require specific knowledge on the part of the tenant. Since the stipulated facts to this case do not indicate that the defendant, Jack Faller, had any knowledge of the acts of the cotenant, R.C. 5321.05(A)(6) is clearly not applicable.
+The only statutory avenue of assistance to the plaintiff is R.C. 5321.12. That statute declares:
+“In any action under Chapter 5321. of the Revised Code, any party may recover damages for the breach of contract or the breach of any duty that is imposed by law.”
+In essence, R.C. 5321.12 allows for additional remedies other than that provided for in the statutory framework of Ohio’s Landlord-Tenant Act. The statutory remedies are nonexclusive and contract damages are also available to a party. In this case, although there is no statutory relief for the plaintiff, the plaintiff must prevail based upon contract principles and a clear reading of the terms of the lease. As a tenant and cosigner of the lease, the defendant, Jack Faller, is bound by the terms contained therein.
+The “Security Deposit” paragraph of the lease provides, “Should damages to the premises exceed the security deposit, Tenant agrees to reimburse the Landlord for actual damage expense.” And the “Termination” section further requires that “the Tenant will take care of the premises and fixtures and make good any injury thereto done by the Tenant. * * * ” These lease provisions bind the cotenant regardless of whether the tenant is in or out of possession and use of the premises. If the tenant intended not to bind himself by those express terms of the lease, he should have negotiated a different lease covering the situation in which he was not in possession or use of the premises, or he could have chosen to not sign the document. The defendant did neither and as a result, he is liable for the damages.
+This court cannot ignore the express and uncontradictory terms of the contract out of sympathy for the defendant. The rights and obligations of the parties are to be ascertained from the plain language of the instrument. There can be no implication inconsistent with those express terms. General contract principles apply and applying those principles to the facts of this case, it is clear that the cotenant who was out of possession and control of the leased premises is liable to the landlord for damages to the premises caused by the cotenant who was in possession and control. Of course, the defendant, Jack Faller, was not without some remedy. He had the right to file a cross-claim against the other codefend-ant, a remedy which the defendant has elected not to pursue.
+For the foregoing reasons, a judgment is entered in favor of the plaintiff, Central Mutual Insurance Company, and against the defendant, Jack Faller, in the amount of $13,836 together with interest at the rate of ten percent per annum from the date of the filing of the judgment entry herein.
+The court costs of this action are assessed to the defendants, jointly and severally.
+So ordered.
