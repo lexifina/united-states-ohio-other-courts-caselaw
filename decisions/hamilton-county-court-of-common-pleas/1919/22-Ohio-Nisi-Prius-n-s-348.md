@@ -1,0 +1,45 @@
+---
+court: "Hamilton County Court of Common Pleas"
+decided: "1919-11"
+citations: ["22 Ohio Nisi Prius (n.s.) 348"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In Re Estate of Joseph Kolb, Deceased."]
+source_url: "https://static.case.law/ohio-np-ns/22/cases/0348-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1558480
+---
+
+# In re Estate of Kolb
+
+## Majority (Cosgrave, J.)
+
+Cosgrave, J.
+This cause came into this court both by way of appeal, and petition in error.
+Before proceeding with the hearing of the ease the plaintiff in error elected to proceed on the petition in error and the record from the probate court, which is very voluminous.
+In this proceeding a reversal is sought of a judgment rendered by the probate judge, confirming the account of Cynthia Kolb, as executrix of the estate of the late Joseph Kolb. Objection is made by Josephine Schell, one of decedent’s children; no objection is made by any of the other four heirs. The exceptions, among other things, include a fee for 'legal services rendered by Prank R. Gusweiler during some three years prior to his election to the Superior Court bench. The record discloses that the question of fees for services rendered to this estate by said Gusweiler, was heard covering parts at length of five or six days, and judgment was rendered in his favor by his Honor, Judge Lueders, on June 12, 1916.
+The executrix under order of the lower court was directed to pay said judgment out of assets of the estate then in her control, and a lien was given on said assets for said payment. More than a year thereafter the executrix paid said judgment, making some reduction, saving to the estate more than seven hundred dollars. The executrix then filed her account accordingly, and to this action Josephine Schell filed exception.
+She also excepted to allowances of fees to Edward H. Jones, Harry Klein, and James G. Stewart, for certain legal services rendered the estate by them, as well as to certain allowances made to the executrix. #
+Joseph Kolb, the decedent, died leaving a will which was presented for probate on February 15, 1913, and admitted to probate on February 21st of the same year. His estate consisted of a large holding of stocks and bonds, likewise certain real estate.
+Cynthia Kolb, the widow of the decedent, was named as executrix under, the will, and gave bond in the sum of $200,000. After filing an inventory of the estate in April of the same year, an additional bond of $100,000 was filed.
+Shortly after the filing of the appraisement it was sought to have a trustee appointed instead of the executrix named in the will. This was resisted by some of the decedent’s children, there being four daughters and two sons.
+In December, 1913, notice of a contest of the will was filed, case No. 155,567, in the common pleas court. By agreement of all parties a verdict was rendered sustaining the will, on November 10, 1915.
+Various other suits and litigation followed, continuing over a space of some three years, the details as to the character of service, time and attention, appear of record.
+This court will not undertake to review in detail all of the proceedings and steps taken in this matter in which the claimant rendered services. The court has carefully reviewed the record containing all the evidence presented in the probate court; the case was thoroughly and well tried in that court, and every opportunity given by his Honor, Judge Lueclers, for a full presentation of all the facts, circumstances and history of the estate.
+The services of the claimant covered a period of approximately three years.- Unfortunately, soon after the death of the father, discord, di'ssention and discontent -arose among the children of the deceased; the mother well on to seventy years of age, who, no doubt by her services and presumably also the services of the older daughters, largely aided in the accumulation of this large estate, became the storm center of these conflicting purposes.
+Mr. G-usweiler, as attorney for the executrix, as shown by the record, was called .on time after time to endeavor to bring some semblance of unity of purpose among the children of the deceased. No one realizes more than lawyers who have 'had cases of this character in hand, the strain it places on the lawyer representing the estate and executrix of the will.
+It appears from the record that during all this time disputes were always present of one kind or another, not only occupying time, but imposing upon him the hardest task lawyers are obliged to perform in seeking to adjust and harmonize conflicting purposes among heirs.
+The hearing on application for the allowance of fees before his Honor, Judge Lueders, occupied several days; there was a vigorous examination and cross examination of the claimant, Mr. Gusweiler, -and finally the matter was submitted for the determination of the'probate judge, who after holding it for some time under consideration, allowed the claim of Mr. Gusweiler, with some reduction.
+Strange'as it may seem, there was no testimony offered as to the value of the services rendered by claimant, except that of the claimant himself. The value of his services was sought to be minimized by the severity and sharpness of the cross examination, by the several lawyers interested. When the case was finally submitted to Judge Lueders on the record, accompanied by voluminous and somewhat bitterly worded briefs, his Honor allowed this claim.
+It is now submitted to this court to either affirm said judgment, or to set it aside. There was nothing for the court below, nor is there anything for this court, to weigh or determine, except -the value of the services as testified to by the claimant, and the criticism by way of cross examination and by lengthly briefs.
+The court below had this entire matter presented in a way that it can never be -presented by a bill of exceptions. A trial judge becomes conscious and is influenced by the shades and shadows that accompany the testimony of witnesses and the adverse criticism of opposing counsel. Tie is far better able to determine what is just and right in the premises than is the reviewing court.
+It is a well settled rule in Ohio that a reviewing court has no right to set aside the judgment of a lower court on the weight of the evidence unless it appears that the judgment is manifestly against the weight of the evidence.
+This court can not say that the judgment of the court below was not in accordance with the manifest weight of the evidence, but on the contrary, after a thorough examination of the record in this case, the court is satisfied that the judgment of the court below was sustained absolutely by the weight of the evidence presented before that court.
+The lower court having passed on the issue made, as the record discloses, and all parties in interest being present, or represented by counsel, and having rendered judgment, the executrix had authority at any time to pay said judgment, which she did in July, 1917, and this item of the account became res adjudicata.
+After the probate court had allowed these fees on special hearing had, the executrix took an appeal, and in proceedings in error thereto, and thereafter ¿he paid said judgment in accordance with said allowance. The executrix did exactly what the probate court ordered her to do, and she had a good legal right to dismiss her appeal and error proceedings, which was done before his Honor, Judge Caldwell.
+This daughter now excepting to her mother’s account, also objected to her mother complying with Judge Lueders’ judgment and order, and endeavored to prevent her paying said judgment, but Judge Caldwell decided that the mother had a legal right to do so.
+Now, as to the exceptions to the allowances made by the probate court to Judge Edward H. Jones, Harry Klein, and James C. Stewart, for legal services rendered, as well as the other items excepted to, this court fails to find any reason whatsoever from the record to sustain the exceptions of Josephine Schell, the daughter. This court is satisfied that the judgment of the court below was sustained absolutely by the great weight of the evidence in every particular, as to all the items excepted to, and the judgment of the court below is accordingly affirmed.
+The court might say in passing, that technically this court had no jurisdiction to review the judgment of his Honor, Judge Caldwell, by reason of the fact that the executrix having instituted proceedings in error in this court, and his Honor, Judge Caldwell, upon hearing the same and at the request of the executrix dismissed said proceedings in error. Nevertheless, his Honor, Judge Caldwell, has requested this court to review the case as though it had never been presented to and determined by him.
+This court has done so and is satisfied that Judge Caldwell was right in dismissing t'he proceeding in error instituted by the executrix.
+An entry may be submitted affirming the judgment of the probate court.
