@@ -1,0 +1,43 @@
+---
+court: "Ohio Circuit Court"
+decided: "1904-12-12"
+citations: ["17 Ohio C.C. Dec. 273"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hale, Marvin and Winch, JJ.", "Hale and Winch, JJ., concur."]
+parties: ["Samuel H. Smart v. Masters & Wardens of N. C. Lodge No. 2."]
+source_url: "https://static.case.law/ohio-cc-dec/17/cases/0273-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1643045
+cites_cases: ["21 R. 643"]
+---
+
+# Smart v. Masters & Wardens of N. C. Lodge No. 2
+
+## Majority (MARVIN, J.)
+
+MARVIN, J.
+Suit was brought by the lodge against Smart for rent of offices in the masonic temple at Cincinnati.
+The defense was a general denial.
+The plaintiff’s claim was, that the offices in question were rented by the plaintiff through his agent, Newcomer. As matter of fact the offices were occupied by Newcomer. To establish plaintiff’s claim he introduced as a witness, John E. Bruce, an attorney at law of Cincinnati. His testimony was taken by deposition and he testified, among other things, as follows:
+“Q. 3. Have you had any business relations with Mr. Smart during the last five years and if so what were they?
+“A. I was his attorney from the latter part of 1898 until the spring of 1900 in connection with certain street railroad franchises which he was seeking to obtain in this section of the state, and also in the matter of the examination of the title to some real estate for the purchase of which he was negotiating as a site for an acetylene gas machine plant.
+“Q. 4. -What, if any conversation, did you ever have with Mr. S. H. Smart, relative to the. rental of offices in the masonic temple in Cincinnati ?
+“A. I had a talk personally with Mr. Smart in this city relative to both an acetylene gas plant and a street: railroad and at that time he stated that Mr. I. W. Newcomer would represent him in both matters; that he thought it would be better for Mr. Newcomer to have an office as near mine as possible as there would be necessity for certain conferences, and that in all of the work here, especially in the matter of the street railway franchises, he desired his name to be kept entirely confidential and not given to any one. I told him there were some vacant offices opposite mine in the masonic temple which he could secure at a very reasonable rate, but that the management of the property required a guarantee from new tenants of whom they knew nothing that the rent would be paid, and that from my personal knowledge Newcomer was wholly unable to pay anything, but that if he did not want his name known, I would give the management the necessary assurance that the rent would be paid. Mr. Smart said that that would be all right and that the rent would be paid promptly by him. The manner of the payment of the rent was not spoken of as I now remember. As soon as the necessity for offices arose, Mr. Newcomer came to me and I took him to Mr. P. R. Fortney, the superintendent of the building ; the offices were secured and I became surety for the payment of the rent. ’ ’
+Upon the trial, objection was made to this question, which,- being overruled, a motion was made to take from the jury all of the answer down to and including the words: “The manner of payment was not spoken of as I now remember.” This motion was overruled, and the action of the court in regard to both the overruling of this motion and • .the overruling of the objection to the question is complained of as error.
+Laning R. L. 8750 (R. S. 5241) provides as follows:
+/‘The following persons shall not testify in certain respects:
+“1. An attorney, concerning a communication made to him by his client in that relation, or his advice to his client, * * * .”
+The offices were rented between the dates mentioned by Mr. Bruce as the time during which he acted as attorney for Mr. Smart'in certain matters named. We do not understand that under this section of the statute Mr. Bruee would be an incompetent witness on every subject conversed about between Mm and Mr. Smart. It is only those things which come to an attorney by reason of, and in connection with, the matter for which the one is acting as attorney for the other and must be in the nature of communications which would not naturally have been made but for that relation. In short, there must be something confidential in the nature of the communication in order to make the attorney incompetent as a witness. Not only so, but it is settled that to render the attorney incompetent the communication must have been made in the case in the relation of attorney and client, and it must be strictly in that relation that the communication was made in order to render it incompetent.
+There is nothing in the nature of this communication which in our judgment renders it obnoxious to the statute, and there was no error in admitting this evidence.
+A letter written by Mr. Smart to Mr. Bruce was admitted in evidence, and there is nothing in the letter which makes its admission obnoxious to the statute, and there was no error in admitting this letter.
+It is further urged as error that the court permitted the jury to consider the ease against Smart, notwithstanding the fact that the account for the rent was made out against Newcomer, and that' it appears from the evidence that certain furniture left by Newcomer in the office when he quitted the rooms was appropriated by the plaintiff in part payment of the rent. It is said that each of these acts, and especially the latter, was an election on the part of the plaintiff to hold Newcomer. Clearly, the fact that the charge was made on the books of the plaintiff against Newcomer would not necessarily constitute an election. Doubtless if the plaintiff had brought a suit against Newcomer and levied either by attachment or execution upon Newcomer’s furniture, this would constitute an election and be a bar to the prosecution of the suit against Smart, but it nowhere appears from the evidence how the property was taken. The natural inference is, that when Newcomer left the office he left certain furniture there and that the plaintiff appropriated that furniture to the partial payment of the indebtedness for rent. This clearly would not constitute an election, for it may well be that this was done upon the theory that the property left in the office by the agent was the property of the principal.
+Complaint is further made that the court erred in giving to the jury in charge certain requests made by the plaintiff. The particular requests asked and given were the third, seventh and eighth, which read:
+“3. If you are satisfied that the defendant had agreed with plaintiff to pay the rent, at the time Newcomer took possession of the offices, then I say to you that the fact that the rent was charged on the books of the plaintiff to Newcomer, or that the furniture of Newcomer was taken to pay part of the rent, would constitute no defense for Smart. ’ ’
+“7. If you find that Newcomer rented these offices for Smart and with his knowledge and consent, the fact if it be a fact, that the contract was made in the name of Newcomer alone, would be no defense for Smart. ’ ’
+“8. If these rooms were rented by Newcomer for Smart, with Smart’s consent, then the fact, if it be a fact, that the claim for rent was presented first to Newcomer, would constitute no defense for Smart. ’ ’
+These requests were properly given for the reasons already mentioned in this opinion in reference to the matter of election.
+It is further claimed as error that the court repeated the third request of plaintiff in its general charge. An examination of the bill shows that this was done without any comment whatever on the part of the court, and we do not understand that the simple repetition of a proposition of law properly given at any time in the charge, either before of after argument is necessarily erroneous. The ease referred to by counsel, Rupp v. Shaffer, 12 Circ. Dec. 154 (21 R. 643), holds that to repeat and comment and enlarge upon such request in the general charge would be erroneous.
+It is further urged that the verdict in this case was not sustained by the evidence. That the question of whether Smart was the principal of Newcomer in the renting of his office, is close, cannot be denied, but the testimony of Bruce and the letter written by Smart to Bruce being properly received in evidence, we think leaves the evidence such that we cannot say that the verdict was clearly against the weight of the evidence, and the judgment is affirmed.
+Hale and Winch, JJ., concur.
