@@ -1,0 +1,68 @@
+---
+court: "Montgomery County Court of Common Pleas"
+decided: "1909-01"
+citations: ["10 Ohio Nisi Prius (n.s.) 642"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas Scholey et al v. John H. Winder et al."]
+source_url: "https://static.case.law/ohio-np-ns/10/cases/0642-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1542294
+cites_cases: ["1 Watts, 163"]
+---
+
+# Scholey v. Winder
+
+## Majority (Snediker, J.)
+
+Snediker, J.
+This ease comes before the court on demurrer to the petition. The allegations of the petition are, that. the defendants are members of Miami Lodge No. 32, K. of P., and were members for a long time prior to November 29, 1898, that one John O’Kell was also for a long time prior to his death a member of said lodge, that O’Kell was unmarried, and being so spent a great deal of time at the lodge, considering it his home; that he in his lifetime desired and intended to give to the lodge his estate; that pursuant to such desire, during his last illness and while he was confined to his room, he requested the defendant, Smart, to see an attorney at law and obtain advice with reference to the drawing of his will, purposing a devise and disposition of his property to the Miami Lodge. That the defendants desired to obtain the estate for the benefit of the lodge and O’Kell desired that it should be given and devised to the lodge, and 0 ’KeJl relying upon the promises and agreements upon the part of the defendants as hereinafter stated that they would take the estate in trust and deliver it to said lodge, did on the 29th day of November, 1898, execute his last will and testament, and therein the following gift and bequest was made:
+Item 2. “I give and bequeath all my property of every description to my friends, A. F. Smart, John IT. Winder and L. P. Williams absolutely, having no heirs of my body and my relatives all being in good circumstances.” ■
+The allegations of the petition further are that said gift and bequest was made by 0 ’Kell in the above form and manner under advice, and was so drawn' upon the agreement and promise of the defendants to take the estate in trust for the benefit of said lodge. Further, that the defendánts are not related to O’Kell but are simply his brothers in the order; that in said will he nominated and appointed the said Smart, Winder and Williams as the executors thereof; that O’Kell died on the 21st of December, 1898; that the defendants entered upon the performance of their duties as executors, and that within the statutory time they distributed and paid out the sum of $4,231.80 to themselves as individuals, each of them receiving $1,410.60; that none of this was delivered to the lodge or to the members of the lodge, and on August 1st, 390.6, the plain tilts, as ihe trustees of said lodge, made demand upon the defendants for the delivery of said money to said lodge as held in trust by them for the same; that the defendants have failed and refused to deliver said trust fund to said lodge.
+The defendants claim first, that under Section 6190 of the Revised Statutes, they having been fully and finally discharged unless an allegation of fraud or mistake .appears in the averments of the petition, no cause of action is shown against them as executors. Second, they claim that the statute of limitations applies for the reason that more than four years have elapsed since the funds came into their hands. Third, they claim that the statute of frauds applies.
+The first inquiry that presents itself in the matter is whether or not a trust has been created in these defendants under the terms of said will by the oral promise and agreement to take said estate for the benefit of said lodge. On this point we find in the 39 Tennessee, page 684, the case of Albert G. McLellan et al v. Charles D. McLean, that the court holds:
+“A trust may be carved out of an absolute bequest by parol. If a testator malees an absolute bequest of property to another, with the verbal agreement with the legatee that she will, at her death, dispose of the property equally between his and her relations, a trust is thereby created in favor of the relations, which will be enforced in a court of equity, if such legatee fail to execute the agreement.
+‘ ‘ Such a trust, resting upon a parol agreement, must of necessity be proven by parol testimony.
+“ It is not necessary, in order to establish the trust, that there should be any mention of it in the bequest. If the evidence establishes _ the trust, it will be enforced, although the gift of the property is absolute .and unconditional.”
+And in the 104 Pennsylvania State, page (ill, the case of Socher’s Appeal, the court say:
+“It is well settled that a trust may be created by parol (Brightly’s Eq. Jur., Section 316). The jurisdiction to enforce performance of trusts arises where property has been conferred upon, and accepted by,1 one person on the terms of using it for the benefit of another. The former person, or owner at law, is called the trustee; the latter, or owner in equity, the cestue que trust, or beneficiary. This doctrine is applied to cases arising under wills, where a person procures a devise to be made in his favor, on a distinct declaration or promise that he will hold the land in trust, either in whole or in part, for another. In Hoge v. Hoge, 1 Watts, 163, it was held that, if the testator be induced to make a devise by the promise of the devisee that it should be ■applied to the benefit of another, a trust is thereby created which may be established by parol evidence; and that this is not contrary to the statute of wills. Many cases might be cited in which the same principle has been .applied, but the doctrine may now be considered at rest.”
+In the 37 Federal Reporter, United States Circuit Court for the Western District of Pennsylvania, page 302, it is held:
+"It is a settled principle that if a testator make a devise in terms absolute, but upon a private understanding had with his devisee, whether by the latter’s express promise or his assent implied from his silence, that he will apply the devised estate to some purpose designated by the testator, a trust arises which a court of equity will enforce, unless unlawful in itself.”
+To the same effect is the 33 Mich., page 453, Hooker v. Axford and another. Also the 29 N. J. Equity, page 417.
+And in the 24th American Decisions at page 409, Towles v. Burton, the syllabus is that:
+‘.‘A trust may be established by parol in an absolute bequest by showing that the legatee received it upon a promise made to the testator to provide for a third person out of it.”
+So much for the alleged declaration of a trust.
+So far as the application of the statute of frauds to this case is concerned we are led from a consideration of the authorities to the opinion that it is not applicable to such a case.
+In the 24 Ohio State Reports, the case of Mathews v. Leaman, at page 623, Judge White says:
+"Fraud, and the absence of any other adequate remedy,, is one of the principal grounds of equity jurisdiction; and the doctrines of courts of equity in regard to trusts, grow largely out of fraud, express or implied.
+"It is said ‘fraud in equity is an exception to every rule.’ And the principle has often been announced by courts of equity, that the statute of frauds was not made to cover fraud.
+"In the present case, the trust does not arise on the mere agreement, but on the conveyance of the property, for which the trust assumed was the sole consideration.
+‘ ‘ The trust is not raised so much because of the fraud in the ■ original acquisition of the property as in the subsequent refusal to execute the trust.
+"The attempted denial of the confidence is such a fraud as will operate to convert the purchaser into a trustee ex maleficio.
+‘ ‘ The case may be -brought within the third class of cases, as defined by Lord Hardwicke, in which the court had declared resulting trusts, namely, ‘cases of fraud, and where the transactions have been carried on male fide.’
+“The transaction may not be such as would sustain an action for deceit. But equity deals more liberally than courts of law in matters of fraud, and regards the transaction as incomplete while the trust remains unexecuted. ’ ’
+As to Section 6190 of the Revised Statutes: The allegations of this petition are that said gift and bequest was made by John O’Kell in 'the form and manner recited in the will, upon the advice of an attorney at law, who was consulted by the defendant, A. Ferris Smart, and was so drawn upon the agreement and promise of said defendants to take said estate in trust for the benefit of and deliver the same to said Miami Lodge, No. 32, Knights of Pythias.
+Further, that said defendants failed to deliver to said lodge and its members the said trust fund or any part thereof, arid made distribution of the same among themselves. While the term “fraud” itself is not used in the petition, yet these averments and other averments contained therein unmistakably charge that there has been a fraudulent misappropriation of funds on the part of these alleged trustees, thus bringing it within the terms of Section 6190.
+The only remaining question is whether the statute of limitations applies. Section 4974 provides that the chapter on limitation, of actions shall not apply in cases of continuing and subsisting trusts.
+And in the 35 Ohio State, the case of Carpenter v. Canal Company, page 317, the Supreme Court say:
+No doubt it is a well-settled rule in equity, as to continuing and subsisting trusts, that the statute of limitations does not apply to them. Our statute asserts' the same rule. The code of 1853 provides that the title relating to the commencement of civil actions shall ‘not apply in the case of a continuing and subsisting trust.’ But where the trustee denies the right, lapse of time may constitute a bar. Other trusts, which might be the ground of an action at law were not exempted, from the operation of the statute. ’ ’
+In the 27 Ohio State,, page 199, Piatt v. Longworth’s Devisees, the Supreme Court say:
+“In general, length of time is no bar to a trust dearly established to have once existed; and when fraud is imputed and proved, length of time ought not to exclude relief, unless the equity has become stale.”
+In the 4th Howard, in the case of Michoud et al v. Girod et al, the Supreme Court of United States say, page 560:
+“In a ease of actual fraud, courts of equity give relief after a long lapse of time, much longer than has passed since the executors, in this instance, purchased their testator’s estate. In general, length of time is no bar to a trust clearly established to have once existed; and where fraud is imputed and proved, length of time ought not to exclude relief.” * * *
+“There is no rule in equity which excludes the consideration of circumstances, and in a case of actual fraud we believe no case can be found in the books in which a court of equity has refused to give relief within the lifetime of either of the parties upon whom the fraud is proved, or within thirty years after it has been discovered or becomes known to the party whose rights are affected by it.”
+To the same effect is the 28th Ohio State, page 568:
+There is no averment in this petition of any denial of the alleged trust prior to the demand made on these defendants on or about August 1st, 1906.
+In view of the foregoing authorities, our opinion is that even if there had been such a denial, the statute, of limitations would not preclude a consideration of this controversy by a court of equity.
+Being of the opinion that the allegations of this petition state a sufficient cause of action, the demurrer is overruled.
+Decision on the Merits.
+Since the final submission of this case (about two weeks ago) we have carefully read and considered the evidence and find the following facts:
+That John O’Kell died testate on the 21st day of December, 1898; that his will was probated December 29th, 1898, and that by the terms of said will John H. Winder, Louis P. Williams and A. Ferris Smart were named as executors thereof, and were appointed as such by the probate court with full power to act.
+That item second of said will was as follows:
+“Second: I give and bequeath all my property of every description to my friends, A. F. Smart, John H. Winder and L. P. Williams absolutely, having no heirs of my body and my relatives all being in good circumstances. ’ ’
+That by said item second O’Kell intended to and did by parol create a trust of which A. F. Smart, John F. Winder and Louis P. Williams were the trustees and Miami Lodge No. 32, Knights of Pythias, the beneficiary. That said Smart, Winder and Williams, as executors, entered upon and continued in the execution of their trust with full knowledge of the duty imposed upon them as such trustees under item second.
+That on January 18th, 1899, they filed their account as executors in the probate court of this county, showing a distribution to each as a legatee, the sum of $1,410.60, for which amount each receipted.
+That in violation of their duty as trustees under item second of 0’Kell’s will, they thereupon appropriated to themselves the property thus in their charge as such trustees, to the amount in all of $4,231.80. This sum they now have and hold in trust for said lodge and its members.
+The law of the case was passed upon in our decision on the demurrer. Our opinion in this regard has not changed.
+Defendants are ordered to deliver over to said Miami Lodge Number 32, Knights of Pythias, and to its members, the said sum with interest from January 18th, 1899.
