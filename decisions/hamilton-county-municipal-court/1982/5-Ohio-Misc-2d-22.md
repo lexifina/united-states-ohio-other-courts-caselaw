@@ -1,0 +1,35 @@
+---
+court: "Hamilton County Municipal Court"
+docket: "C-82-TRC-8007"
+decided: "1982-05-22"
+citations: ["5 Ohio Misc. 2d 22"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Ohio v. Martin."]
+source_url: "https://static.case.law/ohio-misc-2d/5/cases/0022-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6711414
+cites_cases: ["1 O.O.3d 56", "102 Ohio St. 292", "20 Ohio Misc. 51", "31 Ohio St. 2d 163", "38 O.O.2d 277", "47 Ohio St. 2d 94", "49 O.O.2d 97", "60 O.O.2d 117", "9 Ohio St. 2d 140"]
+---
+
+# State v. Martin
+
+## Majority (Painter, J.)
+
+Painter, J.
+This cause came on to be heard on the evidence, argument of counsel, and memoranda submitted by both parties. The court finds the facts are as follows:
+On February 4,1982, at 12:45 a.m., at the Pizza Hut restaurant on Plainfield Road in Blue Ash, Hamilton County, Ohio, Officer Robert Stewart of the Blue Ash Police Department was summoned by a police radio to investigate a report of a person in a vehicle “sleeping or sick.” Upon the officer’s arrival, he found the keys in the ignition, the motor running, and the defendant as the only occupant of a small truck. The defendant was sitting in the vehicle in the driver’s seat behind the wheel, with both hands on the wheel. The defendant was apparently sleeping when aroused by the officer.
+Defendant was arrested, taken to the Blue Ash Police Headquarters, where psychomotor tests were administered, and an intoxilyzer test was given. Defendant failed the psychomotor tests, and the result of the intoxilyzer was stipulated to be .16 BAC. The court finds that at the time defendant was arrested he was under the influence of alcohol and unfit to drive a vehicle.
+The defendant testified that he was in the truck behind the wheel, the motor was running, and the truck was not in gear, but if placed in gear could have been driven. The defendant stated that the motor was running because it was a cold night and he wanted to keep warm.
+Both the prosecution and the defense admit that the only issue is whether “actual physical control” under the facts herein is a sufficient basis on which to sus-' tain a conviction for driving under the influence of alcohol under R.C. 4511.19.
+The instant case is factually very similar to State v. Williams (1969), 20 Ohio Misc. 51 [49 O.O.2d 97]. There, officers arrested the defendant in an apartment building parking lot, at 3:00 a.m., as a result of a radio run. The defendant was found seated in the automobile behind the wheel with the motor running. As the court pointed out in Williams, after an extensive discussion of the amendment and re-amendment of R.C. 4511.19:
+“* * * [0]n at least three occasions the Ohio Legislature has acted on statutes dealing with operation of a motor vehicle while under the influence of alcohol. As will be noted, the 1936 statute made no mention of ‘being in physical control.’ The 1941 statute added the words, ‘being in actual physical control,’ thus broadening the coverage of the statute to include persons found sitting behind the wheel of a stationary automobile, and under the influence of alcohol. Section 4511.19, Revised Code, the present law and the one under which defendant is charged, does not contain that portion, ‘being in actual physical control.’ It was eliminated from the statute by our lawmakers.” (Emphasis sic.) 20 Ohio Misc. 51, at 55 [49 O.O.2d 97],
+It is obvious that the legislature, in deleting the words “or be in physical control of” specifically intended not to pro-Mbit the conduct exhibited by the defendant in the instant case. It is pure horn-book law that when the legislature repeals or amends an existing statute it is presumed that the legislature intended to change the effect and operation of the law. County Bd. of Edn. v. Boehm (1921), 102 Ohio St. 292, paragraph one of the syllabus. Further, in the opinion of this court, the change made by the legislature in 1953 is eminently sensible. Persons who realize that they have consumed too much alcohol should be encouraged to pull off the road and not operate a vehicle on the highways.
+«* * * ^ pr¡mary object of statutes and ordinances making ‘drunk driving’ an offense is to protect the users of streets and highways from the hazard of vehicles under the management of persons who have consumed alcoholic beverages to such an extent as to appreciably impair their faculties.” (Emphasis sic.) Mentor v. Giordano (1967), 9 Ohio St. 2d 140, at 145 [38 O.O.2d 277].
+Defendant did testify that he had been operating his vehicle at an earlier time in the evening. However, he was not accused with operating a vehicle at some other time, but with operating a vehicle at the time he was charged. The state has agreed that whether his conduct constituted “operating” is determinative of this case.
+In any event, this court would hold that as a matter of public policy, and to conform to the intent of the legislature, defendant's conduct is not a violation of R.C. 4511.19.
+The state has argued in its memorandum that the Williams case has been impliedly overruled by Cincinnati v. Kelley (1976), 47 Ohio St. 2d 94 [1 O.O.3d 56]. That case, however, dealt with the interpretation of Section 506-1 of the Cincinnati Municipal Code (now repealed). That section included the phrase “actual physical control.” The state contends that, since the Kelley case stated that the Cincinnati ordinance was not in conflict with R.C. 4511.19 and was constitutional, this fact somehow implies that R.C. 4511.19 be interpreted to prohibit the conduct encompassed by “actual physical control,” even though the legislature deleted those words in amending R.C. 4511.19. The determination of whether municipal ordinances are “in conflict with general laws,” and thereby unconstitutional under Section 3, Article XVIII, of the Constitution of Ohio, is a test that is not beneficial to the state in this instance.
+Municipalities are authorized to adopt local police regulations which do not conflict with state statutes. In order for such a conflict to exist “the state statute must positively permit what the ordinance prohibits, or vice versa, regardless of the extent of state regulation concerning the same object.” Cincinnati v. Hoffman (1972), 31 Ohio St. 2d 163, at 169 [60 O.O.2d 117]. The Cincinnati ordinance, which prohibited the being in physical control of an automobile while intoxicated, did not prohibit something that the state statute positively permitted. The statute simply did not prohibit that conduct. Therefore, the Kelley case, decided under a now-repealed Cincinnati ordinance, is not persuasive.
+For all the foregoing reasons, the court finds the excellent opinion of Judge Hunter in Williams, supra, persuasive, and in accord with this court’s view of the law, public policy, and the intent of the legislature. The defendant is found not guilty and the defendant is discharged.
+Defendant not guilty.
