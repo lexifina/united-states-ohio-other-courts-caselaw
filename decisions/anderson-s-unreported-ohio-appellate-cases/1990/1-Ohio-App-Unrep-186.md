@@ -1,0 +1,111 @@
+---
+court: "Anderson's Unreported Ohio Appellate Cases"
+docket: "Case No. 16-CA 89"
+decided: "1990-02-20"
+citations: ["1 Ohio App. Unrep. 186"]
+reporter: "ohio-app-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["GWIN, J., Concurs"]
+parties: ["In re Adoption of Ridenour"]
+source_url: "https://static.case.law/ohio-app-unrep/1/cases/0186-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1608909
+cites_cases: ["24 Ohio App.3d 152", "361 N.E.2d 525", "40 A.D. 2d 296", "45 Ohio App. 2d 97", "493 N.E.2d 977", "50 Ohio App. 2d 83", "62 Cal. 2d 492"]
+---
+
+# In re Adoption of Ridenour
+
+## Majority (SMART, J.)
+
+SMART, J.
+Two adoption proceedings are consolidated for purposes of appellate review. They involve the identical issues, biological sisters, and the same adoption petitioners.
+The record indicates that the natural mother of these children is deceased and that the father surrendered permanent custody.
+Early in the case, the grandparents sought custody of the children from the Department of Human Services, but apparently were discouraged from pursuing this because, allegedly, of their age and their standard of living.
+On December 28, 1988, the grandparents were awarded visitation with the two children. That order was not appealed.
+The adoption petitions were filed January 26, 1989 and on February 24, 1989 the Fairfield County Children Services Board consented to the adoption.
+Reports and social and medical histories of the biological mother and father were filed February 24, 1989.
+On March 3, 1989 the biological maternal grandmother and the biological paternal grandparents of the infants moved to intervene as parties-defendant in the case and moved "that any adoption be made pursuant to the rights which were adjudged to them by judgment entry of this court, a copy of which is attached hereto as Exhibit A."
+On March 21, the adoption petitioners filed a Memorandum Contra challenging the standing of the biological grandparents. Petitioners argued that grandparents have no statutory right to consent or intervene.
+On March 27, 1989 the trial court, following a hearing, ruled on both the motion to intervene and the merits of the adoption proceedings....
+In this case Fairfield County Children Services received permanent custody of the child pursuant to a court entry of December 28, 1988 in Case 38-J-86 (copy attached).
+In that entry the court said:
+'It is further Ordered, Adjudged and Decreed that the Court will reserve the right to visitation between the above captioned child and the maternal and paternal grandparents; with the paternal grandparents exercising such visitation on the 3rd weekend of each month from Friday at 6:00 p.m. until Sunday at 6:00 p.m., with such paternal grandparents being responsible for the transportation of the minor child for such visitation.
+It is further Ordered, Adjudged and Decreed that the maternal grandmother's visitation will be received through the paternal grandparents and at such time deem appropriate; and during such period of time that the minor child is visiting with the paternal grandparents.
+It is further Ordered, Adjudged and Decreed that the above captioned visitation order be maintained at the time of the adoption of the above captioned child and that such visitation order be maintained subsequent to such adoption.'
+This Court is of the opinion that based on the Court's entry of December 28, 1988 wherein the agency obtained permanent custody of the child, subject to visitation of the maternal grandmother and paternal grandparents does give them substantial rights (not the right to consent or withhold consent to an adoption).
+The motion to intervene as party defendants is well taken and they are hereby added as party defendants.
+It is, therefore, the order of the Court that this adoption be denied and the Fairfield County Children Services Board, who has permanent custody of Elizabeth Ann, is to place the child in an adoptive home where the grandparent visitations will not result in this constant conflict and turmoil for the child.
+Following timely request for separate findings of fact and conclusions of law the trial court, on June 5, 1989 filed same.
+They provide, inter alia:
+* * *
+3. The court finds that the petitioners are suitable persons to adopt and their home is a suitable home to place a child for adoption;
+* * *
+A. The maternal grandmother and paternal grandparents visitation rights are ongoing and affect any persons where Elizabeth Ann Ridenour is placed for foster care by the agency or any person who wish to adopt Elizabeth Ann Ridenour;
+B. The maternal grandmother and paternal grandparents and Elizabeth Ann Ridenour have the right to expect cooperation, encouragement, help and concern to make the visits between the grandparents and Elizabeth Ann Ridenour as cheerful and supportive of the needs of Elizabeth Ann Ridenour and the grandparents as is humanly possible;
+C. It is not in the best interests of Elizabeth Ann Ridenour to subject her to a continuing dialogue, a repetitive set of circumstances that keep her emotionally disturbed and even physically ill every time grandparent visitation occurs;
+D. It is in the best interests of Elizabeth Ann Ridenour to be placed for adoption in a home that understands the unique situation with the visitation rights granted to the maternal grandmother and paternal grandparents and for her to be placed in a setting that encourages her love and interest in her paternal grandmother and maternal grandparents and vice versa; and
+E. The court therefore finds that the adoption of Elizabeth Ann Ridenour by the petitioners is not in her best interests and therefore the adoption should be and is denied.
+Findings and Fact and Conclusions of Law. Thus the trial court granted the biological grandparents standing, joined them as parties-defendant, and dismissed the adoption petitions.
+The petitioners assigned three errors:
+ASSIGNMENT OF ERROR NO. I.
+THE COURT'S DECISION TO DENY APPELLANTS’ REQUEST FOR ADOPTION WAS UNREASONABLE AND ARBITRARY IN LIGHT OF THE EVIDENCE PRESENTED, RESULTING IN AN ABUSE OF DISCRETION.
+ASSIGNMENT OF ERROR NO. II.
+THE COURT ABUSED ITS DISCRETION BY CONDITIONING THE ADOPTION ON THE GRANDPARENTS' VISITTION. AS A MATTER OF LAW THE PATERNAL GRANDPARENTS HAVE NO RIGHT TO VISITATION AND THEREFORE THE COURT ABUSED ITS DISCRETION IN GRANTING VISITATION RIGHTS TO THESE PATERNAL GRANDPARENTS AND CONDITIONING THE FINAL ADOPTION UPON THIS RIGHT.
+ASSIGNMENT OF ERROR NO. III.
+THE COURT ABUSED ITS DISCRETION IN REQUIRING GRANDPARENT VISITATION IN AN ADOPTION BY NON-RELATED ADOPTIVE PARENTS.
+The petitioners focus on whether the natural grandparents have rights to visitation with the child after the parental rights have terminated. The proper focus under Ohio law and in equity is whether it is in the best interest of these children to maintain certain natural ties of affection, albeit independent of legal ties. The trial court, which was in the best position to observe the unique situation before it, expressly found that it was in the best interest of these children for the appropriate authorities to locate another adopted situation. We are bound by that determination.
+We find that the legislature has created a statutory scheme that permits the trial court to evaluate the best interest of the children, including whatever factors it perceives relevant to their particular case. Certainly we would not find that these biological sisters should not, as a matter of law, be placed for adoption together merely because the "legal limbo," (as the dissent calls it) they are in following the termination of their parental rights has severed the natural ties between them, and made them in effect strangers rather than siblings. Siblings rights are as derivative as grandparental rights, and one cannot be said to be a natural sibling of another when there is no legal parental tie between them. The modern trend is and ought to be to place siblings together where possible in order to avoid more trauma to their emotional ties. As sibling affection is worthy of legal protection so is grandparental affection worthy of legal protection for the emotional well being and happiness of a human being.
+More and more we see that adoption involves not a newborn infant but rather the older child, who years ago would have been considered unadoptable. The law is and must remain adaptive enough to permit trial courts to fashion orders to meet the needs of the children whose emotional bonding has long since taken place. When a child has developed emotional or psychological ties with natural family members, the maintenance or severance of those ties will affect his adjustment to new surroundings.
+Actual severance of an older child's emotional bonds with natural relatives can psychologically harm him and make it more difficult for him to develop psychological relationships with members of his adoptive family. Thus, continued contact may actually help the child become part of the adopted family and thereby gain a feeling of permanency. Visitation may help the child feel in control of his environment, and enable him to adjust to his new surroundings more easily.
+Visitation After Adoption: In the Best Interest of the Child, New York University Law Review Vol. 59 p. 633 at 660-62, citations omitted.
+The approach proposed by petitioners is cruel. These two little girls lost their mother, then their father, and now could be judicially robbed of their grandparents. There is nothing in the record to show that the adopted family can supply these children with grandparental influence. Children need the love and affection which grandparents can and want to give. Their love naturally exhibited by these blood grandparents is certain because it has already been exhibited. Taking it away may leave these children with no grandparental love - just because children acquire adoptive parents, does not necessarily mean that grandparental love necessary dr naturally flows from the parents of those adopting parents. These children may be left with no grandparental love or attention whatsoever.
+One of the most tragic consequences of our modern day life style is the truncating of the family, which has shrunk from the extended family of earlier days to a small nuclear family. There is no reason in law or in equity why the courts should actively discourage an attempt to surround these children with the love of more than the standard two adults.
+Here, the grandparental love is exhibited in these proceedings by the prompt involvement of these three concerned persons. The trial court obviously exercised its broad judicial discretion to support that love, and it must be able to exercise such discretion in dealing with these extremely sensitive human factors.
+Likewise, the dissent's reliance on R.C. §3107.15 is misplaced. That statute on its face purports to sever the legal ties between an adopted person and its natural relatives for economic purposes. Nothing in that statute suggests that the trial court may never in its discretion and equitable power foster extra-adoptive emotional relationships, if it expressly finds that those relationships are in the child's best interest.
+Because the correct focus is what is in the best interest of the children, the emphasis placed by the dissent on the statutory distinctions between grandparents whose children are deceased and grandparents whose children are living is misplaced. The love of grandparents who are the parents of the living parent can be as deep and nurturing to a child as the love of a grandparent who is the parent of a deceased natural parent, from the point of view of the child. The principle of extending visitation rights, post adoption, to grandparents who are the parents of a deceased parent (Graziano v. Davis (19796), 50 Ohio App. 2d 83) is based upon whether it is in the best interest of the child. This rule applies with equal force in the present case - the best interest of the child, based upon the facts as determined by the trial court in its judicial discretion. A trial court's failure to consider post-adoption visitation is contrary to the best interest requirement in the adoption law. The purpose of both adoption and visitation statutes is to serve the best interest of the child. We must promote a flexible rule regarding grandparental visitation over an arbitrary regulation prohibiting it regardless of the effect on the children.
+The law should not and cannot ignore the fact that an adopted person may not in many respects be cut off from his natural family. If affection and regard remain between members of a natural family, the law should not in the name of consistency undertake to thwart the expression of these feelings when encouragement thereof does not hinder the adoptive relationships. Scranton v. Hutter (1973), 40 A.D. 2d 296, at 299, quoting Estate of Zook (1965), 62 Cal. 2d 492.
+Query whether it is valid, under the U.S. and State Constitutions, for a statutory scheme to create an artificial distinction between grandparents who are parents of a deceased parent, and those who are the parents of a living parent whose parental rights have been terminated as fully and as finally as if that parent were dead.
+In the case of In re: Harshey (1975), 45 Ohio App. 2d 97, the Court of Appeals for Cuyahoga County held that the:
+The purpose of adoption is to find homes for children, not to find children for families. Harshey at 102.
+In Harshey, it is interesting to note that the court approved a scheme whereby four year old Gary would be placed with a family that lived near and was related to the adoptive parents of his natural brother, because those parents were uniquely qualified to foster the brotherly companionship desirable for these children. It is incomprehensible me how Ohio law could consistently hold that the natural fraternal ties should be encouraged but grandparental ties should not.
+In sum, to adopt the petitioners' proposal would do considerable violence to Ohio law in curtailing that trial court's ability to use its discretion to the benefit of these unfortunate little girls. The trial court did not err as a matter of law nor did it abuse its considerable discretion in acting as a fact finder in this case, a case which it has lived with for some time, and in finding that the adoption into this particular home was not in the best interest of these children.
+Turning now to the assignments of error, we hold:
+I.
+The first assignment of error is overruled for the reasons set forth supra.
+II.
+The second assignment of error is overruled. The trial court did not "condition the adoption on the grandparent's visitation."
+III.
+The third assignment of error is likewise overruled for the same reason.
+GWIN, J., Concurs
+
+## Dissent (MILLIGAN, P.J.,)
+
+MILLIGAN, P.J.,
+dissents:
+In stepparent adoptions, where the grandparent is the parent of the deceased natural parent, the courts have been sometimes willing to extend visitation rights, post adoption, to such grandparents. Graziano v. Davis (1976), 50 Ohio App.2d 83, 400 3d 55, 361 N.E.2d 525; In Re Thornton (1985), 24 Ohio App.3d 152, 493 N.E.2d 977.
+There is no Ohio authority for the proposition inherent in the instant case, i.e., that where all parental rights are terminated in the juvenile court, parents of the biological parents have standing to collaterally claim visitation rights in a stranger adoption.
+If that is to become Ohio law, it is the legislature, not this court, that says so.
+I see a significant difference between stepparent adoption and stranger adoption. Family ties are naturally and expectably preserved in a stepparent adoption. Family ties are severed in a stranger adoption, the expectation being that the children will be raised in a new nuclear family setting, freed from biological ties.
+Graziano and Thornton, supra, rely upon R.C 3109.11 and involve a post-adoption request by relatives of a deceased parent. Again, there is a significant difference between implementing that statute, (1) in a stepparent adoption proceedings, and (2) after the adoption has been concluded, and the action taken in this case.
+In any event the paternal grandparents (their son not being deceased) can claim no favor of R.C. 3109.11.
+The distinction between stepparent adoption and stranger adoption vis-a-vis the rights of relatives is dramatically underscored by the January 1, 1977 amendments to Ohio's adoption statutes.
+(A) A final decree of adoption and an interlocutory order of adoption that has become final, issued by a court of this state, shall have the following effects as to all matters within the jurisdiction or before a court of this state:
+(1) Except with respect to a spouse of the petitioner and relatives of the spouse, to relieve the biological or other legal parents of the adopted person of all parental rights and responsibilities, and to terminate all legal relationships between the adopted person and his relatives, including his biological or other legal parents, so that the adopted person thereafter is a stranger to his former relatives for all purposes including inheritance and the interpretation or construction of documents, statutes, and instruments, whether executed before or after the adoption is decreed, which do not expressly include the person by name or by some designation not based on a parent and child or blood relationship;
+(2) To create the relationship of parent and child between petitioner and the adopted person, as if the adopted person were a legitimate blood descendant of the petitioner, for all purposes including inheritance and applicability of statutes, documents, and instruments, whether executed before or after the adoption is decreed, which do not expressly exclude an adopted person from their operation or effect. R.C. 3107.15.
+In the Ohio Legislative scheme rights of grandparents are essentially derivative. See 3109.11, limited to parents of a deceased parent. A specific exception has been legislatively adopted in divorce cases, granting the court authority to provide relative visitation. R.C. 3109.05(B).
+It is additionally significant that the parents whose parental rights have been terminated in the juvenile court are not parties and are not required to consent to the adoption in Probate Court. R.C. 3107.07(D). Ohio's scheme terminates parental rights, leaving the child temporarily in limbo, and then independently adjudicates a new family by adoption. In the adoption proceedings the biological parents thus have no standing.
+Nor is there any provision in the consent section for consent by a grandparent, notwithstanding the death of the parent.
+Further, no notice of hearing is required as to grandparents. See R.C. 3107.11.
+I would conclude as a matter of law that grandparents of children who have been found to be dependent neglected or abused, and as to whom parental rights have been terminated and permanent custody granted to an agency, have no standing to contest a stranger adoption.
+However, the question remains in this case whether the unique provisions of the juvenile court judgment, terminating parental rights and granting permanent custody to the agency, while making provision for visitation rights of grandparents, alters the posture of the parties in the adoption proceedings sub judice.
+In recent years, in an effort to deal with the noble goal of permanency planning for children, the Ohio legislature has changed procedure and practice by which the juvenile court addresses the issue of permanence. Rigid requirements adopted in 1980, amended Substitute House Bill 695, have been moderated by Substitute Senate Bill 89, adopted January 1, 1989. See 13 West Ohio Family Law, Sec. 585.2.
+Prior to the 1980 amendments the statute provided that the jurisdiction of the juvenile court terminated at the time a child was committed to the permanent custody of the agency. R.C. 2151.38. Significantly, the "termination" of jurisdiction provision is not carried forward in the revised provisions of R.C. 2151.38.
+Orders of the juvenile court, fixing relative visitation, executory during the time that the child is in limbo, i.e., between the order of permanent custody and the permanent placement in an adoptive setting, are appropriate and consistent with principles of permanency planning.
+Whether the juvenile court has the subject matter jurisdiction to impose restrictions and limitations upon the Probate Court in considering a subsequent adoption, as attempted here, is another matter. I find no authority for the proposition that the juvenile court has such power and conclude that the attempted exercise thereof exceeds the authority of the juvenile court, particularly in a non-relative, stranger adoption.
+In this case the probate judge clearly found that all of the prerequisite steps for granting the adoption were met by the petitioners, both procedurally and substantively.
+When the Probate Court then finds that problems with visitation will "become an ordeal to the child and the adoptive parents for days before and after each visit," his finding that because thereof the adoption is not in the best interest of the child and should be denied is an abuse of discretion and is contrary to law.
+The appropriate procedure, under current Ohio law, is to establish appropriate parental rights in the new setting. The question of visitation with biological grandparents, who claim derivatively through parents whose parental rights have been terminated, should await another day.
+I would reverse and remand this cause to the Probate Court with instructions to determine, aliunde the issue of grandparent determine, aliunde the issue of grandparent visitation, whether the adoption by these petitioners meets the statutory requirement, including the issue of "best interests."
+As to the assignments of error, I would sustain in the first and overrule the second and third (as unsupported by the record).
+As Judge Norris points out in his concurring opinion in Graziano v. Davis was probably incorrectly decided, the statute extant in 1976, to wit R.C. 3107.13 (since repealed), impelling a contrary result.
