@@ -1,0 +1,41 @@
+---
+court: "Madison County Court of Common Pleas"
+decided: "1932-12-10"
+citations: ["30 Ohio N.P. (n.s.) 190"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In Re Liquidation of the Peoples Commercial and Savings Bank of London, Ohio."]
+source_url: "https://static.case.law/ohio-np-ns/30/cases/0190-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1569354
+cites_cases: ["119 O. S. 124", "173 U. S. 131", "69 O. S. 24"]
+---
+
+# In re Liquidation of the Peoples Commercial & Savings Bank
+
+## Majority (Emery, J.)
+
+Emery, J.
+The treasurer of state on May 1, 1931, pursuant to the depository law, deposited in the Peoples Commercial and Savings Bank of London, Ohio, $40,000.00, and received as evidence of said deposit a certificate for that amount, payable on demand, with interest at the rate of 4.65% per annum. The bank deposited with the treasurer as collateral for said deposit securities in the face amount of $29,-500.00 and a surety bond in the sum of $12,500.00.
+On October 15, 1931, said bank was closed by the superintendent of banks for liquidation.
+On the 25th day of November, 1931, the treasurer filed with the superintendent of banks, on behalf of the state of Ohio, a claim for the full amount of said deposit with interest, and at the request of said superintendent on December 16, 1931, the treasurer filed a second proof of claim, identical in all essential particulars to the first. The second proof being on a blank furnished by the superintendent. The total amount of the claim was $40,387.50.
+On December 7, 1931, the treasurer sold the securities pledged at public sale for the sum of $24,427.57, and after applying this amount to the claim, with accumulated interest, left a balance due on the claim of $16,908.67.
+On January 22, 1932, the superintendent of banks issued a certificate of claim to the treasurer for the sum of $40,-387.50.
+On May 9, 1932, H. B. Welsh, stockholder and depositor of the bank, filed an objection with the superintendent of banks to the allowance of the claim of the State and payment of dividend upon the full amount, claiming that dividend should be allowed only upon the balance after crediting the proceeds from sale of the collateral.
+The superintendent of banks, under the statute, presents the objection to this court for determination.
+The treasurer claims that the state is entitled to have its claim allowed by the superintendent of banks for the full amount of the deposit, and to receive dividends on that amount, without taking into consideration or crediting the amount of the collateral held as security therefor.
+Mr. Welsh, the objecting depositor, and the superintendent of banks claim that the deposit of the state should be credited with the amount realized from the sale of the collateral, and the claim be allowed and dividends be paid upon the balance.
+This question has been frequently before the courts of the various states and the Federal courts, and it seems the courts are about equally divided upon the question. A number of eminent courts, including the Supreme Court of the United States, Merrill v. Bank, 173 U. S. 131, hold, that the creditor is entitled to prove his claim for the full amount, and to receive dividends thereon, without first deducting the collateral, and receivers of National Banks follow that rule, but the Supreme Court of the state of Ohio had this question before it, and after full consideration of the cases, including the United States Supreme Court, case of Merrill v. Bank, held:
+“Where the property of an insolvent debtor, by order of court, is placed in the hands of a receiver to be administered upon for the payment of the insolvent’s debts, a creditor who holds collateral taken to secure his claim, and upon which he has .reaslized before a dividend is declared, is entitled to a dividend on only so much of his debt as remains after deducting the proceeds of the collateral; and this sum may be ascertained at the time the dividend is declared, although the claim had formerly been proven and allowed for the full amount.” State National Bank v. Esterly, 69 O. S. 24.
+The opinion in that case is broad enough to be applicable to all cases where insolvent estates are to be administered, unless the statutes provide otherwise.
+The deposit was made by the state treasurer in the Peoples Commercial and Savings Bank under the depository law, Section 328, General Code, and the securities were deposited by the bank with the treasurer to secure the deposits as provided by Section 330-3. A demand certificate of deposit was issued to the treasurer for the amount of the deposit and as evidence therefor, as required by Section 330-4. The relation of borrower and lender was created between the state and the bank:
+“The Legislature has made provisions for deposit of state funds in Section 321 et seq., General Code, and a deposit when made under authority of those sections creates the relation of borrower and lender as between such depositary and the State.'
+“Section 321 eb seq., General Code, neither expressly nor impliedly give to the state priority of payment out of the funds of such banking institution in the event of insolvency.” Fidelity & Casualty Co. v. Union Savings Bank, 119 O. S. 124.
+Nor do Sections 330-6 and 330-7 vary that relationship, nor do they create any rights or privileges in the state, superior to any other creditor under like circumstances. These statutes are merely directory, defining the duties of the treasurer, and prescribing the manner and method of applying the securities to the payment of the deposit.
+It is claimed by the treasurer that the claim having been presented before the collateral was sold and the superintendent of banks having allowed the claim for the full amount, and issued a certificate therefor after the securities were sold, binds the superintendent to pay dividends upon that amount, and that the court should not interfere with the action of the superintendent.
+The superintendent of banks is an administrative officer created by statute, with powers and duties defined by statute, among which are, that upon taking possession of an insolvent bank, he shall administer the assets for the benefit of all the creditors. He may reject claims if he has doubts of -their validity, but the creditor within six months has a right to bring an action upon it. Any person interested may object to any claim not rejected, and proceedings may be brought upon it, as was done in this case. It is plain that the statutes do not give the superintendent full power and authority to determine the validity of claims, but on the contrary, they provide means of determining their correctness and validity by the courts.
+The superintendent of banks in the distribution of assets of an insolvent bank is governed by the same principles of law as are other trustees, and receivers, charged with like duties. The mere fact that the superintendent issued a certificate of claim for the full amount, certainly could not bind him if he afterward discovers a mistake, nor could it bind an objecting creditor. The very purpose of the statutes is to provide a method of bringing the matter before the court for adjudication. Nor, as was held in Bank v. Esterly, above, pages 39 and 40, does it make any difference that the collateral was sold after the claim had been allowed.
+The Supreme Court of Ohio is not bound by a decision of the Supreme Court of the United States, unless the question arises under a law or the constitution of the United States, and the Supreme Court of Ohio, having declined to follow the decision of the Federal Court, this not being a Federal question, it is the duty of this court to follow the state court.
+The rule requiring collateral to be credited applies only to collateral belonging to the debtor, and does not apply to bonds or collateral of other parties pledged. Therefore, the surety company bonds held by the state do not come within this rule.
+It is the judgment of this court that the superintendent of banks credit the claim of the state with the amount of the proceeds of the collateral sold, and that' he allow and pay dividends upon the balance only.
