@@ -1,0 +1,29 @@
+---
+court: "Richland Circuit Court"
+decided: "1913-01"
+citations: ["26 Ohio C.C. Dec. 214"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Taggart, Voorhees and Shields, JJ."]
+parties: ["J. P. Arras, Admr. v. Baltimore & O. Ry."]
+source_url: "https://static.case.law/ohio-cc-dec/26/cases/0214-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1658348
+cites_cases: ["89 O. S. 420"]
+---
+
+# Arras v. Baltimore & O. Ry.
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+TMs was an action in the court of common pleas to recover damages for the wrongful death of one Adam Arras, charged to have been caused by reason of the negligent acts of the defendant in error.
+The averments of the petition are that the defendant owns, operates and controls a track leading from the main line of its road to and among the shops of the Barnes Manufacturing Co. near the city of Mansfield, in Richland county, Ohio, and that said track was so used by the defendant for the accommodation of said Barnes Manufacturing Co. in shipping its products; that said track was so located that the employees of the manufacturing company were compelled, in the performance of their duties, to pass over said track, and for that purpose they had established a regular place for crossing the same; that said crossing has long existed and was well known to the defendant, its agents and servants; that the time of moving cars upon said track is unfixed and is at the discretion of said company, and ¡that the said decedent, Adam Arras, had no knowledge or notice thereof; that the advance of the cars, by reason of the noise of the factory, can not be heard separate and apart from the other noise of the factory, all of which had a tendency to fender said track extremely dangerous; that, by reason of such dangerous condition, the defendant had caused a flagman or watchman to be stationed at said crossing, at the time of moving cars, to give notice to the employees of said Barnes Manufacturing Co. and to notify and warn them of danger, and that the defendant relied upon such notice being given.
+It further recites that on or about June 1, 1910, the said Adam Arras was pulling a large truck along the passage way leading to and over the said crossing above specified; that the approach to said crossing was obstructed by buildings and that the crossing itself was left unguarded by defendant at that time, and no one placed by it to give warning of the approach of ears, and with no one on the front of the moving ears alopg said track to give warning to persons who had occasion to cross said track at said crossing; and without notice, knowledge or warning, and while exercising care on his part, and without negligence on his part, he entered on said crossing and was struck by a box car that was being pushed by an engine that was owned and controlled by the defendant and operated by the defendant, its agents and servants, and received injuries by reason of such collision which caused his death and which occurred on the day last mentioned.
+The case was submitted to the jury upon the evidence of the plaintiff and at the close of plaintiff’s testimony, the court on motion directed the jury to return a verdict for said defendant. It is this action of the court in directing a verdict for the defendant that is complained of in the petition in error filed in this court to review the proceedings of the court of common pleas.
+It is claimed by the defendant that the said Adam Arras was guilty of negligence contributing to his own injury and that by reason of such contributory negligence, the plaintiff would not be entitled to recover in this action.
+The testimony discloses that, just prior to the accident, a foundry foreman of the Barnes Manufacturing Co. passed the decedent, Adam Arras, who was then pulling a large truck towards the track of the railroad company, which truck was being pushed from behind by one Rudolph; that Rogers, the foreman, when he reached the middle oif the railroad track, saw for the first time that the cars were being backed along the track from the south and towards the crossing, and immediately turned and gave warning to the decedent, throwing up his hands and saying to him “Go back,” and at the same time he almost immediately turned and stepped across the track, supposing that the decedent was in a place of safety.
+The foreman further testifies that, when he was in the middle of the track, the decedent, Adam Arras, was from six to eight feet behind him when the warning was given, and that, supposing that he would protect himself and make himself safe, he himself crossed the track to the west side and the cars backed between him and the decedent and the other party who was pushing the truck. After the car had passed about half the length of itself, he heard a crash and learned that the decedent had been struck.
+The court is of the opinion, from the testimony of the witness- Rogers, that the decedent had warning in sufficient time to have saved himself from collision with the moving ears; that the car was about thirty feet to the south when the warning was given, as shown by the evidence, and that he could have saved himself from injury; and that, as a matter of law,' he was guilty of contributory negligence in proceeding toward the track after the warning had been received, and in coming in collision with the moving cars, by reason of which he was injured.
+The court is of the opinion that whether or not the decedent was guilty of contributory negligence is not a question of fact to be submitted to the jury but is a question of law to be determined by the court; and that, for this reason, the action of the court in sustaining a motion to direct a verdict was proper and was not error. The judgment of the court of common pleas is affirmed with exceptions.
