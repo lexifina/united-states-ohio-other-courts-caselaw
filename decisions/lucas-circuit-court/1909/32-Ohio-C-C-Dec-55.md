@@ -1,0 +1,21 @@
+---
+court: "Lucas Circuit Court"
+decided: "1909-06-12"
+citations: ["32 Ohio C.C. Dec. 55"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Parker, Wildman and Kinkade, JJ.", "Parker and Kinkade, JJ., concur."]
+parties: ["B. A. Stevens Co. v. Henry Blum."]
+source_url: "https://static.case.law/ohio-cc-dec/32/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1666406
+---
+
+# B. A. Stevens Co. v. Blum
+
+## Majority (WILDMAN, J.)
+
+WILDMAN, J.
+This is ;.j personal injury ease which was tried in the court below, in f. suit brought by Henry Blum against the company named, rjid verdict was obtained by him for about the sum of $900. He' had previously obtained a judgment, which hád been set arhde. Several claims are made of error in the trial below as to the introduction of evidence and the charge of the court, and in the giving and refusing of certain requests before argument. The ones to which I wish to address my attention, however, especially, and that seem worthy of consideration are those growing out of the instructions given by the court to the jury in its general charge. We think that there is error in the general charge as disclosed on page 22 of the bill of exceptions, and that that error was prejudicial to the defendant, the plaintiff in error. The court properly instructed the jury, as shown near the top of this page, that "the burden of proving contributory negligence on the part of the plaintiff is upon the defendant, with the qualification that if the testimony introduced by the plaintiff as to the circumstances under which the injury was received raises a presumption in your minds that he was guilty of contributory negligence, then the burden is upon the plaintiff to remove this presumption.” And having said this and given certain other instructions, not strictly relative to them, he says: “I say to you that no presumption of negligence arises against either party to this action.” The jury may well have understood these two instructions as being in effect, “while at law a presumption of negligence on the part of the plaintiff must be shown by the defendant, unless the evidence offered by the plaintiff raises the presumption, in which case it is essential that plaintiff remove it, it is the opinion of this court, and the court says to you, that no such presumption does arise from the plaintiff’s evidence.” I do not think, of course, that the court intended to convey that idea. The trial judge, and probably any lawyer or any judge, would understand the true meaning. Any person familiar with the law and having read the records or having read the evidence, would understand the court as instructing the jury that “at law no presumption arises, in the first instance against either party, but it may arise under the circumstances which I have stated as disclosed by the- plaintiff’s evidence, and then it is incumbent upon the plaintiff t¿ remove it.” But the trouble with it is that the jury is not made up’of lawyers, and we have to take into account the probability of thx* misleading. of the jury by an instruction which is not so clear tut that they may have been misled by it. We think in this instance they would be very likely to be in the way I have mentioned. ''We think the charge of the court is erroneous also in its definitions of the term “proximate cause” and “preponderance of the evidence.” I will not stop to read them, but content myself with saying that the judgment of the court below will be reversed' for these errors that I have mentioned in the charge, first in the instruction “I say to you that no presumption of negligence arises against either party in this action,” taken in connection with the. other language which he gave; and, second, in his definitions of the term “preponderance of the evidence” and “proximate cause.” The judgment will be remanded to the court below for a new trial.
+Parker and Kinkade, JJ., concur.
