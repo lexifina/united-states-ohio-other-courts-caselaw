@@ -1,0 +1,33 @@
+---
+court: "Cuyahoga County Court of Common Pleas"
+docket: "932216"
+decided: "1977-10-26"
+citations: ["53 Ohio Misc. 21"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Liggins v. May Company et al."]
+source_url: "https://static.case.law/ohio-misc/53/cases/0021-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1444737
+cites_cases: ["396 F. 2d 870", "44 Ohio Misc. 81"]
+---
+
+# Liggins v. May Co.
+
+## Majority (Friedman, J.)
+
+Friedman, J.
+The plaintiff in this action, Helen Liggins, joined by the Attorney General of Ohio, sued the defendants Professional Services Unlimited, Inc., (PSU) and the May Company alleging that they had sent her deceptive and unconscionable debt collection notices in an attempt to collect on a claim arising from a consumer transaction. She alleged that these acts and practices violated the Consumer Sales: Practices Act, R. C. 1345.01 et seq., and sought declaratory and injunctive relief.
+The case is now before the court on the plaintiff’s motion for summary judgment against PSU, in which the Attorney General has joined. For the reasons stated below, the court finds that this motion is well taken.
+, The material facts are not in dispute and are established by the uncontroverted affidavits, verified documents, deposition, and other material submitted by the plaintiff with her motion. The plaintiff purchased various consumer items, such as bedspreads, clothing and household goods on credit from the May Company in 1973. As a result, of these purchases, the May Company claimed that the' plaintiff owed it a debt of $26 representing part of the balance of the sales price.
+. • In early 1974, PSU — a collection agency — sent the plaintiff two debt collection or “dunning” notices on behalf of the May Company, in an attempt to collect the $26 claim. The first one featured a bold-face title “Marshall Enforcement,” with a drawing of a man with a badge. It stated that “pre-legal procedures” had been initiated, claimed that the plaintiff’s assets were to be attached, and demanded immediate payment.
+, .The second notice was the common pre-garnishment form sent to judgment debtors.. It stated falsely that a judgment had been rendered against the plaintiff in favor of the May Company, that a garnishment' was imminent, and that garnishment could only be avoided by immediate payment. Contrary to the statements on this notice, the plaintiff had never even been sued by-the May Company.-,
+The Consumer Sales Practices Aet is Ohio’s > major piece of consumer protection legislation. It prohibits any “supplier” from committing a deceptive or unconscionable, aet or practice.in connection with a consumer transaction., “Supplier”'is defined at R. C. 1345.01(C) as “a seller, lessor, assignor, franchisor, or other person engaged in the-business of effecting or soliciting consumer transactions, whether or not he deals directly with the consumer.”: The. Act states that a: deceptive or unconscionable act or- practice is a violation “whether it occurs before, during, or after the transaction,”
+The Consumer Sales Practice Act is remedial , legislation and, as such, should be accorded a liberal construction, Brown v. Market Development (C. P. Hamilton Co., 1974), 68 Ohio Ops. 2d 276. Accordingly, this court has already ruled, in Liggins v. May Company (1975), 44 Ohio Misc. 81, that debt collection activities are covered by the Consumer Sales Practices Aet when they are based' upon a claim arising from a consumer transaction. A person who engages in the business of enforcing or attempting to enforce such claim is a “supplier” as defined at R. C. 1345.-01(C). This covers both an original creditor and any collection agency hired by the original creditor. The court hereby finds that the claim against the plaintiff arose from a consumer transaction, and that PSU was a “supplier” in its activities to collect on this claim.
+The two collection notices sent by PSU to the plaintiff are clearly deceptive in their format and content. Both are designed to simulate official documents. The first notice is designed to appear as if it were issued by a marshall or other law enforcement official; the second is in fact a statutory notice perverted to an improper use. Both misrepresent the pendency or immineney of official or judicial action. Both contain false statements of fact, false statements or implications about what will happen if the consumer fails to satisfy the claim, and misrepresentations about the law. The use of such notices in debt collection is a deceptive act or practice as defined at R. C. 1345.02.
+PSU’s use of the notices is also unconscionable, and a violation of R. C. 1345.03. A false threat of garnishment, made by a collection agency in an official-looking document, is designed to engender fear in the mind of the consumer and to take advantage of the consumer’s laek of knowledge of legal procedures. Slough v. F. T. C. (C. A. 5, 1968), 396 F. 2d 870, a case arising under the Federal Trade Commission Act, is exactly on point and is particularly relevant in light of the similarity between the Act and the Consumer Sales Practices Act.
+Based upon the undisputed facts as outlined above, the court concludes that the plaintiff is entitled to a declaratory judgment and an injunction against PSU’s continued use of these deceptive and unconscionable debt collection tactics. It is therefore ordered, adjudged, and decreed that a person engaged in the business of enforcing or attempting to enforce the payment of a claim of debt owed by a consumer to a supplier which arises from a consumer transaction is engaged in the business of effecting a consumer transaction and is a “supplier” as defined at R. C. 1345.-01(C).
+It is further ordered, adjudged and decreed that it is a deceptive and unconscionable act or practice as defined by R. C. 1345.02 and 1345.03 for a supplier, in the process of collecting or attempting to collect upon a claim of debt arising from a consumer transaction, to use any statement or notice which simulates an official document, which falsely represents or implies that it is officially authorized, issued, or approved; or which falsely represents the status of any legal proceedings or other facts.
+It is further ordered, adjudged, and decreed that the defendant Professional Services Unlimited, Inc., committed deceptive and unconscionable acts and practices in violation of R. C. 1345.02 and 1345.03, in sending the plaintiff two collection notices that contained false statements and implications of fact and law and that simulated official documents-.
+Judgment accordingly.
