@@ -1,0 +1,20 @@
+---
+court: "Columbiana County Court of Common Pleas"
+decided: "1816-06"
+citations: ["1 Tapp. Rep. 56"]
+reporter: "tapp-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAMS vs. HARBAUGH."]
+source_url: "https://static.case.law/tapp-rep/1/cases/0056-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 628210
+---
+
+# Williams v. Harbaugh
+
+## Majority (President.)
+
+President.
+Gentlemen of the jury: From the evidence, it appears that the defendant, in August, 1812, went into the public service with the militia, as quarter master general of the fourth division of the Ohio militia; that he appointed a number of deputies, one of whom was Alexander Johnson; that he and his deputies made purchases for and on account of the government of the U. States of provisions, forage, &c.; that Johnson, as the defendant’s deputy, on the 4th of September* 1812, purchased of the plaintiff forage of the value of $13.70; that, in the summer of 1813, the defendant exhibited, at the war office, his account of supplies purchased for the militia, including forage to the amount of 4 or $5,000, which sum the defendant received from the TJ. States. The defendant also exhibited an account of rations furnished the militia, and received payment to the amount of 6 or $7,000. The defendant stated, at the time of presenting his accounts, that they covered all expences for supplies furnished to the detachment of militia with which Johnson was in service.
+The defendant has attempted to prove, that the plaintiff’s account was not included in his settlement with the TJ. States, by producing to you certain accounts, which are proven to be the accounts settled by the defendant at the war office. It appears that some items in these accounts are untruly charged, as, for instance, the TJ. States are charged as indebted to Elderkin Potter for a quantity of oats; and it is admitted that Potter did not supply any or sell any to the TJ. States, but that this charge is, in fact, for oats supplied by several individuals whose names do not appear, and that the accounts are many of them made in this way for the convenience of the defendant, and to facilitate his settlement with the government. This is the evidence. — •Where an officer of the government, known as such, purchases any articles for the public service, he does not make himself personally responsible; but he may take this responsibility upon himself, as, by receiving the money due to the plaintiff, if he did receive it, the defendant has taken it upon himself in this instance. The defendant undertook to settle all the accounts wherein he and his deputies had any agency; he stated that he had included all purchases made by them; it was his duty to include the purchase made of the plaintiff, and I think that the reasonable presumption is that he did include it; to suppose otherwise, is to suppose that he neglected the duty he undertook to perform, and that he stated a falsehood concerning it, neither of which suppositions can be admitted. But if the defendant could shew that the plaintiff’s account was not included in his settlement, and so the plaintiff’s money not received by him, it would be a good defence in this action. If such were the fact, I think it would be an easy matter to prove it; it requires nothing more than a true and correct statement of the names of the persons who furnished the supplies, what those supplies were, and the price of them; and to this end the defendant has produced evidence. As to the accounts exhibited by him, when it is admitted that they contain false charges, which remain undistinguished from those which are true, and wholly unexplained, the whole are unworthy of credit in a court of justice; ^hey are no^ evidence to any extent whatever. The strong presumption, then, arising from the evidence, that the -defendant has included, the plaintiff’s account, and received his money, remains, and will warrant you in finding a verdict for the plaintiff. — Verdict for plaintiff.
