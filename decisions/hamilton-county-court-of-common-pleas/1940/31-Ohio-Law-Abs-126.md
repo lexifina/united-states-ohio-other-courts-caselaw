@@ -1,0 +1,48 @@
+---
+court: "Hamilton County Court of Common Pleas"
+docket: "A-65731"
+decided: "1940-03-28"
+citations: ["31 Ohio Law Abs. 126"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FROMMEL, Admrx. v CONEY ISLAND, INC."]
+source_url: "https://static.case.law/ohio-law-abs/31/cases/0126-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1698698
+cites_cases: ["107 Oh St 204"]
+---
+
+# Frommel v. Coney Island, Inc.
+
+## Majority (By SCHWAB, J.)
+
+OPINION
+By SCHWAB, J.
+This action is before the court upon two motions, one to set aside the verdict of the jury and enter final judgment for the defendant, and the other is a motion for a new trial. The jury heretofore rendered a verdict in favor of the plaintiff in the sum of $5,000.
+It is urged upon this court that the court erred in overruling the motion of the defendant at the conclusion of the plaintiff’s case for an instructed verdict in favor of the defendant and likewise erred in overruling the same motion made at the conclusion of all the evidence in the case.
+The facts in this case, briefly, are as follows:
+On or about the 11th day of February, 1938, the defendant company, by telephone, ordered paint from the SherwinWilliams Company, to be delivered to the Island Queen, and on that day the order was filled, and John Martin Norris, the deceased, was ordered by his employer to take the paint in question to the Island Queen. The Island Queen was anchored in the Ohio River at a point near the foot of Pike street, at a point that might be termed its winter quarters. Its wharfboat, to which the Island Queen was lashed, was approximately thirty feet from the bank of the river, and the wharfboat was reached by means of a gang plank.
+The evidence is conflicting as to the character of the gang plank. It was not equipped with any guard rail, and in the opinion of this court the evidence warranted the jury in finding that such gang plank was not a reasonably safe approach to the wharf boat.
+The evidence disclosed further that the wharfboat had sides to it and a roof, and that the only opening to the wharfboat on the side exposed to the river bank on the Ohio side was a doorway through which the gang plank was 'constructed:
+The deceased was seen a short distance from the boat, walking in its general direction, with a package under his arm. A short time thereafter a cry for help wras heard by a man in a houseboat, which was anchored some distance below the Island Queen. He testified that he saw an arm struggling in the water midway between the wharfboat and the bank of the river, and midway between the gang plank and the end of the wharfboat down current. Some eighteen days later the body of the deceased was found, caught by a chain holding the wharfboat to the shore.
+The death certificate fixed the date of his death as February 11, 1938, at 3:30 P. M., and the cause of death as asphyxiation due to drowning — accidental.
+The evidence further disclosed that the river was rising and a reading by the Weather Bureau disclosed a rise of over three feet between the readings on February 11 and on February 12. A professional diver testified that on February 12 he went to the river bank for the purpose of going into the water with his diver’s suit; that he tested the current and the same was too swift to permit him to enter the water with safety.
+It is the contention of the defendant that under the rule announced by the Supreme Court in the case of Sobolovitz v The Rubric Oil Company, 107 Oh St 204, Syllabus 2:
+“An inference of fact can not be predicated upon another inference, but must be predicated upon a fact supported by evidence.”
+this court is required to enter judgment in this case in favor of the defendant. A number of cases have been cited, and have been carefully considered by the court, which have followed the rule announced above.
+The Sobolovitz case was an action for personal injury against the Lubric Oil Company, and the court at page 208 in its opinion states as follows:
+“The evidence in this case tends to prove that the truck bore a part of the name of the defendant company, upon which an inference of ownership might be predicated; but upon that inference it is sought to predicate the inference, that, since the truck was owned by the defendant, it, at the time of the injury, was being operated by a servant of the defendant, and upon that or the same inference it is sought to predicate the further-inference that it was being operated at the time in the furtherance of the business of the defendant.”
+Another case is called to the court’s attention, being the' case of Strobel, Admr. v The City of Cincinnati, 32 Oh Ap 333, in which the Court of Appeals for the First Appellate District affirmed the judgment of the Common Pleas Court of this county, which judgment was entered upon a verdict of the jury in favor of the defendant. The appeals court based its affirmance of the judgment of the Common Pleas Court upon its finding, upon a review of the evidence, that there was no evidence as to the proximate cause of the death and 'the trial court should have granted the motion for an instructed verdict in favor of the defendant.
+In this case the evidence disclosed that two boys had drowned in the West Fork Creek near the point where the Roll Road bridge crossed said creek. They had been seen a short distance from the bridge, riding a bicycle, one of the boys seated upon the handle bars. The bicycle was found caught by one of its pedals in the bridge and suspended from the south edge of the bridge.
+The evidence further indicated in this case that the city had restricted the use of this bridge by erecting a fence, with an opening in the fence about three and one-half feet wide, and a well defined path ran through the opening in the fence to the bridge. There was evidence that the bridge was in a defective condition.
+The court in its opinion, at page 341, stated with reference to this fact situation as follows:
+“There are many things that could have happened from the time the boys were last seen until the time their bodies were discovered in the water beneath the bridge. There are many things that these boys could have done on the bridge. There are many ways in which they could have met death. No facts have been presented to demand a reasonable inference that the negligence of the defendant, the city of Cincinnati, granting it to have existed, proximately caused the death of the Strobel boy.”
+While the fact situation in this case is similar to the case at bar, there are many additional elements in the case at bar that' did not exist in the Strobel case in so far as the report of this case indicates. In the case at bar we have the definite relation established of invitar and invitee, out of which relationship arose the duty upon the defendant company to provide a reasonably safe approach to its wharfboat. It was conceded in the case that there was no means of access to the wharf-boat except by means of the gang plank in question. We have the employer of the deceased ordering him to take the paint order to the Island Queen.
+We find in the evidence his attempt to comply with that order By walking toward the boat. The law presumes that every man will do his duty. The evidence disclosed that he was a young man, approximately twenty-four years of age, in good health, and in good spirits, working part of the day in making deliveries such as the delivery in question, and the balance of the day working in a restaurant, his total earnings for the week being approximately fourteen dollars.
+The death certificate introduced in this case was introduced pursuant to and by the authority conferred by §231, GC, which reads as follows:
+“The state registrar shall furnish any applicant therefor a certified copy of the record of a birth or death registered under provisions of this chapter relating to vital statistics, for which he shall receive a fee of fifty cents, from the applicant. Such copy, when properly certified by the state registrar t<> be a true copy thereof, shall be prima facie evidence in all courts and places of the facts therein stated.”
+This section was commented upon by Professor Edmund M. Morgan, .of the Harvard Law School, at the recent Cincinnati Law Institute in discussing some problems in the law of evidence, and „ailed attention to this section of the Code as one of the statutory exceptions to the hearsay rule.
+The death certificate, therefore, completely negatived the idea that this death was occasioned by violence or self-destruction, and left but the single question of whether or not there was any causal relation between the drowning and the character of the gang plank.
+Under these circumstances the court is of the opinion that the Strobel case does not present as compelling a fact situation as is developed by the facts and circumstances in the case at bar. The court m this case is convinced that bad the plaintiff been required to prove his case by that rule of evidence in the criminal law requiring proof beyond a reasonable doubt, the jury would have reached the same conclusion that it reached under the rule in civil procedure of determining the mere probabilities, for this court is of the opinion that there can be no doubt based upon reason but that the deceased met his death m the manner contended for by the plaintiff in this case.
+Therefore, the court will overrule the motion to set aside the verdict and to enter final judgment for the defendant, and likewise overrules the motion for a new trial.
