@@ -1,0 +1,42 @@
+---
+court: "Preble County Court of Common Pleas"
+docket: "23862"
+decided: "1974-09-23"
+citations: ["42 Ohio Misc. 27"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Moysey, Exr., v. Moysey et al."]
+source_url: "https://static.case.law/ohio-misc/42/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6692999
+cites_cases: ["113 Ohio App. 513", "13 Ohio App. 1", "179 N. E. 2d 152", "21 Ohio Ops. 234"]
+---
+
+# Moysey v. Moysey
+
+## Majority (Ziegel, J.)
+
+Ziegel, J.
+Plaintiff executor seeks to have his testa-
+tor’s will construed, and ask the court to declare his duties thereunder. After the usual first item directing the payment of debts and funeral expenses, testator provides in Item 2 that:
+“Item 2. All the rest, residue and remainder of my estate, be the same real, personal or mixed, wheresoever situate and whether now owned or hereafter acquired, I give, devise and bequeath to Glenn G. Moysey, Jr., in Trust for the benefit of those children of mine living at the time of my death. I now have fonr children [naming them] * * *, and it is my intention that should any child herein named predecease me or die during the administration of the Trust, then his interest in said Trust shall cease. For the purpose of establishing said Trust I nominate and appoint Glenn G. Moysey, Jr., as Trustee and request that he be appointed without bond * * *. [Thereafter testator gives the Trustee powers of sale and investment, etc. then he continues — ] The net cash income, it being my will that stock dividends become a part of the Trust Corpus, after the payment of fees, costs, taxes and other expenses shall be divided equally, share and share alike, by the Trustee to each such child in quarterly installments, the first installment to be payable ninety days after the transfer of the assets of my estate to said trustee. Upon the death of any child his interest in such trust shall cease as of the date of the last quarterly payment to him and the net income shall be divided among the surviving children or paid entirely to the sole surviving child. Upon the death of the last surviving child the Trust shall terminate and the Trust Corpus shall be reduced to cash. In the event all of my sons predecease me, then not unmindful of my granddaughter, Dianne Moysey Fisk, I give, devise and bequeath my entire estate to my other grandchildren, living at my death absolutely and in fee simple, share and share alike.”
+This last sentence, above-quoted, is not applicable sinc«.. according to both the application for admission to probate and the application for letters testamentary all four of testator’s children did survive him.
+In his will, Testator continues with a second paragraph to Item 2 making provisions for “alternative executors.” Conceivably, because of the placement of this material, he intended to make provisions here for “alternative trustees ’ ’ instead of executors. This the court need not decide since Glenn G. Moysey, Jr., the trustee named in the first paragraph of this Item is still alive and well and living in Eaton, Ohio. In any event, it is well settled that no trust, duly and properly created, will ever fail because of the want of a trustee. 53 Ohio Jurisprudence 2d 505, Section 51.
+The last item of testator’s will, Item 3, nominates an executor, makes provisions for successor executors, and confers powers of sale on the executor.
+The problem here is created by the fact that the testator makes no provisions as to what the trustee should do with the assets of the trust after he has reduced the corpus to cash as directed.
+It is well settled that the duty of the court in this type of case is to determine the intention of the testator. This must be ascertained from the language used in the will, as a whole and within its four corners. 56 Ohio Jurisprudence 2d 52, Section 521 et seq., and numerous cases cited thereunder. The court, in determining the intention of the testator, has no power to make a will for him. Where there is no ambiguity, there is no need for construction, the words which the testator used in effect speaking for themselves. Generally speaking, precedent is of little value in will construction proceedings, each situation primarily resting upon its own peculiar facts.
+Unquestionably, testator here establishes a valid testamentary trust in the first part of Item 2. There is no ambiguity or vagueness as plaintiff suggests. A specific trustee, his son, Glenn G. Moysey, Jr., is named. The assets to he included in the trust corpus and to he administered by this trustee are clearly set forth, i. e., all the rest, residue and remainder of his estate. These are given, devised and bequeathed to the named trustee “In Trust,” clearly indicating testator’s intention to create a trust estate. There is no question about the duties of the trustee, either as to administration or as to distribution to he made to the beni^ficiaries. Who the beneficiaries of the trust are, i. e., his four sons initially followed by the respective survivors of these four, is unmistakably set forth, so that the purpose of the trust is plain. Cf. 53 Ohio Jurisprudence 2d 480, Section 40.
+No problem can conceivably arise in the administration of this trust in accordance with the terms of testator’s will until the death of the last of testator’s children, which event may be many years away. It therefore occurs to this court that any declaration at this time as to what happens to the trust after all of the Moysey boys are dead is premature. The interested parties at that date may not-be the same as are now before the court, and what this court says now may not in any way bind those who may come into the legal picture between now and that undetermined future date, even bearing in mind the principle of class representation. A court may refuse to render a declaratory judgment when such judgment would not terminate the uncertainty or controversy giving rise to the proceedings. R. C. 2721.07.
+Plaintiff, however, suggests in his demand for relief the possibility that if the corpus, after the trust terminates, passes as intestate property as a part of testator’s estate, since his heirs at law are the four sons who are beneficiaries of the trust, and thus are the same persons who hold the remainder interest in fee simple, the beneficial interest and the fee simple interest in the estate merge, which merger should void the trust. For the purpose of determining the possibility of merger, the court will, for discussion purposes only, assume that the remainder after the termination of the trust actually does pass as intestate property. While suggesting the possibility of merger in his demand for relief, plaintiff has not furnished the court with any brief on the subject.
+This consideration involves a facet of the ancient rule in Shelley’s case, which as to wills was abolished in Ohio in 1840. R. 0. 2107.49. Even prior to the enactment of this statute, however, the situation in the case a bar was held to be- outside the rule since the interest of the life tenants here is equitable, not legal, the legal title resting in the trustee during the administration of the trust. See Case Notes, 21 Ohio Ops. 234. Accordingly, even with the assumption indicated above, there can be no merger of interest which would void the trust. Each estate stands on its own. Cf. Chaffin v. Dixon (1920), 13 Ohio App. 1; Merchant v. Adair (1960), 113 Ohio App. 513,179 N. E. 2d 152. Attention is also invited to R. C. 2131.04.
+Answering plaintiff’s questions, the court finds:
+1. The will is not so uncertain that testator’s intention cannot be determined.
+2. A valid testamentary trust is created.
+3. There is no merger of interests between the lifetime beneficiaries and the remaindermen.
+The following questions are not answered because the court finds that the answering of sueh questions at this time may not terminate the uncertainty or controversy giving-rise to these proceedings :
+1. Who the ultimate remainder beneficiaries are.
+2. Wheth.er there is a resulting trust created in favor of decedent’s estate in the undisposed residue.
+3. Whether such residue passes as intestate property.
+Plaintiff-executor should transfer the property covered by Item 2 of testator’s will to the trustee at his earliest convenience.
+Judgment accordingly.
