@@ -1,7 +1,8 @@
 ---
 court: "Cincinnati Superior Court"
 decided: "1907"
-citations: ["1 Hosea's Rep. 452", "1 Hosea's Rep. 518"]
+decided_precision: "year"
+citations: ["1 Hosea's Rep. 452"]
 reporter: "hoseas-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["The Union Savings Bank & Trust Company v. The Pike Building Company."
 source_url: "https://static.case.law/hoseas-rep/1/cases/0452-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1518026
-cites_cases: ["10 O. S., 339", "14 O. S., 48", "15 O. S., 350", "16 O., 125", "33 O. S., 523", "41 O. S., 70", "42 O. S., 180", "46 O. S., 81", "9 Ohio St., 341"]
+cites_cases: ["33 O. S., 523"]
 ---
 
 # Union Savings Bank & Trust Co. v. Pike Building Co.
