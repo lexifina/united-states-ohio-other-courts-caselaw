@@ -1,0 +1,42 @@
+---
+court: "Cuyahoga Circuit Court"
+decided: "1912-07"
+citations: ["34 Ohio C.C. Dec. 280"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Marvin, Niman and Shields, JJ.", "Judge Shields of Fifth Circuit Sitting in Place of Judge Winch.", "Marvin and Shields, JJ."]
+parties: ["Adam Herig et al v. H. B. Harvey et al."]
+source_url: "https://static.case.law/ohio-cc-dec/34/cases/0280-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 636450
+---
+
+# Herig v. Harvey
+
+## Majority (NIMAN, J.)
+
+NIMAN, J.
+The action was for the recovery of a commission for negotiating a 99-year lease on property belonging to the defendants. The jury returned a verdict in favor of the plaintiffs against all the defendants, on which judgment was duly entered after the overruling of the defendants’ motion for a new trial.
+A reversal of this judgment is sought in this proceeding upon several grounds.
+The first claim of error that challenges our attention is that the verdict is not sustained by sufficient evidence.
+The defendants were the joint owners of the real estate covered by the 99-year lease which the plaintiffs claimed to have negotiated and for the negotiation of which they recovered their judgment. The plaintiffs, who are in the real estate business, claimed that the property was listed with them for leasing purposes by the defendant, Albert Herig; that said defendant was the agent of the other defendants; that through their efforts a 99-year lease of the premises was made to one H. D. Squire; that while their efforts were the moving cause in inducing Squire to take the lease, the defendants executed the lease to him without informing them of the matter, and that they did not discover the fact until sometime after the lease was made.
+The defendants denied all of these claims and asserted that Squire was their own customer. The only one of the defendants who seems to have had the matter of leasing the premises up with the plaintiffs at all, was Albert Herig; and the other defendants dispute any agency given Albert Herig to list the property with the plaintiffs and deny all knowledge that it ever was so listed.
+Within the limits of this opinion it would be impossible to enter into any extended review of the evidence. It is sufficient to say that there was evidence tending to sustain all the claims of the plaintiffs, and therefore a submission of the case to the jury was necessary. The jury, with the opportunity to observe the witnesses and with all the circumstances of the transaction laid before them, found in favor of the plaintiffs on the matters in dispute, and we are not able to say that the verdict was against the weight of the evidence. ,
+The agency of Albert Herig was a question that rested largely upon inference, but there were sufficient facts in evidence to support the inference arrived at. If the right to recover against the defendants Adam Herig and Eva Herig, were denied because of insufficient evidence to support the finding of agency on the part of Albert Herig to represent them, it would not relieve Albert Herig from liability, because the entire property was listed, not merely his interest therein.
+Another claim of error is based upon the limitation plaeed by the court upon the use in the case by the defendants and their counsel of a certain affidavit introduced in evidence by the plaintiffs.
+At the time the lease was signed the affidavit in question was given by H. D. Squire. It states that about one year prior to an interview the affiant had had with Harvey & McClure on the subject of the Herig lease, he had made offers to bring the agreement for a lease about with Mr. Al. Herig, and not until said effort on his part did he have any talk with Harvey & MeClure concerning tlie same; that all efforts on the part of said Harvey & McClure to secure such lease for affiant failed and were entirely abandoned; that the present lease about to be signed is the result of resumption of negotiations between Mr. A1 Herig and the lessors, and without any influence or inducement from any other person or agent than the real parties to the lease in question.
+On the cross-examination of Albert Herig the existence of this affidavit was discovered by counsel for the plaintiffs, and was offered by him in evidence. Counsel for the defendants attempted to use this affidavit in his argument to the jury as evidence of the facts therein set forth, but was prevented by the court from so doing, and in the charge the court said:
+“The affidavit was introduced in evidence, gentlemen, as bearing upon the question as to whether there was any deal between Squire and Harvey & McClure. The contents of the affidavit are not competent in this lawsuit to prove the fact. That is not the proper way to get evidence into a lawsuit, and therefore the court eliminated that in the argument.”
+We share the view of the trial court on this subject. The affidavit was competent evidence, bearing upon the question of the liability of the defendants to Harvey & McClure for a commission on account of the making of the lease. Any act or statement of the defendants tending to show a recognition of a claim for commissions could be shown in evidence against them. The facts recited in the affidavit were by no means admitted by the act of the plaintiffs in placing it in evidence. No claim of accident or surprise can be based on the refusal of the trial court to permit the affidavit to be used for an incompetent purpose, even though it appear that except for the mistaken belief that it could be used for the desired purpose, the defendants would have produced other and competent evidence in support of the facts averred in the affidavit.
+Another alleged error is predicated on the action of the trial court in not permitting one of the jurors, on the hearing of the motion for a new trial, to answer the question whether or not he entertained a belief that Adam Herig, one of the defendants, was grasping and stingy.
+It was set forth in an affidavit filed in support of the motion for a new trial, that the following question was put to each and every juror:
+“Is there any cause or reason which would in any way influence or prejudice you against any of the defendants in this ease? Is there any cause or reason why you can not sit as a juror in this case, and impartially render a verdict in strict accordance with the law and evidence as it may. be given to you in open court ? ”
+The affidavit further charges that a certain juror answered this question in the negative, but that he in fact harbored a belief that the defendant, Adam Herig, was a mean, grasping and stingy individual, and that this belief wrongfully prejudiced the juror against the defendant.
+In support of the charge contained in the affidavit, the juror mentioned was called and examined by counsel for the defendants, and in the course of the examination the ruling claimed to constitute error was made.
+If it should be admitted that the question was a proper one to put to the juror, which may well be doubted, it is not apparent that any prejudice resulted by the refusal of the court to permit it to be answered. The other questions put to the juror and which were fully answered, covered substantially the subject of the juror’s attitude toward Adam Herig, which does not appear to have been uncomplimentary. The juror’s examination was very exhaustive and disclosed nothing which would disqualify him from sitting as a juror in the case.
+When the case was submitted to the jury, on request of the defendants, the jury were directed, in the event of a general verdict for the plaintiffs, to make answer to certain questions submitted to them. It is claimed for the plaintiffs in error that the answers returned by the jury are inconsistent with the general verdict, and must control.
+If the special verdict is inconsistent with, or repugnant to, the general verdict, the latter must be set aside.
+A careful examination of the questions submitted to the jury and the answers returned, discloses no inconsistency between the general verdict and the special findings. On the eontrary, the special findings support and fortify the general verdict.
+No error prejudicial to the plaintiffs in error is found in the record, and the judgment of the court of common pleas is affirmed.
+Marvin and Shields, JJ.
