@@ -1,0 +1,28 @@
+---
+court: "Hamilton County Municipal Court"
+docket: "52399"
+decided: "1971-03-22"
+citations: ["27 Ohio Misc. 12"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State National Bank v. Fryman"]
+source_url: "https://static.case.law/ohio-misc/27/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1441901
+cites_cases: ["103 Ohio St. 218", "105 Ohio App. 495", "133 F. 2d 628", "155 Ohio St. 391", "167 Ohio St. 543", "27 Ohio Law Abs. 172", "51 Ohio App. 176", "53 O. O. 2d 151", "87 Ohio App. 407", "96 Ohio St. 386"]
+---
+
+# State National Bank v. Fryman
+
+## Majority (Luebbers, J.)
+
+Luebbers, J.
+This was a proceeding in aid of execution and the facts are undisputed. Plaintiff obtained judgment against the defendant on October 1, 1969, in the sum of $517.00 and thereafter on December 7, 1970, filed its order and notice of garnishment, naming the General Electric Company as garnishee. The order was served upon the garnishee on December 30, 1970. In the 30 days preceding the service of the order the defendant had earned disposable wages of $464.09 and there was due him on the date of service disposable earnings of $124.29. From that time until the hearing date of the proceeding in court on January 12, 1971, the defendant had disposable earnings (including the amount due on the date of service) of $357.45. The garnishee held the sum of $31.07, being one fourth of the disposable earnings due the defendant at the time of service of the notice upon it, and it is this court’s duty to determine whether the garnishee’s computation is correct, or if the judgment creditor is entitled to a greater amount.
+At the outset, it should be noted that since all statutes dealt with in this proceeding are of a remedial nature, we must construe the law liberally for the benefit of the attaching judgment creditor. R. C. 1.11, McDowell v. Hanfield, 87 Ohio App. 407 (at page 412), Marion v. Sickles, 105 Ohio App. 495 (appeal dismissed 167 Ohio St. 543), Weirick v. Mansfield Lumber Co., 96 Ohio St. 386, Hart v. Andrews, 103 Ohio St. 218, Northwestern Yeast Co. v. Broutin, 133 F. 2d 628. And we must apply this rule to extend the statutes beyond their actual language to cases within their reason and general intent. See Rice v. Wheeling Dollar Savings & Trust Co., 155 Ohio St. 391 at page 396.
+In Municipal Courts where the original amount sought exceeds $500.00 Common Pleas Court rules governing proceedings in aid of execution must be applied. R. C. 1901.21 (A), Sterling Finance v. Thornhill, 53 O. O. 2d 151. These rules are contained in R. C. Chapter 2333 entitled “Proceedings in Aid of Execution.” R. C. 2333.13 (formerly G. C. 11772) provides as follows:
+“Upon proof in writing, by affidavit or otherwise, to the satisfaction of the judge, that a person or corporation has property of such judgment debtor, or is indebted to him, the judge, by an order, may require such person or corporation, or any officer or member of the corporation, to appear at a specified time and place in the county wherein such person or corporation is served with the order and answer concerning it. From the time of its service, property, money, or credits in the hands, or under the control of the person or corporation so served, belonging to the judgment debtor, or due to him from such person or corporation, shall be bound, and he or it made liable to the judgment creditor therefor.” (Emphasis added.)
+This section has been interpreted to mean that the garnishment process remains in effect and binds all money due the defendant at the time the order is served until the date of the hearing on the subject in court. See Simmons Real Estate Co. v. Riestenberg, 51 Ohio App. 176, at page 179, paragraph 7, and Eden Realty Co. v. Queen City Petroleum Products Co., 27 Ohio Law Abs. 172, at page 173, first column, paragraph 4 and page 174, column 1, paragraph 2 which reads as follows:
+“The notice, in effect, therefore, under the statute creates a lien on such property, money or credit in favor of the judgment creditor and the statute makes the garnishee liable to the judgment creditor for all payments of money or deliveries of property to the judgment debtor after such notice has been served * * (Emphasis added.)
+Under R. C. 2329 62 or 2329.66 the attaching judgment creditor is entitled to 17% per cent of the disposable earnings of the judgment debtor for the 30 days preceding the service of the proceeding in aid of execution upon the garnishee (and also allowing a basic minimum of $280.00 not involved in this case). Since the defendant’s disposable earnings for the 30 days prior to the service of the order in aid of execution on the garnishee totaled $464.09, plaintiff’s order would be for $81.21 if the Ohio law were applied.
+Under the federal exemption statute found in Title 15, Section 1673, U. S. Code, 75 per cent of the debtor’s disposable earnings are exempt from garnishment for any week that is subject to attachment. In our present case, there was due the debtor at the time of service of the notice upon the garnishee and from that time until the date of the-hearing in court disposable earnings of $357.45 for that three-week period. If only the federal exemption were allowed to the defendant, plaintiff would be entitled to 25 per cent of that amount or $89.36. Since under Ohio law plaintiff is entitled to only $81.21, and Ohio law must apply if it is more restrictive, the garnishee, the General Electric Company, is hereby ordered to pay the sum of $81.21 into court to be applied to the judgment and costs in this case.
