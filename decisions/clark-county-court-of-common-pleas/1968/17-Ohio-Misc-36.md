@@ -1,0 +1,36 @@
+---
+court: "Clark County Court of Common Pleas"
+docket: "65342"
+decided: "1968-11-14"
+citations: ["17 Ohio Misc. 36"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Smith, Appellant, v. Board of Review, Bureau of Unemployment Services, et al., Appellees."]
+source_url: "https://static.case.law/ohio-misc/17/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1437686
+---
+
+# Smith v. Board of Review
+
+## Majority (Goldman, J.)
+
+Goldman, J.
+This is an appeal from a decision of the Board of Review, Bureau of Employment Services, Bureau of Unemployment Compensation, made on May 13, 1968, disallowing claimant’s appeal and affirming a decision of the referee denying claimant the right to unemployment benefits.
+The appeal was submitted to the court for decision upon a transcript of the record and briefs filed by both claimant and the bureau.
+The issue is whether or not claimant was discharged with just cause. The applicable statute is Section 4141.29 (D) (2) (a), Revised Code.
+The administrator initially found and held that claimant quit his employment without just cause, which was the contention of the employer, although claimant had insisted that he did not quit, but was discharged. This decision of the administrator was subsequently modified by the referee, who ruled that claimant did not quit, but was in fact discharged. The referee then went on further to rule that such discharge was with just cause in connection with his work, and accordingly affirmed the denial to claimant of benefits under the act.
+The transcript of the record contains the evidence given at a hearing on February 1, 1968, which consists only of the testimony of claimant. The employer made no appearance and no one offered testimony in its behalf. At the conclusion of the hearing of February 1, the referee announced that the hearing would be reassigned to Columbus to “get the testimony of the employer” (see page 14 of the record). This latter hearing was scheduled for February 20, 1968, but once again the employer made no appearance and offered no testimony, although notice was given to it of the time and place of such hearing. Thus, the only testimony taken in these proceedings is that of claimant himself, offered on February 1, 1968.
+Does the record warrant the ruling that claimant was discharged for just cause?
+At the outset it ought be noted that the record is concerned almost entirely with the question as to whether claimant quit or was discharged, as if that were the principal if not the sole issue involved. Actually only a few lines of the 15-page record relate to the reasons for claimant’s separation from his employment. Furthermore, claimant had previously worked for the same employer during the fall and winer of 1966, and much of the record is erroneously concerned with the conditions and circumstances attending his separation from employment during that period. However, in the instant case we are concerned with his second period of employment with the same employer, which extended from October 7, 1967, to November 4, 1967.
+Claimant was employed as a portrait photographer for the employer, which operated a photo studio at Columbus. He resided in Springfield and commuted back and forth each day during this latter period. Apparently the work load was heavy, as this period of employment occurred during the approach of the Christmas holidays of 1967.
+The record of February 1, 1968, discloses that, in a conversation with employer’s agent relating to his work, claimant spoke of being tired as a result, in part, of commuting daily between his home and Columbus (see page 5 of record). During that conversation as related by claimant, the employer’s agent stated that “my customer handling was not as good as it was or as it could have been,” etc. Claimant admitted to employer’s agent that he was tired as a result of driving from home to work, the heavy booking, and the fact that he worked hard, whereupon, as claimant relates, the employer’s agent said he was going to “lay me off” (see record, page 5).
+It is significant that at no time did claimant concede or admit that his tiredness affected his work or was manifest in his dealings with customers, and in fact no instance of improper customer handling was cited or discussed. Claimant admitted that his tiredness made him “grumpy” when he returned home (see page 6 of record). Otherwise there is no evidence or any indication that he was unwilling or unable to continue his work despite his admitted weariness at the end of each day.
+The record supports a finding made by the referee that claimant did not quit, but was discharged, but the record, silent with respect to any specific charge or instance, fails to support the finding that such discharge was for “just cause.”
+It is certainly not uncommon for a person to become tired after a day’s work, especially when, as in this instance, daily commuting is involved, but in the absence of evidence that the employee voluntarily quit for that reason or, as in this case, in the further absence of evidence that such tiredness adversely affected his work, it is difficult to determine on what basis his discharge could be considered as being for “just cause.”
+Is “tiredness” per se just cause for discharge from employment? The briefs of counsel submitted to the court contain little or nothing by way of argument or citation of authorities that either relates to this issue or would support such a novel or indeed shocking theory. In what respect and in what manner did claimant fail to properly handle his customers? The record is silent. No specific instance of such failure is offered or mentioned or discussed. Neither the administrator, the referee, the bureau, nor indeed this court can find in the record a scintilla of evidence upon which such a charge can be based. The employer was given ample opportunity to state and explain what it claimed or had in mind or inferred, but chose instead not to appear, nor did it offer any testimony upon which a finding that claimant failed to properly do his work could be based. Certainly no undue hardship is imposed in requiring the record to provide some evidence upon which a denial of benefits could reasonably be based. Indeed, both the spirit and letter of the act require that the record support such a finding.
+To become tired after working a whole day is not an offense, nor is it a violation or breach of one’s duty to his employer, in the absence of some evidence that such tiredness in some manner adversely affected the services an employee is required to render.
+Upon examination of the entire record, and for the reasons above stated, this court is compelled to find that the decision appealed from, which denied unemployment compensation benefits to the claimant because he was discharged for just cause, was unlawful, unreasonable, and against the manifest weight of the evidence. The decision appealed from must therefore be reversed and vacated. See Section 4141.28 (0), Revised Code, and 54 Ohio Jurisprudence 2d, page 350.
+An entry in accordance with this decision may be drawn and submitted.
+Decision reversed.
