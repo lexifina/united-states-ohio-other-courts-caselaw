@@ -1,7 +1,8 @@
 ---
 court: "Hamilton County Court of Common Pleas"
 decided: "1896"
-citations: ["3 Ohio N.P. 184", "3 Ohio N.P. 223"]
+decided_precision: "year"
+citations: ["3 Ohio N.P. 184"]
 reporter: "ohio-np"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
