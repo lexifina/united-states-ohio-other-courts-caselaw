@@ -1,0 +1,52 @@
+---
+court: "Cuyahoga Circuit Court"
+decided: "1912-05-27"
+citations: ["31 Ohio C.C. Dec. 242"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Marvin, Winch and Niman, JJ.", "Marvin and Winch, JJ., concur."]
+parties: ["St. John Nepomicine Society v. Josephine Zoulek, Gdn."]
+source_url: "https://static.case.law/ohio-cc-dec/31/cases/0242-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1663334
+cites_cases: ["30 Ohio St. 365", "63 Ohio St. 101"]
+---
+
+# St. John Nepomicine Society v. Zoulek
+
+## Majority (NIMAN, J.)
+
+NIMAN, J.
+This 'proceeding in error had its inception in an action started by the defendant in error, as guardian of John Zoulek, against the plaintiff in error, in the court of a justice of- the peace, to recover certain sick benefits claimed to be due from the plaintiff in error. The ease was appealed to the court of common pleas and a verdict there rendered in. favor of the plaintiff in the action for $299.46. A motion for a new trial was overruled, and judgment entered on the verdict. The plaintiff in error is here seeking a reversal'of this judgment.
+The St. John Nepomicine Society is a mutual benefit association, the members of which are entitled to receive sick benefits upon the terms and conditions prescribed by its constitution and by-laws. That part of its constitution and by-laws dealing with sick benefits is found in Article 15, which is as follows:
+“Benefits in Case op Sickness.
+“1. Each member, who is a member for six months after his admission, will in case of sickness receive weekly sick benefits of such amount as the society is then paying provided that he has all his lawful dues paid up and is adjudged worthy of the sick benefit. No sick benefits shall be paid for less than seven days, counting from the day when his application was presented to the financial secretary.
+“2. The society shall decide the amount of this sick benefit at a regular meeting, according to conditions, which, decision shall be a part of the minutes and shall hold good until according to new conditions this is changed. For the change of this amount will be required a two-thirds vote of the entire membership.
+“3. If a member is afflicted with sickness of long duration he shall receive sick benefits for one year; after which time it ceases, and only by good will and decision of the society he shall be supported by voluntary contributions. Bach member, during his membership is entitled to- sick benefit for an aggregate time of one year. If a member draws sick benefit for 52 weeks he will in case of another sickness be debarred from further support.
+“4. If a member falls sick owing to bad or immoral life, such as drunkenness, staying out late at night, and such, he shall not receive sick benefit in case of sickness. ’ ’
+John Zoulek, the ward of the defendant in error, on or about September 1, 1903, was a member of the society. At about that time he became insane, and has remained in this condition ever since. The defendant in error was appointed his guardian, and as such made application to the society for the payment of sick benefits on account of the sickness of John Zoulek. The society, however, after investiation, refused the application on the ground that Zoulek’s condition was due to drink, and, according to the contention of the society, his case came under Art. 15, Sec. 4, of the constitution and by-laws already quoted.
+After the refusal of the society to pay any benefits suit was brought in the manner and with the result above indicated. The plaintiff in error contends that on the evidence, the defendant in ei’ror was not entitled to recover on the claim sued on, for the reason that she had not exhausted her remedies in the order or association, and that the verdict was therefore either not sustained by sufficient evidence, or was contrary to law.
+It is undoubtedly the law that when a member- of such an organization as this society, claims to be entitled to sick benefits, he must seek his remedy in the first instance in the organization and before the ’ tribunals provided by it for deciding such .claims. Myers v. Jenkins, 63 Ohio St. 101.
+However, if the society has provided no method whereby a member whose claim has been rejected by it, may obtain a review of the decision and no tribunal for the hearing of an appeal from such decision, the member whose claim has been rejected may sue for the recovery of the same in the civil courts.
+The defendant in error did not make any appeal within the society from the rejection of her claim, and this leaves for determination the question whether any such appeal was required under the laws of the organization..
+It is provided by Art. 21, Sec. 1, in substance, that each member who is admitted to the society is required to sign his name to the constitution as a sign that as a member, he acknowledges the constitution and the constitution of the union as the law of the society, and will be guided by the rales therein contained, and will fulfill all his duties and observe all laws thereof. .
+Article 21, Sec. 2 of the constitution of the society provides: ■ .
+“As a sign that a member should he be punished for a transgression of the society’s or the union’s constitution-either for indecent or immoral conduct, by a jury or by the constitution alone, or by the vote of the members, he has no right to arise against the society except by an appeal to the union. ’ ’
+Article 18, Secs. 1 and 2 of the constitution are as follows:
+“1. Should a member be dissatisfied with the finding of the jury or the society’s decision, he may appeal to the union.
+“2. The appeal must be handed to the local president within at the most 20 days, and must contain definite reasons for complaint, when and how he was unjustly treated by the society.”
+It is claimed that by virtue of these provisions, the defendant in error was required to appeal to. the union, but no mention. is made of the subject of sick benefits in any of the sections of the constitution referred to, and, in our opinion, they do not refer to such benefit.
+The appeal from the finding of the jury. or the society-’s decision to the union, that is provided for, apparently refers to any punishment for a transgression, of the society’s or union’s constitution, and it can hardly be contended that the refusal to pay sick benefits is a punishment for a transgression of the constitution of the society or of the union, even though the refusal be based upon the claim that the member asserting his right to benefits has, by his own immoral life, produced his sickness.
+No appeal having been provided whereby the defendant in error could obtain a review of the action of the organization in refusing to allow her application for benefits, it follows that she had the right, upon the rejection of her claim, to institute a suit to recover them.
+Error is also claimed to have been committed by the trial court in refusing to receive in evidence a certain letter and the minutes of certain meetings of the society.
+The bill of exceptions contains no intimation of what the contents of this letter or of the minutes offered may have been. There was no offer made to prove their contents, so that we are unable to pass upon their competency. No prejudicial error in the ruling of the trial court on matters of evidence has been brought to our attention.
+Another ground of alleged error is founded upon the contention that the court erred in charging the jury in that part of the charge in which the court, in substance, told the jury that the only question for their determination was whether or not intoxication or the excessive use of intoxicating liquor was the cause of the insanity of John Zoulek.
+We think, however, that in the state of the pleadings and the evidence, the court was right in so charging the jury. There was no dispute in the evidence that at the time suit was brought, John Zoulek was a member of the society; that all of his dues and assessments had been paid; that he was adjudged insane about September 1, 1903, and has been insane ever since; that the society had been requested to pay the benefits sought to be collected in the suit and had refused payment.
+The answer filed in the court of common pleas in the action based the refusal of the society to pay sick benefits to John Zoulek upon the ground that he had led such an intemperate life as to bring about his sickness, and in view of the undisputed facts to which attention has been called, there was no issue of fact left in the case but the simple determination of whether or not Zoulek’s sickness or insanity had been caused by his own addiction to drink.
+It is also claimed by the plaintiff in error that the vei’diet is excessive to the extent of interest on $202 from September 1, 1903.
+The bill of particulars filed in the justice court asked for judgment for $202 only, no mention being made of interest. The petition filed in the court of common pleas prayed, not only for judgment for $202, but also for interest from September 1, 1903. The charge of the court authorized the jury to compr - interest on such amount of sick benefits as they should / John. Zoulek was entitled to have received on September 1, 19 The amount of the verdict indicates that interest was figure on the amount of benefits to be recovered in the action.
+It is claimed that there can not be a recovery for a greater amount than that sought to be recovered in the justice court. No objection, however, seems to have been made at any stage of the case to the claim for interest. The amount sought to be recovered was within the original jurisdiction of the court of common pleas. It has been held that although the cause of action asserted in the court of-common pleas is entirely different from that tried before the justice of the peace, yet, if it is within the original jurisdiction of the common pleas court, that court may acquire and exercise jurisdiction on the voluntary appearance and consent of the defendant. Wilson v. Wilson, 30 Ohio St. 365.
+This principle seems applicable to the case under consideration.
+The petition in error contains other assignments of error, but no claim has been made- with respect to any other errors than those which have already been considered, and it follows that the judgment of the court of common pleas must be affirmed.
+Marvin and Winch, JJ., concur.
