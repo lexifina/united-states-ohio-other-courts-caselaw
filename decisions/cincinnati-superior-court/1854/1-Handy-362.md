@@ -1,0 +1,41 @@
+---
+court: "Cincinnati Superior Court"
+decided: "1854"
+citations: ["1 Handy 362"]
+reporter: "handy"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Storer, J. presiding."]
+parties: ["WILLIAM F. BOYD vs. STEAMBOAT FALCON."]
+source_url: "https://static.case.law/handy/1/cases/0362-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1623468
+cites_cases: ["11 Ohio 458", "12 Ohio 341", "18 Ohio 201"]
+---
+
+# Boyd v. Steamboat Falcon
+
+## Majority (Stoker, J.)
+
+Stoker, J.
+It is clear that a claim for unadjusted salvage, cannot be sustained in this form of action. The provisions of the law, under which this suit is brought, embrace no such demand. The proper determination of such a claim, can alone be had in the admiralty, where all the parties interested can be heard, and where all who wish to defend, would be bound to take notice of the proceedings. That tribunal could properly apportion the amount to be paid to the several parties, who may claim to have expended labor in rescuing property abandoned, or in great jeopardy; and the remuneration to be awarded, would depend upon the peril encountered, skill exerted, and time spent in the work. It will not be measured by a per diem allowance, but upon the liberal discretion of the Court, not only as a reward for courage in the hour of danger, but as an incentive for the preservation of property in imminent danger, by all who are embarked in a common enterprise.
+Abbot on Shipping, part 3, chap. 8, sec. 17; 3 Kent's Com. 245; 2 Mason, 319.
+If the demand in this suit, was for salvage merely, we could not permit a recovery. The property, however, has been received by the boat from the salvors; they have parted with their lien; a contract to pay a specific sum has been made, on the faith of which, the property has been surrendered. It is immaterial then, whether the work, in saving the property, was performed at the request of' the Captain, or whether the salvors were employed by him or not. The subsequent reception of the property has enured to the benefit of the carriers; the act "of the salvors is ratified; and an obligation is consequently imposed, to pay such sum as may be agreed on, or, if no agreement for a specific sum be made, then a fair equivalent for the services that have been rendered. Parsons on Contracts, 44 to 46.
+If, then, the masters and owners' of the boat are liable, can the claim of the salvors, with which they are chargeable, be sustained against the boat ?
+The language of the statute, we apprehend, may well be extended to embrace a case like the present. It provides that the boat shall be liable for “debts contracted on account thereof by the master, owner, steward, consignee, or other agent, for materials, supplies, or labor, in the building, repairing, furnishing, or equipping the same.”
+In 11 Ohio 458, Canal Boat Huron vs. Simmons, the Court say: “ the boat is substituted for the oioners, and in those cases where they would be liable, the boat may be held.” The object of the statute was, to give a remedy, where they, (the owners,) were absent, or could not readily be found, and where, if the boat could not be directly reached, the claim would be of little value. In this case, under the terms “ furnishing the boat,” the law was held to include provisions for the use of the boat.
+In 12 Ohio 341, Lewis vs. Schooner Cleveland, the decision last quoted was affirmed, and the statute further extended to claims for wages, by the employees of the boat.
+In 18 Ohio 201, Webster vs. The Brig Andes, the question was again decided, and although Judge Hitchcock dissented upon one point there decided, he approved the construction of the law given in the cases just quoted.
+It is difficult to distinguish between a claim for services rendered in saving property lost, or thrown overboard? from a boat, and afterwards returned by the salvors to the boat, and- those rendered on board the boat itself. Both are equally for the benefit of the owners, and in the present case for the preservation of freight, which, if lost, the boat would have been liable for, in this form of action. The claim in this suit, is therefore held to come within the meaning of the statute, so far as the remedy is concerned.
+It is contended, that if the plaintiff can recover, he is entitled to a larger sum for his services, than the amount the parties agreed to receive, on the delivery of the property to the boat. This question involves another: Can the salvors repudiate their agreement, and if so, on what grounds ?
+No fraud, or imposition, is proved, to authorize its rejection ; but, it is objected that the property was about to be replevied, and that the salvors could do no better than accede to the arrangement proposed by the Captain. They were coerced, therefore, into the settlement, and ought not to be held to its terms The force of this suggestion, is not apprehended by the Court. No compulsion, no duress, within the meaning of the law, was proved. The parties appear to have acted with a full understanding of their rights, and to have properly estimated the value of their services. Whatever lien they had acquired, might have been asserted in the replevin suit, if that process had been permitted to take its course.
+We must therefore hold the parties to their contract, and cannot, in justice, on the testimony before us, allow any other, or further claim, than that which was agreed on, when the property was received by the boat.
+If no special contract had been proved, we should not feel justified to allow any such sum to the salvors, as they now claim. The property saved was found in comparatively shoal water, where the only immediate difficulty to encounter was the running ice, and the cold weather. There were no such extraordinary perils, as would try the skill and courage of the mariner on the ocean; no such self-sacrifice as is to be found in the many reported cases, where salvage has been decreed to the value of a moiety of the property saved. On the contrary, it was but an ordinary undertaking of a number- of persons, to save, under the hope of reward, property, that would have been saved in a short time by the carriers themselves.
+The case presents no peculiar circumstances for a very liberal allowance, and all that could have been adjudged, would have been a fair compensation.
+But, there is another view of the case to be considered, which we would, if possible, reconcile with a judgment for the plaintiff, on the pleadings, as they are now presented.
+The action is brought by one of five joint contractors, made so, by the agreement that bound the Captain and owners to pay a specified sum to all, not to each; a sum, that could not then, and cannot now be apportioned, except by the joint consent of the salvors.
+The labor bestowed was jointly contributed, the work itself was a joint undertaking; and the interest therefore was joint. If a note had been given to all, neither could sue for his portion; and this agreement, though proved by parol, must be governed by the same rule. We are led to the conclusion, therefore, that all the parties claiming under this agreement, should have joined in this suit; and neither can sustain an action for his undivided portion. We should have been better pleased could we have sustained this action.
+Thorpe, for Plaintiff.
+Lincoln, for Defendant
+The parties are entitled to remuneration for their labor, and should long since have been paid; and it is a subject of regret that the costs of the suits pending will consume a great part of the amount the salvors are, in any event, entitled to recover.
+The law permitting amendments, in force when the suit was brought, is liberal in its terms; and allows to the Court very large discretion, in shaping the pleadings, to subserve the ends of justice. To effect that object, the declaration in this case, if the plaintiff desires it, may be amended, by making all the salvors parties, as plaintiffs; and judgment will then be rendered for the plaintiffs for one hundred dollars, and costs of this suit only. The costs of the amendment, and the costs of the four other suits will be paid by the plaintiffs in each case, and their suits must be discontinued.
