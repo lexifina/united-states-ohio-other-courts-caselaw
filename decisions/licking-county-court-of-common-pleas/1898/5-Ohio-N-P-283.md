@@ -1,0 +1,31 @@
+---
+court: "Licking County Court of Common Pleas"
+docket: "6912; No. 6910; No. 6930"
+decided: "1898-04"
+citations: ["5 Ohio N.P. 283"]
+reporter: "ohio-np"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF OHIO ON RELATION OF JOHN TUCKER AND THOMAS B. TOWNSEND v. THE CITY OF NEWARK, et al. JOHN TUCKER v. THE CITY OF NEWARK. JOHN TUCKER v. THE CITY NEWARK."]
+source_url: "https://static.case.law/ohio-np/5/cases/0283-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1527946
+cites_cases: ["36 Ohio St., 409", "44 Ohio St., 628"]
+---
+
+# State ex rel. Tucker v. City of Newark
+
+## Majority (WICKHAM, J.)
+
+WICKHAM, J.
+In July, 1890 the city of Newark by 'its officers advertised for bids to furnish material and perform labor in paving certain streets of the city. Bids were filed by numerous parties, and among them were the bids by the relators in case No. 6912.
+Relators’ bids were the lowest, but it was claimed by the city officials that their bid was illegal, not in conformity to the requirements of the notice made To prospective bidders, and the city, by its officers, was about to let the contracts to pave the streets to other parties when, on July 25, 1890, John Tucker brought a suit against the city of Newark and its officers to restrain them from letting certain other contracts. A temporary injunction was issued by the court of common pleas. Afterward, on August 1, 1890, John Tucker filed his petition against the city and its officers to restrain them from letting certain other contracts to pave said streets, all of which were included in the bids of relators in case No. 6912. A temporary injunction was issued on this petition by the court.
+On July 26, 1890 the relators brought -their action in this court against the city and its officers for a writ of mandamus to compel them to award to relators the contracts to furnish the material and pave the streets of the city for which they had filed their bids. To each of the petitions in this case a general demurrer was filed, which,upon hearing, the court sustained, dismissed the petitions and dissolved the temporary injunctions in 6910 and 6930. Exceptions were taken by'the plaintiffs, and the cause was carried to the circuit court for error of the court in sustaining the demurrers. No steps were taken by the plaintiff to prevent the defendants from letting the contracts to -other persons while the causes were pending in the circuit court, and during the pendency of the causes in the circuit court the city, by its officers, let the contracts t.o furnish the material and pave the streets of the city, and the material was furnished and the work performed. Afterward, the circuit court, upon the causes being heard there, reversed the decision of the common pleas in sustaining the demurrers to the petitions, and the causes were remanded to this court for further proceedings, and they are now before the court on their merits.
+This court finds upon the evidence adduced that the relators in case 6912 were the lowest responsible bidders, and that they were entitled to the contracts to pave the streets of the city, and, therefore, on the beginning of the suits 6910, 6930 the plaintiff was entitled to a permanent injunction restraining the defendant from awarding the contracts to other parties. The work having been performed, no injunction can now issue to restrain the defendants in these causes from awarding the contracts as prayed in the plaintiff’s petitions, but in these cases the plaintiff is entitled to a judgment for his costs.
+We further find in cause No. 6912 that at the beginning of that action the relators were entitled to a peremptory writ of mandamus to compel the awarding of the contracts to them. But a vain thing will not be compelled by mandamus (44 Ohio St., 628), therefore no writ can now be issued to compel the awarding of the contracts, the contracts having been awarded and executed years ago. (Deckman v. Village of Oak Harbor, 10 C. C. Rep. 409). But we find that therelators are entitled to a judgment for their costs in this case.
+It is claimed by counsel for relators that the court should retain these cases to inquire whether damages were sustained by the relators arising from a failure of the respondents to award to them the contracts to jiave the streets of the city, and that this action of the court is rovided for by section 6753 Revised tatutes. That section provides, “If judgment be given for the plaintiff, the relator may recover the damages which he has sustained, to be ascertained by the court, or a jury, or by a referee or master, as in a civil action, and costs, and a peremptory mandamus shall also be granted to him without delay.”
+S. M. Hunter, for Relators.
+T. B. Fulton, City Solictor.
+The question arises, does this section of the statutes contemplate a case of this kind where the damages arise out of the failure of the respondents to award the contracts to the relators. The measure of these damages would, be the prospective profits accruing to the relators if the contracts had been let to them upon their bids. We do not think this section of the statutes contemplates this kind of damages. The damages provided for by section 6753 we think, are damages caused by the delay of the respondent in performing the acr the law requires of him, to be determined by the court.,' or a jury, or by a referee or master,after a peremptory writ has been granted by the court. We find no authority bearing directly upon the question.
+In Ohio ex rel. v. Board of Public Works, 36 Ohio St., 409, the court intimates in the last sentence of their opinion at page 415, that the damages provided for by this section are those only caused by the delay of the respondent. They say, “If the relators have been injured by delay in making payment they can look only to the General Assembly for redress.” One of the questions decided in that case was that damages could not be recovered against the state under this section of the statutes.
+A judgment may be entered for the plaintiffs in 6910,6930,and for the relators' in 6912 for the costs, as indicated in this opinion.
