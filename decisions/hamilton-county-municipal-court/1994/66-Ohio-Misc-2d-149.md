@@ -1,0 +1,36 @@
+---
+court: "Hamilton County Municipal Court"
+docket: "C93CRB28711"
+decided: "1994-03-18"
+citations: ["66 Ohio Misc. 2d 149"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The STATE of Ohio v. GAINES."]
+source_url: "https://static.case.law/ohio-misc-2d/66/cases/0149-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6714242
+cites_cases: ["1 O.O.2d 434", "101 Ohio App. 511", "137 N.E.2d 589", "16 Ohio App.2d 72", "174 Ohio St. 362", "189 N.E.2d 133", "1984 WL 4420", "22 O.O.2d 416", "241 N.E.2d 773", "29 OBR 55", "29 Ohio Misc.2d 1", "45 O.O.2d 168", "502 N.E.2d 711", "630 N.E.2d 397", "90 Ohio App.3d 674"]
+---
+
+# State v. Gaines
+
+## Majority (Timothy S. Black, Judge.)
+
+Timothy S. Black, Judge.
+This matter presents the state’s criminal charge that the defendant, Richard Gaines, committed vehicular homicide in derogation of R.C. 2903.07 on August 20, 1993, when he allegedly caused his automobile to collide with and kill a motorcyclist. The charge is a first degree misdemeanor, carrying with it the potential for six months of incarceration.
+The defendant has timely requested a bill of particulars, and only now, on the eve of trial, has been advised by an assistant county prosecutor that the state, as a matter of policy, does not provide a bill of particulars for misdemeanors.
+The right of a defendant to be apprised fully and fairly of the nature of any criminal charge is as fundamental and democratic a right as any in our society. The right emanates from, inter alia, the Sixth Amendment to the United States Constitution and Section 10, Article I, Ohio Constitution.
+The Ohio Supreme Court has affirmed this fundamental right on numerous occasions, the decision most relevant to the present case being State v. Fowler (1963), 174 Ohio St. 362, 364, 22 O.O.2d 416, 417, 189 N.E.2d 133, 135. In Fowler, the Ohio Supreme Court expressly held that a defendant has a right “to be informed of the exact nature of the offense with which he is charged,” whether it is a misdemeanor or a felony. As the Ohio Supreme Court held: The “right to a bill of particulars provided for in [R.C. 2941.07] is not a matter of discretion with the court but is mandatory if the charge laid is vague or indefinite. ” Id. (Emphasis added.)
+Nevertheless, the Ohio Court of Appeals for the First District, the decisions of which bind this court, has twice stated that a misdemeanant is not entitled to a bill of particulars. See Cincinnati v. McKinney (1955), 101 Ohio App. 511, 515, 1 O.O.2d 434, 436, 137 N.E.2d 589, 592; In re Schott (1968), 16 Ohio App.2d 72, 75, 45 O.O.2d 168, 170, 241 N.E.2d 773, 776. Both of these opinions, however, were issued prior to the adoption of the Rules of Criminal Procedure in 1973.
+Today, Rule 7(E) of the Ohio Rules of Criminal Procedure requires the state to provide a bill of particulars to a defendant if the defendant makes a timely written request. The Criminal Rules do not provide that the right to a-bill of particulars is limited to those charged with a felony rather than a misdemean- or, and, in fact, Crim.R. 1(A) provides that the Criminal Rules apply to all courts (including, therefore, even the lowly municipal court and its alleged misdemean-ants). Accordingly, in the face of the enactment of the Rules of Criminal Procedure without any indication that the right to a bill of particulars is limited to alleged felons, this court concludes that McKinney and Schott are no longer binding expressions of the law.
+In State v. Neiheisel (M.C.1986), 29 Ohio Misc.2d 1, 29 OBR 55, 502 N.E.2d 711, Judge Mark P. Painter of this court considered the precise issue again presented in the instant case. In Neiheisel, the prosecutor denied a bill of particulars to a defendant charged with vehicular homicide. Id. However, after concluding that the enactment of the Rules of Criminal Procedure constituted a change in the law subsequent to the First District Court of Appeals’ decisions in McKinney and Schott, and in consideration of the fundamental right to full disclosure of the basis for a criminal charge, Judge Painter granted the defendant’s motion compelling a bill of particulars because the charge against the defendant was “sufficiently inexplicit.” Id. at 2, 29 OBR at 56, 502 N.E.2d at 712. This court is persuaded by Judge Painter’s analysis.
+Moreover, the Ohio Court of Appeals for the Second District has also followed such reasoning in a case interpreting Criminal Rule 7(E), holding that “when the charge contained in the complaint, indictment or information is indefinite or vague and does not fully inform him of the offense with which he is charged,” an alleged misdemeanant has a right to a bill of particulars. Dayton v. Pate (Mar. 22, 1984), Montgomery App. No. 8372, unreported, 1984 WL 4420.
+What, then, is a vague charge? The Ohio Supreme Court in Fowler, supra, offers the following direction:
+“Although it might be argued that appellant well knew whether he was intoxicated or under influence of drugs at the time of his arrest that is not the dispositive question. It is not what he knew about himself, but whether, from the affidavit, he could determine what charge the state intended to attempt to prove.” 174 Ohio St. at 365-366, 22 O.O.2d at 418, 189 N.E.2d at 135.
+To convict a defendant of vehicular homicide requires proof beyond a reasonable doubt of “criminal negligence,” which is defined as a “substantial lapse from due care.” R.C. 2901.22. In order to prepare a defense, the defendant is entitled to know specifically what facts the state intends to proffer as evidence that the defendant’s actions rose to a level of culpability constituting “a substantial lapse from due care.”
+In the present case, the complaint provides that the defendant, “on or about August 20, 1993 in Hamilton County, and State of Ohio, while operating [a] motor vehicle, did negligently cause the death of James S. Brown contrary to and in violation of Section 2903.07 of the Revised Code of Ohio, a [misdemeanor of the first degree].” In evaluating the relative vagueness of the charge as laid, this court is required to look only at the complaint and not at what the defendant may know about the situation out of which the charge arises. See Fowler, supra, 174 Ohio St. at 365, 22 O.O.2d at 418, 189 N.E.2d at 135. In the present case, and guided by Fowler and Neiheisel, this court finds the complaint vague to a degree requiring the production of a bill of particulars.
+Accordingly, the state is hereby ORDERED to provide the defendant with a bill of particulars forthwith.
+So ordered.
+. The defendant filed his written demand for a bill of particulars on the day of his arraignment, i.e., within twenty-one days of arraignment and more than seven days before trial. See Crim.R. 7(E).
+. See, also, State v. Brown (1993), 90 Ohio App.3d 674, 630 N.E.2d 397, where the Portage County Court of Appeals held that Crim.R. 7(E) applies to misdemeanors in municipal court; however, the appellate court rejected the defendant’s claim that she was entitled to a bill of particulars because the indictment "properly advised [the defendant] to the time, place, nature and substance of the harm allegedly inflicted upon the claimed victims.”
