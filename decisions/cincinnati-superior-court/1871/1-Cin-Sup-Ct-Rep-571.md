@@ -1,0 +1,29 @@
+---
+court: "Cincinnati Superior Court"
+decided: "1871"
+citations: ["1 Cin. Sup. Ct. Rep. 571"]
+reporter: "cin-sup-ct-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sarah A. Vail’s Adm’r v. The Junction Railroad Co."]
+source_url: "https://static.case.law/cin-sup-ct-rep/1/cases/0571-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1520237
+cites_cases: ["10 Ohio, 317", "10 Ohio, 335", "3 Ohio, 211", "5 Ohio, 94"]
+---
+
+# Vail's Adm'r v. Junction Railroad
+
+## Majority (Hagans, J.)
+
+Hagans, J.
+This case is submitted to the court.
+Bates, Neal, and B. F. Vail, being in partnership, contracted with the Junction Railroad Company to construct, and did construct, certain portions of the road. The railroad company, being indebted to them, entered into an agreement of settlement on the 23d July, 1861, by which said indebtedness was to be discharged by the conveyance, by said company, to them of certain real estate in Pulaski county, Ind., at its cost to the company at that date. Accordingly, at that date the company conveyed, with covenants of general warranty to Bates & Neal, with the assent of Vail, the lands named, in consideration of §3,700; also covenanting that they were the true and lawful owners thereof and had good, rights to sell and convey. To all these lands, except eighty acres, the defendant had no title at all at the date of the conveyance nor subsequently.
+On the 23d June, 1869, Bates & Neal, in consideration of §3,700, conveyed the same property to Sarah A. Vail, in her lifetime, by quit claim deed, with no covenants excepting against their own acts. In the body of the deed, following the description of the lands, is this assignment, “ Also all right of action arising out of the covenants contained in said deed,” referring to the deed from the defendant to Bates & Neal, “to the grantors herein; all of which covenants, and all claims and rights arising therefrom, are hereby assigned and transferred to said Sarah A. Vail.”
+A good deal of contradictory testimony is taken to show the value of these lands to which the defendant had no title, and it appears that the parties were not nice in their estimate of the value of the lands or in ascertaining the amount of indebtedness.
+It is agreed that a breach of the covenants of warranty and ownership occurred as soon as the covenants were made, and an action might have been maintained for damages by Bates & Neal. It is also agreed that the assignment of these damages, contained in the deed to Sarah A. Vail, is sufficient to vest the-title thereto in her, and that she may maintain the action.
+Without the assignment these damages would not have passed to the intestate by the usual covenants in a deed.
+The only remaining question is as to the measure of damage. The plaintiff claims that the consideration expressed in the deed is the true measure of damages; while the defendant claims that the real value of the premises at the time of the conveyance is the true consideration and furnishes the rule.
+In Foote v. Burnet, 10 Ohio, 317, which was a suit for damages for a breach of a covenant against incumbrances, the Supreme Court allowed merely the amount paid to remove the incumbrance, fixing the limit to the consideration-money paid for the land and interst. In Adm’rs Backus v. McCoy, 3 Ohio, 211, the Supreme Court say, “The rule of damages under a covenant of seizin, when a breach has been shown, is the consideration-money and interest. It is the value of the land as ascertained by the parties, and the money comes in lieu of the land lost by the non-performance of the contract.” And in King v. Kerr's Adm’r, 5 Ohio, 94, the court, in an action for damages for breach of warranty in a deed, intimate that the same rule should be applied.
+Now, $3,700 is the consideration expressed in the deed to Bates & Neal. This was a price fixed in settlement of a claim held by them against the defendant, to be paid for in lands, and the lands were probably obtained by the company -in payment of stock subscriptions. It might be inferred fairly, that their cost to the company was much -less really than the nominal sum expressed in the deed, as is usual in such transactions. And I have, therefore, looked very narrowly into the testimony as to value. Cases often occur, where, as here, the consideration fixed by the parties and expressed in the deed is nominal, and more than the real consideration. It is the real consideration of the conveyance and not that expressed in the deed, in the absence of • any true standard ascertained by the parties themselves, that must furnish, the rule to measure the damages. It can not be the amount of the debt found to be due on a settlement to be paid for in lands, where amounts are exaggerated on one side and values on the other, as appears by the circumstances shown in this case, that can alone furnish the true measure of damages. But when it comes to reduce the transaction to a true basis, the real consideration must furnish the rule. In no case can the damages exceed the consideration and interest. Foote v. Burnet, 10 Ohio, 335. And inasmuch as the true consideration of a deed may be shown by oral testimony, I think this is a case which authorizes me to look into the testimony on this subject. The testimony as to value ranges all the way from $o to $28 an acre. The consideration expressed in the deed is about $15.50 an acre. I think, under all the testimony and the circumstances, that $13.50 an acre wa3 about the true value of these lands.
+There were two hundred and forty acres conveyed, of which the title to eighty acres is good, and as to which there can be no recovery. Judgment may therefore be taken for the value of one hundred and sixty acres at the rate of the value for the whole, with interest from July 23, 1G81.
