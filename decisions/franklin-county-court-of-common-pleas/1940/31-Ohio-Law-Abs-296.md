@@ -1,0 +1,36 @@
+---
+court: "Franklin County Court of Common Pleas"
+docket: "157853"
+decided: "1940-01-22"
+citations: ["31 Ohio Law Abs. 296"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CLEVELAND RY. CO. v H. C. ATKINSON, Admr."]
+source_url: "https://static.case.law/ohio-law-abs/31/cases/0296-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1698783
+---
+
+# Cleveland Ry. Co. v. Atkinson
+
+## Majority (By KING, J.)
+
+OPINION
+By KING, J.
+This matter is before the court upon a motion filed by the Cleveland Railway Company to require H. C. Atkinson, Admr., of the unemployment compensation to file a transcript of certain proceedings had in a matter pending before him and to file with said transcript in this court all original papers in said matter.
+The facts as disclosed by the briefs of respective counsel are that The Cleveland Railway Company, under the statute as it applied to the former Unemployment Compensation Commission, filed its application to have certain of its employees determined to be seasonal or casual employees. A hearing was held, and, subsequently, after the form of the commission was changed by the last Legislature to the Bureau of Unemployment Compensation, H. C. Atkinson, its administrator, on May 15, 1939, made a ruling that such employees were' not seasonal or casual. This decision being adverse to the Cleveland Railway Company, it filed with the administrator on May 25, 1939, a notice of appeal on question of law and a precipe was filed requesting the administrator to file with this court a transcript of the proceedings before him and his predecessors, the Unemployment Compensation Commission. The administrator refused to file such papers and this motion is filed for the purpose of bringing these proceedings before this court for review.
+The sole question presented to the court for determination is whether the administrator was exercising a judicial function in determining whether or not the employees of the plaintiff company were casual or seasonal. Plaintiff claims that the administrator, in the consideration of the matter submitted to him for determination, exercised a judicial function, not a judicial power. On the other hand, it is contended by defendant that the administrator, under the law, was authorized to ascertain and determine facts, and to the facts found by the administrator, to apply a standard fixed by law. Hence, in so doing, the administrator was not exercising a judicial function, but acting as a determinator of facts.
+No serious question arises as to the method employed by the plaintiff in invoking the jurisdiction of this court upon appeal as to a question of law. If the plaintiff is entitled to a review upon a question of law, the instrumentality employed by him to obtain such is the proper one.
+In our opinion, the right to a review in the instant case is controlled by §12223-23 and related sections of the Appellate Procedure Act. §12223-23 provides as follows:
+“A judgment rendered or final order made by a justice of the peace or any other tribunal, board, or officer, exercising judicial functions, and inferior ¡to the Common Pleas Court, may be reversed, vacated or modified by the Common Pleas Court upon an appeal on questions of law.”
+This statute specifically provides that a final order made by a tribunal, board, or officer, exercising judicial functions, may be reviewed upon appeal on questions of law.
+Did the administrator, in considering the application of the plaintiff, and making the final order therein, exercise a judicial function?
+We have considered the act under which the administrator exercised his authority, and particularly Sub-Sections 10 and 11 of §1345, GC. It was necessary for the administrator to construe, interpret, and apply the pertinent sections of the General Code to the facts as found by him. He was, therefore, not only a finder of facts, but an interpreter of the law. He was both court and jury. There is no question but that the construction or interpretation, of either the basic law or statutory law is a function belonging to a court. It requires one who has a knowledge of the law, and learning of the rules by which a court is guided in the construction or interpretation of either constitutional or statutory provisions.
+Here a substantial right of the plaintiff is affected by the final order of the administrator. To hold that such order is not reviewable no matter how arbitrarily, eapricioúsly or unreasonably the administrator has acted, or how erroneous his construction and application of the law to the facts as found by him, would most certainly constitute a denial of a right given him by the constitution to apply to- the courts for redress of a wrong or a grievance.
+Suppose, as is suggested by counsel, that the undisputed facts presented to the administrator unquestionably show that the employees are seasonal, but despite the facts, either arbitrarily or because of misinterpretation of the law, the administrator finds to the contrary. Can it be said that the aggrieved person must be bound by such a conclusion?
+We think not.
+Such would render the law conferring such power and authority invalid. This is avoided,, in our opinion, by the provisions of §12223-23, supra, which gives the right of appeal as above stated. Counsel for defendant has cited in his memorandum the case of Jack and Jill, Inc. v Joseph M. Tone, Admr., decided in the Superior Court of New Haven County, Conn. Counsel placed great reliance upon this case as supporting his contention. We have before us a copy of the decision. We can not agree with the claim as made by counsel. In this case, the administrator made a final order interpreting as he did the statutory definition of employment. Appeal was prosecuted from the final order of the administrator (unemployment compensation) . The court, among other things said:
+“The function of the court in the instant proceeding is not to determine the issue according to its own view — if that differ from the administrator’s— but only to ascertain whether the administrator’s conclusion was unreasonable, arbitrary or illegal.”
+This, we feel, is authority, rather, for the contention made by the plaintiff. Sections 10 and 11 of tne act under which the administrator acted in considering the application of the plaintiff to have determined that certain of its employees were casual or seasonal, does not, as counsel for defendant argued, fix a definite standard.
+It seems clear to us that it becomes necessary for the administrator to interpret and construe these related provisions to which he must apply the facts adduced in determining whether or not the employees are casual or seasonal. That being true, the administrator thereby exercised a judicial function. It is our conclusion that the final order of the administrator in the instant case is reviewable on questions of law under and by virtue of the provisions of §12223-23 and related sections, and that the motion herein filed is the proper method to invoke the jurisdiction of the court on review. The motion js therefore sustained. Let an entry be drawn in accordance with there findings. Exceptions.
