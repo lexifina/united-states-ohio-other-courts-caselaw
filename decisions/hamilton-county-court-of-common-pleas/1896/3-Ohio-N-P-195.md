@@ -1,0 +1,32 @@
+---
+court: "Hamilton County Court of Common Pleas"
+decided: "1896"
+citations: ["3 Ohio N.P. 195"]
+reporter: "ohio-np"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM KRAFT v. THE CITY OF CINCINNATI."]
+source_url: "https://static.case.law/ohio-np/3/cases/0195-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1524862
+cites_cases: ["2 Minn., 190", "25 Mo. 37", "44 Mo. 547", "6 Ill., 489", "73 Iowa, 170"]
+---
+
+# Kraft v. City of Cincinnati
+
+## Majority (HOLLISTER, J.)
+
+HOLLISTER, J.
+The plaintiff in error was licensed by the city auditor “to peddle or hawk” meats from a “stand” by virtue of a municipal ordinance. He erected a stand at the curb of Court street, in that part thereof set apart for market purposes, on designated market days, and on a market day sold fresh meats in quantities less than one-quarter at retail. In Court street is a marKet house wherein are stands used by butchers under license. It does not appear from the bill of exceptions that the stands within the market house are different from the stands without it, or whether the licenses issued to vendors of fresh meats within the market house differ from the licenses granted to peddle and hawk. And it does not appear but that the license fee exacted in each case is the same.
+Plaintiff in error was ar-ested, tried and convicted in the police court for unlawfully offering, exposing for sale and selling, “in the street of said city set apart for market purposes, to-wit, Court street, certain fresh meats in quantities less than one-quarter,” under an ordinance which prohibits such conduct.
+It does not appear that the butchers occupying stands in the market-house are permitted to sell fresh meats in quantities of less than one-quarter. The stand of thb plaintiff in error was at the curb of the street, opposite the market house, and within a short distance therefrom.
+It may be assumed that the licenses to sell meats are the same whether the stand of the licensee is located within the marKet house or in the street within the market space, (and that is the necessary assumption, there being no evidence to the contrary.) There is authority for the contention that it is competent for the city to require that all vendors of fresh meats in quantities less than one-quarter in the market spaces shall obtain stands in the market house and vend their wares therefrom. City of St. Louis v. Jackson, 25 Mo. 37; City of St. Louis v. Weber, 44 Mo. 547. If this is true, then the city must provide space within the market house for its licensees; otherwise it would exact fees for licenses under which the licensees would not acquire any right or privilege, although they had paid for it. And this statement brings into view the pertinence of a line of questions propounded by counsel for plaintiff in error which the court held to be inadmissible.
+The plaintiff in error offered to prove “that all of the stands that are set aside for the butchers in the Court Street Market House are occupied, ’ and that he had made application for a stand in the market house, and had been refused. He also offered to prove that the butchers within. the marKet-house are permitted to sell meats in quantities less than one quarter; but that he was not permitted to do so.
+Now if the licensee desired to sell and was licensed to sell in quantities less than one quarter, and the only place where he could lawfully sell was in the market house, he was entitled on application to a place for his stand in the market-house. If the market-house was full, then the city had no right to take his money and grant him a license to do that which it was.impossible for him legally to do. And if the market-house was not full and he had been arbitrarily refused a place therein, the result would be the same, with the additional criticism ihat the City would be fostering monopoly in the interest of the few butchers who are permitted to occupy stands within the market-house, and sell therein quantities less than ■ one-quarter. The result under the facts offered to be proved by the plaintiff in error would be unjust and unreasonable, in that the City would make his conduct unlawful, against his will, and in' spite of his efforts to conform with the ordinance, and would discriminate arbitrarily against him in favor of others licensed to carry on exactly the same business which he had authority to pursue, and because the City had, with one hand, so to speak, granted him the right to do a thing, and had, with the other, taken it away, by rendering its performance impossible.
+Judge Ermston for plaintiff in error; J. C. Hart for the City.
+This can not be permitted under the law.
+Judge Dillon, speaking clearly on this subject, says: “As it would be unreasonable and unjust to make, under the same circumstances, an act done by one person penal, and if done by another not so, ordinances which have this effect can not be sustained. Spocial and unwarranted discrimination, or unjust and oppressive interference in particular cases, is not to be allowed. The powers vested in municipal corporaitons should, as far as practicable, be exercised by ordinances general in their nature and impartial in their operation. ” Dillon on Munic. Corp., 322 (256),
+And, “the test is,” says the same author in note 2 to the section cited, “that the regulation must be reasonable as applied to the subject matter.”
+The effect and operation of this ordinance under the facts offered to be proved, made it necessary for the plaintiff in error to infringe the ordinance or abandon the sale of fresh meats in quantities less than one-quarter. I am of the opinion that even if the ordinance in question is on its face regarded as a proper exercise of the right of the City to regulate the sale of the necessaries of life in the markets, yet m its operation and effect as applied to the facts offered to be proved in this particular case, it is oppressive, discriminating, unreasonable and unjust, and tends to foster monopoly. In this view of the case the conclusion must be that the plaintiff in error should have been permitted to prove the facts which would have made the ordinance invalid as to its operation and effect in this case.
+See, also, City of Bloomington v. Wahl, 6 Ill., 489; City of St. Paul v. Laidler, 2 Minn., 190; City of Burlington v. Dankwarot, 73 Iowa, 170.
+Judgment reversed.
