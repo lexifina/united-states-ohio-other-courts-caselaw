@@ -1,0 +1,55 @@
+---
+court: "Tuscarawas County Court of Common Pleas"
+docket: "27122"
+decided: "1945-07-05"
+citations: ["45 Ohio Law Abs. 443"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CRABBE, Supt. of Insurance, Plaintiff, v. JONES, Defendant."]
+source_url: "https://static.case.law/ohio-law-abs/45/cases/0443-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1733356
+cites_cases: ["100 N. E. 121", "116 Oh St, 490", "122 N. Y. 263", "131 Pac. 1179", "157 N. E. 491", "167 N. E. 375", "21 O. O. 52", "25 N. E. 391", "25 Oh St., 82", "31 Oh St, 87", "32 Oh App., 38", "36 N. E. (2d) 67", "42 N. E. 697", "45 L. R. A. (N. S.) 756", "45 N. E. 719", "52 N. Y. S. 221", "54 Oh St, 150", "55 Oh St, 553", "59 N. E. 745", "64 Oh St, 26", "67 Ohio App. 89", "87 Oh St, 88", "89 Kan. 463"]
+---
+
+# Crabbe v. Jones
+
+## Majority (By LAMNECK, J. .)
+
+OPINION
+By LAMNECK, J. .
+This action is one of ten cases brought by the Superintendent of Insurance of the State of Ohio to collect an assessment from former policy holders of the Tower Mutual Insurance Company which involve the same legal question and which were submited as a group to the« Court on the second defense of the answer which is identical in all ten cases.
+The Tower Mutual Insurance Company, a mutual insurance company, was taken over for liquidation by the Superintendent of Insurance of the State of Ohio on September 10 1938.
+On October 28, 1938, the Court of Common Pleas of Franklin County, Ohio, ordered that an assessment of one time the annual cash premium be made against each policyholder whose policy had not expired or been cancelled more than one year prior to the date of said order.
+Pursuant to said order of assessment, the State Superintendent of Insurance filed his petition in this Court on October 18,1944, in which he asked judgment against the defendant herein for $154.04 with interest from October 28, 1938, by reason of said assessment.
+Attached to the petition filed in this case is a precipe reading as follows:
+Precipe:
+To the Clerk: — Please issue summons directed to the Sheriff of Tuscarawas County, Ohio, to be served upon the defendant herein, returnable according to law; endorse on summons “Petition for Money Judgment.”
+Pursuant to this precipe the Clerk of this Court directed a summons to the Sheriff dated October 18, 1944, which was received by the Sheriff on the same date and was served on the defendant on October 20, 1944. This summons was endorsed, “Petition for money Judgment”.
+On November 18, 1944, the defendant appearing solely for the purpose of filing a motion, filed a motion to quash the summons for the reason that said summons was not endorsed as required by law.
+On January 6,-1945, this Court sustained said motion to quash summons on the authority of Finckh v Evers, 25 Oh St., 82 and Hamilton v Miller, 31 Oh St, 87 for not meeting the requirements of §11280 and 11281 GC.
+In the meantime, namely, on December 9, 1944 the plaintiff filed another precipe which directed the Clerk to endorse on the summons “Suit for money only, amount claimed $154.-04, together with interest thereon from the 28 day of October, 1938”. An “alias summons” dated December 9,- 1944, containing the proper endorsement was served on the defendant on December 13, 1944.
+In the answer filed by the defendant herein the defendant in his second defense asks that the petition of the plaintiff be dismissed' for the reason that the alleged cause of action did not accrue within six years next before the commencement of the action and is barred by the statute of limitations.
+A suit brought by the Superintendent of Insurance to- enforce liability for assessment against policy holders in a mutual assessment insurance company under §§9607-1 to 9607-38, inelusivé, GC, is not a suit on an insurance contract but is founded on a statutory obligation and §11222 GC, is the statute of limitations applicable. (Lloyd v Cincinnati Checker Cab Co., 67 Ohio App. 89, 36 N. E. (2d) 67, 34 Abs 193, 21 O. O. 52.)
+Sec. 11222 GC, reads as follows:—
+“An action upon a contract not in writing, express or implied, or upon a liability created by statute other than a forfeiture or penalty, shall be brought within six years after the cause thereof accrued.”
+It therefore appears that the six year statute of limitations is applicable in this case. It is also apparent that the cause of action set forth in the petition accrued on October 28, 1938, and that under 11222 GC, the right to commence this action expired on October 28, 1944, for the reason that §9607-17 GC, provides in part that:
+“When an assessment or call has been so confirmed, ascertained or established, a decree shall be entered which shall be final and conclusive upon the company and all persons liable to the assessment or call, as to the necessity of the same, the authority of the company to make or collect the same, the amount thereof, and all formalities connected therewith. An assessment or call altered or amended by vote of directors and decree of the court thereon shall be binding upon all parties who would have been liable under it as originally made, and in all legal proceedings shall be held to be such original assessment or call. All such proceedings shall be at the cost of the company and in all cases the court may control the disposition of the funds collected under such proceedings.”
+In order to decide the issue raised by the second defense, the Court must determine whether this action was commenced on or before October 28, 1944, and if not, whether the saving provision of §11231 GC, is applicable in this case.
+Sec. 11230 GC, reads as follows:
+“An action shall be deemed to be commenced within the meaning of this chapter, as to each defendant, at the date of the summons which is served on him or on a co-defendant who is a joint contractor, or otherwise united in interest with him. When service by publication is proper, the action shall be deemed to be commenced a't the date of the first publication, if it be regularly made.”
+The Court having previously held that the purported summons dated October 18, 1944, and which was served on the defendant on October 20, 1944, was not a legal summons for the' reason that it did not have endorsed thereon the amount for which judgment, was asked, the first summons served on the defendant was that denominated “alias summons”, dated December 9, 1944. While this was denominated an “alias summons”, it was in fact not an alias but the original and only valid summons issued in this case. In the case of Renz v Schmid, 16 O. N. P. (N.S.) 223, it was held that a summons in an action for money only, which is not endorsed in any amount is not a legal summons and does not bring the defendant into court for any purpose, and the subsequent issuance of a properly endorsed writ is not an alias summons but the original writ itself.
+It is therefore quite clear that the first legal summons served on the defendant was dated December 9, 1944, which was more than six years after this cause of action accrued.
+The plaintiff contends that §11231 GC, is applicable to this case and extends the period of the statute of limitations. Said section reads as follows:
+“Within the meaning of this chapter, an attempt to commence an action shall be deemed to be equivalent to its commencement, when the party diligently endeavors to procure a service, if such attempt be followed by service within sixty days.”
+In support of his contention that §11231 GC, is applicable in this case, the plaintiff cites the following cases: Haisman v Crusmar, 18 Abs 180; Goudy v Robert, 32 Oh App., 38, 167 N. E. 375; Railway v Bemis, 64 Oh St, 26, 59 N. E. 745; Armbruster v Harrison, 116 Oh St, 490, 157 N. E. 491; Sheriff v Willet 54 Oh St, 150, 42 N. E. 697; and Kleinhenz v Kleinhenz, 21 Abs, 638.
+An examination of these cases with the exception of Railway v. Bemis 64 Oh St., 26, 59 N. E. 745, in which the right to commence a new action was upheld under the provisions of §11233 GC, discloses that the summons was not defective but the defect consisted in the lack of or manner of the service. In the instant case the Clerk issued an invalid writ in compliance with the precipe, but the manner of service is not questioned.
+In those jurisdiction outside of Ohio having statutes which provide that an attempt to commence an action shall be equivalent to its commencement when a summons is delivered to the proper officer with an intent that it shall actually be served, provided such attempt is followed by service within a specific time, it is generally held that an attempt requires the delivery of legal process to a person capable of making service, (25 Cyc. 1298; 34 Amer. Jur. 210).
+It is also held in other states that a mere defect in a summons does not prevent the commencement of an action interupting the statute of limitations, but if the process is not merely defective but lacks an essential requirement of the statute, it is no process at all, and the running of the statute of limitations is not stopped (25 Cyc, 1300).
+In the case of Brock v Francis, 89 Kan. 463, 131 Pac. 1179, 45 L. R. A. (N. S.) 756, it was held that where a petition is filed and a summons which is subsequently set aside is issued and served, the action is not deemed to have been commenced until the date of a new summons which is issued some time later.
+In New York which has statutes on this subject similar, to our own, it is held that whether a cause of action is barred by limitation of time is dependent upon the actual commencement of the action and not upon the manner in which the summons should be served. (Clare v Lockard, 25 N. E. 391, 122 N. Y. 263; Gough v McFall, 52 N. Y. S. 221.)
+In Railroad v Ambach, 55 Oh St, 553, 45 N. E. 719, no summons was caused to be issued before the expiration of the statute of limitations, and although a summons was issued within sixty days after the petition and precipe were filed, the Court held that section 4988 R. S., now §11231 GC, did not apply-
+In McLarren v Myers, 87 Oh St, 88, 100 N. E. 121, a petition and proper precipe were filed in ample time, and thereafter the Clerk was requested orally in ample time to issue summons and neglected to do so, but the Court held nevertheless that such circumstances did not bring the case within the provisions of §11231 GC, because the statute' provided “when the party diligently endeavors to procure a service” an action shall be deemed commenced, and there could be no diligent effort to procure a service of summons if no summons had been issued.
+While the latter Ohio cases above cited are not exactly parallel to the instant case, yet their reasoning is to the effect that §H231 GC only applies to cases in which- a legal summons has been issued within the statute of limitations, and there has been a failure to obtain valid service thereafter!
+It will therefore be held that this action was not commenced within six years after the cause of action accrued and is therefore barred by the statute of limitations.
