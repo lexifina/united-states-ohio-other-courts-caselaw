@@ -1,0 +1,51 @@
+---
+court: "Ashland County Court of Common Pleas"
+docket: "87349C-Z"
+decided: "1988-12-29"
+citations: ["53 Ohio Misc. 2d 1"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Finley v. Kline, Exrx., et al."]
+source_url: "https://static.case.law/ohio-misc-2d/53/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6711275
+---
+
+# Finley v. Kline
+
+## Majority (Michael R. McKinley, J.)
+
+Michael R. McKinley, J.
+The circumstances of this case, as presented to the court by the two pleadings now before the court, bring into direct conflict two fundamental responsibilities of the judicial system. On the one hand, courts have the important duty to protect the rights of each and every litigant, thus guaranteeing access to the judicial system and fair treatment by a court in the judicial process. On the other hand, courts have the equally important duty to administer justice in a deliberate and timely manner in order that a litigant’s interests are not unreasonably frustrated by delay and indecision. Failure of a court to do its best to impartially seek the fulfillment of both of these responsibilities violates the constitutional obligation of that court as an independent branch of government within the American democratic system. The result is diminishing respect and confidence in the judicial system by its constituency.
+This case is before the court for decision regarding the following motions: (1) a motion for a provisional order, filed by plaintiff on September 28, 1988; and, (2) a motion for sanctions was'filed by defendants on October 3, 1988.
+Plaintiffs deposition, to be taken by defendants, was scheduled for September 30, 1988. Proper notice under the Rules of Civil Procedure for discovery was given. No objection was filed. On September 28, 1988, late in the afternoon, only two days prior to the day on which said deposition was to be taken, plaintiff filed his motion for a provisional order asking the court to excuse him from the taking of his deposition on September 30. The court, being involved in conferences and hearings on the afternoon of September 28, did not learn of the filing of plaintiffs motion until the morning of September 29. The court determined that further examination of plaintiffs request for relief was necessary and set the motion for hearing on October 6, 1988 at 9:30 a.m. Plaintiff and his counsel did not appear on September 30 for the deposition. On October 3, 1988, defendants filed a motion with the court to consider sanctioning the plaintiff for failure to cooperate with the reasonable discovery efforts of the defendants.
+The court conducted a hearing regarding both motions on October 6, 1988. Present in court were attorney Robert W. Lett representing plaintiff and attorney Ronald P. Forsthoefel representing defendants Janice E. Kline, both individually and as Executrix of the Estate of Clarence E. Finley, and Roger Kline. The court listened to arguments by each counsel in support of their positions on each motion.
+Relevant facts regarding this decedent’s estate, as found in the record of case No. 87349, styled the Estate of Clarence E. Finley, deceased, are as follows:
+(1) Clarence E. Finley passed away on September 10, 1987.
+(2) A document purporting to be the last will and testament of Clarence E. Finley was admitted to probate by this court on October 8, 1987.
+(3) Janice E. Kline was appointed Executrix of the Estate of Clarence E. Finley by this court on October 8, 1987.
+(4) On December 31,1987, James Finley, brother of the decedent, and next of kin, filed a complaint in this court contesting the last will and testament of Clarence E. Finley.
+In administering justice a court shall render decisions which recognize and protect each litigant’s rights, thus assuring each litigant access to the justice system and allowing each litigant his or her day in court. Under appropriate circumstances, however, in any given case, due to actions of an individual litigant, active or passive in nature, the effort of the court to administer justice for all litigants in a deliberate and timely manner may become unreasonably frustrated. At that point, in this court’s opinion, the duty of the court to administer justice for all litigants collectively may prevail over the duty of the court to protect the rights of the individual litigant. In such a case, the court must take serious action, including considering severe sanctions against the individual litigant who is unreasonably frustrating the process.
+The court has carefully considered the memorandums and citations filed by both counsel in this case and the arguments of both counsel at the hearing conducted on October 6. The court has, in addition, reviewed the record in this case and the record in the Estate of Clarence E. Finley, deceased. The court, based upon said consideration and review, makes the following findings of fact:
+(1) On February 19, 1988, defendants, under Civ. R. 33, served on plaintiff interrogatories to be answered within twenty-eight days.
+(2) Plaintiff failed to answer said interrogatories within twenty-eight days.
+(3) On April 20, 1988, the defendants, under Civ. R. 37, filed a motion asking the court to apply appropriate sanctions against plaintiff for failure to answer the interrogatories.
+(4) On May 23, 1988, the court conducted a hearing on the motion. The court ordered that plaintiff comply with Civ. R. 33 and answer the interrogatories with ten days.
+(5) On May 31, 1988, plaintiff answered the interrogatories.
+(6) On July 7, 1988, defendants, under Civ. R. 30, served notice on plaintiff that his deposition would be taken on August 12, 1988. A copy of the notice was filed with the court on July 8, 1988.
+(7) At the request of plaintiff’s counsel, said deposition was continued to September 7, 1988.
+(8) On July 22,1988, plaintiff was served with notice of the September 7, 1988 deposition. A copy of the notice was filed with the court on July 22, 1988.
+(9) Plaintiff and his counsel failed to appear on September 7,1988 for the taking of plaintiff’s deposition.
+(10) Following plaintiff’s failure to appear on September 7, 1988, the taking of plaintiff’s deposition was rescheduled for September 30, 1988. Notice thereof was properly served on plaintiff.
+(11) On September 8, 1988, plaintiff’s wife was released from the hospital after hip replacement surgery.
+(12) Neither plaintiff nor plaintiff’s counsel notified the court or counsel for defendants of plaintiff’s circumstances.
+(13) On September 28, 1988, plaintiff, under Civ. R. 26, filed a motion for a provisional order excusing plaintiff from coming to the deposition set for September 30, 1988.
+(14) Plaintiff and his counsel failed to appear on September 30, 1988 for the taking of plaintiff’s deposition.
+(15) On October 3, 1988, defendants, under Civ. R. 37, filed a motion asking the court again to impose appropriate sanctions against plaintiff for failure to appear for the taking of his deposition after proper notice.
+(16) On October 6,1988, the court conducted a hearing on said motions, identified in findings of facts Nos. 13 and 15 herein.
+Plaintiff’s motion asking the court for a provisional order excusing him from the taking of his deposition on September 30, 1988 is not well-taken, and is, therefore, denied. Plaintiff’s reason, offered in support of his motion, is that his wife, following a hip replacement operation, was released from the hospital on September 8, 1988, and required his constant and continuing care and attention. The court finds no fault in plaintiff’s devoted attitude as expressed by his desire to provide constant and continuing care for his beloved wife following her operation and release from the hospital. However, plaintiff’s motion for a provisional order was not filed until September 28, 1988, twenty days after his wife was released from the hospital, and only two days before his deposition was to be taken. The questions raised by this scenario of facts are obvious as well as many. The court will not, therefore, take the time to rhetorically present and discuss them. Suffice it to say that this scenario is, in terms of fulfilling reasonable responsibilities required of a litigant, unacceptable. The fact that fulfilling responsibilities may be burdensome and/or expensive is not an excuse. A litigant accepts these obligations when he or she chooses the justice system to seek redress of a grievance.
+Defendants’ motion asking the court to impose sanctions for failure to comply with a reasonable request for discovery in accordance with the Ohio Rules of Civil Procedure is, on the other hand, well-taken, and is, therefore, granted. The only question before the court then is which sanction the court deems appropriate under Civ. R. 37(D).
+This is not the first time in this case that plaintiff has failed to comply with discovery. Earlier in 1988, plaintiff failed to comply with Civ. R. 33 relative to interrogatories. The court ordered plaintiff to comply and gave him reasonable time to do so. In July 1988, compliance with Civ. R. 30 regarding his deposition was delayed at his request. On September 7, 1988, he failed to comply with Civ. R. 30. On September 28, 1988, he asked the court to excuse him from a third request by defendants to comply with Civ. R. 30. Plaintiffs continual pattern of frustrating reasonable efforts by other litigants leads this court to believe the plaintiff is either: (a) a less than serious litigant; or (b) a resistant litigant whose goals are questionable. Whichever the case may be, failure to accept and comply with the rules of the game is unacceptable.
+It is the court’s conclusion, therefore, that plaintiff’s violations of the Civil Rules should be severely sanctioned. Less severe sanctions have already been tried. The court, therefore, orders, pursuant to Civ. R. 37(D), and pursuant to Civ. R. 37(B)(2)(c), which is incorporated into Civ. R. 37(D), that plaintiff’s action to contest the last will and testament of Clarence E. Finley be and the same is hereby dismissed with prejudice. Costs suspended.
+Judgment accordingly.
