@@ -1,0 +1,31 @@
+---
+court: "Cincinnati Superior Court"
+decided: "1914-06-08"
+citations: ["18 Ohio N.P. (n.s.) 373"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Wilde, Jr., v. The Ohio Knife Co. et al."]
+source_url: "https://static.case.law/ohio-np-ns/18/cases/0373-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1552149
+cites_cases: ["45 Ohio St., 11", "77 Ohio St., 235", "77 Ohio St., 255"]
+---
+
+# Wilde v. Ohio Knife Co.
+
+## Majority (Pugh, J.)
+
+Pugh, J.
+Ruling on demurrer to second amended petition.
+The plaintiff in this case, Georg;e Wilde, Jr., is a minor, three and one-half years of age, and brings the action by his next friend, George Wilde, against the Ohio Knife Company, a eorporation, and one August Hitzman. The ease now conies up on general demurrer to the second am'ended petition.
+The allegations of the pleading are that the Ohio Knife Company, on August 16th, 1913, was the owner of a factory building then in process of construction, near the intersection of Dreman and Dawson avenues in this city, and that both the defendants "negligently, carelessly and contrary to law obstructed said public street and sidewalk” by constructing over the sidewalk in front of the factory "a wooden overhead structure” and by placing in the street itself "a concrete mixer.” It is then averred that the "said structure was unlawfully erected and maintained and was a dangerous structure,” and that the defendants knew it was dangerous and took no proper precautions’ to guard it.
+It is stated that the structure was unlawful in that it was erected and maintained without a permit so to do having been obtained from the city authorities, but it is not stated wherein the structure was dangerous or why it required a guard. The allegation that the structure interfered with "the proper and lawful use of said public sidewalk” is irrelevant, as this circumstance, if true, is in nowise connected with the accident — as will presently appear. It may also be noted that the pleading does not show what connection the défendant, August Hitzman, had with the matter, although by the use of the word ‘ ‘ defendants, ’ ’ in the plural, he is included with the other defendant,- the Ohio Knife Company, in all the allegations of negligence and wrongdoing. It may be inferred, however, that Hitzman was a contractor doing the work of .building for the Ohio Knife Company and he will so be considered in this opinion.
+The next allegation is that the plaintiff,, a child of three and one-half years of age, on August 16th, 1913, was lawfully in said street and on said sidewalk and was attracted to said structure and climbed upon said structure within the limits of said public sidewalk, and, stepping on a loose board, fell to the sidewalk and was injured. It in no way appears that the concrete mixer, alleged to have been in the street, had anything to do with the accident, and it may therefore be disregarded.
+There is a further allegation that the defendants knew that children played on the sidewalk “and knew that said unlawful structure attracted children and that they would go upon it.”
+Assuming that the structure was unlawful in that it was erected and maintained in violation of a city ordinance, this unlawfulness could have no connection with the accident. The real question is this, '' Is the owner of property which abuts upon a public street and sidewalk and who erects a temporary structure over such sidewalk in such a way that it is a temptation to children in the neighborhood to climb and play upon, liable in damages to a child of three and one-half years old who climbs upon such structure and is injured through some defect therein ?
+. In view of the principle laid down by the Supreme Court in Railroad Co. v. Harvey, 77 Ohio St., 235, the answer must be in the negative.
+It will be observed that in this ease the child in climbing upon the structure was a trespasser. So long as it remained on the sidewalk, or even in the street, it was at a place where it had the right to be, but as soon as it got on the structure it was encroaching on the private property of the defendants. The circumstance, which we have assumed, that the defendants had no right to place the structure over the sidewalk, in nowise alters the situation. It was an obstruction to traffic and foot passengers and was unlawful for that reason, perhaps, but that did not give the plaintiff any right to use it for a playground — certainly, not to the extent of thereby imposing a duty upon the owner to exercise ordinary care and prudence to keep it in repair and safe for children to play upon. A pedestrian who suffered personal injury from defects in such structure while attempting to pass along the sidewalk, might perhaps be heard to complain of the unlawfulness involved in maintaining the structure, but, in the case disclosed by this second amended petition, it is obvious that there was no relation whatever between the unlawfulness alleged and the injuries suffered. The proximate cause of the injuries was the loose board — a defect in the structure itself, which would have been just as much the proximate cause if the structure had been authorized by law.
+' The plaintiff received no invitation to get upon or play with the structure nor was he even a licensee. If there were circumstances showing that by continued use on the one hand and long acquiescence on the other, the children of the neighborhood had become licensees in such respect, under the rule laid down in Harriman v. Railroad Co., 45 Ohio St., 11, there might have been something to say for the plaintiff’s claim. But even in that event, it would not have been possible for the court to say to the jury that the defendants owed any duty to the children in the vicinity to keep the structure in such condition that it would be reasonably safe for them to climb upon or play with.
+The case referred to, Railroad Co. v. Harvey, 77 Ohio St., 255, in the opinion of the court, is conclusive of the question raised by this demurrer.
+The demurrer will, therefore, be sustained, and the plaintiff may amend within ten days, otherwise the ease will be dismissed.
