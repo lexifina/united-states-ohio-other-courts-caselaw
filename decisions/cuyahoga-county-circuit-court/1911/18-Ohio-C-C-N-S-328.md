@@ -1,0 +1,23 @@
+---
+court: "Cuyahoga County Circuit Court"
+decided: "1911-03-24"
+citations: ["18 Ohio C.C. (N.S.) 328"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Marvin, J.; Winch, j., and Henry, J., concur."]
+parties: ["Edward L. Brown v. The Brown Automatic Hose Coupling Company."]
+source_url: "https://static.case.law/ohio-cc-ns/18/cases/0328-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1818522
+---
+
+# Brown v. Brown Automatic Hose Coupling Co.
+
+## Majority
+
+The petition here sets out that the defendant is a corporation; that it is indebted to the plaintiff in the sum of $3,400 upon an account; that he is a stockholder, general manager and vice-president- of the defendant, and that by reason of certain action on the part of other stockholders- and officers of the company, the plaintiff is being prejudiced in his rights. But, on examining the claims which he makes and the prayer of the petition, we are unable to find that he is entitled to or claims any final judgment in this action. ITis suit is sought to be maintained in equity and the prayer of the plaintiff is that the “defendant be temporarily restrained from removing any of its assets and property from the jurisdiction of this court or the county of Cuyahoga until further order of this court; that said defendant company be required to set up why a receiver should not be appointed or a permanent restraining order be not made; that said defendant company be restrained and enjoined from selling or disposing of any of its property at any time or place until further order of this court; except that it may -carry on its commercial business in the usual way; that it be ordered that its business and affairs be conducted in Cuyahoga county; and further, and until the further order of this court, that a receiver may be appointed to conduct or liquidate all of the affairs and assets of the defendant company, and that the receiver may be ordered to carry on the affairs and business of the defendant company subject to the orders of this court from time to time; that at the final hearing of this cause a permanent injunction shall issue until the affairs of this company may be worked out by the receiver for the interests of all stockholders- and creditors, and for such other and further relief as equity and good conscience shall require.
+A receiver was appointed in the court of common pleas and he took charge of the business of the company, and upon final hearing the court found that the plaintiff was not entitled to an injunction and discharged the receiver. The case being appealed to this court the order discharging the receiver was vacated, but as has already been said, the only púrpose, so far as appears, for the continuance of a receiver is, that instead of having the business managed by its officers,' it shall be managed entirely by a receiver, the language of the prayer being until such time as “the affairs of this company may be worked out by a receiver for the interests of all stockholders and creditors. ’ ’
+It would be an anomalous- thing to appoint a receiver to take charge of a business in a case in which no ultimate judgment or order can be made. The appointment of a receiver is simply ancillary to the bringing about of some final result. We see no final result here that it is• expected any receiver will work out.
+It is said in the argument, that probably if the business is left long enough in the hands of a receiver, the parties interested will settle their differences. This suit is brought against no party other than the corporation itself and the facts do not justify the continuance of a receiver for the purpose of inducing the various stockholders and officers of this corporation to come to an .adjustment of any difficulties they may have among themselves. Certainly not under the allegations of the petition in this case.
+The order of this court will be that the petition be dismissed, the receiver be dismissed; that he make a report to this court of his doings, as such receiver; and this court will make such an allowance to him for his services as a receiver as it shall find to be just and proper, and this amount he will be permitted to retain out of the moneys in his hands which have come to him as such receiver. The balance of such property he will restore to the corporation, and a judgment will be entered against the plaintiff for all the costs in the action, including the amount which the receiver is permitted to take from the moneys in his hands, as his compensation.
