@@ -1,0 +1,35 @@
+---
+court: "Ohio Court of Claims"
+docket: "92-10709"
+decided: "1994-10-11"
+citations: ["67 Ohio Misc. 2d 40"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Fred J. Shoemaker, J., retired, of the Franklin County Court of Common Pleas, sitting by assignment."]
+parties: ["McDonald v. OHIO STATE UNIVERSITY VETERINARY HOSPITAL."]
+source_url: "https://static.case.law/ohio-misc-2d/67/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6710635
+cites_cases: ["143 Ohio St. 541", "28 O.O. 470", "56 N.E.2d 164"]
+---
+
+# McDonald v. Ohio State University Veterinary Hospital
+
+## Majority (FRED J. Shoemaker, Judge.)
+
+FRED J. Shoemaker, Judge.
+Defendant filed a stipulation of liability in this case on December 22, 1993, admitting that the surgery performed in 1988 on plaintiff Janice McDonald’s show dog was negligent and, as a result, the animal suffered irreversible paraplegia or paralysis of the hind limbs, requiring plaintiff to euthanize the dog.
+Trial was conducted on the sole issue of damages. It was shown during trial that plaintiffs dog, Nemo Vom Witzmannberg (“Nemo”), was a notable eight-year-old imported male German Shepherd pedigree. Nemo had been trained by plaintiff as a Schutzhund or “sport dog” in Schutzhund schooling, which is a rigorous and highly specialized dog training that focuses on teaching a dog strict obedience, as well as tracking and protection modes of behavior for the handler’s personal safety. Schutzhund clubs conduct trials that test a dog’s abilities in the different areas of its training program. A dog receives a Schutzhund level ranking upon successful completion of a trial.
+Nemo had achieved a Schutzhund III level ranking, which is the highest Schutzhund ranking and speaks not only to Nemo’s advanced skills, but also to his “working” relationship with plaintiff. This relationship is similar to the bond between a highly skilled police dog and its handler. Plaintiffs “work” with Nemo was for not only her sport, but also plaintiffs personal protection.
+Throughout his Schutzhund training, Nemo received and compiled a long list of awards and titles at a variety of dog shows. Although plaintiff went to great expense in time and money to enter Nemo in these shows, the awards won were never monetary. To the contrary, awards and titles that a breeder’s dog receives may be used to enhance, highlight, or prove the worth of the dog’s pedigree. Generally, the enhanced and proven pedigree will increase the demand and remuneration for breeding services. As a consequence, plaintiff was able to set her “stud” fees for Nemo’s services on the basis of the number of viable offspring produced by a female mated with Nemo.
+Offspring were bred from Nemo’s services as a stud only five times in the eight years prior to Nemo’s becoming paralyzed. Thereafter, Nemo was unable to perform stud services. From the five successful matings, Nemo sired thirty-one puppies. Plaintiff received between $350 and $500 for each puppy produced from the mating. As the life expectancy for a German Shepherd is approximately twelve years, Nemo was potentially viable for four more years.
+Following the 1988 surgery, plaintiff sought treatment for Nemo in the hopes of reversing his paralyzed condition. In March 1989, plaintiff admitted Nemo to the Michigan State University College of Veterinary Medicine. There, Nemo underwent a hemilaminectomy surgical procedure in an attempt to repair the damage in his spinal cord that was causing- the paralysis. This surgery was unsuccessful and the resultant prognosis for Nemo’s recovery was listed as “very poor.”
+Even though the surgery at Michigan State University was a failure, plaintiff once more attempted to reverse Nemo’s paralysis. She entered Nemo into Purdue University’s Research Program for spinal cord injuries. Experimental methods such as electrode implantation were used in an attempt to rejuvenate the damaged portion of Nemo’s spinal cord. These efforts were also unsuccessful.
+Dogs are considered by Ohio law (R.C. 955.08) to be personal property. Market value is a standard to guide the court in the valuation of personal property loss. Bishop v. E. Ohio Gas Co. (1944), 143 Ohio St. 541, 546, 28 O.O. 470, 472, 56 N.E.2d 164, 166. The court finds the market value for a dog of Nemo’s caliber to be merely a guideline. Genetically, no two dogs are alike. This is expressed in different phenotypical characteristics, such as the dog’s disposition, physical appearance, and relative intelligence. Nemo’s age, training, and proven accomplishments are accorded different weights in determining value on the open market. Expert testimony, adjudged as both credible and informative, placed Nemo’s value in a range from little or none to as much as $10,000.
+“Market value is the standard which the courts insist on as a measure of direct property loss, where it is available, but that is a standard not a shackle. When market value cannot be feasibly obtained, a more elastic standard is resorted to, sometimes called the standard of value to the owner. This doctrine is a recognition that property may have value to the owner in exceptional circumstances which is the basis of a better standard than what the article would bring in the open market.” Id.
+This more elastic standard may be appropriately applied in part to the instant matter. Plaintiff invested great time and effort to train Nemo, a unique pedigree, in a particular and personalized fashion — the rigorous Schutzhund training. Plaintiff spent almost two years after Nemo’s surgery in an attempt to reverse or rehabilitate her paralyzed animal instead of purchasing a new dog with similar skills. Sentimentality is not a proper element in the determination of damages caused to animals. Dunn v. Daniel (Feb. 9, 1984), Montgomery App. No. CA-8384, unreported. However, in practical terms, plaintiffs efforts were for the purpose of maintaining the services of a dog personally suited to showing and for her personal security. Another animal as unique as Nemo was simply not available to plaintiff on the open market.
+In addition to the loss of the animal itself, plaintiff also lost potential earnings from the stud fees she charged for Nemo’s services. “Damages may be awarded for future conditions where they are reasonably certain to occur or exist in the future * * 30 Ohio Jurisprudence 3d (1981) 26, Damages, Section 15. Even though for eight years plaintiff bred Nemo only sparingly, the court finds that plaintiff would have earned money from stud fees in the future. The court’s contemplation of the amount of this money is tempered by both Nemo’s age and life expectancy as well as plaintiffs past breeding history with Nemo.
+Upon due consideration of the foregoing, this court finds that by a preponderance of the evidence, plaintiff has suffered damages in the amount of $5,000.
+Judgment for plaintiff.
+Fred J. Shoemaker, J., retired, of the Franklin County Court of Common Pleas, sitting by assignment.
