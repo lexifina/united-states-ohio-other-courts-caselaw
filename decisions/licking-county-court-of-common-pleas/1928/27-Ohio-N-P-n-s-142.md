@@ -1,0 +1,28 @@
+---
+court: "Licking County Court of Common Pleas"
+decided: "1928-04"
+citations: ["27 Ohio N.P. (n.s.) 142"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re Estate of William Phillips, Deceased."]
+source_url: "https://static.case.law/ohio-np-ns/27/cases/0142-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8805510
+---
+
+# In re Phillips
+
+## Majority (Moore, J.)
+
+Moore, J.
+This case is presented to the court upon a petition in error from the judgment of the Probate Court of Licking county, Ohio.
+The facts are as follows: William Phillips died intestate, leaving a widow, and some six months after his death the widow died. No administrator was appointed for the estate of William Phillips until after the death of the widow, and after her death administrators were appointed for both estates.
+The question before the court is whether or not, upon the application of the widow’s administrator, the Probate Court is compelled to issue an order to the appraisers of the estate of William Phillips to allow sufficient property or money for the support of the widow for the twelve months following the death of the husband.
+There is not an adjudicated case, so far as the court has been able to find, in the state of Ohio which presents the exact facts presented in this case. In the case of Dorah v. Dorah, reported in the 4 Ohio State, page 292, the appraisers had allowed a certain amount in money for the maintenance of the widow for one year, and shortly after this allowance was made the widow died. It is there held that the amount of this allowance unpaid at her death must be paid to her administrator, it being a vested right. In the 14th Ohio State, page 506, Bane v. Wick, the widow died a short time after the appointment of an administrator for the husband’s estate. The appraisers had neglected to set off a year’s maintenance and, upon exceptions to the account of the referee, in this case the Supreme Court held an order must issue requiring these appraisers to set off a year’s support for the widow, holding that the mere neglect of the appraisers to set off until after the widow’s death does not defeat the right to a year’s maintenance. This case practically reverses the Massachusetts case under a different statute which was referred to by counsel in argument.
+This right to a year’s maintenance is defined by Section 10656 of the General Code. Preceding Section 10656 we have 10654 and 10655. Part of Section 10654 reads as follows: “When a person dies leaving a widow, widower, or minor child or children, the following property shall not be deemed assets or administered as such, but must be included and stated in the inventory of the estate* * * Then Section 10656 says that “the appraisers also must set off and allow to the widow, and children under the age of fifteen years, if any there be, or if there be no widow, then to such children, sufficient provisions or other property to support them for twelve months from the decedent’s death. If the widow or such children, since then and previous to such allowance, have consumed any part of the estate for their support, the appraisers shall take that into consideration in determining the amount of the allowance.”
+Now it would appear to the court if the appraisers neglected to set off the year’s maintenance, as in the case reported in the 14 Ohio State, that the situation would be that any part that the widow had consumed would be chargeable against her in the year’s maintenance, and this court thinks that if there should be any neglect to appoint an administrator and the widow consumes a part of the estate in the six months which she lives after her husband’s death, while no administrator is appointed, that if she does not have the right to have the year’s maintenance set off to her by the appraisers, when they are appointed, that the part of the husband’s estate which she has consumed would be a charge against her administrator, if she has an estate, which could be collected from the administrator if there is no right to the set off.
+This court thinks that the decision of the Probate Court was correct in that the mere neglect to appoint an administrator for the six months does not defeat the right to have the year’s maintenance set off. This right, in the judgment of this court, vests in the wife at the death of the husband, and if the parties interested do not apply for and have an administrator appointed, it certainly would not be equitable to require the wife to pay, out of her estate, at her death, back to the husband’s estate the part of the estate she had consumed in the six months she had lived after the death of her husband.
+This court realizes it has gone one step farther than the case decided by the Supreme Court in the 14 Ohio State yet, upon the reasoning of that case, this court thinks it logical to go one step farther and affirm the probate court in the ordering and setting off of the year’s maintenance by the appraisers o'f the estate of William Phillips.
+It must be borne in mind in this matter that the appraisers have the right to take all the facts into consideration in determining the amount to be set off and allowed for such maintenance. If this is too high or too low, the matter may be reviewed, under the statutes, by the probate court itself. . This allowance, under the circumstances, might be made very small, and it could not be disturbed.
+Exceptions. Motion for new trial, if one is filed, will be overruled, and the case remanded to the Probate Court for execution.
