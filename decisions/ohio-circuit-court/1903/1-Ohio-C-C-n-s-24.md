@@ -1,0 +1,74 @@
+---
+court: "Ohio Circuit Court"
+decided: "1903-03"
+citations: ["1 Ohio C.C. (n.s.) 24"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jelke, J.; Swing, J., concurs."]
+parties: ["H. Clay Evans, doing business as the Chattanooga Car & Foundry Company v. The Peck-Hammond Company."]
+source_url: "https://static.case.law/ohio-cc-ns/1/cases/0024-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 391312
+cites_cases: ["167 Mass., 544"]
+---
+
+# Evans v. Peck-Hammond Co.
+
+## Majority
+
+There are a number of assignments of error herein, but sifting them discloses that they all hinge upon the validity or invalidity of the contract marked “Exhibit B” and attached to the bill of exceptions, which is as follows:
+“We propose to make for you any and all gray iron castings which you may order of us of the same class of work as furnaces 42, 48 and 54, in such mixtures as shall equal in quality,, durability and finish standard castings of like kind, thoroughly cleaned, chipped and acceptable to you, for the sum of (l%c) one and three-quarter cent's per pound f. O. b. cars Chattanooga, Tennessee.
+“This contract to be in force until January 1st, 1901, with privilege of renewal year by year with a readjustment of price on January 1st of each year, increasing or diminishing price of (l%c) one and three-quarter cents per pound by difference, if any, in cost of pig iron in the general market at the time of said renewal, as compared with the present cost of such iron in the general market, and no change shall be made unless the difference in price of pig iron in the general market is at least ($1.00) one dollar per ton and has existed ninety days prior to said renewal.
+“We will invoice castings at' an agreed weight, which is to be determined by adding (6) six per cent, to the weight of metal patterns.
+“Pattern weights of such castings as are made from wood patterns to be determined by talcing average of ten castings from said patterns and deducting six per cent.
+“We will furnish flasks, follow boards, and such other appurtenances as are necessary for making first-class castings.
+“We agree to begin to deliver castings within thirty days after patterns are received by us.
+“We agree to keep patterns insured in such an amount as will replace" them, in case of loss nr damage, in as good condition as they were before they were lost or damaged.
+“You are to furnish us at your convenience, f. o. b. 'cars at Chattanooga, iron and wood patterns in good condition to make castings from. We agree to inspect said patterns and to return to you said patterns in as good condition, ordinary wear and tear excepted, immediately on your demand, and on our failure to do so hereby authorize you to take possession of same without process of law.
+“We also agree to mount radiators, you to furnish steel cut to size for same, fit, paint t'he fronts, bronze the letters and crate and box ready for shipment any or all apparatus as follows, provided it can be done' without loss to us:
+“42 inch furnace for sum of $1.50 each.
+“48 inch furnace for sum of $1.75 each.
+“54 inch furnace for sum of $2 each.
+“We also agree, if you will keep such things in stock with us, to include in our boxing and crating and shipping with the above apparatus, such items as castings, casing caps, asbestos cement, paper, poker, check damper, regulators, etc., without extra charge.
+“We agree to make and keep in stock one month’s orders thirty days in advance of month for which they are ordered.
+“We agree, when orders are received for immediate shipment, to ship out eastings which we have on hand, or immediately make up castings to full capacity of patterns and ship until orders are filled.
+‘ ‘Castings on hand for stock orders which are used to fill orders for immediate shipment, will be replaced, if you so desire, as soon as possible, running to full capacity of patterns to do so.
+“We agree to store and insure, free of cost, and keep perfectly dry, all castings not used and such other material until such time as they are ordered shipped.
+“We agree, if we fail to make and ship your castings in accordance with your orders and specifications as 'above stated, to pay all loss or damage which you may sustain by reason of such failure on our part, causes beyond our control excepted.
+“We agree to bind ourselves, while making your castings, not to make castings of similar patterns or go into the furnace business on our own account or allow your patterns to be used for any purposes than to produce such castings as you may order.
+“Should we wish, you are to furnish us an experienced superintendent, we to pay his salary and expenses until such time as our superintendent is familiar with mounting the work.
+“Settlement to be made under date of t'he 10th of each month for all castings delivered during previous month, by giving a 90 day note or pay cash deducting 2 per cent.
+“Castings made up and ready for shipment on orders from you are to.be included in each month’s settlement.
+“The rendering of bill for stock unshipped and the accepting of settlement for said unshipped stock, is hereby acknowledged a warehouse receipt, and such stock is hereby acknowledged to be your property, and shipment of same when ordered is to be made by us without expense to you.
+“Above proposition to be accepted on or before June 1, 1900.
+“Chattanooga Oar & Foundry Co.
+“J. E. Evans, Manager.”
+When we have determined this, answers to all other questions in the case are but corollaries to such determination.
+Counsel for plaintiff in error contend that all provision in said contract beyond and after the first year, that is after January 1st, 1901, is void and of no effect for two reasons: First, for want of mutuality or consideration; and second, for indefiniteness and uncertainty.
+After elaborate argument and exhaustive briefs by learned counsel on both sides of this case it is revealed, as it so frequently is, that the several propositions of law contended for are all sound; so that the real problem is to work out' the correct result in the light of these legal principles from the writing and the facts and circumstances surrounding the parties.
+Counsel for plaintiff in error start with the proposition that a promise is a good consideration for a promise only where there is a perfect mutuality of engagements so that each party may enforce the contract against the other, and that since the Peck-Hammond Company does not engage to take a stipulated amount of castings, or all or any castings used by them from H. Clay Evans, the promise made by H. Clay Evans to furnish castings is not binding for want of such mutuality.
+Counsel for defendant' in error says that the proposition of law in the abstract is true, but does not apply to his case because the Peck-Hammond Company does not rely on any engagement of that kind on its part as a consideration for the promise of H. Clay Evans which it is seeking here to enforce.
+Counsel for defendant in error contends that by its executed undertaking to furnish H. Clay Evans f. o. b. ears Chattanooga iron and wood patterns in good condition to make castings from, and to furnish an experienced superintendent, the Peck-Hammond Company bought and paid for an option which was thereafter exercisable at the pleasure of the Peck-Hammond Company. Counsel say that was the contract, and that the adequacy of such consideration can not' be inquired into in this court of law.
+“If the promisee gives anything for the promise in excess of what he is legally obligated to give, whether such a return by a counter-promise upon the part of the promisee or an act done by him, the promise is binding upon the promisor, and it makes no difference whether the counter-promise or act given or done by the promisee be adequate or not,”
+Is a sound proposition at law and is supported by abundant' authority. But this to a certain extent begs the first inquiry as to whether there was a consideration at all or not.
+Adequacy or inadequacy is not determinative, but inadequacy is a fact or circumstance, like any of the many surrounding circumstances, which enables the court to find whether the thing claimed to be the consideration was a, consideration or the consideration in contemplation of the parties and by their mutual intent. Of course there is no more essential element upon which the minds of the parties to a contract must meet than the consideration, and one thing can not be the consideration in the mind of one and another thing in the mind of the other.
+This then brings us to the question: Was this furnishing of patterns and a superintendent the consideration in a contract of option in the contemplation of the parties?
+This is the stand taken on this branch of the case by counsel for defendant in error, and if such is not the consideration, the contract must fail. He says truly and fairly “a privilege of renewal subsisting to both 'parties to a contract would be a manifest absurdity.”
+After careful deliberation we are of opinion that such was not the nature of the contract. The furnishing of the patterns and a superintendent was but an incident, a working detail of the fixed and certain part of the contract and such renewals thereof as the parties might thereafter agree upon. It defined and described the subject matter of the contract. We do not think that this provision over and above the part it played in defining the subject matter in the fixed contract, ever was thought of by the parties as furnishing a consideration for a contract of future option. In fact after warm debate this idea only came to the mind of faithful and astute counsel in the exigencies of argument.
+We now come to this second infirmity charged against this contract' : That the provision for renewal is void for indefiniteness and uncertainty in that.there is no limit fixed to such renewals.
+Full deference must be paid to the many high authorities cited by counsel for defendant in error pointing out that it is our duty to make every effort to sustain rather than to defeat contracts and id facere cerium quod cerium reddi potest. On this question counsel for defendant in error has taken his stand with frankness and courage where he saj's in his brief:
+“The contract is therefore unlimited in its final duration except by the legal and practical continuance in business of the parties thereto. If either of the parties should die or cease doing business, or should go into bankruptcy or shall for any reason bona fide cease the business he or it is engaged in, the contract would thereby come to an end. While the parties, however, continue in business and are in position to carry- out' the terms of the contract, the contract will continue from year to year, the price being adjusted each year as before set forth.”
+This is the only limit counsel can find in the writing, in the evidence and in the circumstances of the parties.
+Reflection will show that such was not the limit in contemplation of the parties fixed in the contract by intention, when it is observed that' it is the limit which exists ex necessitate to all earthly possibility. It is the limit fixed not by the parties, but by the Lord upon all human engagements. It exists without contract, notwithstanding contract, and in spite of contract.
+Such a construction would mean that this contract, by the annual exercise of an option by one of the parties, is to go on until it can't go on any more. We do not believe the parties intended this, and we do not know and can not find out what intention, if any, ' the parties had in this regard.
+Counsel has called our attention to the class of cases where railroads have employed persons in'settlement' of claims for personal injuries in which there has been no limit in the contract of employment, but the courts have nevertheless fixed a reasonable limit and sustained the contracts. In those cases one of the very essentials of the contract is the estimated diminution of the employe’s earning capacity for the rest of his life. It is a compensation substituted by contract for the measure of damages, so that by an-annuity the diminished earning capacity is made whole for the balance of claimant’s working life.
+Nobody -can believe that two strong commercial organizations, between which existed no obligation, dealing as to a'commodity in the open market had any such limit in their minds. It is too unusual to be lightly supplied by us in the absence of express agreement or indicia pointing clearly to such agreement. We feel it would be making a contract for the parties which they themselves have not made. The same difference exists between such cases as Caring v. Carr, 167 Mass., 544, where there was a contract for permanent employment, and the case at bar.
+We do not' find the law cited by counsel relative to tenancies of land from year to year helpful for this reason, that there are and always have been conditions pertaining to the soil which have controlled the making of term contracts as to land — that is, leases— and these have so invariably been circumstances of the making of the contract that they have grown into the body of the law on that subject and hence it is not' safe analogy to apply those principles to free contracts.
+Further, there has been nothing like a holding over here where in the absence of an express agreement the law' implies in fact a contract between the parties.
+Before the first year was out the attitude of both parties was clearly defined on -the subject of renewal, one expressly claiming the right to renew, and the other with equal explicitness repudiating such right; so that such right must be determined from their subsisting contract, if any.
+So, as to the cases cited of holding over contracts of employment. No case is found in which an employer is held bound where, contrary to express notification in ample time before the end of the term of an employe, he persists in coming around after the termination of the employment and trying to go to work despite his discharge.
+Edward Colston and George Hoadly, for plaintiff in error.
+"William C. HerroUj for defendant in error.
+We understand that counsel for defendant in error has abandoned his claim that there was some right or advantage gained'by one party speaking or exercising his option first during the year 1890-1891, when he said that a privilege of renewal to both parties would be absurd. At all events, we 'are of opinion that such a thing can not be. The judgment below should have been for the plaintiff.
+Judgment reversed.
