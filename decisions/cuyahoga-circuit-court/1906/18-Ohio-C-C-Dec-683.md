@@ -1,0 +1,31 @@
+---
+court: "Cuyahoga Circuit Court"
+decided: "1906-10-29"
+citations: ["18 Ohio C.C. Dec. 683", "23 Ohio C.C. Dec. 34"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Marvin and Winch, JJ., concur."]
+parties: ["Taylor Emerson v. Forest City Ry."]
+source_url: "https://static.case.law/ohio-cc-dec/18/cases/0683-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9504174
+cites_cases: ["77 O. S 596"]
+---
+
+# Emerson v. Forest City Ry.
+
+## Majority (HENRY, J.)
+
+HENRY, J.
+This is an appeal from the judgment of the common pleas court, denying a permanent injunction against the exercise by the defendar i; of its alleged street railway franchise on East Fourteenth street for want of the necessary majority of abutting owners’ consents. It is admitted that the production of sufficient consents is jurisdictional and. that without them the council is without power to grant a franchise. If the Fourteenth street frontage of the Erie street cemetery property owned by the city is to be included in estimating the total frontage, and if the city’s consent given pursuant to ordinance of its council can be counted to make a majority, then the injunction should be denied.
+The sole issue is thus one of law depending upon the construction, of Rev. Stat. 1536-185, 3439 (Lan. 3764, 5521), the latter of which reads,, in part, as follows:
+“No such grant shall be made until there is produced to council, or the commissioners, as the case may be, the written consent of the owners-of more than one-half of the feet front of the lots and lands abutting on the street or public way, along which it is proposed to construct such, railway or extension thereof; ’ ’ etc.
+And in part of the other section referred to is substantially the same provision. •
+The literal reading of these sections is against plaintiff’s contention. But it is urged that since the privilege of abutters to give or withhold their consents is a personal right given to them for their protection, against the granting of the right to operate a street railway in front, of their premises contrary to their desire and interest, it is against, public policy for the city, in its adversary and dual capacity as both landowner and grantor of the franchise, to confer upon itself jurisdiction to act in derogation of their rights.
+There is of course a suggestion of anomaly in this situation. Various analogies of action by public officers in dual capacities have been, instanced, but we have found none which precisely meets this situation. It is not easy .to see why the city as landowner should be deprived of the privilege enjoyed by' landowners generally of favoring the establishment of a street railway by giving consent where a street railway is1deemed to be beneficial to the abutting property. And it is apparent that the denial of that privilege might hinder or prevent the establishment of a street railway along a street bordered largely or wholly by property belonging to the city,- and that, too, when ease of access to suck property by the public is peculiarly desirable, as in the. case of city parks.
+It is, indeed, conceivably true that the interest of the city as a whole may be favorable to the construction of a street railway along a street where its own and other abutting lands would be depreciated thereby, and that it may thus force the establishment of a street railway against the interests of the owners of abutting private property. But the same argument, in some degree, would lie against the right of any other public corporation, owning abutting city lands, to give or withhold consent to the construction of a city street railway in front of its, property. Yet the right of the federal or state government, or of a county, or school district, in this behalf is, we believe, unchallenged. This privilege being personal to the owners of abutting lands, may be exercised even ■to the manifest detriment of the land itself, if they so please. Can it be doubted that a street railway company may, as owner of abutting lands, yield the decisive consent to the grant of a franchise to itself? It having been decided that consents may be purchased, can it be seriously ■claimed that any abutting owner who refuses to yield his consent can invoke high considerations of public policy against the contrary exercise of the same privilege by any owner, though it be the city itself, upon the ground of biased judgment, impure motive, conflicting duties, or cross interests ? Can supposed public policy of so doubtful a nature operate, to vary the plain letter of the law ? We think not.
+Viewing the question from another standpoint and considering the history of this legislation, the rule of majority consents was formerly founded on assessed valuations of abutting property, so that owners of property exempt from taxation had no power to further a street railway project by their consents. When the legislature changed this basis to that of foot frontage, it obviously had this fact in view. It could hardly have escaped attention that the change thus made would affect property owned by the city. Yet the legislature made no exception of city property. If it had expressly conferred upon municipalities the privilege of giving consent in respect of their property abutting on proposed street railway routes, it can hardly be claimed that considerations of public policy would defeat such provision. And the same conclusion results from the reasonable presumption that the legislature must have had in contemplation the plain application and natural meaning in this behalf of the language it did employ.
+If abuses arise from the literal interpretation of the law, it is much better that the legislature should amend the law than that the courts by judicial legislation should attempt to do so.
+The injunction will be denied, as upon final hearing, and the petition dismissed at the plaintiff’s costs.
+Marvin and Winch, JJ., concur.
