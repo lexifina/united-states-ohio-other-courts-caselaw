@@ -1,0 +1,43 @@
+---
+court: "Montgomery County Court of Common Pleas"
+decided: "1923"
+citations: ["24 Ohio N.P. (n.s.) 579"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Automobile Insurance Co. v. The Pullman Co."]
+source_url: "https://static.case.law/ohio-np-ns/24/cases/0579-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1561148
+---
+
+# Automobile Insurance v. Pullman Co.
+
+## Majority (Snediker, J.)
+
+Snediker, J.
+This case is on appeal from a decision of the municipal court on a motion to dissolve an attachment and garnishment issued by that court. In the court below a motion was made by the defendant to dissolve the attachment. This motion was overruled, and under the provisions of Section 10259 of the Code this appeal was taken. The section referred to reads:
+“The defendant may make a motion before the justice to dissolve the attachment or release the property, money or credits attached or garnished, either or both. If overruled, it can be appealed by the defendant to the court of common pleas, if in session, or to a judge thereof in vacation, by giving notice to that effect to the justice, but no bond shall be required.”
+'The formal requirements of this section were complied with in making the appeal. After it was lodged in this court the motion, on which the case is now before us, was filed on the ground that this court has no jurisdiction to hear this matter on appeal from the municipal court of Dayton, as the law does not provide for such an appeal to this court.
+The municipal court of the city of Dayton, which was created by the Legislature under authority of the Constitution, has jurisdiction defined by Section 1579-51 of the Code. The ease, as filed in the court below was, as shown by the amended petition, for the sum of $299, and the jurisdiction in such a case is conferred by subdivision 1 of the section referred to, which reads as follows:
+“The municipal court shall have * * * ordinary civil jurisdiction within the limits of said city of Dayton in the following cases: 1. In all actions and proceedings in which the justices of peace, or such courts as may succeed justices of the peace courts, have or may be given jurisdiction.”
+In other words, within the limits of the city of Dayton, the judge of the municipal court acts as and with the powers of a justice of the'peace in such proceedings as were had'before a justice prior to the passage of the act; and the Legislature here intends that there shall be applied to the municipal court the general law of the state as it relates to the jurisdiction of justices of the peace.
+Article IV, Section 4, of the Constitution of Ohio reads :•
+“The jurisdiction of the courts of common pleas and of the judges thereof, shall be fixed by law.” . .-
+Section 11215 of the Code is as follows:
+“The court of common pleas shall have original jurisdiction in.all civil cases where the sum or matter in dispute exceeds the exclusive original jurisdiction of the justices of the peace, and appellate jurisdiction from the decision of county commissioners, justices of the peace and other inferior courts of the proper county in all civil cases, subject to the regulations provided by law.”
+This last section gives to the common pleas court appellate jurisdiction from the decision of the municipal court, which is an inferior court in this county. When the municipal court act of the city of Dayton was passed, there was found at Section 26, now Section 1579-57 of the Code, this provision:
+“Proceedings in error may be taken to the common pleas court of Montgomery county, from a final judgment or order of the municipal court in the same manner and under the same conditions as proceedings in error from the common pleas court to the court of appeals.”
+This section recognizes the jurisdiction of the common pleas court on error from the final judgment or order of the municipal court. We find nothing in the act creating the municipal court of the city of Dayton which either provides for or denies to the common pleas court the right of jurisdiction on appeal, nor do we find any such express provision or denial in any other part of the code. While it is true that the right to prosecute error is not purely statutory, but one known to the common law, it is also true that, unless granted by statute, the right of appeal does not exist. But we understand the contention of counsel for defendant to be that such urisdietion on appeal may be implied from the fact that the jurisdiction of the municipal court is the jurisdiction of justices of the peace in eases like that at bar.
+This very question was before the Supreme Court in the case of George R. Mumma and others vs John P. Mumma, 23 O. S., page 602. In that case the question was whether an appeal could be taken to the district court from a judgment rendered by the superior court of Montgomery county in a case gomery county was created by the act of March 29, 1856. The to contest the validity of the will. The superior court of Mont-jurisdiction, of that court was defined in Section 12 of the act in these words:
+“The said superior court of Montgomery county shall have the same powers, authority and original jurisdiction in civil actions and other proceedings as by the constitution and laws have been or may be conferred upon the court of common pleas, except that such superior court shall have no jurisdiction in criminal or bastardy cases, nor in applications for divorce or alimony, nor for alimony, nor for the benefit of the laws for the relief of insolvent debtors.”
+Before the trial of the Mumma case the act of April 12, 1858, found in 55 Ohio Laws at page 81, was passed, and at Section 1 provided:
+“That a second trial may be demanded and had in any civil action which has been heretofore or may be hereafter instituted in any court of common pleas in this state in which said court has original jurisdiction and in which either party has the right by law to demand a trial by jury, and in which an issue of fact has been joined between the parties or any two of them by their pleadings in the action, and after a judgment or final order has been or may be rendered upon the terms and in the manner hereinafter provided, and new trials may be granted in such actions after such second trial thereof, upon the grounds and in the manner provided for the granting of new trials by the Code of Civil Procedure.”
+And at Section 5 it is provided:
+“That appeals may be taken from all final judgments, orders or decrees in civil actions in which the parties have not the right by virtue of the laws of this state to demand a trial by jury, and interlocutory orders dissolving injunctions rendered by any court of common pleas in this state, in which it has original jurisdiction, by any party against whom such judgment or order shall be rendered and who may be affected thereby, to the District Court, and the action so appealed shall be again triéd, heard and decided in the district court, in the same manner as though the said district court had original jurisdiction of the action.”
+With these two acts before it, the Supreme Court, in the Mumma case, held that an appeal could not be taken to the district court from a judgment of the superior court of Montgomery county, Ohio. '
+The case at bar is identical in principle. The superior court of Montgomery county had in general the same jurisdiction as the common pleas court, and appeals were allowed under the provision of law, relating to the contest of wills, from the common pleas court to the district court. There was no express enactment that such an appeal might be taken from the superior court of this or any other county. So, in the case before us, an appeal is permitted from the overruling of the motion by the justice of the peace, but no such appeal is, by the terms of the Code, allowed from the ruling of the municipal court.
+The Mumrna case followed the ease of Reber and Kutz v. The Columbus Machine Manufacturing Company, 12 O. S., page 175, the second syllabus of which is:
+“The provisions of the act to relieve the district court,” etc., “passed April' 12, 1858, in relation to a second trial, of course, in the courts of common pleas, do not apply to actions brought in the superior court of Franklin county.”
+A like decision was rendered by the Supreme Court in the ease of Blunt v. Kenny, Espy & Company, 8 O. S., page 30.
+It is with some hesitancy that we differ with the learned judges of the courts of appeals of Hamilton county, but in view of the foregoing, we are constrained so to do. The motion to dismiss the appeal is therefore sustained.
