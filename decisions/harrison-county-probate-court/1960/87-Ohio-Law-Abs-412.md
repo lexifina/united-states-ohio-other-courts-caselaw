@@ -1,0 +1,48 @@
+---
+court: "Harrison County Probate Court"
+docket: "15248"
+decided: "1960-07-22"
+citations: ["87 Ohio Law Abs. 412"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Duswald, Estate of, In re."]
+source_url: "https://static.case.law/ohio-law-abs/87/cases/0412-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1806548
+cites_cases: ["5 O. C. C., N. S., 130"]
+---
+
+# In re Estate of Duswald
+
+## Majority (Rowland, J.)
+
+Rowland, J.
+This is an action for a declaratory judgment and the question involved concerns descent and distribution of real estate. Section 2105.10, Revised Code, is the particular section involved, emphasis on paragraph C of said section.
+Witnesses were called and testimony introduced. Exhibits of various description were introduced, including those parts of the estates of George Duswald and Loretta H. Duswald which pertained to the real estate in question. The evidence, among other things discloses that George Duswald, in his lifetime, was the owner of two lots, Nos. 261 and 262 on Church Street, Church Section, in the Village of Scio, Ohio, and there was located on this property a frame house in which George Duswald and his wife, Loretta, lived. There was also a small frame building on the property.
+Evidence further discloses that at the death of George Duswald, Lots 261 and 262 descended to Loretta Duswald, the widow of George Duswald.
+The evidence further discloses that following the administration of the estate of George Duswald, and after the said property had been transferred to Loretta H. Duswald, that she, Loretta Duswald did completely remove from Lot 261, the frame dwelling house in which she and her husband resided during his lifetime and she also caused to be removed another small house that was on Lot 261 and then, following the removal of the two above described properties, she constructed upon the said Lot 261, a residence constructed of yellow brick which house contained five rooms and bath, and paid for the new house with her own money from insurance policy.
+George Duswald and Loretta Duswald, as husband and wife, had no children, but George Duswald, at the time of his death, did have three sisters living and Loretta H. Duswald, the relict of George Duswald, had living at the time of her death, a brother and a sister.
+This petition for declaratory judgment was filed by Jay Q. Law and Lena L. Reed as plaintiff and heirs of Loretta H. Duswald, and the petition, in effect, intends to say that the real estate which Loretta H. Duswald died seized was not identical property which she inherited from George Duswald and that therefore an interest in it did not descend to the heirs of George Duswald as provided by Section 2105.10, Paragraph G, Revised Code.
+Answer was filed on behalf of Bertha Slates, Sadie English and Edna Sanner, defendants, contending, in general, that the property in question, viz: Lots 261 and 262, is the identical property that came to Loretta H. Duswald, from her husband, George Duswald, and therefore should descend according to provisions of Section 2105.10, paragraph C, Revised Code.
+The Plaintiff’s contention through the trial was that the property no longer was the “identical” property for the reason that the buildings on Lot 261 had been entirely removed and a new building placed thereon. The facts reveal that when Loretta H. Duswald received the property by inheritance from the George Duswald Estate, there was located upon Lot 261, two houses and on Lot 262, one garage. The two houses were old, in reference to time, and of log frame construction covered with weatherboard. One of the houses had been occupied by Loretta H. Duswald and George Duswald, her husband, during his lifetime. Following the death of George Duswald and after the property was transferred to her, Loretta H. Duswald had the two houses torn down and moved completely off Lot 261; however, she retained on Lot 262, the garage building.
+Following this she constructed upon the lot formerly occupied by the two frame structures, viz., lot 261, a yellow brick housé, which yellow brick, a modern house, the plaintiff maintains was of far greater value than the other property and the other buildings.
+Now, as to Lot 262 upon which is located the garage which was there when George Duswald died, and was still there when Loretta H. Duswald died, there certainly can be no question but what it is the same, or “identical” piece of real estate. In the opinion of the court, Lot 262 is “identical property,” which passed from George Duswald to Loretta H. Duswald and therefore would descend under Section 2105.10, Paragraph C, Revised Code.
+As to Lot 261 upon which was erected the home occupied by George and Loretta H. Duswald during the lifetime of George Duswald, we find that after Loretta Duswald inherited the lot that she removed entirely the two old resident buildings and constructed a new brick residence upon the said lot 261.
+The Court has before it the case of McClellan v. Krantz, found in 14 N. E. (2d), 280.
+In the McClellan case, the property, which came to the relict by descent from her former spouse, had on it the same house, the same building following the death of both the former spouse and the relict. However, during the eight years which the relict enjoyed the property in the McMillen case, she made considerable improvements, modernizing the building. In the case Judge Putnam, in his decision in the last paragraph set forth as follows:
+“Consequently, we hold, first, that the repairs and alterations made in the instant property were necessary to maintenance, and that irrespective of the sources of the funds used therefor, the improvements became a part of the land; and second, that this real estate or land is the identical real estate, willed to Annie B. Deis by Andrew Deis, because the title thereto was not changed by Annie B. Deis during her lifetime.
+“It follows that a decree is made herein, similar to the one made in the court below.”
+“Judgment accordingly.”
+However, in the present case this court believes that a further rule or law should be given consideration. Lot 261, when it ‘came to Loretta H. Duswald, had upon it a residence property which was a part of the real estate and also had upon it another property which was a part of the real estate. The lot and the building were merged as one and their combined corpus existence created the real estate. Had the property at that time been sold, the lot and the house upon it, as a part of the real estate, would have changed hands as a single unit. It would not have required two instruments of conveyance; it did not require two instruments of conveyance when Loretta H. Duswald received the property from the George Duswald Estate. The land and buildings were one and the same.
+When Loretta H. Duswald removed the original buildings from the land she definitely changed the appearance of the lot —it was then a vacant lot. Following this, Loretta H. Duswald constructed upon Lot 261, a brick residence property, which brick residence property was attached to the land and thus became a part of the real estate and the two together became Lot 261, but appearance of the lot was entirely different. The value of the lot had considerably increased. The real estate which Loretta H. Duswald died seized of, so far as lot 261 was concerned, was a lot upon which was erected a fine brick residence, which residence was a part of the real estate.
+The owner of property has the right to change the surface structure; also, it must be noted that coal and oil underneath the surface belongs to the owner of the surface.
+The owner of the surface may sell and remove, improvements upon the surface, and may also sell and remove that which lies underneath the surface, viz: coal and oil (Digby v. Digby et al, 5 O. C. C., N. S., 130), and such sale did not change the identity of the property.
+The courts of Ohio seem to hold that equities of the case mean nothing when it comes to deciding this type case. That the only thing that counts in determining whether the real property is the same, or “identical,” is if the title is the same; Was the title changed in any way, or was it not?
+Judge Parker, in the Digby case, 5 O. C. C., N. S., 130, wound up his opinion with these words:
+“That has been followed by the Supreme Court in a number of cases since then, one decided last winter.
+“We think and hold that what is true of Section 4158, General Code, is true as well of Section 4162, General Code, viz., that such questions thereunder are not considered or determined upon equitable principles; that the legal title and legal status determine the rights of the parties when it comes to the matter of descent or property, and so holding, we affirm the judgment of the court of common pleas.”
+This trial court has the Digby case and the McClellan case before it.
+It appears to this court that the equities of this case are with the plaintiff; however, courts of appeal and supreme court cases of Ohio have consistently held that it is the corpus or the title which governs. Was the title changed, or was it not?
+This court finds that the title to both of the lots was not changed by Loretta Duswald.
+It is therefore the judgment of this court that both lots 261 and 262 are the identical lots and identical real property within the meaning of Section 2105.10, Paragraph C, Revised Code, which Loretta Duswald inherited from George Duswald, her former spouse, and which Loretta Duswald, the relict, died seized.
