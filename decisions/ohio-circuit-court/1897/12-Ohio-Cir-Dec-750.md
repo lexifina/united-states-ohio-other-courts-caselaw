@@ -1,0 +1,30 @@
+---
+court: "Ohio Circuit Court"
+decided: "1897"
+citations: ["12 Ohio Cir. Dec. 750"]
+reporter: "ohio-cir-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tischler v. Seeley."]
+source_url: "https://static.case.law/ohio-cir-dec/12/cases/0750-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1637650
+cites_cases: ["1 Johns., 509", "1 W. L. M., 585", "10 Ohio St., 488", "14 Ohio St., 73", "15 Johns., 210", "15 Ohio St., 211", "24 Ohio St, 345", "24 Ohio St., 598", "27 N. W. Rep., 689", "30 Ohio St., 92", "33 Ohio St., 523", "34 Ohio St., 399", "35 Ohio St., 365", "46 Ohio St., 450", "55 Mich. 351", "60 Mich. 605", "60 Ohio St., 629", "7 Ohio St., 134", "70 Am. Dec., 62"]
+---
+
+# Tischler v. Seeley
+
+## Majority (Adams, J.)
+
+Adams, J.
+This was a replevin suit brought by Seeley against Tischler to recover possession of a dental chair, table and bracket alleged to be worth $160. The prayer is for judgment for that amount with interest, lor possession cannot be obtained. Tbe property was not taken in replevin. The answer of Tischler is a general denial.
+It seems from this record that Seeley did give the possession oi this property to Searle, under a conditional contract whereby the property was to become Searle’s alter the payment of an agreed price, the price to be paid in installments. That conditional contract was in writing, properly executed and verified and was filed in the proper place six minutes before the chattel mortgage which Tischler had taken on the same property was filed, Tischler’s chattel mortgage being filed in Crestline and the conditional sale contract being filed here in Mansfield. Searle had made some payments. There was evidence tending to show that Tischler knew of this conditional sale ot the rights of Seeley under the conditional contract. The bill oi exceptions contains all the evidence and the charge of the court, but there are some eight requests to charge the jury which are in no way identified as a part of the bill of exceptions and they are not attached to the bill as exhibits.
+Now, counsel for plaintiff in error claims that this judgment is erroneous because it appeared from the evidence that, at the time this action was commenced, Tischler did not have possession oi the property; that he had sold it to another party some time before the commencement of this action: but it nowhere appears in the record, as we think, that Seeley knew of that disposition of the property. The claim is further made that there was no tender made to Tischler of any part oi the amount that had been paid by Searle.
+Counsel argues at length that an action in replevin, or an action in damages where the property is not taken in replevin, cannot be maintained where, at the commencement ot the action, the defendant did not have the actual possession of the property.
+Now, Sec. 5827, Rev. Stat., provides that, if the property is not taken or is returned for want ot the undertaking, the action may proceed as one for damages. The statute does not specify any particular reasons or instances in which the property is not taken, but it is general and unqualified that, if the property is not taken, the action may proceed as one for damages.
+Some authorities have been cited in support of the claim of counsel for plaintiff in error, but, in Cobbey on Replevin, Sec. fib, we find this exception to the general rule: “Where the property was in defendant’s possession and wrongfully transferred by him shortly before the commencement of the action, or where the statute allows a replevin action to proceed as one ior damages if the property is not taken, the rule is different. In Michigan the action has been allowed to proceed, under their statute, even where the defendant pointed out part of the property named in the writ and plaintiff refused to take possession of it. ’’
+The plaintiff, under such circumstances, was not bound to give a new bond. Of course, the only result of a suit under such circumstances would be a money judgment. The property has passed beyond the process of the court.
+We think that McBrian v. Morrison, 21 N. W. Rep. 3b8, [55 Mich. 351,] has a case cited in the foot note of the Michigan statute very similar to our statute on that subject, and we follow the principle laid down in that section.
+Now, so far as Sec. 4155-3, Rev. Stat., and under that Sec. 2, is concerned, which provides that the vendor of property ■ conditionally sold cannot retake possession without repaying part oi the price paid, that is, he must tender or refund the sum or sums of money so paid after deducting thereirom a reasonable compensation for the use ot such property, which shall in no case exceed fifty per cent, of the amount so paid; Tischler was not the purchaser ot the property, but, assuming that he stood in the shoes oi Searle, so far as the repaying of these sums is concerned, the Supreme Court in Weil v. State, 46 Ohio St., 450, 455, expressly hold that the xequisities of this section ot the statute as to the refunder ol the money paid do not apply where the property is taken by legal process; it only applies where the party takes possession of the property without resorting to the courts. Where it is by legal process, by replevin suit, foreclosure of chattel mortgage, or by suit on contract or conditional sale contract, where the rights of the parties can be adjudicated by the court, that tender is not necessary.
+Another question is made, that this conditional sale contract was not filed immediately alter its execution and delivery. The statute does not provide when these conditional sale contracts shall be filed. The provision is that until filed they are void as against purchasers and mortgagees in good faith, etc.
+We think this disposes of all the assignments of error, and, after reviewing the evidence and the charge of the court in the light of the statutes and decisions of the Supreme Court, we find no error in the .record and the judgment is affirmed.
