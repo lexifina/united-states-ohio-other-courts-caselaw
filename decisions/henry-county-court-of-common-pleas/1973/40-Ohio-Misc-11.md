@@ -1,0 +1,29 @@
+---
+court: "Henry County Court of Common Pleas"
+docket: "18286"
+decided: "1973-05-31"
+citations: ["40 Ohio Misc. 11"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Westhoven v. Snyder et al."]
+source_url: "https://static.case.law/ohio-misc/40/cases/0011-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6701670
+---
+
+# Westhoven v. Snyder
+
+## Majority (Gtlsoít, J.)
+
+Gtlsoít, J.
+This cause comes on for the consideration-, of the court upon a motion filed by defendants herein for a dismissal of the proceedings, for the reason that the complaint does not state a claim upon which relief can be granted. Specifically, defendants interject the application of B. C. 2305.06, which bars a cause of action if such-is not brought within 15 years from accrual. After some delay, the motion was assigned for hearing on May 15, 1973, and plaintiff was granted leave (with the consent of defendants’ counsel) to file a memorandum contra. The memorandum interjected the application of B. C. 2305.15 and alleged that the statute of limitations was tolled. At the scheduled hearing, it was stipulated by counsel, that the. determination of the merits of the motion would be submitted on the filings made by the respective parties, with both incorporating the contents of the deposition taken of one of the party defendants, Leo Snyder, Jr., into their filings. It was the obvions conclusion of all parties that the determination of the application of the provisos of ft. C. 2305.15 would be resolved by the factual presentation made in such deposition.
+The court is compelled to make certain assumptions before it may proceed and wishes to state quite plainly that those assumptions are not to be construed as findings of fact, now or in the future. The obviousness of this statement will be made clear to the reader when the court states that it must assume that a note was executed (no note, by way of an attachment or copy was presented to the court); that the note was valid and given for a valuable consideration; that it had not been “paid oft” at any time prior to the filing of the complaint; and, that there was a last ‘ ‘ contact” with the note, in relation to payment on the note, on October 20, 1956.
+With those assumptions made, only for the purposes of a merit consideration of the motion, the court finds as fact that the fifteen year period of time would terminate on October 21, 1971; that none of the defendants absconded or concealed themselves during any of the fifteen year period; that the absences of any of the defendants from the state of Ohio constituted only brief ten day or two week periods for vacations and that their whereabouts at all times were known or easily ascertainable; and, finally, that plaintiff filed her complaint on July 7, 1972, with service had on one defendant on July 8, 1972, and on the other July 10, 1972.
+R. C. 2305.15 states as follows:
+“When a cause of action accrues against a person, if he is out of the state, or has absconded, or conceals himself, the period of limitation for the commencement of the action as provided in Sections 2305.04 to 2305.14, inclusive, and sections 1302.98 of the Revised Code, does not begin to run until he comes into the state or while he is so absconded or concealed. After the cause of action accrues if he departs from the state, or absconds or conceals himself, the time of his absence or concealment shall not be computed as any part of a period within which the action must be brought.
+The court concludes that the only application of R. 0. 2305.15 to this factual situation must come from that portion which reads: “ * # * if he departs from the state # * * the time of his absence * * * shall not be computed as any part of a period within which the action must be brought.”
+The court further concludes that it is a sound proposition of interpretative law that the words ‘ ‘ departs from the state” cannot soundly be argued to include brief vacation periods or those times when someone drives across a state boundary for a brief time. This is especially true where every other contact is retained in the state to keep and maintain residential and business affiliations. The court feels the only sound interpretation of such section is that it was meant to apply to those instances where the one bringing the cause of action is thwarted because service of process could not be had within the fifteen-year statutory period. In its research, the court found that those cases which have interpreted the section in question or its former counterparts were concerned with situations where a defendant could not be found within requisite times.
+This is not the situation in this case. At no time from October 20, 1956, to October 21, 1971, were the defendants not about. There is no contention that there has been more than a ten day or two week delay in finding any and/or all of the defendants at their residence or place of business. It is alleged, only, that if we compound two weeks for every year from 1956 to 1971, we might have enough to toll the statute from October 21, 1971, to July 7, 1972. There is a complete failure of proof that the defendants’ vacation prevented the plaintiff from commencing the cause of action— a fact which can be the only logical tenor of the statute. Plaintiff had the full benefit of the whole time and the court may only conclude that she neglected to file timely. Consequently, the court finds that plaintiff’s complaint does fail to state a claim upon which relief may be granted.
+Therefore, it is hereby ordered, adjudged and decreed that defendants’ motion be found to be with merit and that the same ought to be, and hereby is, sustained.
+Motion to dismiss sustained.
