@@ -1,7 +1,8 @@
 ---
 court: "Hamilton Circuit Court"
 decided: "1885-10"
-citations: ["1 Ohio Cir. Dec. 93", "1 Ohio Cir. Dec. 82"]
+decided_precision: "month"
+citations: ["1 Ohio Cir. Dec. 93"]
 reporter: "ohio-cir-dec"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["State ex rel. Hardacre v. J. Dalton et al., Canvassers of Election."]
 source_url: "https://static.case.law/ohio-cir-dec/1/cases/0093-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1616676
-cites_cases: ["14 O. S., 315", "14 O. S., 322", "14 O. S., 323", "21 Ohio St., 311", "25 Ill., 328", "26 O. S., 554", "26 O. S., 557", "31 O. S., 151", "35 O. S., 64", "38 O. S., 599", "38 O. S., 604", "43 O. S., 652", "44 Mo., 223", "7 Bush., 523"]
+cites_cases: ["14 O. S., 322", "14 O. S., 323", "21 Ohio St., 311", "26 O. S., 554", "26 O. S., 557", "31 O. S., 151", "43 O. S., 652", "44 Mo., 223"]
 ---
 
 # State ex rel. Hardacre v. Dalton
