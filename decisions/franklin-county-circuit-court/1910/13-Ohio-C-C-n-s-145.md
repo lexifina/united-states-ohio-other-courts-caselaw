@@ -1,0 +1,32 @@
+---
+court: "Franklin County Circuit Court"
+decided: "1910-05"
+citations: ["13 Ohio C.C. (n.s.) 145"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Allread, J.; Sullivan, P. J., and Winch, J., concur."]
+parties: ["The State of Ohio, ex rel Attorney-General, v. The Cleveland & Pittsburg Railroad Company."]
+source_url: "https://static.case.law/ohio-cc-ns/13/cases/0145-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 392851
+cites_cases: ["37 O. S., 643", "50 O. S., 239"]
+---
+
+# State ex rel. Attorney-General v. Cleveland & Pittsburg Railroad
+
+## Majority
+
+Upon demurrer to the amended petition the question is, as to the authority of the Cleveland & Pittsburgh Railroad Company to purchase and acquire the right-of-way, road-bed and other property of the Steubenville & Toronto Railway Company.
+The defendant has a completed railroad in operation and extending as part of its route, from Steubenville to Toronto and Empire. The Steubenville & Toronto Railway Company was chartered to build, acquire and operate a railroad having Steubenville and Empire as termini. In pursuance to the charter the latter company acquired the right-of-way for said railroad, made surveys and estimates and did other work toward the completion thereof, when the purchase was made by the defendant company.
+It is charged that the line of railway proposed and in process of construction by the Steubenville & Toronto Company passes through a populous country and manufacturing district, and will be, if completed, a parallel and naturally competing road to that of the defendant.
+The contention of the Attorney-General is that because of the parallelism and naturally competing character of- the two railways, the defendant has no right to acquire the roadway and property of the other.
+This contention is founded upon Section 3300, Revised Statutes, which provides among other things, that “any company may lease or purchase any part or -all of a railroad constructed, or in course of construction by another' company, if the lines of road of such companies are continuous or connected, and not competing,” etc.
+The defendant contends that Section 3409, containing no exception as to competing lines, applies. This section, among other -things, provides that, “a company owning in whole or in part any road-bed and right-of-way for a railroad, within this state * * * which from lack of. means or other cause, is unable to complete the construction of its proposed line of road thereon, may sell, assign and transfer the same, or any part thereof to any -othér company incorporated under the laws -of this state, with authority to construct and operate a railroad over the same route or any part thereof,” etc.
+Sections 3300 -and 3409, Revised Statutes, may, we think, be harmonized and read together. The rule of strict construction of corporate charters having been established in this state, it follows naturally that the General Assembly have been called upon from time to time to grant certain specific powers. Section 3409, Revised Statutes, confers the power of sale upon a railroad company unable to finish an uncompleted railway. The various steps taken are definitely fixed. No attempt is made in this section to confer power upon the purchasing company. It is purely an enabling act as to the selling company. It has, however, this restriction, that the grantee or acquiring company must be incorporated under the laws of this state, and with authority to construct and operate a railroad over the route proposed to be acquired. This limitation is one upon the grantor company as to the grantee with which it may deal, and clearly the inference that Section 3409 is to be carried out in harmony with the section granting powers to the purchasing company. The defendant, the purchasing company, can only justify its acquisition of the uncompleted roadway by force of Section 3300, Revised Statutes, and it is therefore held to the public policy, therein, clearly established.
+By the express terms of Section 3300 the defendant company-had no right to acquire the road-bed and right-of-way of a parallel and naturally competing railway company. The limitation of Section 3409, that the purchasing company shall be one authorized to construct and operate a line over the route to be acquired, justifies the court in looking to the statutes conferring power upon the purchasing company and in reading all the sections together. They should, if possible, be so read as to maintain the established policy of the state against combining by purchase, or otherwise, competing lines of railway.
+This is declared in the case of State v. Vanderbilt, 37 O. S., 643, in reference to the statute of consolidations, as follows:
+“And where companies such as these are, being parallel and competing, claim that authority to consolidate has been granted to them, they must be able to point to words in the statute which admit of no other reasonable construction; for it will not be assumed that the law-making power has authorized the creation of a monopoly so detrimental to the public interest.”
+It is argued that the rule of public policy does not apply to an unfinished and abandoned roadway. The fact of abandonment of the roadway does not appear in the amended petition. Besides the “Toronto” company accepted a charter to build this railway and is acting under its charter in attempting to sell it. It can not in one breath claim its charter in attempting to sell and in another breath say that it has abandoned its charter duty to construct a competing line of railway. Nor does the fact of the abandonment of the construction of the railway afford a reason for excepting its transfer from establishing rules of public policy. Such recognition of an exception would open up a very convenient loophole for evasion of the various restrictions against acquisition of competing lines of railway.
+Objection is made to the prayer for relief and the case of State, ex rel, v. R. R. Co., 50 O. S., 239, Is cited. The case cited involved a private right, while the case here involves a public right, viz., the right to exercise certain powers under a charter The public right involved in the attempt to exceed the charter powers by a corporation is a familiar subject of jurisdiction in actions in quo warranto.
+Demurrer overruled.
