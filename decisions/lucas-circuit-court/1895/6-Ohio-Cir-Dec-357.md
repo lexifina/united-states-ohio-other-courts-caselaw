@@ -1,0 +1,23 @@
+---
+court: "Lucas Circuit Court"
+decided: "1895-03-09"
+citations: ["6 Ohio Cir. Dec. 357"]
+reporter: "ohio-cir-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John M. Stump v. William Frary et al."]
+source_url: "https://static.case.law/ohio-cir-dec/6/cases/0357-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8818177
+---
+
+# Stump v. Frary
+
+## Majority (Haynes, J.)
+
+Haynes, J.
+This was an action brought by John M. Stump, and is in the nature of a creditor’s bill, to enforce a judgment which he recovered against the defendant, William Frary; and he avers that there is a lot (lot No. 18, Fassett’s third addition to the city of Toledo), in which the defendant, William Frary, has some interest, but that he has put the property in the name of his wife, for the purpose of either delaying his creditors, or else in trust for himself. The facts show that Frary is-a man who works for an oil company upon the other side of the river. He appears to be an industrious, hard-working man, so far as appearances indicate, and receives fifty or sixty dollars per month. He has a family. And it further appears that he had purchased a lot and undertook to get him a homel- and after keeping it awhile, he traded it for the present lot and took it subject to a large mortgage in favor of a loan company in this city, which had been originally made by Mr. Caldwell. It appears that the husband has, from time to time, out of his earnings, made some payments upon the first mentioned premises, and then upon the second premises mentioned, all that has been paid upon the latter premises being paid to the loan company, upon said mortgage, which payments amounted to seven dollars and a half every two weeks, or half of that sum weekly, but he paid it every two weeks. It further appears that Frary had at one time borrowed from an uncle of his wife $200, upon which, after it had run along for some time, he had paid the sum of $50, leaving $150 yet due. Thereupon the uncle gave the property to Frary’s wife as hers, to do with it what she chose; and she has held it, and it seems from the evidence that there has been a rather implied understanding that the payments made upon the land should also be a cancellation of this note; however, that is not very distinctly proved and is» perhaps, rather a matter of inference than of actual proof; but it is in proof that she<owns the note and holds it and that it is in her own right and is due to her from her husband. And, this state of facts, so far as the note is concerned, if money has been paid in upon this lot, and other creditors seek to subject the lot or the money to the payment of Frary’s debt, they cannot cut Mrs. Frary off from the right to offset the amount of her note; or, in other words, apply it in cancellation of her claim. As between herself and her husband, the husband being her debtor, if he made a claim against her for the'money that has been paid upon the lot, she can offset this note. But, beyond that is the further fact, still more de~
+E. E. Davis, for Plaintiff.
+D. E. Thomas, for Defendant.
+■cisive of the question — it appears very clear that the payments which have been made from time to time upon this property have been made out of the wages of Frary and have been made from month to month out of the earnings of those months respectively, perhaps from the month previous. Now, the statute of the •state exempts from execution, or the subjecting to the payment of a judgment creditor, three months’ wages of a husband who has a family, and for that reason, we hold that so far as he makes these payments out of his monthly wages — out of property that is exempt from execution, or exempt from being subjected to the debts of the husband, that the creditors cannot complain, or, in other words, they cannot come in and say that this property is placed in the name of the wife either for the purpose 01 keeping it away from his creditors or putting it in trust for himself. The fact is that it is his under the law; he may spend it, give it to his wife, or give it to anybody else; or he may put it into a home for his wife and she has a right to hold it for all time exempt from the claim of any creditor.
+In this case there is a cross-petition filed by the building and loan association in which they set up the claim which they have and ask for a decree for foreclosure and sale and that their rights may be protected. The petition will be dismissed at plaintiff’s cost, and there may be entered in the decree whatever is necessary to protect the rights of the building and loan association,
