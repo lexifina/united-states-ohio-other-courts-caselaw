@@ -1,0 +1,31 @@
+---
+court: "Wood County Circuit Court"
+decided: "1903-04-25"
+citations: ["2 Ohio C.C. (N.S.) 429"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Haynes, J. (orally); Parker, J., and Hull, J., concur."]
+parties: ["John W. Brownsberger v. The Cincinnati, Hamilton & Dayton Railroad Company."]
+source_url: "https://static.case.law/ohio-cc-ns/2/cases/0429-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1793891
+---
+
+# Brownsberger v. Cincinnati, Hamilton & Dayton Railroad
+
+## Majority
+
+This is a petition in error, the main question, and the only one perhaps, being as to the right and claim of the defendant in error, the railroad company, that its attorneys had a right of one hour to appear when a ease was adjourned.
+The facts are that Brownsberger had a claim some two years old against the railroad company, and it not being adjusted he brought it to a suit before a justice of the peace in Weston township, this county. The suit was commenced and service was made upon the agent of the Cincinnati, Hamilton & Dayton Railroad Company at Weston, although the return is not in fact correct.
+At 9 o’clock on the return day the agent of the railroad company at Weston appeared with a telegram from the general counsel of the railroad company asking that the ease might be postponed until he would have time to look into it, and this the justice declined to do. The agent was there, and remained there. The plaintiff then demanded a jury trial. The amount sued for was $17.93, which with the interest would amount, as we figure it, to a little over twenty dollars — principal and interest. When the plaintiff’s attorney demanded a jury the justice issued a venire and asked the agent of the railroad company to strike off the jurors; he declined to have anything to do with the matter, and thereupon the justice struck off for the company and a jury was impanneled. The case was postponed until 1:30 that afternoon, and at 1:30 o ’clock the jury was called, and the case proceeded to trial, and at 1:40 o ’clock the case had been heard, a verdict returned and judgment rendered. Soon after that, or about that time, there appeared before the court Mr. Watts, as attorney for the railroad company, and he promptly filed a motion to set the judgment aside, and allow him to come in and have a trial; the court refused that and entered the judgment, and a bill of exceptions was taken and the case was brought to the court of common pleas, and the court of common pleas reversed the judgment of the justice on the ground that the defendant railroad company was entitled at 1:30 o ’clock to an hour within which to appear; that is, to say, they could not go to trial before 2:30 o ’clock p. m., and to reverse the judgment of the court of common pleas a petition in error is filed by Brownsberger. The statute bearing upon this subject is 6482, which is as follows:
+1 ‘ The parties are entitled to one hour in which to appear after the time mentioned in the summons for appearance, but are not bound to remain longer than that time, unless both parties have appeared, and the justice being present, is engaged in the trial of another cause; in such ease the justice may postpone the time of appearance until the close of such trial.”
+It will be seen from that section that each party has a right to an hour within which to appear. Section 6547 provides that either party may demand a jury, and how it shall be composed; and Section 6548 provides:
+“When a jury is demanded, the trial of a cause must be adjourned until a time fixed for the return of the jury; if neither party desires an adjournment, the time must be determined by the justice, and must be on the same day or within the next two days; the jury must be immediately selected as herein provided.”
+Section 6576 provides that the action may be dismissed by plaintiff:
+“When he fails to appear at the time specified in the summons, or upon adjournment, or within one hour thereafter.”
+G. P. Thompson, for plaintiff in error.
+A. V. Watts, for defendant in error.
+It will be seen that nothing is said in that section about the right of ‘the defendant to have an hour to appear. Now so far as that point is concerned, we are unable to find any statute that authorizes a defendant to demand that there shall be a postponement of the ease for one hour after the time to which it is first adjourned. If the case is called and the jury is impanneled, it is the duty of the defendant to be there at the time appointed, or if the case is adjourned, he should be there at the time to which it is adjourned. For some reason the statute allows the plaintiff to have one hour before judgment can be entered against him dismissing the ease without prejudice, if he fail to appear.
+It looked rather upon the face of the petition as if there had been some attempt to hurry the case through and deprive the defendant of its right to be present, but upon a full examination of the record we have concluded that is only seeming; the justice followed the statutes in the case; the claim was an old one — two years old; suit was brought, returnable at 9 o’clock a. m. on the day of trial, and the application of the general counsel of the railroad company was for an indefinite postponement. A demand was made for a jury; the jury was struck in accordance with the statute, no one appearing for the railroad company and the agent refusing to strike the jury, the justice did so as provided by statute, and the case went to trial. The statute provides that the case should be heard the same day or at least within forty-eight hours; it-being contemplated, it seems to us, as though it was to be a continuous matter. The application to set aside that judgment by the defendant is not in accordance with the statute; it gives no reason for non-appearance, neither does it make any offer to confess any judgment or to pay costs.
+We are of the opinion that there is no error in the case, nothing to call for the intervention of the court of common pleas; we, therefore, will reverse the judgment of the court of common pleas, and affirm the judgment of the justice and order that a certificate be sent to the justice’s court certifying the fact of this affirmance.
