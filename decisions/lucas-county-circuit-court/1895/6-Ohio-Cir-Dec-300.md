@@ -1,7 +1,7 @@
 ---
 court: "Lucas County Circuit Court"
 decided: "1895-03-09"
-citations: ["6 Ohio Cir. Dec. 300", "6 Ohio Cir. Dec. 297"]
+citations: ["6 Ohio Cir. Dec. 300"]
 reporter: "ohio-cir-dec"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Abram K. Detwiler, Administrator with the Will Annexed, v. The City o
 source_url: "https://static.case.law/ohio-cir-dec/6/cases/0300-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8818084
-cites_cases: ["56 O. S., 772", "56 O.. S., 772"]
+cites_cases: ["56 O. S., 772"]
 ---
 
 # Detwiler v. City of Toledo
