@@ -1,0 +1,41 @@
+---
+court: "Miami Circuit Court"
+decided: "1887-10"
+citations: ["1 Ohio Cir. Dec. 596"]
+reporter: "ohio-cir-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Stewart, Sbauck and Shearer, JJ."]
+parties: ["William R. Saunders, Treasurer v. State ex rel. B. F. Smith."]
+source_url: "https://static.case.law/ohio-cir-dec/1/cases/0596-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1616556
+cites_cases: ["11 O. S., 326", "2 O., 108", "24 O. S., 345", "29 O. S., 161", "33 O. S., 555", "4 O. S., 561", "6 O., 445"]
+---
+
+# Saunders v. State ex rel. Smith
+
+## Majority (Stewart, J.)
+
+Stewart, J.
+The provisions of the statutes in relation to the levy and apportionment of school funds to the different townships, are as follows:
+The board of education between the third Monday in April and the first Monday in June, annually, shall determine as nearly as practicable the entire amount of money necessary to be levied as a contingent fund for schools, school houses, etc., of the district, after the state school funds are exhausted, sec. 8958, Rev. Stat. (81 O. L., 178.).
+This amount is certified to the county auditor, and collected by him as a contingent fund, sec. 3960, Rev. Stat.
+The state school funds are apportioned annually by the. county auditor in proportion to the enumeration of youth, to districts, sub-districts, etc., and the contingent funds to the several districts, sec. 3964, Rev. Stat., (77 O. L., 58.)
+This apportionment is immediately entered by the auditor in a book provided for that purpose, and a certified copy furnished to each township treasurer and clerk in his county; and he gives each treasurer an order on the county treasurer for the funds coming to him, sec. 3965; Rev. Stat.
+The township treasurer is required to keep an account, which shall show the amounts received from the county treasurer, and all sums received from other sources on the order of the clerk. Also, the amounts paid out, from what fund, and for what puiposes. And he must keep a separate account with each find, and balance each account at the close of the school year, so that the account will show the balance in the treasurer’s hands belonging to each fund, sec. 4045, Rev. Stat.
+As is shown above, the county auditor apportions the state school funds to the several sub districts; but the contingent fund must be apportioned by the township board as follows, and under the following restrictions:
+“ So much of the contingent fund as may be set apart by a township board for the continuance of schools after the state funds are exhausted, shall be so apportioned by the board, that the schools in all the sub-districts of the township shall be continued the same length of time each year; and if the apportionment be not satisfactory to the directors of any sub-district, or a majority of them, they may give notice thereof, in writing, to the county commissioners, who at their first regular meeting for the transaction of business after the receipt of such notice, shall revise the apportionment, and the amount aforesaid shall be apportioned in the manner determined by the commissioners, but neither the township board nor the commissioners shall reapportion any funds which were apportioned among the sub-districts before any preceding settlement, and in making an apportionment of funds, the amount set apart shall not be increased or diminished by reason of any deficit or surplus in the funds previously apportioned to such sub-district, sec. 3967, Rev. Stat. (82 O. L., 92).
+An examination of sec. 3967, Rev. Stat., prior to the amendment of March 20, 1885, (82 O. L., 92 supra) shows that the portion of the statute in italics constituted the whole of the amendment.
+Section 4018, Rev. Stat. provides that township directors shall employ and dismiss the teachers of the schools in their respective sub-districts, fix their salaries, etc., with the express limitation however, that the salaries shall nor exceed, in the aggregate, in any year, for any sub-district, the amount of money to which the subdistrict is entitled for the purposes of- tuition for such year.
+Section 4019, Rev. Stat., provides that where a teacher shall recover judgment agáinst a sub-district for his salary, the directors shall issue an order upon the township treasurer to pay the same to the proper person, out of any money in his hand belonging to such sub-district, and applicable to the payment of teachers.
+Kellogg & Jones, for plaintiff.
+W. S. Thomas, for defendant.
+In view of all these several provisions of the statutes, it is clear that the purposes of the legislature in making these enactments were: That the funds belonging to the several sub-districts, should be so apportioned as to give the youth of the several sub-districts equal school privileges in each year; that the township treasurer should carefully keep separate accounts of these funds; that the funds apportioned to any sub-district should not be increased or diminished in any year by the deficiency or surplus of the same fund in any preceding or succeeding year, much less by the deficiency or surplus of the funds of any other sub-district; that the contracts of directors of sub-districts for teachers, must not exceed the amount of money apportioned to the sub-district for that year; and that the township treasurer is not authorized or permitted, by law, to pay out of one fund in his hands an order drawn upon another fund. If he could do that, he could thus nullify all of these salutary provisions of the statutes.
+But it is claimed in behalf of the defendant in error, that because of the provisions of sec. 4018, Rev. Stat., that “ the directors, at the end of any month, or at the end of the term, shall give to the teachers employed by them certificates of such employment, and of services rendered, addressed to the township clerk, who upon presentation thereof, and compliance by such teacher with the provisions of sec. 4051, shall draw orders on the township treasurer for the amounts certified to be due, in favor of the parties entitled thereto, and the treasurer shall pay the same,” that the treasurer cannot refuse to pay when the clerk has drawn the order; that he has but one duty to perform, and that is to pay the order.
+We have been cited to the cases of Case v. Wresler, Treas,, 4 O. S., 561; State ex rel. Johnson v. Wilcox, Clerk, 11 O. S., 326, and State ex rel. Werden v. Williams, Clerk, 29 O. S., 161, as authorities supporting this claim of the defendant in error. We do not think they are pertinent to the question made by the amended answer, for all that these cases decide is, that a township clerk or treasurer cannot refuse to issue an order, or pay one, upon the ground that the directors have not done their duty in the premises. That is not the defense urged here ; it is that there are no funds with which to pay the order, and the conclusiveness of such a defense is settled by the cases of State ex rel. Sharp v. Trustees, 2 O., 108; Church v. Trustees, 6 O., 445.
+Mandamus is a writ issued in the name of the state to an inferior tribunal, corporation, board or person commanding the performance of an act which the law specially enjoins as a duty resulting from an office, trust or station, sec. 6741, Rev. Stat.
+If the allegations of the amended answer are true, and they were admitted to be true by the demurrers, the allowance of the writ in this case, would be to command the treasurer to perform an act which, as we have seen, the law has forbidden him to do.
+It cannot be claimed that the refusal of the writ is any hardship to the defendant in error, for he knew when he made his contract, that there would not be money enough in the treasury to pay his salary; that the directors had made a contract with him in express violation of the law ; and he cannot be heard to complain if he suffers the necessary consequences of his own act.
+For these reasons, we think, the court below erred in sustaining the demurrer to the amended answer and rendering judgment for the relator.
+The judgment will therefore be reversed, with costs, and the cause remanded, with instructions to the court below to overrule the demurrer to the amended answer, and for further proceedings according to law.
