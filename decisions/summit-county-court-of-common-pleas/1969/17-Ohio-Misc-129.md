@@ -1,0 +1,44 @@
+---
+court: "Summit County Court of Common Pleas"
+docket: "269213"
+decided: "1969-01-10"
+citations: ["17 Ohio Misc. 129"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Askew v. City of Akron et al."]
+source_url: "https://static.case.law/ohio-misc/17/cases/0129-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1437671
+---
+
+# Askew v. City of Akron
+
+## Majority (Emmons, J.)
+
+Emmons, J.
+This cause came on for trial upon the issue raised by the pleadings and both sides having waived their right to a trial by jury, submitted this matter to the court.
+It is admitted that the appellant-plaintiff was a policeman for the city of Akron, Ohio, and that on the 23rd day of October 1965, he received an assignment through the police department for motorcycle escort duty for a funeral in the city.
+That in returning from the funeral, an automobile turned left in front of him, causing the plaintiff to sustain injuries which disabled him in excess of seven days.
+That thereafter he filed an application with the Bureau of Workmen’s Compensation and a hearing thereon was had May 3, 1966, before the Deputy Administrator in Akron, Ohio, who made a finding that the plaintiff claimant now plaintiff-appellant was entitled to weekly benefits. Thereafter, an application for reconsideration was filed and came on for hearing before the Administrator in Columbus, Ohio, on October 7, 1966, and on April 18, 1967, the following finding was made, “Employers Application for Beconsideration filed May IS, 1966, is granted and the Deputy Administrator’s order of May 3, 1966, is vacated, set aside and held for naught and it is ordered that claimant’s application for compensation filed November 22, 1965, be disallowed for the reason that proof on file does not establish that he sustained an injury in the course of and arising out of his employment with the named employer.”
+After receiving this finding, he filed an appeal with the Canton Begional Board of Beview and on June 26, 1967, this board made the following order, “This claim came on to be heard this date pursuant to Section 4123.518, Bevised Code; it having been determined that a pre-hearing conference would serve no useful purpose, the board after due consideration of all proof now of record and arguments of parties, finds that the claimant’s appeal filed 5/5/67 is granted and the Administrator’s order 4/18/67 is vacated and held for naught.
+“The board finds that on 10/23/65 claimant did sustain an injury in the course of and arising out of employment with the named employer.
+“It is, therefore, ordered that the claim is allowed; that the Deputy Administrator’s order of 5/3/66 is hereby reinstated.”
+After this finding was made, the city of Akron filed an appeal from the decision of the Canton Begional Board of Beview to the Industrial Commission of Ohio which board heard the appeal on November 6, 1967, and on January 24, 1968, by a vote of two to one made the following decision.
+“This claim coming on for hearing before the Industrial Commission on employer’s appeal filed July 12, 1967, the commission finds that a prehearing conference would serve no useful purpose; and it is ordered that the finding and order of the Canton Regional Board of Review dated June 26, 1967, be vacated; that the finding and order of the Administrator dated April 18, 1967, be reinstated and affirmed; that employer’s appeal be granted to the extent of this order.”
+The plaintiff-appellant upon receipt of this finding and order of the Industrial Commission, filed a notice of appeal, both with the Industrial Commission and with the Common Pleas Court of Summit County, Ohio, and in the prayer of his petition, the plaintiff-appellant prays that he be allowed to participate under the benefits of the Workmen’s Compensation Act.
+The testimony revealed that:
+This plaintiff was called by one of his superior officers to perform escort services for the Adams Funeral Home and upon receiving this call, Askew, the plaintiff, went to the city garage and signed for a motorcycle owned by the city and which was serviced with gasoline and oil, purchased by the city. He then went to the Traffic Department of Akron and received a police helmet — thereafter he escorted the funeral and was returning therefrom when the accident occurred.
+There is only one question for the court to determine and this by agreement of counsel.
+Did Paul Askew, the plaintiff-appellant, sustain an injury in the course of and arising out of his employment with the city of Akron?
+Here was a man who was trained for funeral escort service by older police officers at the expense of the city. In performing such he was driving a motorcycle owned by the city, which municipality also furnished the gasoline and oil for the motor vehicle as well as supplying him with a driver’s helmet.
+His duties as such escort were to make sure the funeral procession would get through the intersections without an accident, in that cars having the green light would yield the right of way to the procession proceeding through the red.light; to determine the safest route for the procession to take and to generally protect the welfare of the pedestrians and persons in motor vehicles. Generally the motorcycle radio was turned on, to receive information from his superiors and if ordered to report for another duty, he was bound to respond. While he worked eight hours as a policeman, and this occurrence did not happen during that eight hours, he was subject to call 24 hours a day.
+Rule 13d, “Rules & Regulations of the Akron Police Department” is as follows:
+Section 1: “Every patrolman should carry out the functions of the Division, namely, the preservation of the public peace, the prevention of crime, the arrest of violators of the law and the proper enforcement of all the laws and ordinances of which the Division takes cognizance. He shall constantly direct his best efforts to accomplish that end, intelligently and efficiently, and shall hold himself in readiness at all times, to answer the calls and obey the orders of his superiors.” (Emphasis by the court.)
+A policeman therefore is in a special category. His regular working schedule may be 8 hours, but he is subject to call at any time. He is the protector of the welfare of the people of this city and a defender against violence and disorder in general.
+Major Meadows testified that it was the duty of the city of Akron to furnish escorts for all funerals, but because of the shortage of personnel and finances, the city could not furnish it and therefore there was a working arrangement with the funeral directors to pay policemen assigned to escort services in lieu of having the city pay them overtime for such services. This pay then, in my opinion, is a gratuity paid by the funeral director to a police officer for performing services that the city had an obligation to perform.
+An injury is received in the course of one’s employment when it comes while the officer is doing the duty which he is employed to perform — a duty of assisting his fellow police officers in protecting the people of Akron— it arises in the scope of his employment where there is apparent to the rational mind, upon consideration of all the circumstances, a causal connection between the conditions under which the work is required to be performed and the resulting injury.
+So, in this case we have a policeman who is called by his supervisor to escort a funeral, the motorcycle is owned and serviced by the city, he wears a city-owned helmet and is dressed in policeman’s uniform. He is subject to call or direction at all times he is performing escort service. He has the right and does warn and arrest law breakers while in this work. A record kept by the police department as to that money received by the officer and at the end of the year this record is given to this officer. He does not deal directly with the funeral director, there is no agreement between them, he is for all intents and purposes only fulfilling his duty as a policeman of the city of Akron.
+It would be drawing a fine line of demarcation when a policeman who is subject to call at all hours, sustains an injury in assisting to maintain law and order and then have it said that he was injured outside the course and scope of his employment, simply because he received a gratuity for his service.
+I therefore conclude that the injury he sustained without a question of doubt in my mind, was sustained in the course of and arose out of his employment with the city of Akron, and I find that the prayer of the petition be granted and that Paul D. Askew, the plaintiff-appellant be allowed to participate under the benefits of the Workmen’s Compensation Act.
+Journal entry to be prepared.
