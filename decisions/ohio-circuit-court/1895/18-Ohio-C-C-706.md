@@ -1,7 +1,8 @@
 ---
 court: "Ohio Circuit Court"
 decided: "1895-01"
-citations: ["18 Ohio C.C. 706", "10 Ohio C.C. 107"]
+decided_precision: "month"
+citations: ["18 Ohio C.C. 706"]
 reporter: "ohio-cc"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
