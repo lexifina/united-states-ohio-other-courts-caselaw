@@ -1,0 +1,37 @@
+---
+court: "Ohio Circuit Court"
+decided: "1909-10-12"
+citations: ["21 Ohio C.C. Dec. 377"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sullivan, Dustin and Allread, JJ.", "Sullivan and Allread, JJ., concur."]
+parties: ["State ex rel. Wade H. Ellis, Atty. Gen. v. Cleveland Term. & V. Ry. et al."]
+source_url: "https://static.case.law/ohio-cc-dec/21/cases/0377-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1646436
+cites_cases: ["10 Atl. Rep. 522", "118 U. S. 120", "12 Ohio St. 629", "13 L. Ed. 92", "130 U. S. 1", "130 U. S. 263", "139 U. S. 24", "19 L. R. A. 449", "201 U. S. 400", "204 U. S. 116", "21 Ohio St. 14", "21 Pa. St. 9", "23 Ohio St. 22", "24 N. W. Rep. 234", "28 Ohio St. 643", "29 Ohio St. 245", "31 Ohio St. 301", "32 Ohio St. 431", "33 N. E. Rep. 405", "34 La. Ann. 429", "35 L. R. A. 737", "37 L. R. A. 230", "37 Ohio St. 157", "37 Ohio St. 80", "4 Sup. Ct. Rep. 475", "40 Ohio St. 647", "41 N. E. Rep. 205", "41 S.E. Rep. 340", "46 N. E. Rep. 377", "46 N. E. Rep. 69", "50 Ohio St. 179", "50 Ohio St. 239", "51 W. Va. 106", "53 Ohio St. 189", "54 N. W. Rep. 68", "55 Am Rep. 279", "56 Ohio St. 116", "56 Ohio St. 47", "59 Vt. 426", "60 Am. St. Rep. 743", "64 N. E. Rep. 68", "66 Iowa 606", "66 N. E. Rep. 223", "66 Ohio St. 182", "87 Iowa 138"]
+---
+
+# State ex rel. Ellis v. Cleveland Term. & V. Ry.
+
+## Majority (DUSTIN, J.)
+
+DUSTIN, J.
+The facts in this case are strikingly similar to those involved in the case of the State v. Railway, 53 Ohio St. 189 [41 N. E. Rep. 205]; and the remedy sought is the same. Hence, the demurrer to the petition must be overruled on all points, except as to want of parties, upon the authority of that case, unless it shall appear that the differences between it and the one at bar are such as to call for the application of other principles.
+-In that case the city of Cincinnati, by legislative enactment (60 O. L. 44) and by gubernatorial deed executed and delivered pursuant thereto, had been granted the right to “enter upon, use and occupy as a public highway and for sewerage purposes” a certain portion of the ■canal lands of the state. After accepting the same, the city, without permission of the state, granted the Pitts. C. C. & St. L. Ry. the right to wholly occupy a part of said lands for tracks and stations, and such •occupancy continued for more than twenty years. In 1895, the then attorney-general brought an action in quo warranto against the railway, alleging an unlawful use of rights and privileges in the occupancy of said premises; also, that to that extent, there was an abandonment by the city of the rights granted to it by the state. The court entered a decree for the relator, holding that the defendant had no rights in the premises, its pretended grant from the city being invalid for want of necessary power to make the same.
+In the case at bar the same kind of an action is brought by the attorney-general against the defendants, alleging that they wholly occupy certain canal lands in the city of Cleveland, granted to said city by the state for “a public highway, or for other purposes, and for laying therein gas and water pipes, and for sewerage purposes, as the city ■council of said city may determine.”
+Pursuant to the legislative act, 69 O. L. 182, authorizing the grant, the governor made a deed to the city for the land described. On the very day that the deed was accepted the city of Cleveland leased the premises to defendant, the Cleveland Terminal & Yalley Railroad Company, for ninety-nine years, renewable forever, and received therefor the sum of $265,000 in bonds. The railroads built tracks and made other improvements thereon and have ever since wholly occupied said lands for railway purposes.
+It is claimed on behalf of the state that the city of Cleveland forfeited the lands by abandonment of the uses for which they had been granted, and that defendants, the railways, have no rights whatever thereon. On the part of the railways it is claimed that “all the interests” of the state were granted to the city, which thereby became the •owner in fee of the premises, and could lawfully lease the same.
+In the legislative act pertaining to the transfer of the canal lands at Cleveland, certain words and phrases in addition to those in State v. Railway, supra, are relied upon to create a fee simple estate. In the ■Cleveland legislative act the word “take” is added to a similar clause found in the Cincinnati act; providing that the city of Cleveland may ■“tahe, enter upon and occupy,” etc.
+We think that word applies no more to a fee simple than to a qualified 'fee. The grantee, in either case, is authorized to take posses^ sion, which is the right referred to.
+The words “or other purposes” are introduced after the words-“public highway,” so that it reads, “That authority and permission shall be granted * * * the city of Cleveland to take, enter upon,, improve and occupy as a public highway, or for other purposes, and’ for laying therein gas and water pipes, and for sewerage purposes, a» the city council of said city may determine, all that part * * ’ * in so far as the same is owned and held by the state.”
+We think it is clear, under the authorities (cited by plaintiff) that the words, “or other purposes,” mean simply other similar purposes, and that the title is not enlarged into a fee simple by such language, but includes only other uses (if any there be) by the city, some of which are named in the next clause, viz., “laying gas and water pipes.”
+If a fee simple had been intended by the use of the phrase “or other purposes,” there was no need to add the provision as to gas and water pipes, which seems to have been done either for illustration or further specification.
+Nor does the phrase “in so far as the same is owned and held by the state, ’ ’ enlarge the grant. It is rather a limitation, as not including the rights of canal lessees.
+Nor does the clause, “As the city council of said city may determine”; for that, in our opinion, only gives the council the right to-select from the purposes mentioned, or similar ones.
+As for the deed, of course it could not rise higher than its source,, the legislative act. What general words it may contain must be limited by the phraseology of the act, of which the defendants must be held to; have had due notice at the time of acceptance. But, it is claimed that the Cleveland transaction was a purchase, and thereby differed essentially from State v. Railway, supra.
+It is true that the city of Cleveland obligated itself to make certain expenditures to connect the canal with the Cuyahoga river and to-keep the river dredged to the lake. But that is presumed to have been, a proper compensation for the title it was receiving.
+All other questions raised by the demurrer are, we think, covered and settled by State v. Railway, supra, except the one as to want of' proper parties. As to that it may be said that the court does not think the city of Cleveland, under the allegation of abandonment, is a necessary party to the controversy; but if defendants desire to have it bound by the judgment, whatever it may be, for their ultimate protection, it may be made a party on their application, and served with process.
+Demurrer to petition overruled.
+Sullivan and Allread, JJ., concur.
