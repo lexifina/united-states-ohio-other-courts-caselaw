@@ -1,0 +1,33 @@
+---
+court: "Licking County Court of Common Pleas"
+decided: "1957-06-25"
+citations: ["77 Ohio Law Abs. 519"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KING et, Plaintiffs, v. NEWARK TRUST COMPANY, Defendant."]
+source_url: "https://static.case.law/ohio-law-abs/77/cases/0519-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1790827
+cites_cases: ["29 Oh St 652", "46 Oh St 73", "68 A. L. R., 671"]
+---
+
+# King v. Newark Trust Co.
+
+## Majority (By HOLTSBERRY, J.)
+
+OPINION
+By HOLTSBERRY, J.
+Plaintiffs allege in their third amended petition that the Newark Trust Company, Administrator of the estate of Samuel R. Francis, deceased, pursuant to the direction of the Probate Court of Licking County, Ohio, sold to plaintiffs at a judicial sale at public auction, two parcels of real estate situated on Clarendon Street in Newark, Licking County, Ohio; they further allege that the description of said real estate which appeared both in the administrator’s deed and in the notice of sale, which appeared in the Newark Advocate, was erroneous and misleading in that it did not include a four foot exception therefrom and that said exception was of record in the deed records of Licking County, Ohio, Volume 346 at page 531. Plaintiffs further allege that the terms of sale were $100.00 cash at the time of sale and balance at the time of the delivery of deed. That after bidding in the property at judicial sale they paid one John Sachs, Vice President and Trust Officer of the Newark Trust Company, who was acting on behalf of said Newark Trust Company. They further allege that said officer made representations to them that a title examination had been made by the bank’s attorneys and that the administrator’s deed to be given was as good as any warranty deed and that the title was guaranteed and that as a result of said representations they were misled and did not have a title examination because of their reliance thereon; they allege that as a result thereof they were damaged and pray for damages in the amount of $1000.00, against the Newark Trust Company.
+The Newark Trust Company, Administrator of the estate of Samuel R. Francis, filed an answer denying- the allegations. Trial by jury was waived by the parties and the case was submitted to the Court upon the evidence.
+After careful consideration the Court finds that certain conversations did take place between Mr. Sachs and Mr. King, in which Mr. Sachs, on one occasion, told him that the Newark Trust Company had their own attorneys to examine the title for them but that it was his responsibility to get his own attorney for a title examination. In his testimony he stated he pled with him to get a title examination. Mr. Sachs further testified that he told him several times to do this but that he answered: “No, 1 don’t need to do that.” Further, Mr. Sachs testified that he absolutely made no guarantee of title and made no statement that the administrator’s deed was as good as a warranty deed.
+The Supreme Court of Ohio in the case of Union Savings Bank v. Pike Building Company, Hosea, 518, fully and clearly sets forth the doctrine of caveat emptor as applied to judicial sales, and holds that a purchaser is a party to the sale and bound to take judicial notice of the character, condition and amount of the property sold.
+Section 37.11 (c) of McDermott’s Ohio Real Property Law and Practice states the rule of caveat emptor applies in all its rigor to purchasers at judicial sales.
+Section 65, Taylor’s Revision of Merwine’s Judicial Conveyance of Real Estate, 2nd Edition, states that a purchaser at a judicial sale is bound to search the record to ascertain the condition of the title before bidding, and failing to do so he must abide by the consequences of his neglect.
+The object of an advertisement is not to apprise the purchaser of all details connected with the title, but merely to attract them by a general description of the property to be sold. (24 O. Jur., page 98.) The notice of sale is to inform the public of the nature and condition of the property and the time, place and terms of the sale; all this is to attract bidders and prevent a sacrifice of the property. Technical errors or mistakes do not effect the sufficiency of the notice where the above objects are attained. Purchasers are volunteers who are not required to bid or buy and all are charged with the duty to ascertain the character and condition of the property, as the maxim, ‘id certum est quod certum reddi potest,’ applies as an obvious corollary to the rule of caveat emptor. ■
+For neglect and failure to ascertain the purchaser must stand as though he had full knowledge. As to the title, he buys at his own risk and in the absence of fraud, it must be his misfortune under the established rule that one who neglects an obvious precaution should abide by the consequences. A person, therefore, having no legal right to rely upon an advertisement in the first instance, cannot later be heard to complain. (Peoples Liberty Bank & Trust Company v. Cornett, 86 Oh Ap 222.)
+In the O’Conner Case, 29 Oh St 652, where, by mistake, real estate was advertised as dry land in the City of Toledo, but in fact was partly covered with water in a navigable stream, the court went so far in this extreme case as to hold the sale binding. (Also see Arnold v. Donaldson, 46 Oh St 73; Kain v. Weitzel, 72 Oh Ap 229; 68 A. L. R., 671; 24 O. Jur. page 95.)
+The conclusion must be reached that a purchaser at a judicial sale is bound to judge for himself as to the title of the land he purchases unless he is dissuaded from so doing by representations of some kind; and in the absence of fraud or express warranty the purchaser has no relief against a defect in the title or any restrictions appertaining to said property, nor has a purchaser at such sale any relief for any unsuitableness of the land for any particular purpose which an examination that he was free to make would have revealed.
+The Court finds from the evidence that instead of plaintiffs being misled by the offer of defendant they were informed that they should have a title examination and that there were no representations made that the administrator’s deed to be given was as good as any warranty deed, and the title was not guaranteed.
+This Court must conclude that there was a completely regular judicial sale and that this is a clear case requiring the application of the rule, “Let the buyer beware.”
+The Court finds the issues herein in favor of the defendant.
