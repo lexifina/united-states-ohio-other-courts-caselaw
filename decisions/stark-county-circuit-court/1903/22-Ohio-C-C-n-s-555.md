@@ -1,0 +1,39 @@
+---
+court: "Stark County Circuit Court"
+decided: "1903-02"
+citations: ["22 Ohio C.C. (n.s.) 555"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Winch, J.(orally), (sitting in place of Judge McCarthy); Voobtiees, J., and Donahue, J., concur."]
+parties: ["Elizabeth Cooper v. Clara E. Boory, Administratrix."]
+source_url: "https://static.case.law/ohio-cc-ns/22/cases/0555-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 400601
+cites_cases: ["50 O. S., 1", "56 O. S., 31", "58 O. S., 280", "58 O. S., 284"]
+---
+
+# Cooper v. Boory
+
+## Majority
+
+Elizabeth Cooper brought her action in the Common Pleas Court of Stark County against Clara E. Boory, administratrix of the estate of ITenry Boory, deceased, and in the petition says, “that there is due her from the defendant as administratrix the sum of $780 for work and labor performed by the plaintiff for the decedent during liis lifetime, at cooking, washing, ironing, sewing, mending, nursing and doing general housework, and looking after and caring for the home and household pf the decedent generally, for six years last preceding May 31, 1899, and the statement of services rendered and the amount asked therefor, is here attached marked Exhibit ‘A.’ and made a part hereof. That said decedent during his lifetime subsequent thereto and prior to his death, the exact dates plaintiff being unable t'o state, verbally promised and agreed with the plaintiff that if she would continue to live with him, look after the household and perform work and labor above set forth, she should after his death be paid out of his estate what said services were reasonably worth.”
+Then follows an allegation of the value of the services, presentation of the claim, and refusal of the administratrix to allow it.
+An answer to this petition was filed hy the administratrix containing three defenses. It is necessary to consider only the second and third defenses, as demurrers were interposed to them.
+The second defense, pleads the, six years statute of limitations upon an account. This defense says that if any of sard services were rendered as alleged in the petition, that all of said services which were rendered prior to November 12, 1895, if any were so rendered, were rendered by said plaintiff more than six years to the beginning of this action, an.d are therefore barred by the statute of limitations. The demurrer was sustained to this defense.
+The third defense is the two years statute of limitations in the case of an action against an administrator. The defendant says that Henry Boory died intestate on or about the 31st day of May, 1899; that on the 15th day of June, 1899, she was duly appointed administratrix of the estate of ITenry Boory, deceased; that on said day she gave bond in.the manner provided by law, and gave notice of her appointment by publication of the same. Defendant further says that the first cause of action of plaintiff herein accrued during the lifetime of said Henry Boory, and that this suit was not brought until two years after the filing of said bond; and is therefore barred.
+Our attention is called to the fact that Section 6113 with regal'd to limitations of actions on claims against administrators, was amended on April 8, 1898. Prior to that date it read as follows:
+“No executor or administrator, after having given notice of his appointment as provided in this chapter, shall be held to answer to a suit of any creditor of the estate unless it be commenced within four years of his giving bond as aforesaid.”
+On April 8, 1898, the Legislature changed the four years to two years, and we are called upon to determine which statute applies to this case. ' •
+It is necessary to consider the facts or events set forth and the dates thereof. The petition alleges that the original agreement between the decedent and the plaintiff was made in January, 1893. April 8, 1898, the statute was amended and the limitation changed from four years to two years. Henry Boory died May 31, 1899, and his administratrix was appointed and gave bond on June 15, 1899, This claim was presented and rejected on November 1st, 1901, and suit brought on November 12, 1901, which was more than two years after the giving of the bond by the administratrix, but less than four years.
+Tt is conceded that statutes of limitations are remedial statutes, and in construing and applying the proper statute under the facts of this case, we are referred to Section 4774 in the chapter on limitations, which reads as follows:
+“This chapter shall not apply to actions already commenced or to cases wherein the right of action has already accrued; but the statute in force when the action accrued shall be applicable to such action according to the subject of the action and without regard to the form.”
+And also to Section 79 of: the Revised Statutes:
+“When a statute is repealed or amended such repeal or amendment shall in no manner affect pending actions, prosecutions or proceedings civil or criminal; and when the repeal or amendment relates to the remedy it shall not affect pending' actions, prosecutions or proceedings unless so expressed, nor shall any repeal or amendment affect causes of action, prosecution, or proceedings existing at the time of such amendment or repeal, unless otherwise expressly provided in the amending or repealing act. ’ ’
+In construing the several statutes of limitations, and the application of Section 4774 and of Section 79 which I have read, thereto, the Supreme Court in 50 O. S., 1; in 56 O. S., 31, and 58 O. S., 280, have said that the remedial slatute in force at the time the cause of action accrued must be applied. .
+I will read part of the syllabus in 56 O. S., 31:
+“A right of action accrued to H, a married woman, before Section 4968, Revised Statutes, was amended March 26, 1883, so as to remove her disabilities as to actions affecting her said property. Held: That her rights must be determined by the statute of limitations in force at the time her right of action accrued, and the removal of her disabilities bjr said amendment did not cause the statute of limitations to begin to run against ber.”
+This case was affirmed, 58 O. S., 284, so that we have the rule laid down to us that the statute of limitations in force at the time the cause of action aceraes, must be applied.
+Now, when did this cause of action accrue? The petition after reciting the promise made in 1893, save that at the time the decedent agreed with her that should she continue to live with him, and look after the household and perform work and labor as set forth, sbe should after his death, be paid out of his estate what said services were worth. A cause of action can not be said to accrue until the claim or right upon which it is founded has matured, so that an action can be brought upon it. The plaintiff then had no right to sue for payment under this contract; nothing was clue her, until after the death of the decedent. That death occurred on May 31, 1899, and her cause of action accrued at that time. But more than a year before that, on April 8, 1898, the Legislature had said that no executor or administrate!' after giving notice of his appointment as provided in said chapter should be held to answer to the suit of any creditor of the deceased unless it be commenced within two years from the time of his giving bond as aforesaid. This action was not commenced within the two years, and the court properly overruled the demurrer to the third defense.
+Applying the same rule to the second defense, the six years’ statute, we must determine when the cause of action accrued, and that of course accrued, in the light of that, statute, at the same time.
+The demurrer was sustained to that defense, and properly. There was no error in the ruling of the court below and the judgment is affirmed.
