@@ -1,0 +1,46 @@
+---
+court: "Hamilton County Court of Common Pleas"
+decided: "1894-11"
+citations: ["1 Ohio N.P. 88"]
+reporter: "ohio-np"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary H. Shaw v. City of Cincinnati et al."]
+source_url: "https://static.case.law/ohio-np/1/cases/0088-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1522119
+cites_cases: ["10 Ohio St. 45", "103 Ill. 449", "103 U. S. 780", "13 Ohio St. 283", "20 Ohio St. 315", "27 Ohio St. 233", "27 Ohio St. 674", "28 Ohio St. 596", "28 Ohio St. 668", "30 Iowa, 433", "36 Ohio St. 471", "39 Ohio St. 145", "41 Ohio St. 144", "41 Ohio St. 62", "6 C. C. 234", "85 N. C. 456", "99 Mass. 200", "99 Mass. 493"]
+---
+
+# Shaw v. City of Cincinnati
+
+## Majority (BUCHWALTER, J.)
+
+BUCHWALTER, J.
+The plaintiff in her petition filed herein September 28, 1893, avers ownership of a vacant lot situated on the northwest corner of Colerain and Elam avenues in said city, with a platted frontage on Colerain avenue of 46.44 feet, and abutting on Elam avenue 148.86 feet; that in October, 1891, the board of improvements took all necessary steps to improve Elam avenue, and thereafter, to-wit: December 13, 1892, passed an assessing ordinance assessing one-half the cost thereof on the abutting lots and lands on Elam avenue, including plaintiff’s said lot, 148.86 feet at the rate of $4.95 per front foot, in the sum of $932.40.
+The plaintiff claims that the assessment on the lengthwise instead of the breadthwise frontage of her said lot is excessive and illegal, and prays for a permanent injunction. •
+The defendants claim "that in an action between the same parties, No. 46,-618, Superior Court of Cincinnati, the same subject-matter was involved and determined by a final decree June 30, 1893, wherein the court found the equities of the case with the defendants, and dismissed the petition of the plaintiff.
+On the trial the pleadings of the former suit are put in proof. The petition therein specifically described the lot, the proceedings of the city authorities in the improvement of the street and in making the assessment therefor as in the present petition, averring also the improvement of the •Colerain avenue front, and assessment therefor, all'within the period of five years, and claiming specifically that the total assessment for the two streets exceeded 25 per cent, of the value of her property, praying that the special assessment on said lot for the improvement of Elam avenue be declared illegal and void ; that the city auditor be enjoined from certifying the same to the county auditor for collection, and that upon final hearing said injunction may be made perpetual, and for all other proper relief.
+The defendants’ answer therein averred that the plaintiff was estopped to claim relief from the assessment on the ground of the value of her lot, for that she subscribed a petition for the inprovement together with three-fourths of the abutting property owners represented by the front foot asking for said improvement by the city, and denies her right to any relief from said assessment.
+The answer also makes general .denial, and prays for the dismissal of the action, for costs and for general relief.
+A temporary injunction was granted, but the final decree reads as follows :
+“The court upon the issues joined find the equities of the cause with the defendants, and it is ordered that the petition be dismissed, and the injunction heretofore granted be dissolved.
+The special ground on which the plaintiff claimed the assessment to be invalid and illegal, was that it was excessive in proportion to the value of her lot; but her cause of action toas the wrong done by the defendant in imposing for this same improvement of Elam avenue the same invalid and illegal assessment, and she prayed for the same relief; namely, that the city and the county authorities be restrained from enforcing it.
+Her cause of action could have been put before the court more specifically upon another and more potential ground, to wit: the assessable frontage. Her omission to do so however does not avail her to again submit the same cause of action to a trial court in another suit between the same parties or their privies. Her cause of action was the wrong done by imposing an illegal assessment. The several irregularities or illegal acts in the improvement or in the assessment are not separate causes of action. They are specifications of the one cause of action. Tyler v. City of Columbus, 6 C. C. 234.
+When a suitor submits his cause of action against another, he must present to the trial court all the grounds and reasons upon which it rests or be forever precluded by the final judgment or decree of the court. Hites v. Irvines, adm’r, 13 Ohio St. 283; Petersine v. Thomas, 28 Ohio St. 596; Roby v. Rainsberger, 27 Ohio St. 674; Ewing v. McNairy & Clafflin, 20 Ohio St. 315.
+In the latter case it was held: That a former judgment precluded another judgment upon the same cause of action, even though there was error to the amount of one thousand dollars by mistake of the plaintiff without any fault of defendant.
+Likewise the defendant must set out all the grounds for judgment in his favor and against the plaintiff’s cause of action or be forever barred except as to rights arising out of set-off or counter-claim. Covington & Cincinnati Bridge Co. v. Sargent, 27 Ohio St. 233; Swensen & Sears v. Cresop, 28 Ohio St. 668; Hackworth, Guardian v. Zollars, 30 Iowa, 433; Life Ins. Co. v. Bangs, 103 U. S. 780 ; Ruegg v. V. R. R., 103 Ill. 449; Tuttle v. Harrill, 85 N. C. 456.
+Louis Dolle, for plaintiff.
+Hertenstein, Whittaker & others, for City.
+In Martin v. Roney and another, the Auditor and Treasurer of Brown County, 41 Ohio St. 144. the plaintiff sought for a second time to enjoin the same assessment of the costs and expenses of a road improvement, but upon a ground not specifically stated in the former action against a former auditor and treasurer; and it was held, that the judgment on the merits in the former action was conclusive upon the plaintiff.
+In the opinion, Judge Macauley says: “It is not allowable to allege certain facts as a cause of action, and after judgment on the merits, to allege a different state of facts to support á judgment for the same relief.” See also Moore v. Dunn, 41 Ohio St. 62.
+A very exhaustive consideration of this subject is stated in three several opinions by Justice Field in 94 U. S., Cromwell v. County of Sac., 351; Davis v. Brown, 421; Russell v. Place, 606.
+In Porter v. Wagner, 36 Ohio St. 471, the rule is stated that: “Where a judgment between the parties is relied upon as an estoppel, the question is not what the court might have decided in a former action, but what it did in fact decide, as shown by the judgment.”
+“The judgment is conclusive by way of estoppel only as to facts without the proof or admission of which it could not have been rendered.”
+For the latter proposition, the court cite: Burlew v. Shannon, 99 Mass. 200; Lea v. Lea, 99 Mass. 493.
+In Lessee of John Lohr et al. v. Freeman, 10 Ohio St. 45, the rule is stated to be “ where a judgment or decree is relied on by way of evidence as conclusive per se, between the parties in a subsequent suit, it must appear by record of the former suit that the particular controversy sought to be precluded was therein necessarily tried and determined.”
+This case and Porter v. Wagner, seem in conflict with other Ohio cases cited, but it is claimed by Okey, J., in Witte v. Lockwood, 39 Ohio St. 145 : “Although in this state such head notes (syllabi) are prepared by the judges, and in all cases receive the assent of a majority — a practice with which we are well satisfied — they are always to be read in connection with the facts appearing in the report, and- so read, the cases are not in conflict, nor are they in conflict with the principles asserted in this case.
+The defendants in the case at bar submit the record of tbe former suit, the petition, the answer, the decree of the court, as a part of the agreed statement of facts, and claim such decree to be conclusive per se of the issues herein. When we consider that the former cause of action was a wrong done in placing this same invalid assessment on the lengthwise frontage of plaintiff’s lot, from which he asked relief by a perpetual injunction, the same as now, and that the court could not have given a decree in favor of the defendants, and against the plaintiff in that suit, without finding that the assessment was valid, there seems no escape from the determination that the decree in the former suit is conclusive per se.
+As to the cause of action set forth in plaintiff’s petition herein the fact as to what was the assessable frontage of her lot was as necessarily, though not so specifically, involved, as were the facts as to the assessable value of her lot.
+Each and all of these facts the court must have found against her to authorize a decree sustaining the assessment as made by the city authori- ■ ties, even though neither the parties nor the trial judge considered the rule of assessment since then announced in the Haviland case.
+The plaintiff’s petition is dismissed at her costs.
