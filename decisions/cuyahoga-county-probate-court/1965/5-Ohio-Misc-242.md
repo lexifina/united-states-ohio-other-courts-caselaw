@@ -1,0 +1,30 @@
+---
+court: "Cuyahoga County Probate Court"
+docket: "680594"
+decided: "1965-12-08"
+citations: ["5 Ohio Misc. 242"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Balint et al. v. Horvath."]
+source_url: "https://static.case.law/ohio-misc/5/cases/0242-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6698717
+cites_cases: ["164 Ohio St. 567", "24 Ohio App. 279", "3166 W. 33", "76 Ohio Law Abs. 219"]
+---
+
+# Balint v. Horvath
+
+## Majority (Merrick, P. J.)
+
+Merrick, P. J.
+This is an action for declaratory judgment, seeking to set aside a decree of adoption entered in this court October 11, 1940. Plaintiffs are the natural born children of Joseph Sziresak who has recently died in the State of California. That state has an adoption statute similar to Ohio, which provides that an adopted child is for all intents and purposes legally in the adopting family and completely out of the natural family for all purposes, including inheritance. The primary purpose of this action is to have the adoption decree in this court vacated so that plaintiffs may become claimants in the estate of their natural father, who died intestate.
+The entire question raised here revolves around the method pursued in attempting to secure service on the natural father of the notification of the pendency of the original adoption proceedings. At that time (1940) there was in effect, Section 10512-12, General Code, which had been a new section effective since 1932. It provided, in part:
+“When a petition has been filed for the adoption of a child and written consent has not been given by each living parent # * *, the court shall cause to be sent by registered mail to such parent or parents whose name and address are known or can with reasonable diligence be ascertained, notice of the filing of such petition, and the court shall not decree such an adoption until an opportunity to be heard has been given such parent or parents. * * *”
+Also effective at that time was Section 11297-1, General Code, which provided in part :
+“ * * * When provision for service by mail, registered * * * a true copy of the writ or process was deposited in the mail registered, or otherwise, shall be proof of residence service at the address on the envelope containing such writ or process; provided that such residence be the correct residence address of the party to be served and that such envelope he not returned by the postal authorities as undelivered. * * *” (Emphasis added.)
+The petition for adoption in this case was filed September 20,1940. In the space provided for setting forth the address of the father, appears the following interlineation over a typing of “unknown”: “Care of Mrs. Joseph Szircsak, 3166 W. 33 St., Cleveland.” The Appearance Docket and papers in the court file show no indication that any attempt was made to secure service by the sheriff. The case was set for hearing on October 5, 1940. On September 21, 1940, a notice of the hearing on October 5, 1940, was sent by registered mail to: Mr. Joseph Szircsak, c/o High Quality Mushroom Co., 3166 W. 33rd St., Cleveland, Ohio. Together with the letter was sent the request for a return receipt and such request was printed on the outside of the envelope containing the notice. On October 5, 1940, the hearing was “continued until further order.” On September 27, 1940, the registered letter and return receipt were returned by the postmaster, indicating that the addressee was not at the address indicated by the typing on the envelope and that he was not at “1380 Riverside Drive” which was a purported forwarding address supplied by someone in the postal service. The return receipt was indorsed by the postmaster that the addressee was not at either address and was returned to the Probate' Court and placed in the file in the case, together with the registered letter. The next entry in the Appearance Docket reads: “Oct. 11, 1940. Notice sent to father by registered mail, filed.” “Heard and granted.” The Journal in the case contains the following language:“ * * * all parties in interest have had due knowledge of the pendency of these proceedings * * V’
+So far as the rights of a parent with respect to a child are concerned, a decree of adoption of such child by someone else is as serious in every respect and its consequences are much more serious than a court order merely granting permanent custody of such child to someone else. Therefore, it would necessarily seem to follow that compliance with the specific requirement of the statute with respect to consents of parents should be necessary to give a court jurisdiction to render a decree or order of adoption; and that such an order made without compliance therewith could be successfully attacked as void. In re Ramsey, 164 Ohio St. 567, 571. 2 American Jurisprudence 2d, Adoption, Section 69.
+Adoption proceedings were unknown at common law and are wholly statutory, and statutes must be clearly followed to give Probate Court jurisdiction to decree adoption and where Probate Court was without jurisdiction in the first instance in adoption proceedings, such proceedings were not voidable but void. McClain v. Lyon, 24 Ohio App. 279; Thomas v. Crissinger, 76 Ohio Law Abs. 219 (App. 8th Dist.).
+Many amendments to the Ohio adoption statutes have been made by the legislatures over the years of the last half century. One must be careful in reading the cases construing these adoption statutes and be mindful of dates. The letter, scope and intent of such statutes have not been constant. In the instant case, because of the failure to comply with the statutes in effect at the time of the original decree, the court had no jurisdiction and the decree was void and of no effect. Accordingly the decree of October 11, 1940, granting such adoption is vacated and held for naught and the petition for such decree is ordered dismissed for want of jurisdiction in the premises.
+Judgment for plaintiffs.
