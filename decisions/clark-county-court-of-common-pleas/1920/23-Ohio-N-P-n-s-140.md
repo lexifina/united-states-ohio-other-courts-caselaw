@@ -1,0 +1,43 @@
+---
+court: "Clark County Court of Common Pleas"
+decided: "1920-02-01"
+citations: ["23 Ohio N.P. (n.s.) 140"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John T. Bragg, Admr., &c., vs. The Ohio Electric Railway Company."]
+source_url: "https://static.case.law/ohio-np-ns/23/cases/0140-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1559679
+cites_cases: ["15 C. C. 494", "26 O. S. 357", "78 O. S. 200", "85 O. S., 27"]
+---
+
+# Bragg v. Ohio Electric Railway Co.
+
+## Majority (Geiger, J.)
+
+Geiger, J.
+The plaintiff as administrator of Rosa Bragg brings an action against the defendant to recover on account of the death of the decedent due to the alleged wrongful acts of the defendant.
+The defendant filed an answer in bar setting up the fact that on the 26th day of November, 1918, the plaintiff as administrator made an application to the probate court of Montgomery county, Ohio, for authority to settle the claim growing out of the death of the decedent under the provisions of Section 10770 G-. C., and alleged that the probate court of Montgomery county made an entry upon such application, in which it is ordered that the administrator be authorized and directed to accept $367 in full settlement of the claim arising out of the death of the decedent and that he execute to the defendant a release. It is alleged that in pursuance to and in accordance with the order of the probate court the plaintiff, as administrator, in consideration of the payment of $367 executed his release to the defendant from all liability growing out of the accident resulting in decedent’s death and agreed that such release should operate as a complete satisfaction and bar to every right of action against the defendant.
+To this answer in bar the plaintiff filed a reply admitting that the application was made in the probate court of Montgomery county, as alleged in the answer, and that an entry was filed as alleged, but the reply further alleges that on December 24th a motion was made in said probate court to set aside said proceeding in settlement on the ground that the said settlement was not for the best interests of the husband and child and that the administrator was not advised of the law and that a full statement of facts was not presented to the court and ' for various other reasons not in conformity with the due administration of justice; that upon the hearing in said court said settlement was set aside by the court and an entry filed, a copy of which is set out in the reply, a part of which is—
+■ “The court, being duly advised in the premises, orders and decrees that said sum of money so paid by the railway company be returned to said railway company, and sustains said motion,, to which ruling said railway company excepts.”
+The plaintiff alleges that he tendered the money to the defendant and upon its refusal to accept the same, it was deposited in court.
+To this reply a demurrer is filed by the defendant on the ground that the proceedings of the probate court, set forth in the reply, were without jurisdiction and void and that the reply does not constitute a reply to the defendant’s answer.
+Both parties have filed extensive briefs in the matter and the court has been in some doubt as to a correct determination of-the question raised.
+The court is of the view that We must first resort to the section of the statute requiring that the administrator must secure the consent of the probate court before he can settle a claim for wrongful death.
+Section 10772 G-. C.' provides, among other things:
+“Such personal representative, if he was appointed in this state, with the consent of the court making such appointment, may at any time, before or after the commencement of the suit, settle with the defendant the amount to be paid.”
+The administrator, in pursuance of this statute, made application to the probate court of Montgomery, county asking for authority to settle the claim for the sum of $367. The court, by its entry of November 26th, upon said application, authorized the administrator to accept the same, which the administrator did. The question now is whether the probate court had jurisdiction to make the order of December 24th set out in the reply, vacating the order of November 26th set out in the answer.
+It is claimed by the defendant that the probate court, being of limited jurisdiction, had no power to set aside its former order upon which both parties had acted and in pursuance of which the claim had been settled.
+It is claimed on behalf of the plaintiff that even though the court may not have had authority to legally set aside the order, that having jurisdiction of the cause of action and the parties, .it had jurisdiction to vacate the order, and that the defendant would be required to secure a modification of that order by proper proceeding in the court of common pleas to reverse the judgment of the lower court, citing the case of Mansfield v. Cole, 16 N. P. (N. S.), 209, where it is held that—
+“As the court had jurisdiction of the subject' matter; the decree of December 29th was not. void, but merely voidable, and an appeal would lie from such decision or judgment to the court of common pleas, where the same might have been reversed. ’ ’
+It must be clear that the probate court, having limited jurisdiction, has no right in an original action to set aside a contract.
+The administrator is authorized by Section 10772 to settle with the defendant, provided he secures “the consent of the court. ’ ’
+It is quite clear that if the plaintiff had been acting as an individual, settling his own claim for damages, and. had made a valid settlement with the defendant that such settlement would be a bar to the present action.
+Section 10772 seeks to safeguard the rights of the estate 'by first requiring the consent of the court to such settlement, where the party injured has died as a result of the injury. The settlement itself is made not by the court but by the administrator in his representative capacity and the instant it has been consummated, with the consent of the court, it is as binding and final as if it had been made by an individual in the settlement of his own right of action. The court has exhausted its power in giving its consent and cannot at a subsequent date render void an agreement by withdrawing the consent already given, which enabled the administrator to enter into a valid contract.
+While it is true that courts of common pleas, as a general rule, may vacate or modify judgments decrees or orders during the term in which they were made and may. on proper application .being made under the provisions of Section 11576, vacate a former verdict, report or decision during the term, upon proper motion being filed within three days, and may, under the provision of Section 11631, vacate or modify its judgment after the term, upon proper showing, it does not follow that a probate court ma.y withdraw a consent given in an ex parte proceeding to a settlement that an administrator is empowered to make as soon as such consent has been secured.
+The case of Johnson, Exr. v. Johnson, 26 O. S. 357, indicates the limitation upon a probate court to vacate orders made in ex parte proceedings, pointing out that the section controlling a court of common pleas, above cited, affects only cases in which there are adverse parties.
+See also, Kinsella v. DeCamp, 15 C. C. 494; Mansfield v. Cole, 16 N. P. (N. S.), 209; and Darling v. Darling, 85 O. S., 27.
+The court is of the opinion that a settlement having been made, it is a good defense to the cause of action, unless such settlement and release may be attacked on some proper ground. On that point the case of Perry v. O’Neil Comp>any, 78 O. S. 200, is of interest. • It is 'there held that in a cause of action for damages the plaintiff may, by reply, aver such facts as may make the release void, but that if such release is not void, but only voidable, the plaintiff cannot maintain his action until the release is set aside. It is further held that a cause of action for the cancellation of a release of damages and a cause of action for damages may be united in the same petition.
+■ If, in the case at bar, the release plead was void for any reason, the plaintiff may set up such facts in his reply. If the release was not void but only voidable he would be required to have such release set aside first, before proceeding to trial of the action for damages, but he may join in the same petition an action to cancel the voidable release and his action for damages.
+Demurrer sustained.
