@@ -1,0 +1,48 @@
+---
+court: "Holmes County Court of Common Pleas"
+decided: "1933-02-06"
+citations: ["30 Ohio N.P. (n.s.) 508"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. W. Walters v. Ira J. Fulton."]
+source_url: "https://static.case.law/ohio-np-ns/30/cases/0508-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1569276
+cites_cases: ["211 N. W., 535", "31 Ga. App., 507", "51 A. L. R., 900", "51 A. L. R., 906", "51 A. L. R., 910"]
+---
+
+# Walters v. Fulton
+
+## Majority (Putnam, J.)
+
+Putnam, J.
+It is agreed that the facts in the instant case are identical with the facts in case No. 6144, being the case of Korns v. Fulton, and that the decision in No. 6144 will follow this case.
+In 1931 the Farmers’ & Merchants’ Bank of Millersburg, Ohio closed its doors and passed into the hands of 'the superintendent of banks for liquidation. The claimant herein, C. W, Walters, had deposited in said bank a certain Liberty Bond, being a coupon bond for $1000.00, the number of which the claimant has so that the bond could be identified. The claimant asserts that the bond was deposited with said bank for safe keeping only. At the time that the said bond was deposited with gaid bank, the bank gave the claimant a receipt therefor which is claimants Exhibit “A”, which is as follows:
+“March 9, 1931
+Received from C. W. Walters One Fourth Liberty Bond for $1000.00 for safe keeping.
+$1000.00 The Farmers’ & Merchants’ Bank Co.
+By W. A. Miller, President.”
+After the bank closed its doors it was found that there was a very large shortage in the bank and that said shortage was due to the defalcations of the president of. the bank, W. A. Miller. It was stipulated in this case that the statement of said W. A. Miller shall be taken as setting forth the facts with reference to this bond. It is as follows:
+“In or about the spring of 1931, as I recall the date, C. W. Walters brought to me one $1000.00 Liberty Loan Bond and left it with The Farmers’ & Merchants’ Bank for safe keeping. I received the same from him at that time and as I recall I gave to him a receipt for the bond. Sometime thereafter I took the said bond and sold the same and used the proceeds for stock deals between myself and Thomas Richards. To my knowledge Mr. Walters never requested the return of this bond up to the time of thé closing of said bank. The Ora E. Korns bond of $1000.00 was dealt with in the same manner.”
+The claimant, in October 1931, filed his claim as a preferred claim against said bank for the sum of $1000.00 and that the said claim was rejected on October 27, 1931. Thereafter on April 18; 1932 claimant filed his case in this court setting forth the above facts and further states,
+“That he is, therefore, entitled to recover from the defendant as liquidator of The Farmers’ & Merchants’ Bank Go., the said bond or its value in cash. Therefore, this plaintiff prays that his said claim be allowed as a preferred claim against said bank, and that he have judgment against said defendant for the sum of $1000.00 and his costs in this action and for such other relief as he may be entitled to in equity.”
+While the term ‘special deposit’ is used in discussing this transaction in the pleadings and in argument, there is no seriólas contention on the part of counsel for the state superintendent of banks that the transaction was anything more that a bailment. The purpose, as disclosed by the testimony at the hearing of this case, was to place the bond in the bank for safe keeping only, and this we think is clearly shown by the manner in which the transaction was handled. The relationship, therefore, between the bank and the claimant was that of bailment and not creditor and debtor. It is well settled that when a bank receives bonds or other property of a customer for safe keeping, it becomes a bailee and liable as such. Authorities need not be cited to the point that it is the duty of the bailee to return the specific property which is the subject of the bailment to the bailor on demand in accordance with the strict terms of the bailment and there would be no question that if, when the bank passed into the hands of the superintendent of banks, the bond had passed to the superintendent of banks and been in his possession, it would be his duty to return the same to the claimant. However, this did not happen. Before the bank passed to the superintendent of banks, an officer of the bank, the president, converted the same to his own use and used it in his own private transactions. There is nothing in the record to show, and there is evidence to show the contrary, that the bank ever received any of the money from the sale of this bond or that the assets of the bank were ever augmented in any way by the funds derived therefrom, and so when the superintendent of banks took over the bank he took over nothing which represented the value of this bond in the assets of the bank.
+It is claimed, nevertheless, by the claimant that under these circumstances it is the duty of the superintendent of banks to either return this bond, which is gone and can’t be identified among the assets of the bank, or to replace the same in the open market or the value of the same to the claimant, which, in effect, makes this a preferred claim. Counsel for claimant has cited no authority on this proposition other than the general law of bailments and the court has found no specific authority in Ohio on this point. The law in other states is in somewhat of a conflict. Intepretation in each state depends upon, in part, statutory enactments in those states, but the best resumé of the general law on the subject is to be found in the annotations in 51 A. L. R., pages 910-914.
+From a consideration of the general principles involved, it is the opinion of this court that under the facts in the instant case, the claim should not be allowed as a preferred claim, but that the claimant is entitled to judgment against the bank for $1000.00 and interest as prayed for and that the same will be a general claim against the bank and not entitled to preference.
+The reasoning supporting the above conclusions is based upon the facts that, considering these funds even as trust funds which had been wrongfully converted and dissipated by an officer of the bank, inasmuch as the bank received none of the benefits of this money, the same never was placed among the other assets of the bank and none of, the proceeds of such funds ever passed into the hands of the state superintendent of banks, thus the same is entitled to no preference. This conclusion is supported by the following cases from which extracts will be cited:
+Anderson v. Citizens Bank, 51 A. L. R., 906.
+“It is held that where Liberty Bonds are deposited in a bank with permission to use the same as collateral security for money borrowed,-the holders of the bonds do not lose title, but a trust relation or bailment is established and on the return of the bonds from the pledgee if they are in the hands of a receiver of the bank and can be identified, the owners are entitled to their return or to their value as preferred claimants.”
+Leach v. Sanburn State Bank, 51 A. L. R., 900.
+“It was held that where Liberty Bonds were deposited in a bank for safe keeping, the bank was a bailee and the relationship of a fiduciary one, so that whatever proceeds resulted from the sale or hypothecating were stamped with a trust character, but a preference was denied on the ground that the fund had been dissipated and had not passed into the hands of the receiver of the bank in augmenting the assets of the insolvent bank.”
+Likewise Leach v. Farmers’ & Merchants’ Savings Bank. Iowa case. 211 N. W., 535.
+“Preference was denied ’as against the receiver of a bank for the value of bonds which were held by another bank as collateral security for a loan.”
+Farmers’ & Merchants’ Bk. v. Carper, 51 A. L. R., 910.
+“A preference was denied to depositors of bonds delivered to a bank for safe keeping and wrongfully pledged by the bank as collateral with another bank on the ground that it was not shown that the funds in the hands of the first bank in charge of a receiver were augmented.”
+Nelson v. Paxton, 113 Kansas, 394.
+“It was held that in a suit by an owner of government bonds left with a bank for safe keeping, which were misappropriated by the bank or some of its officers, against the receiver of' a bank, the plaintiff was not entitled to a judgment decreeing the amount due him to be a trust fund or a lien upon the assets unless it was shown that the proceeds of the bonds were in some form a part of the assets which came into the hands of the receiver.”
+Miller v. State Bank, 121 Kansas, 113.
+“A preference against the assets of an insolvent bank in the hands of a receiver was denied to the plaintiff who had left a government bond with the bank for safe keeping and the cashier absconded with the same.”
+And finally in Marietta Trust & Building Co. v. Faw, 31 Ga. App., 507.
+“It was held that the owner of securities which had been left with the bank for safe keeping and having been converted by an officer of the bank, after the bank’s insolvency the claim of the bond holder was only a common creditor.”’
+It seems to be the general rule that in order to make the claim a preference it must be shown that the funds came into the possession of the bank and that the bank’s assets in the hands of the liquidator were augmented thereby. It is, therefore, the holding of this court that these claims be allowed as a common claim but not as a preferred claim and that judgment be rendered accordingly.
