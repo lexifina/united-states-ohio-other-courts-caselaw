@@ -1,7 +1,8 @@
 ---
 court: "Cincinnati Superior Court"
 decided: "1907"
-citations: ["1 Hosea's Rep. 496", "1 Hosea's Rep. 501"]
+decided_precision: "year"
+citations: ["1 Hosea's Rep. 496"]
 reporter: "hoseas-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["George W. Harris v. Cincinnati, Hamilton and Dayton Railway Company e
 source_url: "https://static.case.law/hoseas-rep/1/cases/0496-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1518020
-cites_cases: ["117 Ill., 477", "13 O. S. 263", "16 O., 318", "17 O. S., 14", "3 O., 287", "38 W. Va., 499", "45 O. S., 592", "47 O. S., 184", "49 O. S., 438", "49 O. S., 663", "50 Ill. App., 60", "6 O. S., 277", "62 O. S., 127", "62 O. S., 25", "62 O. S., 41", "65 O. S., 338", "82 Fed., 780"]
+cites_cases: ["13 O. S. 263", "45 O. S., 592", "47 O. S., 184", "49 O. S., 438", "49 O. S., 663", "6 O. S., 277", "65 O. S., 338"]
 ---
 
 # Harris v. Cincinnati, Hamilton & Dayton Railway Co.
