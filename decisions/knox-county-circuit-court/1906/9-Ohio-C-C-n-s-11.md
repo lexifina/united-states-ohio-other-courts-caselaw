@@ -1,0 +1,27 @@
+---
+court: "Knox County Circuit Court"
+decided: "1906-10-12"
+citations: ["9 Ohio C.C. (n.s.) 11"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Braddock & Fox v. Frank G. Boner."]
+source_url: "https://static.case.law/ohio-cc-ns/9/cases/0011-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1807654
+---
+
+# Braddock & Fox v. Boner
+
+## Majority (By The Court.)
+
+By The Court.
+The only .question arising in this case, is whether the contract is severable or entire. The contract provides for the sale and delivery of three car loads of hogs, each car to weigh not less and not more than a certain number of pounds, each car load to be paid for on delivery at the rate of six and one-half cents per pound, and the delivery to be made during the early days of July. There was a delivery of one car load of these hogs and the same were accepted and paid for by the defendant at the time they were delivered, clearly evidencing the fact that the parties themselves understood the contract to mean that each car load was to be delivered severally and separately, and that upon delivery of one car load the seller was entitled to receive, and the buyer was required to pay, the purchase price of that delivery as determined by the weight thereof.
+Courts will always look to the interpretation placed upon a contract by the parties themselves in giving it effect, and in' construing it according to the meaning and intents of the parties thereto. The other car loads were each tendered at different times and the defendant refused to receive each of them. One suit was brought for damages upon the failure to accept the second car load and pay for it, and a recovery was had and the judgment therein rendered was satisfied. This suit is for damages for failure to take the third ear and pay for it.
+Columbus Ewalt, for plaintiff in error.
+L. C. Stillwell and F. V.'Owen, for defendant in error.
+The contention of defendant in error is that there having been one suit for breach of this contract and a satisfaction of the judgment rendered thereon, another suit can not be maintained because the contract is entire, and if he is right as to this being an entire contract and was not a severable contract, the authorities undoubtedly support his claim as to the law of this case, and there was no error in the court directing a verdict for the defendant. We think,'however, that this case comes fairly and fully within the doctrine announced in the case of Loomis Campbell Co. v. Eagle Bank of Rochester, 10 Ohio St., page 326. In that case there was a written contract or memorandum or agreement in the words and figures following, to-wit:
+“We have this day sold Loomis Compbell & Company, one thousand kegs, 25 pounds net, of good merchantable blasting powder at $2.30 per keg, delivered on board boat at Rochester. Their note at six months from shipment, payable in New York City. Half delivered now and balance in June."
+This contract was held by the Supreme Court of Ohio as a distinct and several agreement, and not as one entire contract, and upon this authority we hold that the contract herein sued upon was severable, and that this action would lie for the refusal to accept the third car load of hogs and pay for the same, notwithstanding recovery had been had for the breach of the contract in refusing to accept the second ear load and pay for them according to the terms of the contract between the parties.
+Entertaining these views we find that there was error intervening in the trial of this case to the prejudice of plaintiff in error, in that the common pleas court directed a verdict for the defendant in error, and for that reason the judgment of said court is reversed.
+Exceptions of defendant in error noted, and cause remanded for new trial and further proceedings according to law.
