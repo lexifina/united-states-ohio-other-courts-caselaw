@@ -1,0 +1,26 @@
+---
+court: "Hamilton County Circuit Court"
+decided: "1904-01-14"
+citations: ["2 Ohio C.C. (N.S.) 80"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jelke, J.; Swing, J., and Gieeen, J., concur."]
+parties: ["W. A. Goodman, Jr., et al v. Joseph Rawson et al."]
+source_url: "https://static.case.law/ohio-cc-ns/2/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1793921
+---
+
+# Goodman v. Rawson
+
+## Majority
+
+The plaintiffs seek to have a mortgage, executed and delivered by the defendant, J. W. Cotteral, to the defendant, Joseph. Rawson, declared an assignment in trust to a trustee, made in contemplation of insolvency with the intent to prefer one or more creditors, under Section 6343, Revised Statutes, as in force on January 6, 1896.
+In December, 1895, the defendant, The First National Bank, held seven promissory notes executed and delivered by J. W. Cotteral and J. W. Cotteral, Jr., and payable to the order of J. ‘W. Cotteral & Company, a firm composed of J. W. Cotteral and junior, amounting to $27,500. At that time the firm had a contract for the erection of a school house in Detroit, Michigan; at a cost of nearly $200,000. The work was not progressing according to the terms of the contract, the estimates were delayed, and when obtained were less than anticipated, material-needed first in construction was not delivered, while that which could not then be used was on the.ground, with the vendors demanding payment. Thereupon J. W. Cotteral, Jr., applied to the First National Bank for an additional loan of $12,000, which the officials of the bank agreed to secure' for him. A mortgage on the real estate of J. W. Cotteral, Sr., was offered as security for the old debt and the present loan, making in all the sum of $39,500.
+Afterwards the defendant, Joseph Rawson, who was vieet president of the bank agreed to make the loan, and on January 6, 1896, a mortgage was executed and delivered to him by J. W. Cotteral upon all his real estate to secure ten (10) notes amounting to $39,500, executed by J. W. Cotteral and J. W. Cotteral, Jr., and payable to the order of J. W. Cotteral & Co.; and at the same time Joseph Rawson executed and delivered to the bank his promissory note for $39,500 and gave the notes of the Cotterals for the same amount as collateral security, and from the proceeds thereof gave a check to the bank for $27,500, for which he received the seven Cotteral notes, which were surrendered to the Cotterals, and caused a check for $12,000 to be credited to the account of J. W. Cotteral & Co. in the bank. It is claimed that this loan was, as appears on the face of the transaction, made by Mr. Rawson on his individual account; but he admits that he had never before loaned money upon real estate security, that he never paid the bank any interest on his note, saying that he expected the interest collected from the Cotterals on the collateral note to pay it That a part of the property was bought by the bank at a consideration less than the amount of the note of Mr. Rawson, and that the title was taken by Rawson as trustee for the bank. Although the original transaction had the form of a bona fide loan from Mr. Rawson to J. W. Cotteral, the subsequent acts of the parties continuously discredit it, until the final act of purchasing the property in the name of Mr. Rawson as trustee reveals the true situation of the parties. We are impelled therefore to hold that the mortgage was an assignment in trust to a trustee.
+But we find, however, that it was not made in comtemplation of insolvency with the intent to prefer one or more creditors. The facts relied on by plaintiffs to prove that it was so made are the financial condition of the firm of J. W. Cotteral & Co. at the time, the pressing demands of creditors during a few months just prior, the devices resorted to by J. W. Cotteral, Jr., to conciliate the creditors and postpone payment, and the threatened cancellation by the school board of the Detroit contract, of all which matters J. W. Cotteral had little, if any, knowledge, as he was practically out of the partnership for a year prior to its assignment. Counsel for plaintiffs admit this, but say that J. W. Cotteral, Jr., knew them and that therefore the senior member was bound to know. It is time that he would be bound by the action of J. W. Cotteral, Jr., as a member of the firm or as his agent; but the inquiry here is what did the mortgagor contemplate and intend at the time he executed the mortgage? What was the state of his mind, and how did the facts relied on influence him? It is clear that if not brought to his attention they could in nowise have influenced his mind or fixed his purpose in the execution of the mortgage.
+John G. Healy and Malcolm McAvoy, for plaintiffs.
+Stephens, Lincoln & Stephens, contra.
+It appears from the evidence that J. W. Cotteral, Jr., negotiated the loan, and at his request the note and mortgage was signed by J. W. Cotteral.
+We hold therefore that the mortgage was not made in contemplation of insolvency with the intent to prefer one or more creditors, and there will be a decree for the defendants.
