@@ -1,0 +1,37 @@
+---
+court: "Ravenna Municipal Court"
+docket: "5146"
+decided: "1959-07-08"
+citations: ["86 Ohio Law Abs. 193"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SUN FINANCE & LOAN COMPANY, Plaintiff, v. CONONICO, Defendant."]
+source_url: "https://static.case.law/ohio-law-abs/86/cases/0193-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1804744
+cites_cases: ["109 Ohio St., 393", "36 F. Supp., 772", "80 Ohio Law Abs., 187", "95 Ohio App., 191"]
+---
+
+# Sun Finance & Loan Co. v. Cononico
+
+## Majority (France, J.)
+
+France, J.
+This matter was heard on petition of plaintiff, answer of defendant, the testimony and exhibits.
+The petition alleges that defendant obtained a loan of $960.00 from plaintiff; that disclosure was made of three enumerated debts (one of them a pre-existing loan from plaintiff); that reliance was placed on the disclosure for the purpose of making the loan; that nearly 4 years later, defendant was adjudicated a bankrupt; that some 15 other debts of defendant existed at the time of the loan; that the statement thus relied on “was false and that loan was fraudulently incurred and that it is not dischargeable in bankruptcy.”
+The answer sets up merely a general denial of all allegations.
+Procedurally, the incredible seems to have happened. Whereas discharge in bankruptcy is an affirmative defense, pleadable in bar of suit by a defendant (Matter of Howe, 36 F. Supp., 772), plaintiff has raised the issue by way of anticipating defenses, and defendant by his pleading, in effect, denies discharge in bankruptcy! But that is not all. Plaintiff in his petition makes no mention that defendant ever listed the indebtedness which is sued upon in his bankruptcy schedule so that a discharge could ever be effective as to it. It is most confusing that plaintiff, not required to do so, would set up (however ineffectively) his debtor’s bankruptcy discharge only to have the discharge denied by him who should avail himself of it.
+Since, however, the parties went to trial on the issues so made up, and since the bankruptcy schedules, introduced in evidence, show that plaintiff’s loan (or some reasonable facsimile of it) was before the bankruptcy court, this court will consider the petition amended in accordance with the evidence in this respect and proceed to the question of whether the proof supports tbe claim that tbe loan was fraudulently incurred within the meaning of Section 17 (c) of the Bankruptcy Act.
+The principal issue made is whether or not a sheet of paper, (Exhibit 2) admittedly signed by defendant, listing three debts and underneath them the statement “I have no other bills,” constituted such deceit as to cause the obtaining of the loan by defendant to be “obtaining money or property by false pretenses or false representations.” The customary defense is made that oral disclosure of all debts was offered and that plaintiff’s agent told defendant “Just to list three, that’s enough.” (See In re Holbrook, 80 Ohio Law Abs., 187.) This defense is vigorously controverted by plaintiff and a question of credibility is presented. On this issue the document itself appears to confirm defendant’s account of the transaction. It is a single sheet of paper with only five lines for disclosure of all creditors with address and amount. Prom the advertising activities of all small loan companies, from their listings with other creditors in the trusteeship proceedings in this and other courts; from the known financial stresses of those who, for most part, are their customers; it is manifest that five lines for listing of all indebtedness of the normal small loan customer is a woefully insufficient space, and that from twelve to twenty spaces would ordinarily be required for such a listing of creditors.
+Until small loan companies are realistic in furnishing sufficient space for the listing of existing debts by their hard pressed customers, courts, which have to do with the multiplicity of collection claims against these customers, can scarcely be blamed for viewing with suspicion the claim that such a postage stamp size paper is expected to produce an exhaustive list of indebtedness. The court finds that neither plaintiff nor defendant expected all such debts to be listed, notwithstanding the formidable language at the top of the form and finds that the listing was intended, at most, as a check of credit references.
+But there is another respect in which plaintiff has failed to establish non-dischargeability, which is his burden. (Addison v. Addison, 95 Ohio App., 191.) The exemption from discharge operates in favor of “liabilities for obtaining money or property by false pretenses or false representations.” Assuming plaintiff had proved reliance on the falsity of the statement as to indebtedness, it was still necessary to prove that defendant received money or property. Prima facie, the loan itself imports the receipt of its proceeds. In this case, however, testimony showed that the loan was to re-finance existing indebtedness to plaintiff and to Personal Finance Company. On this point the parties’ testimony agreed. After plaintiff’s and Personal Finance Company’s claims were paid, the most claimed by the record as received by defendant of the proceeds is the sum of $102.53 in cash. But plaintiff’s claim is not for $102.53, but for a balance of $314.33 out of a loan of $960.00!
+It can, of course, be argued that, as to the remainder, defendant freed his chattel property from the lien of the Personal Finance Company loan and in that sense “received” this property which was, in turn, covered into the lien of plaintiff’s chattel mortgage. Some-authority for such a proposition can be argued by analogy from the “cold check” law. State v. Lowenstein, 109 Ohio St., 393.
+Unfortunately for plaintiff, however, the record discloses that, contrary to any presumption that defendant “received” the property by exchanging chattel mortgage creditors, plaintiff, in the end and in stark and brutal fact, so received it by re-possession and that the property was in fact sold by it at public auction by plaintiff in 1955. — prior to the bankruptcy.
+Thus plaintiff has failed to prove both intent to defraud and receipt of money or property by defendant, both of which are essential to his claim.
+One further defect in plaintiff’s claim should be pointed out. A note was executed for the loan, and the note was offered and received in evidence. — (Exhibit 1) On the back of the note appears this endorsement.
+“Warren, Ohio. Case No. 56145 this note merged in Judgment this 24 day of April 1957.”
+James A. Ravella J Judge
+Exhibits 4 & 5 are receipts for cash deposits. — in Sun Finance & Loan Company v. James Cononico, Case No. 56145, Warren Municipal Court.
+It is thus apparent that while plaintiff’s claim purports, on the pleadings, to be a suit for money obtained by fraud, his claim is actually on a judgment rendered by Warren Municipal Court antedating the bankruptcy, and on a deficiency judgment at that. If Plaintiff relied on the judgment he should’ have sued on it or caused it to be transferred under the provisions of Section 2329.02, Revised Code. Where plaintiff ignores the existence of a prior judgment he cannot be heard to complain if some other court, taking cognizance of its existence, declines to provide him with an additional and duplicating remedy.
+Counsel will prepare entry showing finding and judgment for defendant.
