@@ -1,0 +1,50 @@
+---
+court: "Dayton Municipal Court"
+docket: "81243"
+decided: "1944"
+citations: ["45 Ohio Law Abs. 412"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NEWELL, Plaintiff, v. MERKLE, Defendant."]
+source_url: "https://static.case.law/ohio-law-abs/45/cases/0412-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1733334
+---
+
+# Newell v. Merkle
+
+## Majority (By McBRIDE, J:)
+
+DECISION ON DEMURRER
+OPINION
+By McBRIDE, J:
+This matter was submitted to the Court upon the Statement of Claim in Forcible Entry and Detainer in which:
+FIRST CAUSE OF ACTION:
+Plaintiff says that the Defendant, Arthur Merkle, Upper Apartment, 850 North Broadway, Dayton, Ohio, has ever since the 15th day of March, 1946, and does still unlawfully and forcibly detain from Plaintiff possession of the following premises situated in the City of Dayton, Ohio, and described as follows, to-wit:
+Being the upper apartment at 850 North Broadway, in said City of Dayton, Ohio.
+Defendant, Arthur Merkle, entered upon said premises as a tenant of'Plaintiff and the Lease thereof expired at the time above mentioned and from that time said Defendant has unlawfully and forcibly held over his said term. On the 11th day of March, 1946, the Plaintiff duly served upon said Defendant, Arthur Merkle, notice in writing to leave said premises, as required by law, a copy of which said notice is hereto attached, marked Plaintiff’s “Exhibit A” and made a part hereof. Plaintiff further says that on said 11th day of March, 1946, he duly served a copy of the aforesaid notice on the Rent Director of the Dayton Area Rent Office, Office of Price Administration.
+SECOND CAUSE OF ACTION:
+Plaintiff for his second cause of action herein avers each and every allegation in his first cause of action contained and makes the same a part hereof as if fully rewritten herein, and further says that he and his wife Virginia T. New-ell, jointly owned said premises and acquired the right to possession thereof prior to November 20, 1942; that during his absence with the Armed-Forces of the United States he conveyed his interest in said premises to his said wife and on March 2, 1946, acquired full title to the same from his said wife, said transfer and conveyance to him having been made in accordance with the terms and conditions of a certain Separation Agreement entered into by and between him and his wife; and that, as a discharged veteran of the recent world war emergency, he has an immediate compelling necessity to recover possession of said housing accomodation for use and occupancy as a dwelling for himself and seeks in good faith to recover possession thereof for his own use and occupancy, as provided ,in Section 6 (a.) (6), Rent Regulations for Housing, Office of Price Administration.
+WHEREFORE, Plaintiff asks process and restitution of said premises and costs.”
+A Demurrer was filed by the defendant on the following grounds:—
+“1. Defendant demurrs for the first cause of action for the reason that the first cause of action sets out no grounds whatsoever for obtaining restitution of said property under the Federal Rent Regulation For Housing Act.
+2. Defendant demurrs to the second cause of action for reason that the second cause of action is based upon plaintiff having possession thereof November 20, 1942.
+3. Defendant demurrs to plaintiff’s second cause of action for the reason that no “certificate relating to eviction” has been granted to plaintiff under the Federal Rent Regulation for Housing Act.”
+The first ground for demurrer is over-ruled by the Court for the reason that the Statement of Claim is considered in its entirety. Counsel for the plaintiff and defendant have agreed that a single cause of action is stated and that the Statement was improperly separated into two causes of action whereas, the two causes as set forth in the Statement constitute but a single cause of action. Leave is granted to the plaintiff to amend his statement at bar by striking such words as imply that a second cause of action exists.
+Counsel for plaintiff rely for their right to evict upon §9, sabpa'r 6, amended September 15, 1945, which provides:
+“(6) Occupancy by landlord. The landlord owned, or acquired an enforceable right to buy or the right to possession of, the housing accomodations prior to the effective date of regulation (or prior to October 20, 1942 where the effective date of regulation is prior to that date, or prior to November 6, 1942 for housing accommodations with the Hastings Defense-Rental Area), and' has an immediate compelling necessity to recover possession of such accomodations for use and occupancy as a dwelling for himself, or has served during the period of the war emergency in the armed forces of the United States and in good faith seeks possession for his own occupancy. If a tenant has been removed or evicted under this paragraph (a) (6) from housing accommodation, the landlord shall file a written report on a form provided therefor before renting the accommodations or any part thereof during a period of six months after such removal or eviction.”
+. The Court interprets this to mean that the landlord must have:
+1. Acquired his interest prior to the effective date, and
+2. (a) has a compelling necessity to recover possession for his own use and occupancy, or
+(b) has served during the war emergency in the armed forces of the United States and in good faith seeks possession for his own occupancy.
+It will be noted that a veteran need only show “good faith” under this regulation, whereas the civilian must furnish “an immediate compelling necessity”. Plaintiff’s attorney contends that a veteran may recover possession of his property, if in good faith, even though he acquired title .after the effective date of the regulations. The Court does not agree with this interpretation because the further-provisions of the regulations, amended at the same time, require a purchaser, who has served in the armed forces, to obtain a certificate although the deposit and waiting period for issuance of the certificate is reduced. We refer to §6 (b) (2) (ii) the last portion of which recites.
+“or (d) the purchaser has, during the period of the war emergency, served in the armed forces of the United States and requires possession of the accommodations for the adequate housing of himself and family, a certificate may be issued although less than twenty per cent of the purchase price has been paid and may authorize the vendor or purchaser to pursue his remedies for removal or eviction of the tenant at a time less than six or three months as the case may be in any particular area after the date of filing of the petition.”
+It was also urged that the conveyance to plaintiff’s wife was one of trust resulting from the uncertainties due to plaintiff’s military service and that consequently the landlord held a continuous interest, equitable in its nature, from a date prior to the rent regulations. There may be some merit to this argument and certainly it may well be urged on the merits. The Court is more impressed by the fact that'the plaintiff always retained his inchoate right of dower in the premises. It is apparent from the pleadings that he acquired the fee simple title prior to the effective date of the regulations and has since continuously held an interest in this real estate superior to that of the tenants. This is all that is required for eviction. According to Ohio law he is now entitled to possession as he re-acquired the fee simple title. We are not, therefore, required to decide the question as to whether the owner of an inchoate right of dower has sufficient interest to maintain possession. The question raised by the demurrer is whether plaintiff acquired his interest prior to October 20, 1942 and has since continuously held such an interest in the premises as would permit him to institute eviction proceedings within the purpose and intent of the rent regulations.
+We are aware that the Office of Rent Control has taken a liberal attitude where the title is vested in one or the other of the parties to the marriage contract. In interpreting the regulations the local office has frequently considered the mutuality of interest of married couples in their real estate and has not sought to penalize them by technical application of regulations, the purpose of which -was never intended to reach into or disturb fair, and sometimes necessary, arrangements by husband and wife. We find no purpose or intent in the present case to avoid or evade the effect of the rent regulations.
+Accordingly, it is the decision of this Court that plaintiff acquired his interest in the premises prior to November 20, 1942 and has since continuously held an interest therein sufficient to entitle him to institute these proceedings under the rent regulations. Under such circumstances a “Certificate Relating to Eviction” is not required.
+The demurrer to the petition is over-ruled.
+On April 17, 1946, the following stipulation was agreed to by the parties in chambers:
+“It is hereby stipulated between counsel for plaintiff and counsel for defendant in' the matter of Thomas E. Newell v Arthur Merkle, Case No. 81243, that petition having been filed and a demurrer filed to said petition that raises the question as to whether the petition sets forth a good cause of action, it is hereby agreed and stipulated between counsel that the facts as recited in the petition are admitted to be true and that the determination of the Court upon the demurrer will be binding upon the parties without a re-trial of the facts in this Court. This stipulation does not contemplate the waiving of any right Qf appeal of the parties hereto on the law.”
+Accordingly, the defendant not choosing to plead further, judgment is granted to the plaintiff on the pleadings for restitution of the premises according to law and at defendant’s cost.
+An entry or entries may be drawn protecting the rights of the respective parties.
