@@ -1,0 +1,26 @@
+---
+court: "Miami Circuit Court"
+decided: "1893-10"
+citations: ["5 Ohio Cir. Dec. 689"]
+reporter: "ohio-cir-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Stewart, Shauck and Shearer, JJ."]
+parties: ["Search, Adm’r, v. Pence, Adm’r."]
+source_url: "https://static.case.law/ohio-cir-dec/5/cases/0689-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1625969
+cites_cases: ["29 Ohio St., 440", "30 Ohio St., 378", "54 O. S., 641"]
+---
+
+# Search v. Pence
+
+## Majority (By the Court.)
+
+By the Court.
+We are now asked to hear counsel upon the demurrer to the three defenses which was passed upon by the court below.
+This is not proper practice in this court. The manner of conducting’ trials in this court is prescribed by Bevised Statutes, section 5225, as follows: “The trial therein shall be conducted in the same manner as in the common pleas court, and upon the same pleadings, unless amendments are permitted or ordered by the court. ’ ’
+The terms of this statute are plain and must mean that when a case comes into this court by appeal it must be tried upon the pleadings as they stood when the trial was had and judgment rendered in the court below, and that the appeal suspends that judgment only. Our attention has been called to the case of Wanzer v. Self; 30 Ohio St., 378, the first proposition in the syllabus of which is as follows: “Where an appeal is taken from a final judgment in an action, to one count of which a demurrer is sustained and the others tried on issues of fact, the appeal vacates the ruling on the demurrer, as well as the final judgment, and the appellate court may try again the question of law made by the demurrer, and also the other issues made by the pleadings in the case.” While this ease seems to sustain the views of -counsel as to the proper practice in this court, it is not clear but what all the rulings were made at one time and the case must be considered in connection with the statutes in force at that time. Day, chief judge, in his opinion gives two reasons for the holding, first, because “the appeal vacated the findings and judgments of the court below on all the issues of law and fact made by the pleadings in the case. ’ ’ He cites no authority in support of that proposition, and the statute in force at that time provided only that when an appeal was granted and bond given “the judgment or decree rendered in such case in the court below shall thereby be suspended.” 2 S. & C., 1168. But whatever may be said of that reason in view of the provisions of the statute, the other reason given, also founded on the statute, seems to us to show why this case cannot be authoritative in the decision of the case at bar. That is, that the statute then provided that, “the action so appealed shall be again tried, heard ánd decided in the district court, in the same manner as though such district court had original jurisdiction of the action.” S. & S., 489. This the court held to mean that on appeal every step from the beginning of the case could be re-heard exactly as if the action had been originally commenced in the district court. There was in force at that time another provision of the statutes which the court did not refer to, and therefore we may assume did not regard as bearing upon the question, which is as follows: “That when any cause is removed by appeal into the district court, the appeal shall be tried on the pleadings made up in the court below, unless, for good cause shown, the said court shall permit either or both parties to alter their pleadings, in which case such court shall lay the parties under such equitable rules and restrictions as they may conceive necessary to prevent delay.” 2 S. & C., 1169. In 1878 the section of the statute last quoted, and the one found at S. & S., 789, supra, were combined in one section (75 Ohio Laws, 648), which afterwards received the sectional numbering 5225.
+Johnston & Johnston and Davis & 'Hoskins, for Plaintiff.
+M. H. & W. D. Jones and 5*. S. McKinney, for Defendants. ,
+While this change was made at the time of the revision of the statutes, we think it is apparent from the elimination of one provision of the then existing statute and the retention of the other, that the legislature intended to change the rule of practice laid down in Wanzer v. Self supra, by striking out the provision which is referred to in the opinion in that case as controlling the decision. Of course if the only issues made in a case were issues of law and judgment was rendered upon such issues, upon appeal the case would stand for trial in this court upon such issues. Rush v. Rush, 29 Ohio St., 440. Nor does this statement or the practice under it prevent or prohibit any party who is in default for a pleading in the court below from obtaining leave in a proper case to file such pleading after appeal perfected. It follows then that the only pleadings in this case in this court are the petition, the answer as amended after the’ sustaining of the demurrer, and the reply thereto, and unless the parties desire leave to amend,, the cause must proceed to trial upon the issue so made.
