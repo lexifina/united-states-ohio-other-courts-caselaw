@@ -1,0 +1,42 @@
+---
+court: "Akron Municipal Court"
+docket: "78 TRD 36940, 78 TRD 31330, 78 CRB 06708, 78 CRB 07759"
+decided: "1979-03-12"
+citations: ["60 Ohio Misc. 35"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Ohio v. Gates."]
+source_url: "https://static.case.law/ohio-misc/60/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6700892
+---
+
+# State v. Gates
+
+## Majority (George, J.)
+
+George, J.
+The captioned cases are all related, involving a single course of conduct, and the court has previously allowed a motion to consolidate. Therefore, this ruling applies to all cases.
+The defendant filed a motion to suppress the evidence and to discharge the defendant on the basis that the charges filed against him were the result of his lawful resistance to an illegal arrest. A hearing was had on the motion and evidence was presented. Should the court find that the initial police action was legal, then the offenses committed subsequent to that police action are not properly the subject of a motion to suppress and discharge.
+The facts are not materially in dispute. According to the evidence presented, Blossom Music Center, located in Northampton Township, scheduled a performance by a nationally known rock group. Approximately 20,000 persons, between the ages of 13 and 18 attended and accounted for approximately 8,000 motor vehicles.
+In preparation for the rock concert, the Northampton police chief contacted neighboring police departments and requested that they provide assistance to their twelve-man force. Assisting officers were given their assigned duties by the Northampton police chief. However, Blossom, a private enterprise, paid each officer for the police services rendered.
+Munroe Falls Village’s Officer Nagel and Bath Township’s Officer Carver were among those police officers who responded to the request for assistance at the concert. Both officers were attired in full police uniform which included patches, hats and badges, guns, flashlights, and red and white fluorescent traffic vests.
+At the close of the concert, Nagel and Carver were stationed, along with others, at Blossom’s west driveway directing the exiting traffic. Both observed the defendant’s truck approach from the north. There was a person seated outside the truck, on the hood; there were no headlights although it was dark; the truck travelled on the grass instead of on the paved driveway; and the truck passed two lines of traffic stopped on the driveway.
+The east-west traffic had the right of way and Officer Nagel ordered the defendant to stop. The order to stop was given both visibly, with flashlight and arm signals, then audibly. The defendant’s hood passenger jumped from the truck, but the truck continued into the path of the east-west traffic. Nagel jumped onto the running board of the truck and fell off as the defendant turned east onto the public road. The truck hit a stopped westbound vehicle. At that point Carver jumped on the truck and was likewise thrown off by the movement of the truck.
+A police vehicle, operated by Captain Klein of the Northampton Police Department, was placed in front of the defendant’s path of travel. It was at this time that the defendant stopped the truck. Captain Klein arrested the defendant.
+As a result of the defendant’s actions, he was charged with failing to comply (R. C. 4511.02 [A]); left of center (R. C. 4511.25); hit skip (R. C. 4549.02); willfully eluding a police officer (R. C. 4511.02 [B]); and two counts of felonious assault. These last two charges were reduced by the grand jury and remanded to this court as first degree misdemeanors of assault (R. C. 2903.13).
+The defendant argues that the actions of Officers Nagel and Carver were attempted arrests made illegal by reason of their lack of authority under R. C. 2935.03. That section provides the authority for warrantless arrests for the commission of misdemeanors, but does not provide authority to effectuate a warrantless arrest committed outside the officer’s jurisdiction.
+This case is one of first impression in Ohio. Although case law exists on the authority, or lack thereof, for a police officer to make an arrest for a misdemeanor outside of his jurisdiction, no cases involving the lawfulness of an order issued pursuant to R. C. 4511.02 (A) have been decided. The law and cases cited by the defendant are inapplicable, as they provide case law to aid in the understanding of R. C. 2935.03. The issue here is whether there was a lawful order to stop given to the defendant under R. C. 4511.02 (A). The court finds that there was.
+Officer Nagel ordered the defendant to stop after observing several traffic violations. When the defendant failed to comply with the order to stop, Nagel attempted to enforce that order. This action was within the authority invested in this officer by the Northampton police chief to direct traffic. The initial offensive conduct stemmed from the defendant’s driving actions and his failure to comply with a lawful order issued for traffic purposes. Had the defendant complied, Nagel testified, it would not have been necessary for him to attempt enforcement of that order.
+Moreover, defendant was ultimately arrested by Northampton’s Captain Klein, and not Nagel. Thus, Nagel’s actions may be interpreted as involving the issuance of a traffic order and the enforcement of it, not as an arrest.
+R. C. 4511.02 (A) has three conditions which must be met before an offense arises: There must be: (1) a failure to comply; (2) with any lawful order; (3) of any police officer invested with authority to direct, control or regulate traffic.
+As to the first condition, it is undisputed that the defendant failed to comply with Nagel’s order to stop.
+Regarding the second condition, Nagel gave the defendant an order to stop. Was that order lawful within this statute? There is no guide as to what is “lawful” under the statute. There are no cases under R. C. 4511.02 (A) defining lawful.
+Lawful may, therefore, be interpreted to mean an order within the officer’s scope of responsibility in directing traffic. For instance, it may mean a direction to stop, take an alternate route or to slow down. This interpretation, however, is too narrow when one considers that the word “any” is used.
+In context of the statute “any lawful order” may be construed as imposing a probable cause type requirement. That is, there must be a basis for the order; it cannot be arbitrarily given. Here, Nagel had ample justification for ordering the defendant to stop. The word lawful, as used in the statute, therefore, is not equivalent to requiring the officer to have authority in the jurisdiction in which the order was given, but to have just cause for issuing the order.
+Jurisdiction is addressed in the third condition. The statute provides: “any police officer invested with the authority to direct, control, or regulate traffic.” The word “any” may be construed as dispensing with the jurisdictional requirement so long as the officer has authority to direct traffic. Nagel was such an officer invested with authority from the police chief of Northampton. Nagel was specifically assigned to direct traffic. He was performing that activity at the time of the incident giving rise to these charges.
+From the foregoing, the court finds that the initial order to stop given by Nagel, was with the requisite authority and was legal. Being a lawful order the failure to comply by the defendant was a violation of R. C. 4511.02 (A). By reason of the defendant’s failure to comply, Nagel had such authority as was necessary to enforce an order which was lawfully given and unlawfully ignored.
+The extraordinary circumstances of this case, public policy, and the need to permit local police departments to call lipón neighboring police departments for help in time of need, requires the court to rule in this manner.
+The defendant’s motion so suppress the evidence and to discharge the defendant is denied. The court finds that the defendant was not lawfully resisting an illegal arrest, but was unlawfully failing to comply with a lawful traffic order. Since there was a violation of R. C. 4511.02 (A), all subsequent charges against the defendant properly lie. This matter will proceed upon further order of the court to trial.
+Motion denied.
