@@ -1,0 +1,36 @@
+---
+court: "Hamilton County Court of Common Pleas"
+docket: "90028"
+decided: "1967-10-10"
+citations: ["14 Ohio Misc. 39"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State v. Brackett et al."]
+source_url: "https://static.case.law/ohio-misc/14/cases/0039-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6694480
+cites_cases: ["11 Ohio App. 2d 97", "171 Ohio St. 54", "175 Ohio St. 139", "259 F. Supp. 294"]
+---
+
+# State v. Brackett
+
+## Majority (Keeee, J.)
+
+Keeee, J.
+These are proceedings on defendants’ motion to dismiss a pending indictment. They request that the indictment against them be dismissed for the reason that they have been denied their constitutional right to a speedy trial as guaranteed by the federal and state constitutions.
+In late February or early March 1965, according to the testimony of the defendants themselves, they were sent to state penal institutions from Montgomery County, Ohio, upon conviction of felonies. In March of 1965, detainers •were placed against them indicating the pendency in Hamilton County of charges of armed robbery, a felony. The defendants learned of the detainers in March 1965.
+The defendants were not indicted on these charges until September 8,1967, and not arraigned until September 18, 1967. There obviously was a delay of some 30 months between the time of the filing of the detainers with the institutions in which defendants were incarcerated and indictment and arraignment. Trial date has not yet been set.
+There is no doubt in Ohio that the right to a speedy trial is one which demands affirmative action by the accused. He may waive it and he must claim his right if he wishes its protection. State v. Cunningham, 171 Ohio St. 54; Partsch v. Haskins, Supt., 175 Ohio St. 139; State v. Doyle, 11 Ohio App. 2d 97. (Court of Appeals, Hamilton County.) It seems in all these cases the delay occurred between indictment and trial. However, in the facts before me, the delay is between the time of filing the detainers (advising the state institutions that there were charges pending against defendants) and indictment and arraignment.
+Counsel for the defendants maintain this difference is important. They argue that although there must be affirmative action to secure a speedy trial after indictment, there is not, and should not be, an obligation for an accused to take affirmative action if the nature of the charge is only a so-called detainer, and not an indictment. Defendants’ counsel urge that after an indictment an accused can reasonably be expected to have legal representation, with the knowledge, experience and skill which this implies, but there is not likely to be an attorney in the matter after a mere detainer is placed. I cannot agree with these contentions. For instance, in Doyle, supra, Doyle was indicted, but could not be found for arraignment. About two months after indictment, he was found confined in the Ohio Penitentiary serving a sentence as the result of conviction of another felony. Upon discovery of Doyle’s whereabouts, county officials filed a detainer. Counsel was not retained by Doyle until about two and a half years following the detainer. Nevertheless the court in Doyle held him to the requirement of making a demand to the proper authority if he desired to assert his right to a speedy trial.
+Once an accused, whether he is in a penal institution or not, learns of pending charges, whether the charge is in the nature of affidavit and warrant, information or a formal indictment by a grand jury, it would seem in Ohio that affirmative action is required by him if he wants to secure a speedy trial.
+Sometimes those accused do not want a speedy trial. As the court said in State v. Doyle, supra:
+“* * * it is overly naive to presume that every accused actually serving a sentence is insistent upon being tried on some additional charge. It is not at all difficult to conceive circumstances wherein the right to a speedy trial is the last thing desired by the accused.”
+According to State v. Doyle, supra, demand for a speedy trial must be made upon the court itself. Doyle involved a charge which had been formalized by a grand jury indictment. The defendants in the matter now before me had knowledge of a pending charge only from the de-tainers. In cases where this is so, and where there is no indictment, it would seem to be more reasonable to allow a defendant’s assertion to a speedy trial to be made to either a prosecuting attorney or a chief of police, because identification of the exact court to which a defendant should apply might be somewhat obscure. However, this consideration is not significant here because in the case of defendant Brackett, he did nothing about the charge pending against him until July of this year and he was indicted on September 8th. This scheduling was well within defendant Brackett’s right to a speedy trial.
+In the case of defendant Chism, he testified at the hearing that he wrote letters in March and December 1966, pertaining to the detainers. He said he wrote one to the Chief of Police, Cincinnati, and one to the county prosecutor of this county. Even assuming, for the sake of argument, that under the circumstances these addressees were the correct persons to whom to direct the communications, there is a total lack of proof as to whether the contents of the letters amounted to an assertion of demand for trial. There is also the matter of the credibility of defendant Chism, a convicted felon, as to whether any letters were sent. There is justification for skepticism on this point.
+Both defendants ’ cases were moved along in a reasonable and timely fashion, consistent with constitutional guarantees, after Brackett made a demand in July of this year. Chism has not been able to sustain the burden that he at any time made a demand for acceleration of his trial date.
+The motion for dismissal must be overruled as to both defendants.
+Reference is made to United States v. Miller, 259 F. Supp. 294, decided by a U. S. District Court in Pennsylvania in 1966. It stands for the proposition that if the Sixth Amendment to the federal Constitution precludes:
+“purposeful or oppressive delays from the time of the alleged offense to the time of trial, as well as from the time of charge to the time of trial, to invoke it on this basis there must be a showing of prejudice to the defendant. Absent a showing of special circumstances, the speedy trial clause would have no justification # * *. The defendant here has alleged in his motion only a general possibility of dimmed memories and lost witnesses. That is not enough. He must be prepared to show some concrete harm from delay. * * * Notwithstanding a delay of more than four years from the time of the events charged, neither the indictment nor the allegations of the motion make out a denial of a speedy trial.” (Emphasis added.)
+In the interest of the proper resolution of these pending charges, it is suggested that the motion filed by the defendants to dismiss the indictment against them, overruled herein, must now be construed as a demand upon the Court of Common Pleas to assert their rights to a speedy trial as required by State v. Doyle and countless other authorities.
+Motion overruled.
