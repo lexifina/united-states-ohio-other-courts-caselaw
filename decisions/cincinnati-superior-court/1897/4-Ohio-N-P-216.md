@@ -1,0 +1,40 @@
+---
+court: "Cincinnati Superior Court"
+decided: "1897-04"
+citations: ["4 Ohio N.P. 216"]
+reporter: "ohio-np"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GEORGE H. SCHONE et al. v. THE CONSOLIDATED BUILDING & SAVING COMPANY."]
+source_url: "https://static.case.law/ohio-np/4/cases/0216-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1526475
+cites_cases: ["13 Ohio St., 544", "2 C. C., 526"]
+---
+
+# Schone v. Consolidated Building & Saving Co.
+
+## Majority (HUNT, J.)
+
+HUNT, J.
+The plaintiffs constitute the entire. Board of Directors of the Consolidated Building & Savings Company, a corporation under the laws of Ohio, with an authorized capital stock of six million of dollars. .
+There are various averments as to the financial condition of the company, and an allegation that it ' is insolvent and great danger of the assets being wasted and the company involved in litigation and expense.
+The Board of Directors, after a full consideration and investigation, passed a resolution directing that an application be made for the appointment of a receiver to take charge of all the assets of the company, and administer them according to law and under order of the court, and they state that “in no event can they successfully administer the affairs of the company.”
+The defendant company, by its president, entered an appearance for the corporation, and by its answer admitted all the allegations of the petition to be true.
+An order was then made, by consent, for the appointment of a receiver, who qualified acordingly.
+The claim is now made by certain owners of paid-up stock and a creditor,that the petition does not state facts sufficient to authorize the equitable interference of the court in the appointment of a receiver, and that the same should be vacated, and the petition dismissed.
+The contention is that, while the petition prays for a receiver and a dissolution of the corporation, there is nothing in the averments of fact, nor in the prayer, by which the court can determine which relief sought is the main relief and which the incidental; that the plaintiffs sue as directors and as the governing body of the corporation, and aver their incapacity to further conddct the affairs of the corporation, and that they do not sue as individuals claiming an interest in a fund common to the other share-holders, and ask for the protection of their rights and the rights of all other stock-holders in that common fund, and a distribution to each of his share through a receivership.
+The question for the court to determine is, whether the directors of a corporation have the right, while asserting no individual rights in the property of the corporation, to ask the court to divest the corporation and the stock-holders of the possession and control of their property, without their con sent, and place it in the hands of an officer of the court for management and administration.
+It is admitted by counsel for the petition, that the suit was brought under Sec. 5587 of the Revised Statutes, which provides that, m addition to all cases where receivers have heretofore been appointed by the usages of equity, a receiver may be appointed when a corporation “is insolvent, or in imminent danger of insolvency.”
+The internal oragnization of corporations, as provided by statute, is such that the corpoiate powers, business and property of corporations are exercised, conducted and controlled by a board of directors elected by the stock-holders Rev.Stat. 3248. The court will be slow to interpose in matters which relate to the management of a concern, in the absence of fraud ; nor will it supplant the stock-hclders who are specially designated to make selections of persons to direct its business. Port Clinton R. R. Co. v. Cleveland & Toronto R. R Co., 13 Ohio St., 544, 555.
+If the principal relief sought is the appointment of a receiver, and the dissolution and winding up of the corporation are only consequent upon such receivership, then it may be assumed that equity never grants a receiver as the main relief. The appointment is a provisional remedy, ancillary and auxiliary to the main action, and can only be made in an action brought to obtain some other equitable relief which the court has power to grant. C. H. & D. R. R. v. Duck worth, 2 C. C., 526. affirmed in — Ohio St., p. — ; Cronin v. Potters’ Co op. Co., 29 Bull., 54.
+Or, if the receivership should be taken in connection with the prayer for dissolution, which is an equitable relief and the court has power to grant, then it may be answered that, unaided by statutory provisions, it is not within the power of a court of equity to wind up or dissolve, or change the management or administration of the property of a corporation even though it be insolvent. C. H. & D. v. Duckworth, 2 C. C., 526; Cronin v. Potters’ Co-op. Co., 29 Bul., 54; High on Receivers, Sec. 288 and cases; Bach on Receivers, Sec. 403.
+But it is contended that under Sec. 5587, sub-division 5, the court has power, in an action to dissolve a corporation, to appoint a temporary receiver before judgment of dissolution when a corporation “is insolvent, or in immminent danger of insolvency.” This provision does not confer the right to appoint receivers in all cases brought for the dissolution of corporations, but it authorizes the appointment only “in the cases provided in this title, and by special statute. ” When the statutes, specially codes of procedure, have defined the cases in which receivers may be appointed, the courts are limited in their power to appoint those cases, and all other cases are excluded. High on Receivers, 2 Ed., Sec. 23, and cases; Beach on Receivers, Sec. 10.
+The cases “provided for in this title” for the dissolution of corporations are all covered ny Secs. 5651-5688, Rev. Stats.
+The cases covered by special statute are those included in the Quo Warranto Chapter, Secs. 6760-6793. This is not an action in quo warranto, nor can it be claimed that it is an action for the dissoh tion of a corporation “provided in the title.” The ac tion “provided in the title” is an action Which must be brought in the manner prescribed by Secs. 5652 and 5653. The power to dissolve a corporation is devolved upon the court by the legislature, but the statute conferring such power is to be strictly construed, and must be exercised in accordance only with the statutory provisions. High on Receivers, Sec. 289; Beach on Receivers, Sec. 408.
+It may be stated that the onlv person entitled to apply for a receiver of the assets of a building association, in the absence of statutory proceedings, would be a shareholder, and the ground of whose relief would be the ordinary equitable one of a person jointly interested in a common fund and seeking to preserve it for the benefit of all. Endlich on Building Associations, 2 Ed., Sec. 512. 513, and cases.
+It will be found that the adjudicated cases involving receiverships of such associations, and where receiverships have been granted, are cases instituted in the first instance by share holders as such. There are some exceptions in the later English cases cited in Endlich, but an examination will show' that they were brought under the English Winding Up Act, Sec. 32, Art. 37, 38, Victoria (1874,) Ch. 42. which provides a speedy way of adjudicating the affairs of these insolvent companies. In the statement in Kemp v. Wright, L. R., 2 Ch., Div. 462 (1894,) will be ‘found the grounds of the action, and on page 46r a special reference to the Winding Up Act.
+The petition, as framed and filed in this case, does not state facts sufficient to deprive the share holders of this corporation of the control and management and disposition of their property, especially without notice to or consent of such share-holders, even although the application for a receiver may have been made by the “managing bcdy of such corporation.
+Samuel A. Miller and';Philip Renner, for the petition.
+Edward J. Dempsey and John O. Healy, contra,
+The order appointing a receiver will be vacated and the petition dismissed.
