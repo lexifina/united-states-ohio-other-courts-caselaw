@@ -1,0 +1,40 @@
+---
+court: "Ohio Circuit Court"
+decided: "1904-09"
+citations: ["5 Ohio C.C. (n.s.) 33"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hull, J.; Haynes,'J., and Parker, J., concur."]
+parties: ["Mary Childs v. Jay J. Perry et al."]
+source_url: "https://static.case.law/ohio-cc-ns/5/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1799138
+cites_cases: ["6 O. S., 272"]
+---
+
+# Childs v. Perry
+
+## Majority
+
+The matter was heard below on an agreed statement of facts. It appears from that, that the action was brought by the plaintiff to forclose a mortgage; that there was due on her mortgage $9,858.18; that she had the first lien on the premises in question; the property was sold by the sheriff and bid in by the plaintiff for $8,000; the sale was confirmed and the plaintiff paid in no part of the purchase money to the sheriff, her lien amounting to over $1,800 more than the purchase price —‘her bid. There was taxed poundage for the sheriff at 1 per cent, on the amount of the sale, to-wit, $80. This was taxed under Section 1230b of the Revised Statutes, which provides for the fees of sheriffs in all counties having a population of 22,500 or more at the last federal census, and it is admitted in the agreed statement of facts that this county at the last federal census had a population of 22,500 and more, and that Ashland county, Geauga county, Harrison county and Noble county, and several other counties of the state had at the last federal census less than 22,500 population.
+The plaintiff claims that this section of the statutes is unconstitutional, for the reason that it is not of uniform operation throughout the state, and that therefore its provisions are void, and that the sheriff must go to the general statute on this subject, to-wit, Section 1230. If Section 12305 is constitutional, the sheriff has the right to these costs, amounting to $80. If it is unconstitutional, he does not have the right to them.
+The general statute — the one that has existed for many years, Section 1230 — provided on the question of poundage as follows:
+“The fees and compensation of sheriffs shall be as follows: * * * poundage on all monies actually made and paid to the sheriff on execution, decree or sale of real estate (except on writs for the sale of real estate in partition) one and a half per centum on the first thousand dollars, and one per centum on all sums over one thousand dollars; .but when such real estate is bid off and purchased by the party entitled to a part of the proceeds, the sheriff shall not be entitled to any poundage except on the amount over and above the claims of such party. ’ ’
+The fees and compensation of the sheriff generally are provided for in this section, which applies to all of the counties of the state.
+Section 1230b is found in the 93d Volume of the Ohio Laws, page 426, and was passed April 25, 1898. The caption of the section is, “Fees and compensation of sheriff in counties of 22,500 or more. ’ ’ It provides as follows in regard to poundage:
+“In all counties which at the last preceding federal census had a population of twenty-two thousand five hundred or more, and for which there is no provision made by law for the payment of the sheriff, he shall receive the following fees and compensation: * * * poundage upon the amount of all sales (except in writs for the sale of real estate in partition) made by the sheriff on executions, decree or sale of real estate one per centum thereof.”
+The general statute gave poundage only on all monies actually made by and paid to the sheriff on sales, while there is a provision, as will be observed, in the section in question for poundage on the amounts of all sales, regardless of the amount of money made, or paid to the sheriff.
+Is this Section 1230b in conflict with Article II, Section 26 of the Constitution of the state, which provides that all laws of a general nature shall have uniform operation throughout the state 1
+In State of Ohio, ex rel Guilbert, Auditor, v. Yates, Auditor, 66 O. S., page 546, the Supreme Court say in the syllabus:
+“County officers are not local officers, but are a part of the permanent organization of the government of the state, and the subject of compensation to county officers is not local in its nature, and an act of the- General Assembly upon that subject is a law of a general nature which must operate uniformly throughout the state. Pearson et al v. Stephens et al, 56 Ohio State, 126, overruled. ’ ’
+The question is discussed fully by Judge Davis in the opinion, and many former decisions referred to. This case came up from Pickaway county, an act having been passed fixing the salaries of the various officers in Pickaway county. Judge Davis in the opening paragraph of his opinion says:
+“These acts are undeniably special; and to us at least, it seems almost as manifest that their subject matter is of a general nature, and that neither of them contains the attributes of legitimate local legislation. They are special, because they are in terms restricted in their operation to Pickaway county. They are of a general nature, because the subject of legislation is a matter of general concern to the state, and to every county in the state and to the inhabitants thereof (Kelley v. State, 6 O. S., 272). They are not legitimate local bills, because the subject matter is not peculiar to the localities named, and it does not appear that there was any necessity for such legislation either in title, place or circumstance. Having said this, we have said, in substance, all that needs to be said to-dispose of this case; but in deference to the authority which is urged in support of the contention of the defendant in error, we will be more explicit. ’ ’
+The statute in question does not relate to a salary, but to the fees of the sheriff, a county officer. The same principle, however, applies as would apply were it a salary instead of fees, which are paid by the litigants, while a salary is paid by the county. It is clear that this law is of a general nature, and therefore should operate uniformly throughout the state.
+Malcolm Kelley, for plaintiff in error.
+E. B. King and G. C. Beis, for the sheriff.
+As this law is framed it could not apply to several counties in the state, there being some ten or twelve of less than 22,500 population at the last federal census; among them, Ottawa, our neighboring county on the west. The statute does not provide that it shall apply to counties which may hereafter arrive at a population of 22,500, but is restricted m its application absolutely to those which had such a population at the last federal census preceding.
+This law does not have a uniform operation throughout the state. It is difficult to see how it can be claimed that a law which does not apply to ten or a dozen of the eighty-eight counties in the state has a uniform application throughout the state.
+The term “uniform operation” is defined by Judge Burket in the 67th O. S., page 77, as “universal.” Certainly this statute does not have a universal operation throughout the state.
+Under the recent decisions of the Supreme Court, this statute is clearly unconstitutional; it is in violation of Section 26, Article II of the Constitution of the state. It is difficult to conceive of any reason why such a law should have been passed. It is unreasonable and unjust as well as unconstitutional. There Is no reason why the fees of the sheriff, for the same services, should not be the same in every county in the state. Why should the sheriff of Erie county be entitled to $80 costs in a foreclosure proceeding- because the land happens to lie in this county, while in Ottawa, an adjoining - county, the sheriff would be entitled to nothing for the same service?
+The judgment therefore is reversed, and the case remanded to the court of common pleas, with direction to re-tax the costs by striking out the item of poundage to the sheriff and taxing the costs according to the general statute, Section 1230.
