@@ -2,7 +2,7 @@
 court: "Stark County Court"
 docket: "39150"
 decided: "1965-01-25"
-citations: ["30 Ohio L.R. 24", "30 Ohio L.R. 25"]
+citations: ["30 Ohio L.R. 24"]
 reporter: "ohio-lr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
