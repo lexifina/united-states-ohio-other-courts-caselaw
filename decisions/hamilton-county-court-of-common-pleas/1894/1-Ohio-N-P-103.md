@@ -1,0 +1,57 @@
+---
+court: "Hamilton County Court of Common Pleas"
+decided: "1894-04"
+citations: ["1 Ohio N.P. 103"]
+reporter: "ohio-np"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Ohio v. Daniel Bauer."]
+source_url: "https://static.case.law/ohio-np/1/cases/0103-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1522113
+cites_cases: ["3 Ohio St. 363", "30 Ohio St. 405", "39 Ohio St. 123"]
+---
+
+# State v. Bauer
+
+## Majority (Evans, J.)
+
+Evans, J.
+Defendant, by his counsel, filed a motion to quash the indictment, the several grounds of which will be taken up in their proper order and disposed of.
+The indictment in this case is as follows:
+“The State of Ohio, Hamilton County.
+“ The Court of Common Pleas of Hamilton County — Term of July, in the
+year eighteen hundred and ninety-three, Hamilton county, ss.:
+“ The grand jurors of the county of Hamilton, in the name and by the authority of the state of Ohio, upon their oaths, present that on the tenth day of May, in the year eighteen hundred and ninety-three, with force and arms, at the county of Hamilton aforesaid, being an officer of the city of Cincinnati, county and state aforesaid, to-wit, a member of the Board of Legislation of said city of Cincinnati, duly elected, appointed and qualified, unlawfully and corruptly did solicit from one Joseph P. Peurrung, certain money of the amount and value of $200, for the purpose and with the intent to influence him, the said Daniel Bauer, with respect to his official duty, to-wit, with respect to his action, vote, opinion and judgment in a matter then being and pending before him, the said Daniel Bauer, as such officer, and the said Board of Legislation of said city, of which said Board of Legislation the said Daniel Bauer was a member, as aforesaid, to-wit, the ordinance, theretofore, to-wit, upon the twenty-eighth day of April, in the year 1893, offered and presented before said Board of Legislation, to authorize the O. C. C. & St. L. Railway Company, a corporation, to lay a railroad track across Sixth street, west of Carr street, in said city, and into the building situated upon the southwest corner of Sixth and Carr streets, which said building was then and there occupied and used by Peurrung Bros. & Co., a firm doing business in the state of Ohio, of which said firm the said Joseph P. Peurrung was then and there a member, said matter then and there being within the legislative power and authority of said Board of Legislation, contrary to the form of statute in’such case made and provided, and against the peace and dignity of the state of Ohio.”
+This indictment is framed under the second part of section 6900 of the Revised Statutes, which provides, that “whoever, being a member of the legislature, or a state or other officer, etc., either before or after his election * * solicits or accepts any such valuable thing to influence him with respect to his official duty, or to influence him with respect to his action, vote, opinion or judgment, in any matter pending * * before him, shall be imprisoned,” etc.
+The motion under consideration was filed by virtue of section 7249, Revised Statutes, which provides, that “ a motion to quash may be made in all cases where there is a defect apparent upon the face of the record, including defects in the form of the indictment, or in the manner in which an offense is charged.”
+Section 7215 provides, that “ no indictment shall be deemed invalid * * for any defect or imperfection which does not tend to the prejudice of the substantial rights of the defendant upon the merits.”
+Considering these last two sections together, a motion to quash should not be entertained, unless the defect or imperfection complained of be of such nature as to tend to the prejudice of the substantial rights of the defendant, upon the merits.
+The first ground of the motion is: “ Because said indictment does not in form or substance charge an offense against the laws of the state of Ohio.”
+It was claimed in argument by counsel for defendant that the statute in question, i. e„ section 6900, was not broad enough to include the class of officers in which the defendant would stand ; that the purpose of the statute was to make punishable certain wrongful acts there set out, committed by state officers. A careful reading of the statute will evince the fallacy of this claim, for the words of the section being “ whoever being * * a state or other officer,” the words “ or other officer ” clearly relate to a class of officers not including the preceding class, viz., “ state officers.”
+So, then, giving the language a natural and reasonable construction, it must be held to apply to any legally created office. The defendant, therefore, being an officer, to-wit, a member of the Board of Legislation of Cincinnati, is directly included within the language of this section. This was the only point that was raised under the first ground of the motion.
+The second ground is : “Because said indictment is bad for duplicity and this raises a very grave question of criminal pleading.
+The part of the indictment to which exception is taken under this clause of the motion is, that charging that the solicitation by the defendant was “for the purpose and with the intent to influence him with respect to his official duty, to-wit, with respect to his action, vote, opinion and judgment in a matter,” etc.
+It will be observed that thje statute uses these four words, “action, vote judgment or opinion,” in the disjunctive, and it is claimed that the use of more than one of them in one count of an indictment makes the change double, as charging a distinct offense for each one of such words. There can, therefore, be no question but that if the indictment had used but one of such words in charging this part of the offense, it would have been sufficient.
+Does the use of more than one of them render the charge double?
+At common law probably, it would; but we have departed so greatly from that system of law with reference to crimes and criminal pleading, that it is no safe criterion in this state, having been expressly repudiated, and we have to refer to the authorities of our own state to solve this question.
+The first case to which I refer is, Watson v. State, 39 Ohio St. 123, wherein it was held, (upon .an indictment under the first part of this section 6900, under which this present indictment is drawn, and which uses practically the same language upon the same branch of the offense), that “a single count which charged that B was a member of the house (of representatives), and also a member of a standing committee of such house, to which the bill was referred, and that the offer or promise was made to influence his vote therefor in the house, and his vote for a favorable report thereon in the committee, is not bad for duplicity. The charge thus made constitutes but one offense under the statute.”
+The court (p. 126) say : “To charge either without the other, would be good. To allege the bribe was offered to induce the member to do both, is certainly good.”
+I now refer to the case of State v. Connor, 30 Ohio St. 405. This was a prosecution under the section providing that it shall be unlawful to sell intoxicating liquors “to persons intoxicated, or who are in the habit of getting intoxicated” (2 S. & C. 1431). The indictment charged in one count a sale of such liquors to one who was intoxicated and who was in the habit of getting intoxicated. Motion to quash for duplicity being granted, upon exceptions by prosecuting attorney the Supreme Court held, there was but one offense — there was but one sale; and though the person to whom the sale was made represents two characters, under she statute there could be but one conviction.
+It is universally laid down that where the offense is marked by the disjunctive “or,” the indictment may well charge by substituting “and.”
+Bishop on StatutoryCrimes, speaking of alternate crimes, says, section 383 : “ If an indictment is to be drawn on a statute in alternative clauses, the pleader, as a general rule, * * * may elect to charge no more than constitutes an offense within one clause, or he may proceed upon two clauses, or three, or all, as he deems best, and all in a single count, employing the conjunctive ‘and,’ when the statute has the disjunctive ‘or.’”
+Our statute as to counterfeiting is: “ If any person shall falsely make, alter, forge or counterfeit,” etc. An indictment alleging the uttering of a “ false, forged and counterfeit bank note” is held tobe good: Mackey v. State, 3 Ohio St. 363.
+These are the only Ohio cases necessary to review, at this time.
+Within a few days, the District Court for the Fourth Judicial District of Minnesota has decided a motion to quash an indictment under a statute similar to ours, and by the kindness of Judge Hicks, who decided that case, I have a copy of the indictment and his decision on the motion.
+The indictment charged that the accused solicited a bribe upon the understanding that his official vote and action * * should be influenced, etc.
+Miller Outcalt, and Shay & Cogan, for motion.
+Thos. H. Darby, contra.
+Upon the hearing, the court overruled the motion to quash for duplicity, holding that the indictment charged but one offense, though two of the words, “ vote ” and “ action,” which are used in the statute in the disjunctive, were joined in the count by the conjunctive. State v. Markham.
+The latter case is exactly in point with the case at bar. .
+If it were proper to join two of these phases of crime, there could be no objection to joining ail; and upon the authorities referred to, my opinion is that but one offense is charged in this count.
+The third ground of the motion is that the matter does not allege the form or substance or manner of the solicitation.
+The language of the indictment upon this point is that defendant “unlawfully and corruptly did solicit from one Joseph P. Peurrung certain money,” etc.
+The word “solicit” is one having a well-understood meaning, and whether the solicitation were by words, conduct, or in whatsoever manner, this allegation sufficiently informs the defendant of the charge he must meet on the trial. Besides this, the examination of many cases and precedents has failed to bring to light any authority requiring the means of solicitation to be set out; on the contrary, the text books are against it directly: Bisbop on Cr. Pro.; Bishop on New Cr. Law.
+The fourth and fifth grounds of the motion were not urged in argument, but upon examination they are found not to be well taken.
+The offense charged against the defendant is, that as a public officer, i. e., member of the Board of Legislation, etc., he solicited a bribe to influence him with respect to official action, etc., upon a matter pending before said Board of Legislation. The only official duty devolving upon him as such official was, as declared by the law creating the board, purely legislative, so that the allegations of the indictment narrow the inquiry to the question : did the defendant solicit a bribe as alleged, to influence his legislative action, etc., in a certain matter, specifically set forth in the indictment, which was then pending before said board ?
+I think the indictmént sufficiently charges the offense, and for this reason, and the reason given upon the several grounds of the motion, the motion to quash the indictment will be overruled.
