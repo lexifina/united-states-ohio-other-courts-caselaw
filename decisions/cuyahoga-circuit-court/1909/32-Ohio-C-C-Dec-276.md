@@ -1,0 +1,32 @@
+---
+court: "Cuyahoga Circuit Court"
+decided: "1909-11-15"
+citations: ["32 Ohio C.C. Dec. 276"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Henry, Marvin and Winch, JJ.", "Henry and Winch, JJ., concur."]
+parties: ["Arthur R. Teagle, Exr. v. Arthur R. Teagle et al."]
+source_url: "https://static.case.law/ohio-cc-dec/32/cases/0276-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1666490
+---
+
+# Teagle v. Teagle
+
+## Majority (MARVIN, J.)
+
+MARVIN, J.
+The only question to be determined in this case is the meaning of Clause 8 in the last will and testament of Frank Teagle, deceased, which will was duly admitted to probate. That clause reads:
+“All the rest and residue of my property of every description I give, devise and bequeath to the surviving children (or their heirs) of my sister Elizabeth Hollis Teagle Ferris, of Salthorp, Swindon, England, and my sister, Mary Teagle God-win, of Seagry, England, and my brother Arthur E. Teagle, of Cleveland, Ohio, share and share alike.”
+The sister Elizabeth named was the mother of several children who survived the testator, and of one child who died before the execution of the will, leaving a child. The sister Mary was the mother of severál children, and the brother Arthur was the father of several children.
+The testator left other brothers, and at least one other sister. To some of these and to the children of some of these, bequests were made in the will. To some no bequests were made.
+It is urged on the one part here that the property bequeathed by this clause of the will should go one-third to the sister Mary Teagle Godwin, one-third to the brother Arthur E. Teagle, and one-third to the children of Elizabeth. Our attention is called to a great number of authorities on the meaning of the words share and share alike, and the holdings by the courts are not altogether uniform, nor can they all be reconciled with one another, but we think the natural meaning, the plain obvious meaning, of the words as used in this will is that whoever the parties are to whom this property is to go, each is to take an equal share with the others, so that if anything is given by this will to Mary or Arthur, each must take an equal share with each of those who take under the bequest to the surviving children (or their heirs) of Elizabeth. “Share and share aliké” to the ordinary mind means in equal parts, and unless the words are used in such wise as to show that some other meaning is to be attributed to these words, they must be held to mean in equal parts. And we think clearly from the language of the will itself, and a fair construction of the words, that nothing is bequeathed to Mary and nothing is bequeathed to Arthur, but that the children of Mary and the children of Arthur are the beneficiaries provided for. This construction requires no change in the wording of the clause at all.
+As was said in argument of this case appliéd to other things than persons this would be the other meaning.
+Suppose one said I have been traveling in Europe and I was much impressed with the art exhibits of Paris, and Florence and Rome. Would anybody doubt that what was meant was that he who said it was much impressed with the art exhibits of Paris, and the art exhibits of Florence, and the art exhibits of Rome ? Suppose one said, I have been traveling about the country and I find great beauty in the autumn leaves of Cuyahoga county, and Summit county, and Lorain county. Would anybody doubt that what was meant was that great beauty was found in the autumn leaves of each of these several counties, and not simply that the great beauty was found in the autumn leaves of Cuyahoga county, and that great beauty was found, without reference to autumn leaves, in Summit and Lorain counties? The question answers itself.
+Finding as we do that the meaning of the testator is perfectly plain in so far as bequests are made to the children and not the parents, certainly so plain that it would require such evidence of extrinsic facts as to deprive the words of their ordinary meaning, and finding in this case, if all the evidence produced were competent, no such extrinsic facts as would justify a holding that these words do not mean what they seem on their face to mean, we reach the conclusion that the bequests are to the children of Mary and Arthur, as well as to the children of Elizabeth.
+There remains, however, the question of the right of the grandchild of Elizabeth, Francis J., son of her deceased son,Frederick, who died prior to the date of the will. We are of opinion and hold that the words “or their heirs” include this grandson of Elizabeth.
+The only words which we find to be ambiguous in this clause of the will are these words “or their heirs,” and we must suppose that the testator meant something by the use of these words, and the most obvious meaning would seem to be that he meant to include the children of any one of Elizabeth’s children not living.
+One of Elizabeth’s children died since the will was admitted to probate, and of course the parties who would be entitled to the estate of that child would take his share here. This brings us to tbe conclusion that the estate should be divided into twenty equal parts, and divided one part to each of the children of Mary, one part to each of the children of Arthur, one part to each of the children of Elizabeth, now living, one part to the grandchild, Francis J., and one part to the proper representatives of her deceased son, Francis William.
+The decree to be taken will be the same as that taken in the court of common pleas, except that the share which Francis William would take, if he were living, should go to the administrator of his estate, or the executor of his will, instead of directly to his children. This, from the fact that when the testator died, the interest of Francis William vested and whatever personal property was coming to him from this estate would be a part of his estate to be administered upon.
+Henry and Winch, JJ., concur.
