@@ -1,0 +1,34 @@
+---
+court: "Cuyahoga Circuit Court"
+decided: "1902-12-15"
+citations: ["34 Ohio C.C. Dec. 514"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Caldwell, Hale and Marvin, JJ.", "Hale and Marvin, JJ., concur."]
+parties: ["Eva K. Dauber v. Elizabeth Dauber et al."]
+source_url: "https://static.case.law/ohio-cc-dec/34/cases/0514-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 636490
+cites_cases: ["23 O. C. C. 618"]
+---
+
+# Dauber v. Dauber
+
+## Majority (CALDWELL, J.)
+
+CALDWELL, J.
+The plaintiff, Elizabeth Dauber, brought this action in the court of common pleas of this county against the Independent Order of Foresters for the sum of $1,000, the amount of a certificate of insurance issued upon the life of George Dauber, her son. The certificate she sets up was issued in 1899, and in it she was named as the beneficiary. The defendant brought the money into court and interpleaded Eva K. Dauber, the plaintiff in error, with Eliza Dauber, the plaintiff below, whereupon Eva K. Dauber came in to the case and claimed that when George Dauber first became a member of the beneficial order, he made her the beneficiary in his certificate and she claimed that by reason of that fact and by reason of the fact that the constitution of the order made the fund payable to her, and by reason of other facts set up in her answer, she is entitled to the money in question.
+The administrator of the estate of George Dauber, Willis White, claims that by reason of a change in the constitution of the order, made in January, 1890, after the certificate on which the action was commenced, was obtained, he is entitled to receive the funds.
+Elizabeth Dauber obtained a judgment for this fund in the court below, and Eva K. Dauber prosecuted error in this court to reverse that judgment.
+It appears as a fact in this case, that the first certificate that George Dauber obtained when he became a member of the order, was obtained about 1894, and that Eva K. Dauber was named as the beneficiary in that certificate, thereafter a new certificate was obtained, in which Eva and the mother Elizabeth were each named as beneficiaries, each to receive one-half, and soon after that certificate was obtained in May, 1899, it was surrendered and a new one taken in which the mother Elizabeth Dauber is named as the beneficiary.
+The judgment of the court below was not only against Eva K. Dauber, but also against Willis E. White, administrator of the estate.
+The administrator has filed no petition nor cross-petition in this court, and he abides by the judgment rendered in the common pleas court, so that the question of whether the money should be paid to him as administrator, is not raised in this hearing, unless it is raised in the petition of the plaintiffs in error. It appears from an examination of the petition, that that question is not raised, and hence is not before the court.
+Article 2 of the constitution of the order states that “the object of this endowment fund shall be for the creation and maintaining of a fund for the better and sufficient support of the widows and orphans in the case of the death of a brother belonging to a court existing in the city of Cleveland.”
+The first claim made by the plaintiff in error is, that the constitution of the order limits the endowment fund to the support of widows and orphans and hence can not be made payable to the mother of the deceased, and that the certificate that was issued, making the mother of the deceased the beneficiary, is for that reason of no effect, and that nothing being accomplished by it and nothing in favor of the mother being accomplished by the one in which the wife and mother were made jointly beneficiaries, the original certificate, making the plaintiff in error the beneficiary, is in full force and for this reason she is' entitled to the fund in question.
+Section 3631 E. S. (Sec. 9457 G. C.), and especially subdivision 11 thereunder, point out who may be beneficiaries under a certificate of this character, and it is broad enough to include the mother; and the order being organized under this statute as defining its charter powers, had authority to make this certificate. in favor of the mother.
+If the constitution is to be read literally, as it is printed, instead of simply declaring a general purpose of the organization and made to read as though this particular purpose of benefit-ting widows and orphans, is intended to exclude all others who might be benefited under the state, then under this provision it might be said that the certificate would not be valid. But we think that the purpose of the provision in the constitution was simply to name a general purpose of the organization without undertaking to give it any definite limitation to the terms used, and, by issuing the certificate, making it payable to the mother, the order construed its meaning of this article. Then, even if the provision of the constitution is to be taken as literal and definite, it is a provision that could be waived by the order, and, notwithstanding that only widows and orphans are named, the order might make the certificate payable to any one designated in the statute; and, designating one within the statute but not within sueh literal meaning of the constitution, would be a waiver of the constitutional provision, and neither the plaintiff in error nor the order could object to the payment of the fund to the mother after such waiver had taken place.
+The next question raised by the plaintiff in error as to why the judgment should be reversed, is, that she had under the firsr certificate issued wherein she was named a beneficiary, such a vested interest in the fund that no change could thereafter be made without her consent. We think the authorities generally show, not only in this state but in other states, that the insurance is founded upon a contract wherein the assured reserves to himself the right at any time to change the beneficiary, and for that reason the beneficiary named in a certificate, until the death of the brother, takes nothing but a contingent interest in the fund, liable to be defeated at any time by the assured. This matter has recently undergone extensive discussion in Early v. Early, 13-23 O. C. C. 618 (3 N. S. 71), wherein Judge Cook delivers the majority opinion of the court, and Judge Laubie gives a dissenting opinion.
+The opinion of this court approves the opinion of the majority in that case. The matter is so clearly discussed in those opinions that we could add nothing to them except to multiply the cases that bear upon the questions involved, which would be of no benefit to this case.
+It is the judgment of the court that there is no error in the record before us, and the judgment of the court of common pleas is affirmed.
+Hale and Marvin, JJ., concur.
