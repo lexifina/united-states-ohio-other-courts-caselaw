@@ -1,0 +1,32 @@
+---
+court: "Cuyahoga County Probate Court"
+docket: "561892"
+decided: "1958-10-15"
+citations: ["80 Ohio Law Abs. 94"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IRELAND, Exr., Plaintiff, v. CLEVELAND TRUST COMPANY and JAMES DUANE IRELAND, Co-Trustees et, Defendants."]
+source_url: "https://static.case.law/ohio-law-abs/80/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1795469
+cites_cases: ["154 A. L. R. 682", "155 Oh St 293", "163 Oh St 409", "168 Oh St 221", "191 N. E. 12", "45 B. T. A. 691", "45 N. E. 876", "70 Oh St 92"]
+---
+
+# Ireland v. Cleveland Trust Co.
+
+## Majority (By KINDER, J.)
+
+OPINION
+By KINDER, J.
+In this action the executor seeks by way of declaratory judgment an interpretation of §2107.06 R. C., which invalidates under certain conditions gifts, devises or bequests for charitable purposes, contained in a will where the testatrix dies within a year of the date of execution thereof. The question arises on the expressed willingness of the sole heir-at-law, who is the direct descendant of the testatrix and the residuary legatee under the will, to commit himself to waive the benefits of this statute if, under its provisions, such waiver or disclaimer shall be legally effective.
+The case is unusual in that it calls for an interpretation of §2107.06 R. C., purporting to invalidate charitable bequests where the testatrix dies within a year of the execution of the will involved, in the face of the expressed willingness of the sole heir-at-law, James Duane Ireland, to waive his rights thereunder. Such rights involve a fund of approximately $1,500,000.00 estimated to produce an income of $100,000.00 a year to the charitable- organization involved. The charitable organization is the “Elizabeth Ring Mather and William Gwinn Mather Fund.” The purposes of the Fund, incorporated in 1954, are to authorize gifts and distribution of monies to a very wide range of charitable, religious, educational and community activities.
+The sole heir-at-law and residuary beneficiary, James Duane Ireland, has executed and tendered a- form of such waiver and disclaimer which in substance is unqualified and irrevocable.
+The cause has been submitted upon a record which includes a copy of the will in question, together with such other documents as were considered material with respect to the intent of the testatrix and the means employed by her to give effect to such intent, and this particularly with reference to the identity and scope of the charitable purposes which are the subject matter of the bequests contained in the instant and likewise in a prior will. This record also contains the testimony of James Duane Ireland, the sole heir-at-law and residuary beneficiary, which testimony is descriptive of the testatrix’s charitable plans and his own willingness to waive any right or rights which he as sole heir-at-law and residuary beneficiary would, in the premises, have under the statute in question.
+The jurisdiction of this Court to make a determination of the effect of Ireland’s waiver is clear, notwithstanding the fact that the waiver has not actually been filed. The Probate Court has jurisdiction under §2101.24 (L) R. C., to render declaratory judgments. In a declaratory judgment case, the Supreme Court has approved the making of a determination regarding the legal effect of certain facts which had not yet occurred but were imminent. Sessions, Trustee v. Skelton, 163 Oh St 409. It will be required that the waiver by Ireland be filed contemporaneously with the decree in this case.
+It seems , quite clear that §2107.06 R. C., as construed by the courts of this State permits and authorizes a waiver by the persons or classes named therein of the benefits thereby created with the consequent validation of such gifts, devises or bequests of a charitable nature as are contained in the will under consideration.
+That this interpretation of the statute under consideration and the conclusion herein reached is correct, results from Thomas v. The Trustees of Ohio State University, 70 Oh St 92. Deeds v. Deeds, 58 Abs 129. Estate of Dudley S. Blossom, 45 B. T. A. 691. A similar result and conclusion has been reached in other states where statutory provision similar to §2107.06 R. C., is in effect. Trustees of Amherst College v. Ritch, 45 N. E. 876 (N. Y.). In re Hills, 191 N. E. 12 (N. Y.) See also 154 A. L. R. 682. In Scott on Trusts, Section 362.4, the rule is stated as follows:
+“Where the statute, whether requiring that the will making gifts to charity be executed more than a certain time prior to the testator’s death or limiting the. amount of the testator’s estate which can be given to charity, is applicable only where the testator leaves certain near relatives, the question arises as to a waiver by such relatives. Clearly enough if they all join in such waiver after the death of the testator, the charitable disposition is valid, since the restriction is imposed only for their benefit.” (p. 2602.)
+Kirkbride v. Hickok, 155 Oh St 293 to which reference has been made is, upon analysis, not to the contrary. There the descendants sought the benefit of the statute and the Court held there was no waiver.
+That the right of waiver under this statute thus interpreted rests in James Duane Ireland, to the exclusion of other persons named in the statute, seems clear. Ireland is the sole heir-at-law of the testatrix and while the question of whether the protection of the statute applies only to the first living generation of descendants or to all succeeding generations has not been considered in this State in any reported decision, it seems to the Court that giving the language and phraseology of the statute its usual meaning, including the use of the word “or” between the words “issue” and “lineal descendants,” requires a conclusion that Ireland qualifies as the only person in the protected class who could waive the benefits and protection of the statute as hereinabove interpreted. Such conclusion seems justified by the interpretation recently given the statute of descent and distribution, which is similarly phrased. Sec. 2105.06 R. C. Kraemer v. Hook, 168 Oh St 221. This is the conclusion reached under a New York statute similar to the Ohio statute under consideration and differing only in matters not here material. In re Plaster’s Estate, 37 N. Y. S. (2nd) 498.
+A decree may be entered accordingly.
