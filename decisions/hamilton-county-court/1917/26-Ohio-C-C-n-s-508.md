@@ -1,0 +1,33 @@
+---
+court: "Hamilton County Court"
+decided: "1917-02"
+citations: ["26 Ohio C.C. (n.s.) 508"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jones (E. H.), P. J., concurs; Gorman, J., not participating."]
+parties: ["The Harkness & Cowing Company et al v. The Village of St. Bernard et al; and William G. Roberts, Administrator, etc., v. Same."]
+source_url: "https://static.case.law/ohio-cc-ns/26/cases/0508-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1604707
+cites_cases: ["13 O. S., 406", "23 O. S., 610", "39 O. S., 281"]
+---
+
+# Harkness & Cowing Co. v. Village of St. Bernard
+
+## Majority (Jones (Oliver B.), J.)
+
+Jones (Oliver B.), J.
+These two cases were heard together on appeal from the court of insolvency, as they involve the same issues.
+Two questions are involved in the cases: first, as to whether Murray road, within the village of St. Bernard, running from Carthage avenue to the Miami canal, was a public highway at the time the improvement was made; and, second, whether the several tracts of land assessed for this improvement of Murray road were benefitted by the improvement in an amount equal to the amount assessed against it.
+A great deal of interesting evidence was offered in regard to the original use of this road. It was shown that as a private road or lane it was opened and has been used for at least seventy-five years, and that during the latter part of that time it was used by the general public more or less in passing between Carthage avenue and the canal bridge. But it is not necessary in this proceeding to determine the character of the road prior to the year 1890. At that time, upon a petition filed by James M. Murray and others under proceedings for the laying out of a county road as provided by law, the county commissioners took certain proceedings and laid out a county road over the line of Murray road, as later improved, and extending from Carthage avenue clear to Paddack road. A record of these road proceedings, from the county records, has been produced in evidence. These proceedings show that notices were given in accordance with R. S., 4641 (G-. C., 6865-6866); 'and the regularity of these notices was found by the county commissioners and the viewers appointed as provided by R. S., 4642 (G. C., 6867), and the viewers and county surveyor proceeded to lay out the road.
+It is objected that this record fails to show that notices were given under R. S., 4645 (G. C., 6872), to the owners of land on the north and south sides of this road between the canal and Carthage avenue, although the record does show that notices were given to property owners for that part between the canal and Paddack road. The failure to give this notice is .the only objection made by the plaintiffs as to the regularity of these road proceedings, and they contend because of the failure of the record to show such notice, that such part of the road never became a public county road.
+The omission to give the notice required by R. S., 4645, would •not render the proceedings for the laying out of the county road invalid. The notice required by that section is for the purpose of-furnishing an opportunity to the owner of land taken for the opening of a county road to claim compensation. If such land owner was not properly notified, his right to compensation might not have been cut off by the proceedings. Whether or not he was duly compensated is not material to this case, but the fact that no compensation was claimed or allowed rather goes to show that that part of the road had already become by use a public road. But whether so or not, the notice required by the last mentioned section is not jurisdictional in its nature. Beebe v. Scheidt, 13 O. S., 406; Hasler v. Hitler, 11 Bull., 246 (Pickaway Co. Dist. Ct.).
+By these proceedings Murray road became a county road, was regularly platted and recorded as such in the county road records, and was so recognized by the county commission in March, 1892, in their appointment of a bridge tender for the bridge at the canal. It was indicated as a county road on the annexation plat when the tract in which it was located was annexed to the village of St. Bernard, and was so recorded in the recorder’s office. And as such county road it became a public street of the village of St. Bernard by such annexation. Steubenville v. King, 23 O. S., 610.
+But, outside of the proceedings of the county commissioners in laying out this highway as a county road, the action of .W. G. Roberts, trustee, and of the Ross heirs in making their deed to the Norfolk & Western Railway Co., and their plat attached thereto, which was recorded in the recorder’s office, and in the execution of subsequent deeds and leases, in which descriptions were made referring to such plat, and recognizing Murray road as a public highway, operated as a dedication of Murray road, if it was not already a public street. Especially does this appear when coupled with a recognition of its existence as a public street by the village, in putting water pipe and electric lights therein, cinder sidewalk and temporary macadam repairs thereon, and in the ordinance establishing the grade and ordering this improvement. . Cincinnati v. Leeds, 3 App. Ct., 123; Winslow v. Cincinnati, 6 N. P., 47; Wright v. Oberlin, 3 C.C.(N.S.), 342.
+The Harkness & Cowing Co. and the Elmwood Castings Co. both joined in a petition for the improvement of this part of Murray road, in which it was described as a public thoroughfare, and both of these companies are therefore estopped from questioning the title of the village or its right to improve Murray road. Tone v. Columbus, 39 O. S., 281.
+The court is therefore compelled to hold against the plaintiffs on the first proposition, and find that the Murray road was a public highway at the time the improvement was made.
+The assessment made in this case was on the benefit plan. Murray road affords the only access as to all the tracts of land in the ease, except the one at the corner of Carthage avenue, and it can not be found under the evidence that the improvement of this road was of no benefit whatever to these tracts of land, merely because they are now used for manufacturing purposes, or are most available for such purposes.
+A full consideration of all the evidence offered leads the court to believe that all these tracts have been benefited to the extent of the several amounts assessed upon thm.
+The petitions in both cases must therefore be dismissed, at the costs of the plaintiffs.
+Jones (E. H.), P. J., concurs; Gorman, J., not participating.
