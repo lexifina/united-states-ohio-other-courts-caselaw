@@ -1,0 +1,43 @@
+---
+court: "Ohio Circuit Court"
+decided: "1889-11"
+citations: ["4 Ohio C.C. 275"]
+reporter: "ohio-cc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Swing, Cox and Smith, JJ."]
+parties: ["John W. Hargo v. Meyers & Ludecke, a firm doing business in the State of Ohio. Same v. Harff & Cramer."]
+source_url: "https://static.case.law/ohio-cc/4/cases/0275-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1496073
+cites_cases: ["1 Ohio St. 15", "14 Ohio St. 213", "20 Ohio, 7", "24 Ohio St. 611", "38 Ohio St. 659"]
+---
+
+# Hargo v. Meyers & Ludecke
+
+## Majority (Cox, J.)
+
+Cox, J.
+These are two actions brought by the plaintiff to recover against the defendants, as partners, a penalty of one hundred dollars, under the act of February 7, 1884, entitled “ an act to protect all citizens in their civil cmd legal rights,” (Vol. 81, Ohio Laws, page 15, and as amended in the same volume, page 90).
+Section 1, as amended, provides, that all’persons within the jurisdiction of said state shall be entitled to the full and equal enjoyment of the accommodations, advantages, facilities and privileges of ——, restaurants, eatinghouses, barber shops, public conveyances on land and water, theaters and all other places of public accommodation and amusement, subject only to the conditions and limitations established by law, and applicable alike to all citizens.”
+Section 2, page 16, provides, “that any person who shall violate any of the provisions of the foregoing section by denying to any citizen, except for reasons applicable alike to all citizens of every race and color, and regardless of color or race, the full enjoyment of any of the accommodations in the first section enumerated, shall for every such offense forfeit and pay a sum not to exceed one hundred dollars to the person aggrieved thereby, to be recovered in any court of competent jurisdiction in the county where said offense was committed; and shall also for every such offense, be deemed guilty of a misdemeanor, and upon conviction thereof shall be fined not to exceed one hundred dollars, or shall be imprisoned not more than thirty days, or both.”
+The petition of plaintiff alleges that he was a colored citizen, and within the jurisdiction of the state of Ohio on the 3d of March, 1887.
+That on said day he went into the restaurant and eating-house of defendants Myers & Ludecke, on Walnut street, in Cincinnati, between the hours of 12 M. and 1 o’clock, P. M., and applied to Mr. Ludecke, one of the members of defendant firm, personally, for a meal of victuals; but said Ludecke and this defendant refused and denied to plaintiff said meal and the equal and full enjoyment of the accommodations, advantages, facilities, etc. of said restaurant and eatinghouse, by saying, in effect that they would not feed him or other colored people there, and prays for judgment against defendant for ■one hundred dollars and costs.
+The petition against Harff & Cramer is substantially the same, except that he states that he took a seat at a vacant table in the restaurant, and called upon one of their waiters for a meal, which the waiter denied, whereupon he applied to Mr. Charles Cramer, one of the members of the defendant’s firm, personally for a meal; but said Cramer likewise refused and denied to plaintiff said meal, saying in effect that they could not feed colored people there ; and added that plaintiff must go down into the cellar, which plaintiff declined to do; and asking judgment against defendant for one hundred dollars and cosfc.
+To each of these petitions, a demurrer was filed, which was overruled by the court, and answers subsequently filed by leave, denying each and every allegation of the respective petition. The cases were then set down for trial before a jury.
+They were, however, taken by the court from the jury, and decided as on demurrer, the demurrer sustained, and the petition dismissed on the ground that the business of defendants was one which existed independent of permission of the public authority, and that they could supply or refuse to supply to any person they pleased. To this judgment error is prosecuted. It is claimed by plaintiff that the business of defendants is a public business; that they can only carry it on under what is called the Russel act, 80 Ohio Law, 133, sec. 6, by paying for and taking out a license from the city, and that they are bound fo furnish meals to any person without respect to color, who is decently clad and presents himself in a proper manner and at a reasonable time, and that the facility furnished must be equal to white and colored. On the part of defendants it is claimed :
+First — That an action for a penalty cannot be maintained against a partnership as such.
+Second — That the fact that defendants pay a license fee to keep a restaurant, does not make their business a public one, and requiring them to accommodate any person who calls.
+Third — That the section applicable to restaurants, is an invasion of private rights and business, and that it is therefore unconstitutional.
+As to the first question, the statute is a highly penal one, and in its nature criminal. The violation of it, is denominated “an offense for which the offender shall forfeit and pay one hundred dollars to the party aggrieved; ” “ and the offender shall also be deemed guilty of a misdemeanor, for which he is subject to a fine of one hundred dollars, or imprisoned for thirty days, or both.”
+It is well settled that all proceedings under such a statute must be strictly construed, and cannot be extended by implication to cases not strictly within their terms. 14 Ohio St. 213; 20 Ohio, 7; 1 Ohio St. 15 ; Id. 395; Id. 422; 38 Ohio St. 659. The language of the statute is, that “ any person who violates the statute shall be liable to its punishment. This designates the offender an 1 individual,’ and responsible as an £ individual,’ not as a partnership, or as a member of a partnership or corporation.”
+In an analogous case, The State of Ohio v. The Fertilizer Co., 24 Ohio St. 611, the Supreme Court held that under a statute making it penal for “any person” to erect or keep upa nuisance, an indictment would not lie against a “corporation.” That in its primary sense the word person means a natural person, and that the legislators in the use of the word person, could not have been intended to mean a corporation.
+Now, this action is not brought against an individual, or in the language of the law, against á person. It is brought against the person by its firm name. Who compose that firm is not stated. Persons are invariably in this country'designated by a chrislian name, and in bringing actions against a person, and especially criminal actions, it is necessary to aver the Christian andjsurname; or if unknown, to give that as a reason for not stating it.
+Our statutes authorize an action to be brought in civil cases against a partnership doing business in the state of Ohio, by its firm name”; but an execution issued on such judgment, can only be levied on the partnership property. The individual members of the firm can only be made parties to the judgment by a separate action.
+Butterworlh, Grossly & Bailey, attorneys for plaintiff.
+M. F. Wilson and Von Segjern, Phare* &. Deindd, attorneys for defendants.
+“A mere tort, committed by one partner, will not bind the ■other copartner, unless it be either authorized or fladopted by the firm, or be within the proper scope and business of the partnership.” Story on Partnership, sec. 168.
+“A tort, an act in violation of' a particular statute law, and attended with a forfeiture, is not within the proper scope and business of a partnership entered into for lawful purposes.” 4 Blatchford Rep. 134; 6 Federal Rep. 175.
+In the case of Porter & Taylor v. Vance, 4 Lea (Tenn.), 630, it was held, that when a motion was made to exact a penalty of 12-|- per cent., and to strike from the rolls a firm of lawyers one of whom had collected and failed to pay_ over moneys, that it could not be applied to a member who did not participate in the receipt or lawful appropriation of the money. The penalty can o.nly be applicable to the one derelict in duty and personally guilty of wrong.
+For the reason therefore that the action will not lie against a partnership, as such, to recover the penalty of the statute, the judgment of the court of common pleas is affirmed.
+This point being decisive of the cases, it is not necessary for us to pass on the question as to the validity or constitutionality of the law.
