@@ -1,0 +1,40 @@
+---
+court: "Dayton County Municipal Court"
+docket: "94 CRB 3755"
+decided: "1994-10-28"
+citations: ["66 Ohio Misc. 2d 163"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The STATE of Ohio v. FIELDER."]
+source_url: "https://static.case.law/ohio-misc-2d/66/cases/0163-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6714340
+cites_cases: ["1989 WL 62873", "1991 WL 36532", "603 N.E.2d 294", "612 N.E.2d 813", "77 Ohio App.3d 706", "82 Ohio App.3d 567"]
+---
+
+# State v. Fielder
+
+## Majority (Alice 0. McCollum, Judge.)
+
+Alice 0. McCollum, Judge.
+This cause came before the court on defendant Randall Fielder’s motion to dismiss for failure to bring defendant to trial in a timely manner. The state has not responded.
+On June 21, 1994, in the city of Dayton, Ohio, defendant was arrested and charged with two first degree misdemeanors: inducing panic, in violation of R.C. 2917.31(A)(3), and handgun owner’s identification card required, in violation of Section 138.11, Revised Code of General Ordinances (“R.C.G.O.”) of the city of Dayton, and a felony, felonious assault on police officers, in violation of R.C. 2945.71(B)(2). All charges stem from the same incident that occurred at the same time at defendant’s home. On June 23, 1994, defendant was arraigned on the misdemeanor charges and given an “own recognizance” or “O.R.” bond. At the same time, he had his initial appearance on the felony, bond was set at $50,000, and a preliminary hearing was set. The defendant has remained in jail since his arrest on June 21, 1994.
+Trial on the misdemeanors was set for July 13, 1994. On July 8, 1994, the city and state requested and received a continuance due to the unavailability of an essential witness. Trial was reset to August 1, 1994. However, on July 27, 1994, defendant requested and received a continuance because defense counsel was unavailable. Trial was reset to August 19, 1994. However, on that date, the city and state requested another continuance, which was granted. Trial was reset for September 9, 1994. On that date, defense counsel moved to dismiss the misdemeanor charges on the ground that the city and state had failed to bring defendant to trial in a timely manner. The city and state moved the court to withdraw the charges without prejudice to allow the matter to be refiled. The court denied the request of the city and state and requested that the defendant put his motion in writing with supporting memorandum for further consideration. This motion was filed on September 16, 1994.
+The defendant contends that his right to a speedy trial guaranteed by the Constitution and R.C. 2945.71 was violated.
+The pertinent section of R.C. 2945.71 reads as follows:
+“(B) A person against whom a charge of misdemeanor * * * is pending in a court of record, shall be brought to trial:
+((‡ M
+“(2) Within ninety days after his arrest or the service of summons, if the offense charged is a misdemeanor of the first or second degree * * *.
+“(C) A person against whom a charge of felony is pending:
+U * * *
+“(2) Shall be brought to trial within two hundred seventy days after his arrest.
+(( # ‡ ifc
+“(E) For purposes of computing time under divisions (A), (B), (C)(2), and (D) of this section, each day during which the accused is held in jail in lieu of bail on the pending charge shall be counted as three days. * * * ”
+To start the analysis, the actual time from arrest to trial date to the date of defendant’s motion should be counted. From the arrest on June 21, 1994, to the first trial date, July 13, 1994, twenty-two days had elapsed. The city and state requested a continuance, and trial was set for August 1, 1994. An additional nineteen days elapsed. The total days counted for purposes of R.C. 2945.71 at this point were forty-one. Then defense counsel requested a continuance, and trial was set for August 19,1994. Pursuant to R.C. 2945.72, this period extended the time allowed by the speedy trial statute. Then the city and state requested a continuance, and trial was reset for September 9, 1994. Twenty-one days ran against the city and state at this point for a total of sixty-two days. At all times, defendant was incarcerated, being held on the $50,000 bond.
+Based on these facts, defendant argues that since the. defendant was held in jail in lieu of bond pending trial, and that the felony and the misdemeanor charges arose out of the same incident, even though defendant has been released O.R. on the misdemeanor cases, the proper way to determine the trial date for the misdemeanors would be to count the days as if defendant were incarcerated on the misdemeanor charges. Hence, the defendant should have been brought to trial within thirty days. More specifically, defendant alleges that he should be given three days’ credit for every one day of incarceration.
+This issue is one of first impression in this state. A majority of the appellate courts that have examined the issue of how to determine the statutory time when misdemeanors and felonies are joined together in one single incident have determined that the statutory time limits applicable to the misdemeanors are not enlarged simply because there is a pending felony. State v. Walton (1991), 77 Ohio App.3d 706, 603 N.E.2d 294; State v. Dunson (Mar. 20, 1991), Hamilton App. No. C-9000218, unreported, 1991 WL 36532; State v. Leadingham (June 1, 1989), Scioto App. No. 1749, unreported, 1989 WL 62873. Therefore, at the maximum the city and state would ordinarily have ninety days within which to bring defendant to trial on the misdemeanors if the defendant were not incarcerated.
+There is little doubt that the triple-count provision applies to a defendant held on multiple counts on the same indictment if all counts are to be heard at the same trial. 27 Ohio Jurisprudence 3d (1993), Criminal Law, Section 1633. The Franklin County Court of Appeals recently held that where more than one charge has arisen from a single transaction and the multiple charges share a common litigation history from arrest onward, incarceration on the multiple charges will be considered. State v. Parsley (1993), 82 Ohio App.3d 567, at 571, 612 N.E.2d 813, at 815 (incarceration on the “pending charge” for purposes of R.C. 2945.71[E]). In the Parsley case, the defendant was charged with two separate misdemeanors, domestic violence and assault, arising out of the same incident. The charges, which were filed on separate dates and given different case numbers, involved different complaining witnesses. The defendant was arraigned at the same time, and the cases were assigned to the same judge, who conducted a single pretrial for both charges. The same trial date and time were set for both charges. Hence, the trial court gave the defendant the three-to-one credit pursuant to R.C. 2945.71(E).
+Analogizing to the Parsley case, which obviously is not on all fours with the fact situation before the court, an examination of the litigation history of this case is necessary. The defendant was arrested on both charges at the same time. However, after bond was set on each of the charges, the misdemeanors and felony follow different paths to litigation. The misdemeanors were given one case number and the felony is given a different one. Each case was assigned to a different judge in a different court. The misdemeanors were set for trial and the felony was set for a preliminary hearing. The misdemeanors remained in the Dayton Municipal Court and the felony is in the Montgomery County Common Pleas Court. Each court has to account for its case in its statistical report to the Ohio Supreme Court. Each case is separate and distinct.
+In light of the foregoing, the court finds that the defendant is not entitled to the three-for-one provision in calculating the time within which he should be brought to trial. The defendant is not being held in jail in lieu of bail pending the misdemeanor charges. Therefore, defendant’s motion to dismiss is hereby DENIED.
+Motion denied.
