@@ -1,0 +1,43 @@
+---
+court: "Cuyahoga County Circuit Court"
+decided: "1902-02-10"
+citations: ["3 Ohio C.C. (n.s.) 528"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Marvin, J.; Caldwell, J., and Hale, J., concur."]
+parties: ["John Rodgers & Son v. George Forbes and Jacob Schoen, Receiver."]
+source_url: "https://static.case.law/ohio-cc-ns/3/cases/0528-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1795262
+---
+
+# John Rodgers & Son v. Forbes
+
+## Majority
+
+Rodgers & Son had a judgment against George Forbes. Failing to obtain satisfaction of such judgment by execution, they commenced a proceeding on May 6,1901, before one of the judges of the court of common pleas of this county by filing the proper affidavit with such judge, under Section 5475, Revised Statutes, and the judge thereupon appointed Jacob H. Schoen, referee, as authorized by Section 5477, Revised Statutes. ‘ "
+The referee, upon the examination of a debtor of the judgment debtor, found and reported to the court that there was in the hands of such debtor of the judgment debtor the sum of $431.45 belonging to such judgment debtor, George Forbes.
+Thereupon, on May 9, 1901, the said Jacob EL Schoen was appointed by such judge of the court of common pleas a receiver to take possession of the sum. so found due of the said George Forbes, and this the receiver did.
+On May 15, 1901, the said George Forbes filed his petition in bankruptcy in the District Court of the United States for the Northern District of Ohio, and on May 16, 1901, he was duly adjudged a bankrupt by said court; and on May 27, 1901, H. L. Snyder was duly elected trustee in bankruptcy of the estate of the said George Forbes, and on May 30, 1901, he duly qualified as such trustee.
+On June 11, 1901, the said receiver made his report to the court of common pleas of this county, showing the receipt by him of said $431.54, and claiming to be allowed for his services and expenses the sum of $175.
+The trustee in bankruptcy filed exceptions to the report of the receiver, and makes the claim that the entire amount which came to the receiver’s hands shall be paid to him. An order having been made in the court of common pleas, an appeal is taken to this court, and we are now called upon to say what the receiver shall do with this money.
+On the part of the plaintiff it is urged that it should be applied, first, to the payment of the costs and expenses in connection with the proceedings in aid of execution, and, next, toward the payment of the plaintiff’s claim.
+On the part of the defendant it is said that it is clear that no part of it can be applied to the payment of the plaintiff’s claim, and in support of this we are cited to Section 67f of the bankrupt act of 1898. This sub-section reads:
+“That all levies, "judgments, attachments or other liens obtained through legal proceedings against a person who is insolvent, at any time within four months prior to the filing of a petition in bankruptcy against him, shall be deemed null and void in case he is adjudged a bankrupt, and the property affected by the levy, judgment, attachment or other lien shall be deemed wholly discharged and released from the same, and shall pass to the trustee as a part of the estate of the bankrupt, unless the court shall, on due notice, order that the right under such levy, judgment, attachment or other lien shall be preserved for the benefit of the estate; and thereupon the same may pass to and shall be preserved by the trustee for the benefit of the estate as aforesaid. ’ ’
+It seems clear from the language of the statute that the plaintiffs can not hold this fund, or have any part of it applied upon the payment of their claim by reason of any lien created by the proceedings in aid of execution if any such lien ever was created. But, on the part of the plaintiffs, it is said that no lien ever was created in favor of the plaintiffs, but that without any such lien, the plaintiffs should be entitled to have paid the whole or some part of this by reason of their diligence in discovering this fund.
+It would surely seem an anomaly to hold that if these plaintiffs had a lien by virtue of the proceedings in aid of execution they could not have any part of this money paid to them by the receiver; and yet to hold that having no lien they may have it so paid. Surely the rights of one with a lien upon the fund are not inferior to those of one having no lien upon it. And we hold that no part of the fund is to be paid to the plaintiffs.
+We come, then, to consider the question of whether the receiver may retain out of the fund his proper compensation and expenses. He was acting as the officer of the court in his capacity as referee and also in his capacity as receiver. The funds are now in his hands as such officer of the court. The trustee in bankruptcy can take this money from him only by an order of this court.
+It would seem the proper province of this court to pay its officer for his -services and expenses, and we find authority for holding that it should so pay in Lesser Brothers, 5 Am. Bank Rep., 320. In the decision by the circuit court of appeals of the second circuit,, the opinion being delivered by Judge Shipman, the last clause of the syllabus reads:
+“Where certain creditors have by much diligence and litigation obtained a fund for the benefit of all the other creditors, and they are stayed from proceeding to enforce their judgment against such fund, it is proper to permit them to become parties in the proceedings by the trustee in bankruptcy instituted in the state court to obtain the money in the hands of the receivers belonging to the bankrupt’s estate, and for such creditors to make an application for an allowance to them from said fund as a reasonable compensation for their costs, expenses and disbursements in the litigation in the state court, and obtain such allowance, if in the opinion of the state court it is proper and within its power to grant.”
+In this case, one Metcalf, a creditor of the bankrupt, had brought an action in the nature of a creditor’s bill against Lesser Brothers, who afterward were adjudged bankrupts. By this proceeding a large amount of property belonging to the bankrupts was found to have been transferred by them to others in fraud of the rights of their creditors; and this property was táken possession of by a receiver appointed in the state court. By the adjudication in bankruptcy, it was held that Metcalf was not entitled to receive anything in payment of his claim out of these assets, but was remitted to the proof of his claim in bankruptcy as a creditor like the other creditors.
+On page 325, the court, in its opinion, uses this language:
+“Inasmuch as the fund was in the custody of the state court and had been in such custody prior to the institution of the proceedings in bankruptcy, it was proper to make no order in regard to the action of that court, but to direct the trustee in bankruptcy to apply to it for its order upon the receiver to make payment to him.” .
+Here, in the present ease, the trustee is here asking for such order of this court.
+The court, in the case last quoted from, then holds that the trustee in bankruptcy, coming into the state court, should “present to that court such considerations and facts as may bear upon an application for an allowance to them (the plaintiffs) from the fund, in the nature of a reasonable compensation for their costs, expenses and disbursements in the litigation which resulted in the defeating of the fraudulent attempts of the bankrupts in wresting the funds from the hands of the receivers applied for in fraud of creditors and in its preservation for their, actual benefit.”
+W. E. Slabaugh, for plaintiffs.
+And the court further says, on page 326:
+“The said appellants (Metcalf Bros. & Co.) are allowed to appear in said court, make an application for an allowance to them from said fund, at a reasonable compensation for their costs, expenses and disbursements in the litigation in the state court, and obtain such allowance if in the opinion of the state court it is proper and within its power to grant.”
+No question is made here that the claim made by the receiver of an allowance of $175 is unreasonable, and the order of the court will be that such receiver out of the funds in his hands, pay—
+First. The costs of this proceeding.
+Second. That after retaining for expenses of himself and attorneys the sum of $175, he pay the balance of said sum of $431.54 to the trustee in bankruptcy, H. L. Snyder.
