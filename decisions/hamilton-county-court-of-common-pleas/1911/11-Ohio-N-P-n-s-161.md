@@ -1,0 +1,44 @@
+---
+court: "Hamilton County Court of Common Pleas"
+decided: "1911-01"
+citations: ["11 Ohio N.P. (n.s.) 161"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Frederick Stites v. William G. Hier."]
+source_url: "https://static.case.law/ohio-np-ns/11/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 891483
+cites_cases: ["17 O. S., 254", "67 O. S., 106"]
+---
+
+# Stites v. Hier
+
+## Majority (Gorman, J.)
+
+Gorman, J.
+Decision on motion for new trial.
+The defendant urges a new trial herein on several grounds:
+1st. On the ground that the court erred in admitting the evidence of Dr. William K. Knight on behalf of plaintiff. It' is said .that this'witness testified as to the proper, usual and approved treatment that should be employed by a surgeon in treating a wound, and that this standard of treatment is contrary to that laid down by thé 'Supreme Court in Gillette v. Tucker, 67 O. S., 106.
+.. It is urged that the degree of care which, a physician and surgeon -is bound to exercise, is that laid down in the syllabus of the above cited case: “the average degree of skill, care and diligence exercised' by members of the same profession practicing in the •same- or a similar-locality in the light of medical and surgical science. ”...... ■ - " ■ - ......
+While the word “average” is used in the syllabus, it will not be found in the opinion of the court as delivered by Judge Price. On page 122 of this report is found the language upon which no doubt the -syllabus is based, viz.:
+“And the engagement was such that the law implies a promise on the part of the surgeon, the plaintiff in error, that for the operation and subsequent necessary treatment, he would use due care and diligence to the end that a recovery might be had.”
+Now what was the due care which the law implied that he had promised to exercise? The court on this same page further along defines it in these words:
+‘1 In the engagement of- the plaintiff in error as a surgeon, he assumed -to exercise the ordinary care and skill of his profession in the light of the modern advancement and learning on the subject, and became liable for the injuries resulting from his failure to do so.”
+Not a word about the “average degree of skill,” etc., and the court then quotes approvingly the language of the court in Craig v. Chambers, 17 O. S., 254, as the correct rule, as follows:
+1 ‘ The implied liability of a surgeon, retained to treat a case professionally, extends no further, in the absence of a special agreement, than that he will indemnify his patient against injurious consequences resulting from his want of the proper degree. of skill, care or diligence in the execution of his employment.”
+And the -court further says:
+“Moreover, we hold the proposition to be sound that this degree of skill and care (not the average degree) is to be exercised not only in performing the operation, but also in the subsequent necessary treatment following such operation,” etc.
+*And in the second syllabus of this case it is said:
+“It is the duty of the physician and suhgeon to exercise due and ordinary care and attention not only i-n and about the operation- which he decides to be necessary, but also * * * to render such continued further care and treatment as the necessity of the case requires; and he is liable for injuries and damages which proximately result from the want of such ordinary skill, care and attention.”
+How can it be ascertained wbat the average degree of care, skill and diligence exercised by the members of the profession may be, if it does not mean ordinary care, etc., the care, skill and diligence exercised by an ordinary surgeon? Now, is there any difference between the expression, “average degree of care,” etc., and the expression, “ordinary degree of care, skill and diligence”? We are unable -to see wherein the distinction lies. Now how can the court and jury learn what is the “average degree of care,” etc., or the “ordinary degree of care,” etc., to be exercised by surgeons except by introducing evidence of what the ordinary surgeon usually. or ordinarily does in accordance with the proper or approved rules of surgery? Not what he does contrary to the proper method of treatment, or in violation of the approved rules of the practice of surgery.
+And so it seems to the court that it was proper to ascertain from Dr. Knight, a surgeon learned in his profession and acquainted with the practices and rules thereof as usually or ordinarily employed, what was, at the time of plaintiff’s treatment, the proper usual and approved method in surgery, “in the light of -the modern advancement and learning on the subject,” as fixing the standard of care or degree of care to which the defendant as a surgeon should be held; and then from the evidence of what the defendant did in this particular case, the jury could draw its conclusions as to whether or not the defendant was guilty of negligence, or a want of due care. The court is of the opinion, that the question of the degree of care, skill, etc., to be exercised could not be stated by an expert such as Dr. Knight, but that he could and should testify as to what was the ordinary, usual and accepted method at the time of treating wounds of the character shown by the evidence to have been suffered by plaintiff, and then, from what- the defendant did, let the jury draw its conclusion as to whether or not defendant exercised the average degree of care or ordinary care, which we believe to mean substantially the same thing.
+The court is of the opinion that the testimony of Dr. W. K. Knight was not improperly admitted.
+Next it is urged that the court erred in overruling defendant’s motion to arrest the evidence from the jury.
+If Dr. 'W. K: Knight’s testimony was properly admitted, as we have found that it was, then the court did not err in overruling defendant’s motion because there was evidence tending to show negligence by the defendant in the treatment of plaintiff’s finger and this should have gone to the jury.
+It is next urged that the court erred in permitting Mrs. Stites to testify in rebuttal as to facts that should have been brought out in chief by plaintiff. Admitting that her testimony relaxed entirely to facts that should have been proven in chief, nevertheless under Section 11447, General Code, Sub. 4, it was within the discretion of the-court, for good reasons and in the furtherance of justice, to permit her to testify at the time she did. -The court is of the opinion that there was no abuse of discretion on the part of the court in thus permitting Mrs. Stites to testify out of order.
+• There was no error in giving plaintiff’s spécial charge No. 1, because there was evidence to show that the defendant was employed to take care of and treat the injured finger of the plaintiff, and the law implies a promise on his part, as an ordinarily prudent surgeon, to treat the finger in a proper and skillful manner. It was not necessary to incorporate in the special charge all the elements necessary to be found in order to render the defendant liable: His engagement was such that the law implies a promise on his part to use due care and diligence- to the end that a recovery might be had (67 O. S., on page 122). Surely nothing less than skillful and proper treatment should be given, if he was employed to render that kind of treatment.
+As to the alleged errors in the general charge the court has carefully considered the charge and the errors claimed to have been committed and is not prepared to say that the omissions and errors claimed to have been made are prejudicial.
+The court is of the opinion that the charge fairly covered the ease and fairly defined -the issues and as fully as the evidence warranted did call the jury’s attention to all matters which it was its duty to-direct their attention to. Nor do we think that there was error in the latter part of the charge requested by •counsel- for' defendant in reference to the matter.of not inferring negligence from the-failure to "cure. ■
+■ The verdict is not against the weight of the evidence. On very many facts involved in the issues in the case the jury found against defendant in their answers to the series of interrogatories ; and on these findings the jury were warranted in returning a verdict for plaintiff. Nor is the amount of the verdict excessive if the plaintiff is at all entitled to recover in view of the pain and suffering he has endured and the permanent disfigurement and loss of his middle finger of his right hand.
+On the whole review of the case the court is of the opinion that substantial justice has been done by the jury and the verdict will not be disturbed. Motion for new trial overruled.
