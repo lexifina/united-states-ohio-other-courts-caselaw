@@ -1,0 +1,29 @@
+---
+court: "Hamilton Circuit Court"
+decided: "1899"
+citations: ["9 Ohio Cir. Dec. 831"]
+reporter: "ohio-cir-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Swing, Smith and Giffeu, JJ."]
+parties: ["Cincinnati, Lebanon & Northern Ry. Co. v. Louis Pierson."]
+source_url: "https://static.case.law/ohio-cir-dec/9/cases/0831-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1630875
+---
+
+# Cincinnati, Lebanon & Northern Ry. Co. v. Pierson
+
+## Majority (Swing, J.)
+
+Swing, J.
+This is an action in this court to reverse the judgment of the court of common pleas of Hamilton county. In that court Pierson brought his action against the railway company for a breach of an alleged contract. The contract claimed to exist between the parties by Pierson was, that in the year 1886 the defendant railway company constructed a well on his premises to obtain water for the use of its water tank, and that it continued to use the well from that year until the year 1895; and that the railway company agreed to pay for the use of said water the sum of fifty dollars per year. Plaintiff further alleged that on February 18, 1895, he recovered a judgment against this defendant in said court of common pleas, in case No. 97680, on this same contract for the value of said water for six years ending December 81, 1893 ; that said judgment was never reversed and is in full force, and that by reason thereof all questions of law and of fact as to said contract were finally adjudicated as between these parties.
+The defendant denied the allegations of the petition.
+On the trial of the case the only witness offered by the plaintiff was himself. He testified that about the year 1886 he entered into a contract with the Toledo, Cincinnati & St. Louis Ry. Co. whereby he granted said company the right to construct a well on his premises, and to use water therefrom for its water tank, in return for which he was to receive for himself and his wife an annual pass on said railroad; that this agreement was carried out by the parties until said road was sold to said defendant, and that defendant refused to carry out said agreement ; and that thereupon he wrote to George Hafer, president of said company, a letter in which he said that inasmuch as he had refused to abide by the contract made between him, Pierson, and the said Toledo, Cincinnati & St, Louis Ry. Co. he would charge him (Hafer) $50 per year for the use of the same (water), and that if these terms do not suit he had better get water elsewhere.
+Robert Ramsey, for plaintiff in error.
+Gorman & Thompson, contra.
+The plaintiff further offered the record of the case set forth in the petition between the parties, which record discloses this state of facts : Plaintiff filed a petition in which he set out an agreement made between him and said Toledo, Cincinnati & St. Louis Ry. Co. by which, for the privilege of constructing and maintaining the well on Peirson’s premises, said company agreed to furnish him passes for himself and wife, and the refusal of this company to adhere to said agreement; and that upon the refusal of said company to issue said passes he informed said company that he would charge said company the sum of $50 per year for the use of said water. Wherefore he alleged he had been damaged in the sum of $350, for which he asked judgment.
+In an amended petition the plaintiff said that upon the request of the defendant he granted to it the right to dig a well on his premises and lay pipes thereto and take water therefrom, and that defendant did construct said well, lay said pipes and take water therefrom since the year 1886, and that the reasonable value thereof is three hundred and fifty dollars. Upon this amended petition the plaintiff recovered the judgment set out in this action. This was all the evidence, the plaintiff declining to offer any. The claim here is that thejudgment in this case is not sustained by the evidence.
+We are of the opinion that the judgment is not sustained by the evidence. The record of the former suit, which the plaintiff pleads as a final adjudication on the question as to the nature of the contract between the parties, clearly shows that in that case the plaintiff sued on and recovered on an action in quantum meruit. There was no claim in that action that there was an express agreement between this plaintiff and this defendant company. But in the present case the action is founded upon an express agreement between Pierson and this railway company, and what Pierson pleads as a final adjudication between the parties shows there was no express contract, but an implied one. There is no evidence in this case, other than the said record, except the letter referred to. Possibly this, taken in connection with other evidence, might show an agreement between the parties, but certainly it could not have that effect when considered in connection with the allegation of the plaintiff, Pierson, that the nature of the contract had been determined between the parties by a former judgment, and where that judgment shows that it was rendered on an implied promise to pay what the privilege was worth.
+The plaintiff should not recover on one contract in two different kinds of actions. Having recovered on an action in quantum meruit, he should not recover now on an express agreement. At any rate he can not sustain a judgment on an express contract by evidence which shows that no express contract was made. ,
+Judgment reversed and cause remanded for a new trial.
