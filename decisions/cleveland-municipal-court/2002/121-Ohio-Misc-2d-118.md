@@ -1,0 +1,29 @@
+---
+court: "Cleveland Municipal Court"
+docket: "02 TRD 060830A-D"
+decided: "2002-12-05"
+citations: ["121 Ohio Misc. 2d 118", "2002-Ohio-7456"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CITY OF CLEVELAND v. FLORIA."]
+source_url: "https://static.case.law/ohio-misc-2d/121/cases/0118-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6708711
+cites_cases: ["10 OBR 513", "10 Ohio App.3d 308", "100 Ohio App.3d 724", "1996 WL 532095", "2000 WL 1875803", "21 OBR 79", "21 Ohio App.3d 75", "24 OBR 306", "24 Ohio St.3d 114", "367 N.E.2d 1202", "462 N.E.2d 436", "486 N.E.2d 236", "493 N.E.2d 961", "52 Ohio App.2d 35", "6 O.O.3d 20", "601 N.E.2d 510", "651 N.E.2d 933", "654 N.E.2d 1057", "72 Ohio St.3d 504", "77 Ohio App.3d 143"]
+---
+
+# City of Cleveland v. Floria
+
+## Majority (Emanuella Groves, Judge.)
+
+Emanuella Groves, Judge.
+{¶ 1} On June 13, 2002, Detective Amy Duke of the Cleveland Police Department observed defendant Kevin J. Floria cut in front of a woman in a minivan. Det. Duke was off duty and traveling in her personal vehicle. Det. Duke testified that she further observed the defendant slow his vehicle after getting in front of the woman. The woman blew her horn at the defendant, and he got out of his vehicle. Det. Duke further testified that the defendant yelled and spat at the woman in the minivan. As a result of these observations, Det. Duke called the Cleveland police. Several police cars responded and stopped the defendant. Det. Duke personally issued the defendant a citation for impeding the flow of traffic, changing lanes improperly, driving too slowly, and possessing an altered driver’s license.
+{¶ 2} The issue before this court is whether Det. Duke’s issuance of the citation to the defendant renders her incompetent to testify. A police officer has a continuing duty to uphold and preserve the peace, regardless of her duty status. State v. Clark (1983), 10 Ohio App.3d 308, 309, 10 OBR 513, 462 N.E.2d 436, citing State v. Glover (1976), 52 Ohio App.2d 35, 6 O.O.3d 20, 367 N.E.2d 1202. However, this duty is not absolute. In accordance with R.C. 4549.14, an officer on duty for the exclusive or main purpose of enforcing traffic laws must wear a distinctive uniform. Additionally, R.C. 4549.13 requires that the officer be in a distinctively marked police vehicle. Failure to comply with the uniform and vehicle requirements may render an officer incompetent to testify. R.C. 4549.13, 4549.14, 4549.16, and Ohio Evid.R. 601(C).
+{¶ 3} The intent of the uniform and vehicle restrictions is to provide statewide uniformity in the enforcement of traffic control laws and to curb the practice of “speed traps” in unmarked police cars. State v. Huth (1986), 24 Ohio St.3d 114, 115, 24 OBR 306, 493 N.E.2d 961. In Huth, the court held that these statutes were not enacted to inhibit all police officers, except those primarily on traffic duty, from arresting alleged traffic violators. Id. at 116, 24 OBR 306, 493 N.E.2d 961. The determination of an officer’s competency to testify must be made in light of the officer’s whole period of duty and not his duty during the apprehension and arrest of the suspect. Id.
+{¶ 4} Many courts have held that the following of a vehicle and the notifying of the police department are insufficient to render an off-duty officer incompetent to testify. Hamilton v. Jacobs (1995), 100 Ohio App.3d 724, 654 N.E.2d 1057; State v. Butler (1991), 77 Ohio App.3d 143, 601 N.E.2d 510; State v. Horton (Dec. 26, 2000), 12th Dist. No. CA2000-04-024, 2000 WL 1875803; Cleveland v. Carrie (Sept. 19, 1996), 8th Dist. No. 69054, 1996 WL 532095. In these cases,- the court reviewed the intent of the restrictive statutes in light of the officers’ conduct and found that the officers did not effectuate the stops, nor did they issue the traffic citations.
+{¶ 5} In Carrie, supra, the court upheld the competency of an off-duty officer to testify against the defendant. The officer in Carrie was off duty and observed the defendant asleep at a traffic light. The defendant had a strong odor of alcohol. The officer called the police. The court in Carrie stated that if it determined that the officer was “on duty” for the exclusive or main purpose of traffic law enforcement, then the officer was not a competent witness. Cleveland v. Carrie at 3. In reaching its decision that the officer was competent to testify, the court reviewed the officer’s conduct in light of the intent of the uniform and vehicle statutes. The court found that the officer did not execute the stop, was not operating a speed trap, and was not controlling traffic.
+{¶ 6} In State v. Heins (1995), 72 Ohio St.3d 504, 651 N.E.2d 933, the court upheld the competency to testify of an officer who conducted speed checks from a State Highway Patrol aircraft. Again, the court reached its decision after reviewing the intent of the statutes. Additionally, the court noted the issues of safety and public welfare. Specifically, these statutes are designed to avoid the frightening of motorists who are stopped by plainclothes officers in unmarked police vehicles. Id. at 506, 651 N.E.2d 933, citing Columbus v. Murchison (1984), 21 Ohio App.3d 75, 76, 21 OBR 79, 486 N.E.2d 236.
+{¶ 7} In the present case, Det. Duke did not effectuate the stop. Moreover, she was not operating a speed trap. However, she did issue the citation. This act went beyond the conduct of the officers cited above, who observed the violations and notified police. Nonetheless, the further involvement of issuing a citation does not raise the safety and speed-trap concerns that the enactment of the uniform- and marked-vehicle requirements is intended to address, because uniformed officers effectuated the stop. Therefore, this court finds Det. Duke competent to testify.
+{¶ 8} IT IS SO ORDERED.
+Judgment accordingly.
