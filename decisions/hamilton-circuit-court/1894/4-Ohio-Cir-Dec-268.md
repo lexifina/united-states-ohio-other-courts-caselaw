@@ -1,0 +1,28 @@
+---
+court: "Hamilton Circuit Court"
+decided: "1894-01"
+citations: ["4 Ohio Cir. Dec. 268"]
+reporter: "ohio-cir-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Smith, Swing and Cox, JJ."]
+parties: ["Israel H. Pendery et al. v. Albert C. Allen et al."]
+source_url: "https://static.case.law/ohio-cir-dec/4/cases/0268-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1623102
+cites_cases: ["53 O. S., 251"]
+---
+
+# Pendery v. Allen
+
+## Majority (Smith, J.)
+
+Smith, J.
+The court of common pleas having rendered a judgment that the funds in the hands of the sheriff and of Lowe Emerson, trustee, the proceeds of property formerly belonging to Edwaid P. Allen, should be distributed and paid to all of the creditors of said Allen in proportion to the amount of their respective claims against him, the plaintiffs in error who claim to have a preferred and prior claim thereto, file this proceeding in error to reverse such judgment. The facts in the case briefly stated are these: On February 1, 1886, Pendery filed his petition in tbR court of common pleas against Albert C. Allen, Edward P. Allen, Lowe Emerson and others, alleging that on July 16, 1885, said Edward. P. Allen, without an adequate consideration, mortgaged to said Emerson certain real estate and that at the time said Emerson held, a chattel mortgage on a large amount of personal property amply sufficient to secure his entire claim against A. C. and E. P. Allen. Wherefore it was prayed that said fraudulent conveyance and mortgage to Emerson be set aside and the property be sold to pay a debt of the Allens to the plaintiff, which is set up.
+On February 2, 1886, Pendery published a notice in conformity with the provisions of sec. 6344, Rev. Stat., of the pendency and object of said suit. Some of the other creditors, of Allen came in-by cross-petition and giving the security required by the section — others did not-^-an answer was filed by Emerson, April 14, 1886, denying all the allegations of the petition as to the fraud and want of consideration of the mortgages.
+At the trial of the case, March 12, 1889, in the circuit court, the plaintiff was allowed to file an amended petition in which it was alleged that the mortgage mentioned in the original petition was made to Emerson when Edward P. and Albert C. Allen were insolvent, and in contemplation of insolvency, and for the purpose of securing a debt of E. P. Allen to Rone, on which Emerson was surety, and a debt of Allen to the Merchants’ National Bank, on which Emerson was not surety, and that Emerson thereby became a trustee for all of the creditors of said E. P. Allen. This court then held that such was not the case, and a petition in error was filed in the Supreme Court reversing that judgment, and there being a finding of facts by the circuit court, the Supreme Court proceeded to render the judgment which this court should have rendered and declared Emerson to be a trustee of the property covered by the mortgage executed to him by Allen, for the equal benefit of all the creditors of said E. P. Allen in proportion to the amount of their respective claims; and that said trust be administered in accordance with the provisions of the chapter of the Rev. Stat. regulating assignments by insolvent debtors, and it was “further ordered and adjudged that the plaintiff in that court recover of the defendants such part of his costs as were created in establishing his claim as to the character of said mortgage to be taxed.”
+We think that it is exceedingly questionable whether the publication of th,e notice of pendency and object of the original petition and what was done undér it, gave to the plaintiff and those who came in as cross-petitioners and gave the bond on security mentioned in this sec. 6344, the right to be first paid from the funds realized in the case. The plaintiff failed in his original claim, which was that the mortgage given by Allen to Emerson was fraudulent in fact. At the trial he obtained leave to amend, setting up an entirely different ground for relief. No notice of this was ever given to creditors. If it had been the ground of the original proceeding, who can say that many of the creditors who refused to come in on the claim as first made would not have done so?
+But, however this may be, we are of the opinion that the final judgment of the Supreme Court, which must govern, has adjudged that the property in question was held by Emerson for the equal benefit of all the creditors of said Edward P. Allen in proportion to the amount of their respective claims. It is true that the judgment also provided that the trust was to be administered in accordance with the provisions of the chapter of the Revised Statutes regulating assignments by insolvent debtors. But this, we think, points out only the mode in which it is to be done, and does not alter or modify the express statement that it is held for the equal benefit of all the creditors of Allen. The whole record must be' presumed to have been before the Supreme Court, showing the notice as given, the amendment of the petition, and all that was done; and if it had been the purpose and intent of the court to hold that such noticé and what was done under it gave priority to the plaintiff and part only of the creditors, it would seem that wholly different language would have been used.
+Joseph W. O'Hara and Oliver B. Jones, for plaintiffs.
+Edward Ritchie, Reuben Tyler, Dan. T. Wright and Von Seggern, Phares & Dewald, contra.
+We think, then, that there was no error in the judgment of the court of common pleas distributing the fund, and it will be affirmed with costs.
