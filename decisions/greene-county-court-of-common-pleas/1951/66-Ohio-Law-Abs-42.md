@@ -1,0 +1,37 @@
+---
+court: "Greene County Court of Common Pleas"
+docket: "26931"
+decided: "1951-04-20"
+citations: ["66 Ohio Law Abs. 42"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JAMESTOWN LIONS CLUB v. SMITH et."]
+source_url: "https://static.case.law/ohio-law-abs/66/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1772394
+cites_cases: ["150 Oh St, 22", "37 O. O. 318"]
+---
+
+# Jamestown Lions Club v. Smith
+
+## Majority (By JOHNSON, J.)
+
+OPINION
+By JOHNSON, J.
+This matter came on to be heard on a petition filed on behalf of The Jamestown Lions Club against George R. Smith, as Prosecuting Attorney for Greene County, Ohio, and George P. Henkel, as Sheriff for Greene County, Ohio, seeking to have the court render a declaratory judgment pursuant to the provisions of the Declaratory Judgment Act declaring that there is no provision under the existing laws of this State under which the Prosecuting Attorney or Sheriff of this County could legally stop certain games of chance, to wit: bingo, chuck-a-luck, raffling of tickets for various merchandise; and other games of chance, when said games of chance are not conducted for the profit of any person but the proceeds from same are expended for charitable purposes or public benefit causes: and on the answer which was filed by George R. Smith, as Prosecuting Attorney, and George P. Henkel, as Sheriff, in which they admit that the activities specified in the petition are carried on by the plaintiff in the manner specified in the petition; and that the profits derived from said operations and activities go to charity or public benefit causes, and that in their official capacity defendants have ordered the discontinuance of said activities in the manner stated in the petition, and the defendants further deny that they are without authority in law to order the discontinuance of said activities.
+Therefore, the question is raised directly as to whether or not bingo, chuck-a-luck, raffling of tickets for various merchandise and other games of chance, the profit from which goes to no individual but is used solely for charitable purposes or public benefit causes, can be carried on by organizations such as the Lions Club and other duly organized and constituted clubs, lodges, societies and churches, without interference on the part of the sheriff, prosecutor, and other officers.
+While it is true that the Constitution of the State of Ohio provides, “Lotteries, and the sale of lottery tickets, for any purpose whatever, shall forever be prohibited in this state,” the legislature in an act effective September 21,1943, §13064 GC, changed the law that was in effect at that time so that there is no penalty under the present law for the operation of these games when operated for charitable purposes or public benefit causes.
+The Supreme Court passed directly on this proposition in the case of the State of Ohio v. Parker, 150 Oh St, 22, 37 O. O. 318, in which case Mr. Parker had originally been indicted by the Grand Jury of Summit County, Ohio. The indictment, without the formal parts and dates, charged:
+“That Murray S. Parker * * * unlawfully and publicly did establish, open, set on foot, carry on and promote as the owners thereof, a certain scheme of chance, commonly called ‘Keno,’ contrary to the form of the statute in such case made and provided, and against the peace and dignity of the State of Ohio.”
+A demurrer was filed to the indictment on the ground that the indictment did not state facts which constituted an offense punishable by the laws of this State. The Common Pleas Court sustained the demurrer and discharged the defendant, and the Court of Appeals affirmed the judgment, and the Supreme Court affirmed that judgment. In that case on page 23 the court said that §13064 GC which was in effect before it was amended on September 21, 1943, provided as follows:
+“Whoever establishes,. opens, sets on foot, carries on, promotes, makes, draws or acts as ‘backer’ or ‘vendor’ for or on account of or is in any way concerned in a lottery ‘policy,’ or scheme of chance, by whatever name, style, or title denominated or known, whether located or to be drawn, paid or carried on within or without this State, or by any such means, sells or exposes for sale anything of value, shall be fined not less than fifty dollars nor more than five hundred dollars and imprisoned not less than ten days nor more than ninety days.”
+On September 21, 1943, the above section was amended to read as follows:
+“Whoever, for his own profit, establishes, opens, sets on foot, carries on, promotes, makes, draws or acts as ‘backer’ or ‘vendor’ for or on account of a lottery or scheme of chance, by whatever name, style, or title denominated or known, whether located or to be drawn, paid or carried on within or without this state, or by any of such means, sells, or exposes for sale anything of value, shall be fined not less than fifty dollars nor more than five hundred dollars and imprisoned not less than ten days nor more than six months.”
+The Supreme Court says:
+“It will be observed that by the amendment, effective September 21, 1943, the words, ‘for his own profit’ were added, the word, ‘policy’ was omitted, and the maximum term of imprisonment was increased.”
+The court goes on further on page 25 to say:
+“An examination of various statutory provisions on the subject discloses a general legislative policy to prohibit and declare void all gambling contracts of every description, but only certain of such transactions are made punishable by fine and imprisonment of those who engage therein. There are many and various inhibitory provisions in the State Constitution for the violations of which no penalties are prescribed; such inhibitory provisions may be implemented only by appropriate action by the General Assembly. * * *”
+“Sec. 13064 GC, is not in conflict but, so far as it goes, is in harmony with the provisions of the Constitution referred to. It does not authorize or give validity to any gambling transaction. It does impose a fine and imprisonment upon anyone who, in the capacity stated, engages in any of the transactions enumerated in that section “for his own profit.”
+Therefore, it is the conclusion of this court that so long as bingo, chuck-a-luck, raffles and other games of chance, are conducted by duly organized clubs, lodges, societies or churches, and all of the profits derived from the operation thereof are expended for charitable purposes or public benefit causes, there is no penalty provided in the statute for such activities; and, therefore, the sheriff and the prosecutor are instructed and directed not to interfere with such games of chance when conducted for such purposes. If they are conducted for the purpose of profit of any individual, they become illegal, and the penalty in the law applies, and the sheriff and prosecutor should immediately put a stop to any such transactions.
+In passing, the court might make the observation that when bingo and other games of chance are conducted by clubs, lodges, societies or churches for the benefit of charitable purposes and public benefit causes, they do no harm; in fact, they may do a great deal of good; and if some of the people who are so exercised in stopping church bingo games were as much exercised in bringing peace to the world they might accomplish something.
