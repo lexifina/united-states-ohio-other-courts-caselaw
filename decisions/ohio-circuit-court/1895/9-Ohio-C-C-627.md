@@ -1,7 +1,8 @@
 ---
 court: "Ohio Circuit Court"
 decided: "1895-01"
-citations: ["9 Ohio C.C. 627", "9 Ohio C.C. 315"]
+decided_precision: "month"
+citations: ["9 Ohio C.C. 627"]
 reporter: "ohio-cc"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,6 @@ parties: ["JOSEPH C. CHAMPION v. THE STATE OF OHIO."]
 source_url: "https://static.case.law/ohio-cc/9/cases/0627-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 404968
-cites_cases: ["23 Ohio St. 581"]
 ---
 
 # Champion v. State
