@@ -1,0 +1,29 @@
+---
+court: "Clermont County Court of Common Pleas"
+docket: "78-CV-1047"
+decided: "1985-04-25"
+citations: ["25 Ohio Misc. 2d 1"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Willis v. Willis."]
+source_url: "https://static.case.law/ohio-misc-2d/25/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6713076
+cites_cases: ["137 Cal. Rptr. 348", "21 O.O.3d 111", "67 Ohio St. 2d 178", "68 Cal. App. 3d 457"]
+---
+
+# Willis v. Willis
+
+## Majority (Watson, J.)
+
+Watson, J.
+On October 19, 1984, plaintiff, Richard Willis, filed a motion for order of contempt that defendant, Carlene Willis, show cause why she should not be held in contempt of court for her failure to provide visitation, and for an order for continued regular visitation, or alternatively for change of custody. Plaintiff complained of defendant’s alleged breach of the April 20, 1984 order of the court which provided for visitation in a particular manner with the children who now reside in West Virginia with the mother-defendant.
+The matter was set before the referee for hearing on November 30, 1984. On November 2, 1984, defendant filed a motion to transfer pursuant to R.C. 3109.25, and argued before the referee that Ohio is an inconvenient forum and that West Virginia should hear the matter. The referee in his report found that the case of In re Wonderly (1981), 67 Ohio St. 2d 178 [21 O.O.3d 111], appeared to require that the matter be referred for handling in West Virginia. However, the referee found that because this court had been involved with the matter as recently as April 20, 1984, where the parties entered into the consent order specifying visitation, and because transferring the matter might encourage if not merely permit a potential contemnor to avoid contempt proceedings by seeking transfer to a new forum, that it would be an abuse of discretion to transfer the matter to West Virginia.
+Defendant timely filed her objection to the referee’s report on December 12, 1984. The matter came on for hearing before this court on January 16, 1985. The court, being fully advised in the premises and having reviewed pertinent case law finds that the decision reached by the referee was in accordance With law, and that it was not arbitrary or an abuse of discretion.
+In In re Wonderly, supra, the Supreme Court of Ohio determined that where a foreign state has a significant connection with the subject children of a custody dispute and where, as a whole, the foreign state is in a better position to receive and evaluate the salient facts of the children’s well-being, the Ohio court should refrain from hearing the matter and should dismiss it so that the foreign state may hear the evidence in the best interests of the children. The referee in the instant matter found that although the holding in Wonderly would seem to indicate that the case should be referred to West Virginia, insofar as the children and mother reside there and evidence as to the well-being of the children is available there, the case should remain in Ohio, as the court has so recently dealt with the custody and visitation issues.
+The court finds that this case is comparable to that of Smith v. Superior Court (1977), 68 Cal. App. 3d 457, 137 Cal. Rptr. 348. In Smith, the court found that' the California divorce court had jurisdiction to modify child custody and visitation provisions of a decree and to hold contempt proceedings for violations of prior orders, where the parties themselves previously had submitted the issues of custody and visitation to the California court, and where there were equal or stronger family ties with California as compared to Oregon, even though Oregon was the children’s home state and evidence was available in Oregon as to the children’s well-being. The court noted: “The parties, of course, could not confer upon the state’s superior court jurisdiction which otherwise did not exist over the subject matter of their present dispute. * * * But, nevertheless, from the parties’ submission of the visitation issue to the superior court an inference may reasonably be drawn that the parties themselves considered * * * [that the family ties] with the State of California were the stronger.” Id. at 464-465, fn.3. The concurring judge, however, believed that the parties had conferred jurisdiction on the court by law when they voluntarily appeared and stipulated to a change of custody order. Id. at 466.
+The court quoted a portion of the Notes of the National Conference of Commissioners on Uniform State Laws regarding the Uniform Child Custody Jurisdiction Act (“UCCJA”), to the effect that “[t]he fact that the court had previously considered the case may be one factor favoring its continued jurisdiction.” Id. at 464. The court determined that the relevant facts in the case supported the conclusion that California retain jurisdiction of the cause.
+The court finds the Smith case to be persuasive authority for the upholding of the referee’s determination that Ohio is not an inconvenient forum in the instant case. As in Smith, the issues revolve about contempt, visitation and the modification of custody, and the parties previously have entered into a consent order with regard to custody and visitation, thus permitting the reasonable inference that the parties themselves consider the family ties with Ohio to be the stronger. Additionally, as in Smith, the forum state (herein Ohio) has at least equal family ties as compared to the foreign state and there is available in the forum substantial evidence concerning the children’s care, protection, training and relationships, even though the children now have another home state.
+Therefore, the referee’s decision that Ohio should retain jurisdiction was in accordance with law. The objection is not well-taken and is overruled.
+Objection overruled.
