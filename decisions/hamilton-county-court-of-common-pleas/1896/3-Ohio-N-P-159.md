@@ -1,0 +1,41 @@
+---
+court: "Hamilton County Court of Common Pleas"
+decided: "1896"
+citations: ["3 Ohio N.P. 159"]
+reporter: "ohio-np"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MILTON L. CAMPBELL, a minor, etc., v. THE WOODSDALE ISLAND PARK COMPANY et al."]
+source_url: "https://static.case.law/ohio-np/3/cases/0159-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1524906
+---
+
+# Campbell v. Woodsdale Island Park Co.
+
+## Majority (SAYLOR, J.)
+
+SAYLOR, J.
+The plaintiff files'his petition against the Woodsdale Island Park Company and the Cincinnati, Hamilton & Dayton Railway Company, corporations under the laws of Ohio; and says that the W.oodsdale Island Park Company is a corporation organized and doing business under the laws of Ohio, with its principal place of business at Cincinnati ; that it was the tenant of the predecessor of the Cincinnati, Hamilton & Dayton Railway Company ; and that it and such predecessors of said co- defendant controlled and operated a pleasure resort; that through the negligence and carelessness of said defendants the plaintiff was injured at said pleasure resort to his damage of 510,000, and for which amount he prays judgment.
+On November 2, 1895, a summons was issued to the Sheriff of Hamilton County on the petition, and was duly returned, “served on the Cincinnati, Hamilton & Dayton Railway Company, not found as to the Woosdale Park Company.”
+On November 16th, an alias summons for the Woodsdale Island Park Company was issued to the Sheriff of “Hamilton County and returned, not found.”
+An affidavit filed in the case of W. Copeland, the Deputy Sheriff, is to the effect that he went to the place where the Woods-dale Island Park Company had had its office during the season of 1895, to serve the summons issued November 2d ; that he found no officer of the company there, and was informed by he people there that the company did not have any office there after the season closed, as it then was, and that there was no officer or person there representing the company; that he went to the same place to serve the alias summons, but found no one there representing the company, and. received information to the same effect as before.
+Thereupon a summons for the Woodsdale Island Company was issued to the Sheriff of Montgomery County, which was duly returned, “served on George Ohmer as President of the Woodsdale IslandCompany. ”
+The Woodsdale Island Park Comdany, appearing for the purpose only, moves to set aside his service, for the resason that the same was not made according to law.
+The contention of the Park Company is that it is alleged in the petition that it (the Park Company) is a corporation organized and doing business under the laws of Ohio, with i ts principal place of business at Cincinnatithat the affidavit is to the effect that it had its place of business in Cincinnati, • and that it is not suggested that it has any other office, and that therefore, under the statutes, service on it could not be made outside of Hamilton county.
+John S. Conner for plaintiff; Ramsey, Maxwell Ramsey for Woodsdale Island Company.
+Section 5026 provides that an action of the kind set' up in the petiition “against a corporation created under the laws^ of this state may be brought in the county in which such corporation is situated, or has or had its principal office or place of business, or in which any corporation has an office or agent. ’ ’
+The petition alleges that the Park Company has its principal place of business in Cincinnati. I think, however, that the return of the summons issued to the Sheriff of Hamilton County, with the affidavit of the deputy, establishes that the company had its principal place of business there.
+In either event the company may be clearly sued in Hamilton county.
+This section contemplates a suit against a corporation in a county in which it had had its principal place of business, but which had been given up.
+Section 5031 provides that “every other action must be brought in the country in which a defendant resides or may be summoned, ” except certain actions against an executor, etc. “Every other action” in this section would include an action for damages such as set up in the petition. The Cincinnati, Hamilton & Dayton Railway Company, a co-defendant, is “a defendant” served with summons in this county, and therefore under this section the action may be brought in this county against both defendants.
+Section 5038 provides that, “when the action is rightfully brought in any county, according to the provisions of chapter five of this division (which includes Section 5026 and 5031), a summons may be issuod to any other county, against one or more of the defendants, at the plaintiff’s request. ” The balance of this section, and which is a limitation on its provisions,relates to actions on instruments for the payment of money only. ____
+If, therefore, this action is rightfully brought in Hamilton county under Section 5026 or Section 5031, a summons may issue to another county under Section 5038; See 32, Ohio St. 600. ___
+But it is contended that there is no authority for service on the Park Company outside of Hamilton county.
+It seems to me that if, under the statutes, an action may be rightfully brought in one county, and summons may issue to another county, the presumption is that it was the intention of the Legislature that such summons should be served, and that such in-tension should be kept in view in construing the statutes.
+Section 5015 provides that a summons against a corporation may be served upon the president of the board of directors or trustees, or other chief officer ; or, if its chief officer be not found in the county, upon its cashier, treasurer, secretary, clerk, or managing agent; or, if none of the aforesaid officers can be found, by a copy left at the office or usual place of business of such corporation, with the person having charge thereof. ”
+It will be noticed that the first clause of this section provides for service on the president, etc., generally. The next clause provides that if such chief officer be not found in the county, then the service may be on the cashier, etc. The contention is that the words “be not found in the county” in this clause, are a limitation on theprovisions of the first clause; that is, that a summons may be served on the president, etc., in the county where the action is brought.
+While this construction may be given to the section, yet I do not think it is clearly the construction intended by the Legislature. Had the intention been to limit the service to the county, the words “in the county” could, and probably would, have been added to the first clause of the section. If such construction be correct, then we have a case in which a suit may be rightfully brought against the Park Company in Hamilton county, and a summons may issue against it to Montgomery county, where the president of the corporation is to be found, but no service shall be made. -That is, we have a case in which a suit may be rightfully brought, and a summons rightfully issued, but by reason of this statute, the summons shall not be served, and the plaintiff is precluded from prosecuting his action for want of service. It seems to me the matter should be entirely free from doubt, before a construction would be given to the statute resulting in such denial of the right to prosecute an action rightfully brought.
+May not this section be construed to mean that service may be made on the president, etc., generally; but if the president be not found in the county, then it is not necessary to go to another county to serve him, and service may be made upon the cashier, etc., or at the usual place of business with the person in charge? That is, if the action is righfully brought in a county, service may be made on the president, etc., in that or in another county, but if it can not be made in that county, he need not be followed to another county.
+It seems to me this construction may be given to the section, and under such construction the summons rightfully issued to Montgomery county in this case may be served on the president found in that county.
+The motion will be overruled.
