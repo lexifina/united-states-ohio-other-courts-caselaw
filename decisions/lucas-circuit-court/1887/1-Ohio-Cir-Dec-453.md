@@ -1,0 +1,61 @@
+---
+court: "Lucas Circuit Court"
+decided: "1887-03"
+citations: ["1 Ohio Cir. Dec. 453"]
+reporter: "ohio-cir-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Baldwin, Haynes, and Upson, JJ."]
+parties: ["Joel Kelsey, Treas. v. Luther M. Skidmore et al."]
+source_url: "https://static.case.law/ohio-cir-dec/1/cases/0453-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1616467
+cites_cases: ["11 Ind., 117", "13 Pet., 65", "22 Ia., 194", "39 O. S., 12", "77 N. C., 289", "87 Ill., 45"]
+---
+
+# Kelsey v. Skidmore
+
+## Majority (Haynes, J.)
+
+Haynes, J.
+The issues presented to us in this court come before us by an appeal which has been taken from the decree of the court below upon issue .made between the-Connecticut General Life Insurance Company upon one part, and Luther M. Skidmore, William Gates and Charles Douglas upon the other.
+The answer and cross-petition of the Connecticut General Life Insurance Company sets up that a mortgage was given upon this property by William Gates and his wife, Charles Douglas and his wife, and Luther M. Skidmore and. his wife, to the Connecticut General Life Insurance Company, for the sum of $10,000: and that there is now due upon it the sum of $7,000, with interest thereon from the 29th day of July.
+To the cross-petition, Luther M. Skidmore answers for both himself and his co-defendants, in which he sets up that about the year 1870, he, and these other parties, who were joint owners of the same property, in the city, were carrying on a rake factory, and that they desired to have some money to carry on that business. That Curtis, Russell & Co. were the agents of the Connecticut General Life Insurance Company, at Toledo, Ohio, for the purpose of loaning money, and also for the purpose of soliciting and receiving life insurance. He sets up that he and his co-defendants made an application to borrow some money from the said insurance company. That Curtis, Russell & Co. told them that if they would execute notes for the amount they desired — under certain conditions — and deliver the notes to them, and they at the same time would take out two policies of insurance, one upon the life of Douglas and one upon the life of Skidmore, for the sum of five thousand dollars each, and keep them up, and also pay ten per cent, interest upon the amount of money received, they would make them a loan, or cause it to be made, or that they could have-the money.
+That thereupon the three defendants came to the office of Curtis, Russell & Cofnpany, and executed the note in question; and at the same time executed twenty notes of $-400 each, and twenty notes of $100 each as interest notes, payable one every six months from date; executed a mortgage, and also took policies of insurance issued by the company for the amounts stated, upon the lives of Douglas and Skidmore, respectively. That they left the notes with Curtis, Russell & Company, and that afterwards they received the amount of money for which they had made application. They set up the fact that they executed the notes, and they claim that they have made large payments on account of the notes. The interest notes are cancelled.
+There was a reply filed: and as it is short, I will read it. It says: “The defendant, the Connecticut General Life Insurance Company, for reply to the amended answer of the defendant, Luther M. Skidmore, says that the said notes in the answer and cross-petition of said Skidmore described as made to this defendant were payable to this defendant at Hartford, Connecticut, where defendant's-general officers were located; that said notes were delivered to this defendant at said Hartford, Connecticut, and that the said contract was to be there performed.
+“That on the first of August, 1872, the general assembly of the state of ■Connecticut passed a law entitled: ‘An act in addition to the act to restrain the. taking of usury,’ of which the following is a copy:
+“ ‘Be it enacted, by the.Senate and House of Representatives in general .assembly convened:
+“ ‘That all contracts on which any person has taken, accepted, or received, or on which any person has agreed to take, accept or receive, by means of any bargain, loan, exchange, conveyance or otherwise, more than the sum of six dollars tor the forebearance of one hundred dollars in money or other property -of that value, for a year, and after that rate for a greater or less sum, or for a longer or a shorter time, are hereby validated and confirmed, and may be ■enforced, any laws to the contrary notwithstanding; but this act shall not affect •any suit now pending.
+“ ‘Approved, August 1, 1872.’
+“That by reason of the passage of the aforesaid law, the said contract became valid and subsisting for the payment of said loan by the said conlract specified and created.
+“Wherefore defendant prays that the cross-petition of said Luther M. Skid-more may be dismissed and that this defendant may have the relief prayed for in its cross petition.’’
+The cross-petition set forth the original note, which reads as follows:
+“Toledo, Ohio, July 29, 1870.
+“Ten years after date we promise to pay to the order of The Connecticut General Life Insurance Company, Ten Thousand Dollars, at Hartford, for value received.
+“$10,000, due July 29, 1880. William Gates,
+“(Secured by mortgage properly stamped.) L. M. Skidmore,
+“Chas. Douglas.”
+Accompanying these pleadings is an agreed statement of facts, which reads :as follows:
+■ “In addition to the matters and things set forth in the pleadings of the parties in this cause which are not put in issue it is mutually agreed and stipulated by the Connecticut General Life Insurance Company and Luther M. Skidmore that the facts as to-the issues joined between said parties so far as the same may -be competent or relevant to said issue are as follows:
+“First — The notes and mortgage which are set forth in the cross-petition ■of said The Connecticut General Life Insurance Company and the various interest notes which are set forth in the answer of said Skidmore were executed upon the 27th day of July, A D. 1870, at the office of said firm of Curtis, Russell & Company, in the city of Toledo, Ohio. Said notes wej-e drawn upon'blank printed forms of said company, as appears from one of said interest notes hereto .attached, marked Fxhibit “A,” with which the other notes are uniform except as to time of payments and amounts. The blank portions were filled in by D. A. Pease, one of the partners in said firm of Curtis, Russell & Company, and the notes and mortgage were then signed by said Skidmore, Gates and Douglas and left in the custody of said Curtis, Russell & Company, and were by said firm of Curtis, Russell & Company transmitted to the home or general offices of said company at Hartford, Connecticut.
+“All of said notes were by their terms made payable'at the city of Hartford, Connecticut, where the general offices of said Connecticut General Life Insurance Company were then and have ever since been located. About the -day of---, the amount of said loan was transmitted to said Skid-more, Gates and Douglas from the said home office of said Company, by New York draft through the mail.
+“At the time of the execution of said mortgage and notes, said Curtis, Russell & Company were advised and knew that the money loaned to said Skid-more, Gates and Douglas was to be used in the improvement of the real estate-described in the cross-petition of the said Connecticut General Life Insurance Company, and in the business carried on upon said premises, viz: the manufacture of wooden rakes: and the said money was in fact so used and applied.
+' ‘Second — By a statute of the state of Connecticut, in force upon the 29th day of July, 1870, at the time of the execution and delivery of the notes and mortgage described in the cross-petition of said Connecticut General Insurance Company and the answer of said Skidmore, it was unlawful to contract for the-payment or reservation of a higher rate of interest than six per cent, per annum for the loan or forebearance of money and when such usurious contract was made, the said contract was void so far as related to the whole of the interest stipulated for in such contract.
+“Third — Upon the 1st day of August, 1872, the general assembly of the state of Connecticut passed the validating act, which is set forth at length in the reply of said Connecticut General Life Insurance Company to the amended answer of said Skidmore.
+“Fourth — Said validating act of 1872 was repealed by said general assembly of Connecticut, by sec. 1 of a law passed July 11, 1878, entitled ‘An act relating to usurious loans.’
+“Both parties reserve the right to object to the admission of any of the foregoing facts as evidence on the ground of incompetency or irrelevancy.”
+It will be perceived that this was a note and mortgage signed in Toledo and made in Connecticut, delivered here to the agents of the Insurance Company, and by them sent to the general offices at Hartford, Connecticut, who, upon receipt of the notes and mortgage, transmitted to the mortgagees the amount of money they had borrowed; and the question is made before us and argued at great length, and very ably:
+First — Whether this contract is a contract to be governed by the laws of the state of Ohio, or by the laws of the state of Connecticut.
+Second — If to be governed by the laws of the state of Connecticut, the question is, whether the validating act is a lawful act; and, second, if it is a lawful act, whether or not the repeal of it afterwards would re-instate the parties in the same position that they were in before the validating act was passed.
+A large number of authorities have been placed before us; we think, however, the case is to be decided upon a single point, and one that goes to the-merits of the action.
+It will be observed that the notes which were given contain stipulations for an illegal rate of interest, whether governed by £he laws of the state of Connecticut, or of Ohio; the rate of interest was to be ten per cent, upon the loan. By a decision in the case of McClelland v. Sorter, 39 O. S., 12, notes which were so given were held to be illegal in the state of Ohio. The statute brought before us says that the rate of interest in Connecticut at that time was six per cent, and that any stipulation in regard to the payment of interest above that sum would make a forfeiture of the whole interest.
+There are a class of cases which decide as follows (I read now a portion of the syllabus in the case of Arnold v. Potter, 22 Ia., 194):
+“When the interest expressed is usurious, both by the law of the place-where the contract is made, and where it is to be executed, the law of the former place will govern as to the consequences of the usury.”
+The same doctrine had also been held by the supreme court of the United States in Andrews v. Pond, 13 Pet., 65. And also by the supreme court of Indiana, in Mix v. Madison Ins. Co., 11 Ind., 117. It is also laid down as the rule of law in Adams v. Roberson, 87 Ill., 45.
+Also, we find in support of the same doctrine a case irom North Carolina,. Commissioners v. Railroad Co., 77 N. C., 289.
+Swayne, Swayne & Hayes, for Insurance Company.
+Osborn & Smith, for Skidmore.
+The rule seems to have the support of all courts called upon to pass upon it, and we find no authority against it. It is, we think, also a just and reasonable rule.
+It follows from the above statement of the law that the contract in this case did not become at any time a Connecticut contract, but remained an Ohio contract; and it further follows that the validatory laws of the state of Connecticut could have no effect upon the contract, for the reason that such laws 'could have no extra-territorial force.
+In McClelland v. Sorter, 39 O. S., 12, our supreme court have held, that in contracts drawn and made as this is the lender can recover only the amount •actually loaned, with interest computed at six per cent, per annum.
+Decree may therefore be taken in favor of the Insurance Company for the amount loaned, with interest at six per cent, per annum, making applications of all payments made by way of interest or otherwise, in the manner pointed out by the statute of this state.
