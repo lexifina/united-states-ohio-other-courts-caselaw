@@ -1,0 +1,39 @@
+---
+court: "Crawford Circuit Court"
+decided: "1893-01"
+citations: ["3 Ohio Cir. Dec. 696"]
+reporter: "ohio-cir-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Beer, Moore and Seney, JJ."]
+parties: ["HENRY S. CRALL v. TOLEDO AND OHIO CENTRAL RY. CO. ELMER E. RETTIG v. TOLEDO AND OHIO CENTRAL RY. CO."]
+source_url: "https://static.case.law/ohio-cir-dec/3/cases/0696-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1620450
+---
+
+# Crall v. Toledo & Ohio Central Ry. Co.
+
+## Majority (SENEY, J.)
+
+SENEY, J.
+Does a petition , alleging the following facts, state a cause of action?
+“That The Toledo and Ohio Central Railway Company is a corporation duly incorporated under the laws of the state of Ohio, and as such corporation, at the time of the grievances hereinafter complained of, was operating a railroad and doing a general railway business in the state of Ohio.
+“That the plaintiff was an employe of said railway on the 21st day of December, 1891, and prior thereto, in thf capacity of fireman, under a cont’-act of hire, as such employee; that upon said day, the said defendant (Railway Company) discharged the plaintiff from such employment. That .immediately after receiving notice of said discharge, being within ten days after notice of said discharge was given him, the plaintiff demanded the reason of his discharge from said Railway Company, and that such reason be furnished him in writing. And that said company then and there refused to give him any reason whatsoever in writing for having so discharged him. And for said offense the plaintiff is entitled to a sum not less than'three hundred dollars, for which he asks judgment.”
+To properly and legally answer this question, calls for the construction to be given to an act of the legislature, passed April 2, 1890, [87 O. L. 149] which act reads as follows:
+AN ACT
+For the protection and relief of railroad employees; forbidding certain rules, regulations, contracts and agreements, and declaring them unlawful; declaring it unlawful to use cars or locomotives which are defective, or defective machinery or attachments thereto belonging, and declaring such corporation liable, in certain cases, for injuries received by its servants and employees on acount of the carelessness or negligence of a fellow servant or employee.
+Section 1. Be it enacted by the General Assembly of the State of Ohio, That it shall be unlawful for any railroad or railway corporation or company owning and operating, or operating, or that may hereafter.own or operate a railroad in whole or in part in this state, to adopt or promulgate any rule or regulation for the government of its servants or employees, or make or enter into any contract or agreement with any person engaged in or about to engage in its service, in which, or by the terms of which, such employee in any man: ner, directly or indirectly, promises or agrees to hold such corporation or company harmless, on account of any injury he may receive by reason of any accident to, breakage, defect or insufficiency in the cars or machinery and attachments thereto belonging, upon any cars so owned and operated, or being run and operated by such corporation, or company being defective, and any such rule, regulation, contract or agreement shall be of no effect. It shall be unlawful for any corporation to compel or require directly or indirectly an employee to join any company association whatsoever, or to withhold any part of an employee’s wages or his salary for the payment of dues or assessments in any society or organization whatsoever, or demand or require either as a condition precedent to securing employment or being employed, and said railroad or railway company shall not discharge an employe because he refuses or neglects to become a member of any society or organization. And if any employee is discharged he may, at any time within ten days after recéiving a notice of his discharge, demand the reason of said discharge, and said railway or railroad company thereupon shall furnish said reason to said discharged employee in writing. And no railroad company, insurance society or association, or other person shall demand, accept, require, or enter into any contract, agreement, stipulation with any person about to enter, or in the employ of any railroad company whereby such person stipulates or avrees to surrender or waive any right to damages against any railroad company, thereafter arising for personal injury or death, or whereby he agrees to surrender or waive in case he asserts the same, any other right whatsoever, and all such stipulation and agreements shall be void, and every corporation, association or person violating or aiding or abetting in the violation of this section shall for each offense forfeit and pay to the person wronged or deprived of his rights hereunder the sum not less than fifty dollars ($50.00) nor more than five hundred dollars ($500.00) to be recovered in a civil action.
+From this it will be seen, that the legislature 'has deemed it wise to make certain acts done by a railway company in reference to its employees unlawful, and lor the performance of such acts inflicts a penalty, for the benefit of the employee injured thereby. What are the acts thus declared ttnlawful?
+First — The railway company shall not make any rule or enter into any contract against or with an employee, whereby the railway company shall be relieved of any damages an employe may sustain, by reason of defective or insufficient machinery used in the operation of said railroad.
+If it does, the employee may recover from such railway company in a civil action, in a sum not less than five hundred dollars, the amount of the recovery dependent upon the wrong done or the right deprived of.
+Second' — -The railway company shall not require its employees to join any company association, or withhold any part of the employee’s wages for the payment of dues or assessments in any such association, or require the same as a condition precedent to being employed, or shall not discharge the employee because be refuses or neglects to become a member of any such association.
+If it does, the employee may recover from such railway company in a civil action, in a sum not less than fifty dollars nor more than five hundred dollars, dependent upon the wrong done, or the rights deprived of.
+These two rights in favor of an employee of a railway company, are the only rights, if violated, that are declared unlawful by this act, and are the only rights for which an action can be maintained.
+From this it will be noticed that the facts necessary to be averred in a petition to support a recovery, are not averred in the petition stated.
+It is urged in argument that the fact stated, viz: “That if any employee is discharged, he may at any time within ten days after receiving a notice of his discharge demand the reason of said discharge, and said railway company thereupon shall furnish said reason to said discharged employee in writing, its failure so to do,” furnished another cause of action.
+We think not. The act nowhere declares that the failure of the railway company to furnish the reason of the discharge shall be unlawful. The failure to furnish the reason to constitute an offense must be unlawful. The only recovery provided for is in the following language.
+“Every corporation, association or person violating or aiding or abetting in the violation of this section, shall for each offense forfeit and pay, etc.”
+F. S'. Monnett, for plaintiff in error.
+A. W. Scott, Finley & Bennett and Scroggs & Scroggs, for defendant in error.
+So that if the failure to furnish a written reason for the discharge is not an offense in the light and sense of this act, then, it follows that it does not constitute a cause of action.
