@@ -1,0 +1,29 @@
+---
+court: "Cuyahoga Circuit Court"
+decided: "1907-12-09"
+citations: ["28 Ohio C.C. Dec. 533"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Marvin and Henry, JJ., concur."]
+parties: ["*Saginaw Bay Transportation Co. v. Portage Entry Quarries Co. (Two Other Cases.)"]
+source_url: "https://static.case.law/ohio-cc-dec/28/cases/0533-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8817661
+cites_cases: ["116 Fed. 298", "58 N. E. 729"]
+---
+
+# Saginaw Bay Transportation Co. v. Portage Entry Quarries Co.
+
+## Majority (WINCH, J)
+
+WINCH, J
+The proposition that the verdicts in these three eases, all of which depend upon the same facts, were not supported by sufficient evidence, was argued to us with so much earnestness that we have reviewed the evidence with more than usual care. "While there is an irreconcilable conflict between the evidence given by the plaintiff’s witnesses and that given by the defendant’s witnesses, still we think that the evidence of one of the witnesses for the plaintiff, Alexander F. MeDougall, has an air . of verisimilitude, and that if he was believed by the jury, as they seem to have believed him, their verdict is warranted by his evidence. He was an eye witness of the collision and his attention was attracted by what he saw. He observed what was occurring as he passed on towards the east, on his way to dinner. Some discrepancies in his testimony are explained by the fact that he was moving on slowly during the progress of events, so that he observed different events from different viewpoints. He went back after dinner to see what damage had been done. Why should he do this if he had not seen the occurrence, just as he relates it, before dinner? We can not believe that his story is ■either imagined or invented. Reading it through, one gains the impression that he was a truthful witness, stating what he saw without exaggeration or intention to deceive. Of course he testifies as a fact whiqh he saw that the schooner Hattie struck the scow, when it may be that the scow was so low below the dock that he could not see the scow itself but only her deck load. In this he was giving his conclusion that the Hattie must have ■struck the scow based upon his observation of the direction in which the schooner was headed, as he saw it, and the position of the scow as indicated by boxes upon her which he could see. This does not weaken his testimony materially.
+Having read and weighed his testimony carefully, we are unable to say that the verdict is against'the weight of the evi•dence.
+As to limitation of liability, we are not disposed to follow the Pennsylvania ease cited by counsel for plaintiff in error. We think the better rule is discovered by a study of the cases of Duffy v. Gleason, 58 N. E. 729, and Gleason v. Duffy, 116 Fed. 298. From these cases, and others cited by counsel for defendant in error, we gather that the limitation provided by tbe federal statute is to be administered only in courts of admiralty.
+The courts of this state have no such jurisdiction and never had. It is distinct from the law and equity jurisdiction vested in our state courts, and is regulated by rules of its own. Furthermore, were the state court to undertake to apply the federal limitations statute, it could.not- do so in this ease, because the same was not properly invoked. There is no allegatioh in the answers that the negligence complained of resulted without the privity or knowledge of the owner seeking the limitation. This defect we consider fatal. The pleadings do not properly raise the issue suggested. Relief of the kind now claimed may yet be granted in a court of admiralty, notwithstanding the judgment. See the ease last cited. '
+We find no prejudicial error in the charge. It is true that the court repeatedly dwelt upon the proposition that the jury must find that a collision occurred between the schooner Hattie and the scow before it could bring in verdicts for the plaintiffs, without following up that statement each time with the further charge that they must also find that damage resulted from such collision, but we do not think that the jury was misled by this. In one place, at least, he qualified his statement and said that if they first found that the schooner struck the scow, they should next proceed to find out how much damage was done. That they followed his directions is shown by the figures in their verdicts. As sensible men they were not unmindful of the fact that a collision without damage to the scow would furnish no basis for verdicts for the plaintiffs.
+There was no error in refusing the defendant’s requests to charge nor was there prejudicial error in charging that the-transportation company and Mr. Gould were partners in the. operation of the steamer Rhoda Emily. ’
+Coming now to the question of excessive damages allowed to the Portage Entry Quarries Company, we think the point well taken and the computations made on pages 38, 39 and 40 of the brief of counsel for plaintiffs in error seem to be sustained by the record. Nor is this excess of $181.52 offset by the refusal of the trial court to permit said plaintiff to amend its petition so as to entitle it to prove some $187 more damages by reason of loss of use of the stone boxes. No exception was taken to this, by the plaintiff or offer to prove made, so that this item is one of the merest conjecture. •
+We find no other error in any of the cases. It follows that the judgments in favor of Joseph Croze and Thomas J. Prender-gast are affirmed, and if the Portage Entry Quarries Company remits $181.53 from its judgment, that judgment will also be affirmed; otherwise it will be reversed, because it is excessive.
+Marvin and Henry, JJ., concur.
