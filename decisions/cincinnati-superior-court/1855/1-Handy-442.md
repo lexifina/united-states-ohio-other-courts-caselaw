@@ -1,0 +1,31 @@
+---
+court: "Cincinnati Superior Court"
+decided: "1855-04"
+citations: ["1 Handy 442"]
+reporter: "handy"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Judges Storer, Gholson, and Spencer."]
+parties: ["SMEAD, COLLARD, & HUGHES vs. CHRISFIELD & PEALE."]
+source_url: "https://static.case.law/handy/1/cases/0442-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1623494
+cites_cases: ["10 Ala. Rep. 589", "24 Maine 358"]
+---
+
+# Smead v. Chrisfield
+
+## Majority (Gholson, J.)
+
+Gholson, J.
+delivered the opinion of the Court.
+If we are to regard, in construing the statute, the mischief it was apparently intended to remedy, there seems no good reason to doubt, that the endorser of a note, in like manner with the maker, may, before its maturity, be guilty of fraudulent acts, intended to defeat the claim of the holder. The same reason, therefore, which would lead to the adoption of a remedy as to the one, would be applicable to the other. And, practically, we know that, in many cases, the endorsers of bills and notes, and the drawers of bills, though not the parties primarily liable on the face of the instruments, according to their legal effect, are, in fact, the real debtors. To justify us, in excluding from the operation of the Statute, this class of cases, we ought to be satisfied that an endorser of a note can, in no proper sense, be considered a debtor, and the claim against him a debt, until the note has become due, and his liability 'fixed in the mode prescribed by law.
+In determining who is a debtor or a creditor within the meaning of the Statute, it is very clear, that we are not to be limited to any technical enquiry, whether an action of debt would be maintainable on the claim at common law. The common law forms of actions have been abolished; no distinction is now authorized in respect of a remedy between legal and equitable demands, and we are required to give to all proceedings under the Code a liberal construction, to promote its object and assist parties in obtaining justice.
+The provisions of the Code, in respect of an attachment on a claim before it is due, may be considered in two points of view;' — one affecting the acts and conduct of the defendant, and the other the claim of the plaintiff. The proceeding is authprized where a debtor has- disposed of his property, or is about to dispose of or remove his property, with intent to defraud his creditors. It is very evident, from an examination of other Statutes intended to prevent, a fraudulent alienation of property, that the terms “debtor” and “creditor” are not used in the restricted sense, which is claimed in this case. In the Statute, for instance, providing against an assignment by a debtor to trustees, to prefer one creditor to another, the same terms and none other are found, and it would scarcely be claimed that the endorser of a note was not a debtor within the meaning of that law. And in the statute of frauds the term “creditors” is applied to those whose claims are for debts or damages.
+The limitation as to the character of the claims for which the attachment may be awarded, must be found in that part of the Statute, which speaks of the claims of the plaintiff. If the acts and conduct of the defendant be such as to authorize an attachment, the plaintiff is also required to show the nature and amount of his claim, that it is just, and “when the same will become due.”
+Where the plaintiff can show the amount of his claim, and when it will become due, there is nothing in the Statute to limit him to a proceeding against those parties only, who are directly and absolutely bound for its payment. He is required to show the nature of his claim, and that it is just, but there is no restriction as to the character of the liability of the defendant; it would appear to be sufficient, that the obligation of the defendant extends to the amount claimed, and that the claim will become due at a specified time.
+With this understanding of the Statute, we have no difficulty in coming to the conclusion, that it embraces the claims against endorsers of bills of exchange and promissory notes. The contract of an endorser of a bill or note extends to the full amount for which it is drawn; that contract is that the amount shall be paid at its maturity, 3 Kent Com. 88. The claim is then due as to all the parties, and if it be not then paid, the contract is broken, 3 Kent Com. 115. The liability may depend on the taking at the proper time, and in the proper manner, the requisite steps. But these steps are to be considered rather for the purpose of fixing than of creating the liability. They are required as a duty for the benefit and protection of the endorser, and though they must be affirmatively shown to charge him, their omission rather operates to discharge from the consequences of a breach of contract. Upon the strictest principles, therefore, there can be no argument drawn from the necessity of demand and notice to charge the endorser of a note, which should prevent us from coming to the conclusion, that as to him, as well as the maker, the claim on the note must be considered as due at its maturity.
+We have been referred to cases, decided on the Bankrupt laws of this country and England, in reference to a distinction between contingent liabilities which may never become debts, and debts payable on a contingency. It has been held that the latter only are provable under proceedings in Bankruptcy, and are discharged. 52 E. C. L. 409; 8 Exch. 107; 24 Maine 358, 10 Ala. Rep. 589. If we were to adopt this, distinction as a guide in the construction of the Statute, it is quite clear that the claim against the endorser of a note would be embraced. It must be considered, at least, as a contingent debt, and has been substantially so held; in re Willis, 4 Exch. 530.
+Tilden, Rairden, & Curwen for plaintiffs.
+Collins' & Herron for defendants.
+We do not desire to be understood as expressing any opinion, how far claims for unliquidated damages, or claims having no definite time fixed by agreement of parties for their payment, are embraced in the Statute under consideration.
