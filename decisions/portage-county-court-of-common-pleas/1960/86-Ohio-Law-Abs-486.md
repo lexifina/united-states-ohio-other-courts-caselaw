@@ -1,0 +1,37 @@
+---
+court: "Portage County Court of Common Pleas"
+docket: "28106"
+decided: "1960-08-22"
+citations: ["86 Ohio Law Abs. 486"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNION SAVINGS & LOAN CO., Plaintiff, v. ADMIRAL BUILDERS, INC. et, Defendants."]
+source_url: "https://static.case.law/ohio-law-abs/86/cases/0486-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1804776
+cites_cases: ["34 Ohio App., 464"]
+---
+
+# Union Savings & Loan Co. v. Admiral Builders, Inc.
+
+## Majority (Caris, J.)
+
+Caris, J.
+On February 13, 1960, the plaintiff filed a petition to foreclose a judgment lien upon a property of certain defendants made parties in that petition comprising all of the defendants made parties in the first amended petition filed June 25, 1960, with the exception of one Bernard L. Elton, who was made new party-defendant for the purposes of the petition.
+The original petition recites the recovery of the judgment lien in the Common Pleas Court of Summit County, Ohio, and the certificate of issuance of judgment thereon to the Clerk of that county and of this county.
+This petition does not plead the foundation of the judgment upon which the lien is claimed. It does not appear from that petition whether the judgment was upon a note or some other cause of action.
+The plaintiff, by its amended petition filed June 25, 1960, states that the original defendant, Admiral Builders Inc. and the new defendant, Bernard L. Elton as President of Admiral Builders Inc., sold the plaintiff ‘ ‘ the note and mortgage described in the- original petition.” Here the first difficulty confronts the Court since no note and mortgage is described in the original petition, and the amended petition goes on to allege a fraud perpetrated on plaintiff in the purchase of a note and mortgage from Admiral Builders Inc.
+The amended petition, by reference only, adopts all the allegations in the original petition but unless by implication or inference does not in any way connect the note and mortgage referred to in the amended petition to the judgment pleaded in the original petition. In this situation of the pleadings the defendants, Admiral Builders Inc. and Bernard Elton moved to quash service of summons. It is axiomatic that the Court must pass upon the motion since no evidence is offered to sustain it upon what appears on the face of the pleadings. As stated, the judgment lien is not expressly, or even by a fair inference, anywhere within the pleadings connected with the note and mortgage barely mentioned in the amended petition. The amended petition pleads the purchase of the note and mortgage referred to in the amendment without recourse. Thus there remains by contract no liability upon said note for any deficiency against Admiral Builders Inc. the signer of the note, and the only claim the plaintiff may have against Admiral Builders and its President, Bernard Elton, new defendant, is upon the basis of the alleged fraud in the sale of the note, that is to say, the obligation, if any, to respond upon Admiral Builders and Bernard Elton rests upon the fraud alleged and in tort and is in no sense contractual.
+In this situation it is, of course, obvious that Admiral Builders, selling without recourse, have no interest whatever in the foreclosure action and no liability in that action and are not primary parties therein, or even necessary parties. Indeed, there is a question that they are proper parties.
+In syllabus 2 of the case of Weinburg v. Schaller, 34 Ohio App., 464, the Court says:
+“Joining action for breach of contract with an action for tort against other defendants, not necessary parties to the primary action, held to constitute a misjoinder of causes of action though such actions may be joined where subject matter arises out of the same transaction.”
+So in the case now before this Court there is a clear mis-joinder of tbe action in fraud and tbe action to foreclose under the contract unless it be that the subject matter of the two causes of action arise out of the same transaction.
+It seems to the Court to be patent that the causes of action do not arise out of the same transaction. The one cause of action is upon pledged security of the real property described in the original petition in which, as pointed out above, the defendants Admiral Builders and Elton have no interest or obligation. The giving of the mortgage by the mortgagors to the original mortgagee, Admiral Builders, is a separate and distinct transaction and it is. the mortgage and not the pledged security which is the cause of action. The other transaction, also separate and distinct, was the sale by Admiral Builders to the Plaintiff of the mortgage out of which sale the alleged fraud arises. They certainly do not arise out of the same transaction. One arises out of the transaction pledging the real property; the other out of the transaction of the sale of the mortgage from the mortgagee to the plaintiff.
+Further, Section 2309.06, Revised Code, referring to Section 2309.05, Revised Code, being the section providing for joinder of causes of action, clearly limits joinders by providing:
+“The causes of action united as provided in Section 2309.05, Revised Code, must not require different places of trial, and, except as otherwise provided, must affect all the parties to the action. ’ ’
+As pointed out earlier in this memorandum, the cause of action in contract in no wise affects the defendants Admiral Builders and Elton, and the cause in tort in no wise affects any of the parties other than Admiral Builders and Elton so that we have here an attempt to unite causes of action which do not affect all parties to the action.
+For the reasons above stated, the Court thinksi there is a prohibited joinder of causes of action, looking at the pleadings as a whole.
+The question remains whether this misjoinder is vulnerable to a motion to quash rather than a demurrer upon the ground of such misjoinder. This question does not seem very important to the Court since, if on the technical ground that the method of attack is wrong, the Court overruled the motion to quash, tbe Court would still be met with tbe question on demurrer. However the rule seems to be that if a summons has been issued without the filing of a sufficient petition service thereof may in fact be annulled through a motion to strike the petition from the files or jurisdiction may be attacked by a motion to quash the writ or by motion to quash service. (See 3rd Paragraph in Sec. 103, 32 Ohio Jurisprudence, 500.)
+It seems to the Court, taking the original petition and amended petition together, that we have here for reasons already discussed a petition insufficient and, accordingly that the motion to quash should be sustained or, in the alternative, treated as a demurrer and so sustained.
+The Court thinks, on the basis of authorities cited by attorneys for the plaintiff, that the Court was in error in making a distinction between Admiral Builders Inc. and the new defendant, Bernard L. Elton, when the Court originally ruled on the motion to quash, and the Court sees no reason now why they should not both be treated as in the same situation so far as the questions before the Court at the moment are concerned. Accordingly, the earlier minute of the Court, transmitted to counsel, is to that extent modified. Exceptions are allowed to each party concerned.
