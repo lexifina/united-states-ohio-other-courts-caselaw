@@ -1,0 +1,27 @@
+---
+court: "Ohio Circuit Court"
+decided: "1897-01"
+citations: ["13 Ohio C.C. 482"]
+reporter: "ohio-cc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Haynes, Scribner and King, JJ."]
+parties: ["THE CITY OF TOLEDO v. MARGARET DUFFY."]
+source_url: "https://static.case.law/ohio-cc/13/cases/0482-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1509141
+---
+
+# City of Toledo v. Duffy
+
+## Majority (Haynes, J.)
+
+Haynes, J.
+Margaret Duffy brought suit in the court of common pleas of this county against the city of Toledo to recover damages for personal injury sustained, by her while walking along the street of the city, by reason of a defective sidewalk. Such proceedings were had that a judgment was rendered in her favor for $500. The defendant in that suit, plaintiff in error here, the city of Toledo," prosecutes error here, claiming error in two particulars: one, the admission of certain evidence as to the condition of the sidewalk; and the other, that there was error in 'the charge of the court in regard to the physician’s fees.
+So far as the testimony in regard to the condition of the, sidewalk is concerned, I shall not stop to discuss that. We said, at the hearing of the case, all that we desire to say, and that, in substance, is, that these questions have been before us several times during the past few years, and we have uniformly held that such evidence was admissible, and that we have, at times, given our reason for the holding at some length. Indeed, one case of a kindred nature, decided by us, went to the Supreme Court, and was affirmed by that court. So that on the objections to that evidence, we find that there was no error committed by the- court of common pleas.
+In regard to the charge of the court, we think there was error. In the course of the trial the plaintiff testified as to what physician she had who attended her during her illness, and the physician was called as a witness. It appears that the plaintiff was taken, perhaps, to the physician’s office, and afterwards she sent for the physician, and he came and attended to the case. The bill for his services was $85. The physician testified that he charged the bill against the husband upon his book account, at the time. The court said to the jury this:
+“The question whether or not the plaintiff, being a married woman, can recover, as a part of her damages, if she is entitled to recover at all, medical expenses necessarily incurred in being treated for her injury, depends upon the answer to this question; whether she herself is or is not liable to pay these expenses. It is not claimed here that she has paid them. Therefore they could not be included as a part of her damages unless she is liable for them — unless the physician who rendered the services could maintain an action against her and recover for them from her. Ordinarily, if a married woman employs a. physician to treat her, and that is all there is to it, if he treats her at her request upon her employment, she is liable; but if the services were rendered under such circumstances as to show that there was no intention upon the part of the physician to charge her, and that it was his intention and her own also that he should charge her husband alone, and the husband is liable, then he could not maintain an action against her; she would not be liable for such services, and therefore she could not recover them as a part of her damages. If her husband alone is liable, she cannot recover them in this case; but if she is liable, then she can recover.”
+The statute, commencing at section 3108, defines the right of the husband and wife, which is, in many respects, declaratory of the common law; at section 3110, that the husband must support himself and his wife and minor children out of his property or by his labor; if he is not able to do it, his wife must assist so far as she is able. Clearly, this plainiff, being a married woman, known at the time she employed the physician to be such, the husband was first liable for her care in sickness, and it was his duty to furnish her the necessary means for her recovery, so far as he could, as well as to support her. It was his duty to furnish all medical attendance for the wife. If the wife,being injured as was the plaintiff below in this case, sends as she might for a physician, and the physician comes, she is acting in that case as the agent of her husband, and he will be liable for the physician’s bill, in the absence of a special contract between her and the physician whereby she herself becomes liable herself to pay him. The difficulty with this charge is, that if the wife sent for the physician and employed him, and he attended her at the time she was injured, then she became personally liable. We do not so understand the law. We think it is very clear from the evidence in this case that there was no employment by her of the physician, and that the husband alone was liable; and we think it was clearly the duty of the court, under the testimony, to have directed the jury that the services of the physican could not be recovered by the plaintiff in this case against the city. -
+C. F. Watts, for Plaintiff in Error.
+E. O. King and P. A. MaoGahan,ioi Defendant in Error.
+Under the charge of the court, a verdict having been rendered, we will do this: if the amount of $35 is remitted from the judgment, it will be affirmed as to the balance; otherwise, it will be reversed.
