@@ -1,0 +1,22 @@
+---
+court: "Hamilton Circuit Court"
+decided: "1911-07"
+citations: ["23 Ohio C.C. Dec. 192"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Smith, Swing and Jones, JJ.", "Swing and Jones, JJ., concur."]
+parties: ["Cincinnati Gas, Coke, Coal & Min. Co. v. Baltimore & O. S. W. Ry."]
+source_url: "https://static.case.law/ohio-cc-dec/23/cases/0192-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 638317
+cites_cases: ["86 O. S. 343"]
+---
+
+# Cincinnati Gas, Coke, Coal & Min. Co. v. Baltimore & O. S. W. Ry.
+
+## Majority (SMITH, P. J.)
+
+SMITH, P. J.
+The court feels that there is no need of further consideration of this cause. We are unanimous that 'no injunction should be granted and that the petition should be dismissed. We are of the opinion, in the first place, that the question presented here could and should be presented in the insolvency court. If that is not so, we think there is no exclusive' occupancy of Front street proposed, and that the trustees have full power to proceed as they are proceeding. As to carrying out the contract between the trustees and the Baltimore & Ohio Southwestern Railroad Company, we believe that the power of the trustees is ample; that in occupying Front street by the track of the Southern Railway, the trustees have ample power to move the Baltimore & Ohio track, and further, upon the evidence, the usage proposed is not an interference with the public use of the street as would destroy such use.
+Swing and Jones, JJ., concur.
