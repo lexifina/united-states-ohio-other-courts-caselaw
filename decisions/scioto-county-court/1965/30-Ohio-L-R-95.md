@@ -2,7 +2,7 @@
 court: "Scioto County Court"
 docket: "39311"
 decided: "1965-03-29"
-citations: ["30 Ohio L.R. 95", "30 Ohio L.R. 96"]
+citations: ["30 Ohio L.R. 95"]
 reporter: "ohio-lr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
