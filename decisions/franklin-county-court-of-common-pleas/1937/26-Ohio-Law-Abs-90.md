@@ -1,0 +1,28 @@
+---
+court: "Franklin County Court of Common Pleas"
+docket: "No 12932"
+decided: "1937"
+citations: ["26 Ohio Law Abs. 90"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE v WRIGHT"]
+source_url: "https://static.case.law/ohio-law-abs/26/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1685505
+---
+
+# State v. Wright
+
+## Majority (By ROSE, J.)
+
+OPINION
+By ROSE, J.
+In the case the court has before it a motion for a new trial and a motion for judgment notwithstanding the verdict, the motion for new trial sets forth four reasons why a motion for a new trial should be granted. The proceeding in this case was a proceeding upon a complaint in bastardy, a jury having been impaneled, sworn, evidénce adduced and the jury having returned a verdict finding the defendant guilty as charged in the complaint.
+The question as to the verdict being agains the weight of the evidence would only arise upon the testimony of Dr. Harriet S. Hyman who testified concerning what is commonly known as the blood tests for the purpose of determining non-paternity.
+The blood tests for determining non-paternity are tests that are made on the bloods of the mother, the child and the alleged lather to determine the presence or absence of specific substances in the red blood cells which are inherited according to very exact laws. If a substance is present in the blood of the child and is absent-in the blood of the mother it is a matter of scientific fact that said substance will be found in the blood of the father. Should the blood of the accused man lack that substance he could not possibly be the father of the child in question. On the ocher hand, the bloods of the mother and the putative father may be of particular combinations which could only give rise to a child of certain blood groups. Should the blood groups of the child in question, then, not correspond to the parental combinations the accused man could not possibly be the father. In reviewing the evidence it is found from the testimony of Dr. Hyman that she is well qualified to malee such tests, that she did make tests in this case and that from the tests of the bloods of the mother, the child and the alleged father, she states. positively that the defendant could not be the father of the child in question. No testimony was offered c-n the part of the complainant questioning the qualifications of the witness, the accuracy of her tests of the reliability of determining non-paternity by blood testing. If from the testing of blood the non-, paternity of a child can be determined by certain blood groupings and the same is an accurate scientific fact and if blood tests were made in this case, which were accurate and these tests showed conclusively that the defendant could not be the father of complainant’s bastard child, then there would be a miscarriage of justice to find that the deiendant was the father of said child and place upon him the responsibility of all expenses incidental to pregnancy and child birth, and the verdict would be against the weight of the evidence.
+Therefore, the first question that the court must consider is whether or not it is a scientific fact that science can determine the non-paternity of a child and in order to secure that information it is necessary to look to the medical profession and those scientists that have made a study of blood grouping tests to determine whether or not the court would be justified to take it into consideration.
+My attention has been called to the Journal of the American Medical Association of June 19, 1937, page 2138 containing, “The Report of the Committee of Medicolegal Blood Grouping Tests,” also the Medical Journal of June 26, 1937, page 2215, and, from these reports the court is led to believe that the American Medical Association accepts the blood grouping tests in determining .non-paternity as a scientific fact and have recommended legislation to the various states recognizing these tests, and authorizing the court to order tests, made. We find blood grouping tests have been used in European countries since 1924 and numerous tests have been made in the United States with several in the State of Ohio. The results of these tests have been admitted in evidence and considered by the court or jury in arriving at a proper verdict. Therefore, with the American Medical Association accepting the reliability of blood tests and the courts of this state and other states having accepted the same as evidence in determining non-paternity and m this case uncontradicted evidence having been offered which the court believes to be reliable to the effect that the defendant in this case could not be the father of complainant’s child the verdict of the jury is against the weigh of the evidence and the motion for a new trial is hereby sustained.
+The court has been requested by way of motion on the part oí the defendant to vacate and set aside the judgment notwithstanding the verdict and find the defendant not guilty. While the attorneys for the defendant have submitted to the court an exhaustive brief on this question, the court cannot take judicial notice of the correctness oí a blood test since the court must rely upon a determination by scientists qualified to perform such tests and in the performance of such tests errors may be made;
+and it is within the province of the jury to pass upon the qualifications, reliability- and accuracy of these- individuals or scientists in conducting this scientific examination.
+The motion for judgment notwithstanding the verdict is therefore overruled and the case ordered reassigned for a new trial.
