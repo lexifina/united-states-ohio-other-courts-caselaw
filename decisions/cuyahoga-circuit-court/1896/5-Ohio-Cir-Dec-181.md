@@ -1,0 +1,32 @@
+---
+court: "Cuyahoga Circuit Court"
+decided: "1896"
+citations: ["5 Ohio Cir. Dec. 181"]
+reporter: "ohio-cir-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Smith, Swing and Cox, JJ."]
+parties: ["Green v. Farrin. Green v. Oakes."]
+source_url: "https://static.case.law/ohio-cir-dec/5/cases/0181-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1626088
+---
+
+# Green v. Farrin
+
+## Majority (Smith, J.)
+
+Smith, J.
+These two cases which were heard ogether, thougn they are somewhat different in character, depend on the settlement of one question ; and that is, whether any judgment was rendered by Esquire Tyrrell, a justice of the peace in this city in a certain action which was pending before him, in which Green was plaintiff and Clara Earrin was defendant.
+The facts were these: Green brought an action of replevin against Mrs. Earrin to recover the possession of certain personal property, which property was all taken by the officer, and delivered to the plaintiff on the due execution of an undertaking by him, but the defendant having given a redelivery bond, the property was returned to her. The action was afterward tried by the justice, the defendant appearing by her attorney, and witnesses were examined on the part of the plaintiff, but the defendant offered no evidence, and after stating this hearing, the transcript contains the following language : “ Whereupon I do find that the right of property and possession in said goods and chattels when this action was commenced was in the plaintiff, and I do assess his damages in the premises $125 and costs of suit, herein taxed at-.” This was on August 22, 1893, and on September 8, 1893, an execution issued' thereon and was delivered to a constable who returned it, showing a levy on certain goods and their sale for $48.05. No exception of any kind appears to have been taken to any of these actions or proceedings.
+But on December 6, 1893, Clara Earrin filed in the court of common, pleas a petition in error to reverse this judgment on the grounds—
+Eirst — That the justice erred in not assessing the value of the property taken, and delivered to her separately from the other damages, and
+Second — That no judgment was entered.
+The defendant in error moved to dismiss the petition in error on the ground that it did not conform to law, but manifestly if there was any judgment the motion should have been overruled. But the court on hearing the case rendered this judgment: “ This cause coming on to be heard on the petition in error, it is found by the court that no judgment was rendered by the justice of the peace in the action of replevin before him, and in which error is claimed to have been committed, to which defendant in error, by his counsel, excepts, and that the petition in error be and is dismissed at the costs of the plaintiff in error, to all of which the plaintiff in error excepts, and the defendant in error, by his counsel, excepts.”
+Thereupon Green filed his petition in error in this court to reverse this judgment. 5
+1 Was there a judgment rendered by the justice in the original case ? Though informal and showing great neglect in not following forms at the command of every magistrate, we are of the opinion that there was. It is a settled rule that great indulgence is to be shown in the proceedings and judgment of such officials who are not presumed to be acquainted with the technical rules of law, and the practice of the higher courts, and we think that the rules of law as shown by the adjudication of many courts fully justify us in holding that the finding of the justice in this case that the right of property in and of the possession of the goods in controversy were, at the commencement of the suit in the plaintiff, and that he assessed the damages of the plaintiff at $125, and the costs taxed at $■-, was intended by the justice to be a judgment for that sum and the costs, and that it was not essential that it be followed by a statement that it was considered or adjudged by him that the plaintiff recover these sums. These conclusions seem to us. to be warranted by sections 50, 51, 53 and 53«, of Freeman on Judgments, and Black on Judgments, 123, where this question is fully discussed.
+The court of common pleas erred in dismissing the petition in error. It was filed in time, and the plaintiff in error was entitled to raise the question whether the judgment of the justice was a valid judgment, for no exceptions to that were necessary to enable her to raise that question. The judgment, in our opinion, should have been affirmed, for the ruling in 4 C. D., 607, is not applicable to this case.'
+We have had some doubt whether there was anything in the judgment of the court of common pleas prejudicial to the plaintiff in error. He got what he asked, to wit, the dismissal of the petition in error. . We incline to the opinion that this lets his judgment before the justice in full force, even if the common pleas did assign as the reason for the dismissal that there was no judgment to review, but it may be that it might operate to estop him from thereafter claiming that he had such a judgment, and that was the holding of the court of common pleas of which we will hereafter speak, and this is the reason why the plaintiff in error now seeks its reversal. And as there was error in dismissing the petition in error, and in not affirming it, that judgment will be reversed with cost, and remanded to the court of common pleas for further proceedings.
+The other case was one brought by Green against Oakes, the surety on the redelivery bond, to recover the amount still due on his judgment. If there was a judgment in the original case, the proof offered in this entitled him to recover, but the trial judge in this case, on the journal entry of the dismissa of the petition in error being produced, held that there was no judgment on which to predicate the right of the plaintiff to recover, and directed the jury to find for the defendant, which it did. The rights of the plaintiff in error were duly preserved by exception to the rulings and charge of the court and the overruling of a motion for a new trial, and by taking a bill of exceptions containing all the evidence and those rulings. We think the trial court erred in those matters, and this judgment will also be reversed, with costs and remanded for a neiy trial.
+Michael G. Heinz, for Green.
+Daniel Wilson, for Farrin and Oakes.
