@@ -1,0 +1,49 @@
+---
+court: "Licking County Circuit Court"
+decided: "1900-03"
+citations: ["20 Ohio C.C. 453"]
+reporter: "ohio-cc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Adams, Douglass and Voorhees, JJ."]
+parties: ["REINHARD SCHEIDLER v. THE NEWARK & GRANVILLE ELECTRIC STREET RAILWAY COMPANY, et al."]
+source_url: "https://static.case.law/ohio-cc/20/cases/0453-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1515696
+cites_cases: ["105 U. S. 527", "13 Ohio St., 574", "14 N. W. Rep. 193", "14 N. W. Rep., 193", "26 Ohio St., 312", "32 Pac. Rep., 536", "32 Pac. Rep., 537", "49 Ohio St., 374", "55 Pac. Rep., 384"]
+---
+
+# Scheidler v. Newark & Granville Electric Street Railway Co.
+
+## Majority (Adams, J.)
+
+Adams, J.
+This case has been submitted to the court upon a motion to dismiss the appeal.
+The pleadings have not been submitted to us, and it is not necessary for us to examine them: From the statement of counsel, this was an action in which, at the suit of Reinhard Soheidler, a receiver was appointed for the Newark and Granville Electric Street Railway Company, and,thereafter, answers and cross-petitions were filed by various parties,setting up their liens upon the property of the Electric Railway Company.
+The railroad was sold,and distribution was ordered among various lienholders. The receiver filed his final report. The Equitable Trust Company, being the trustee for the bondholders, excepted to the final report of the receiver. Those exceptions, as originally filed, were very numerous; on the hearing, all were abandoned except two. These two exceptions were insisted upon.
+1. The Equitable Trust Company excepted to an item of one hundred and fifty dollars, paH by the receiver to the auditor of state of West Virginia.
+2 The receiver, in his report, claimed, as compensation, at the rate of two hundred dollars per month,or twenty-four hundred dollars a year; and the Equitable Trust Company excepted to that allowance of compensation as excessive.
+On the hearing of these exceptions to the final report of the receiver, the court of common pleas sustained both. It disallowed the claim of one hundred and fifty dollars for some tax to'the auditor of state of West Virginia, and it reduced the allowance of compensation to the receiver to fifteen hundred dollars a year,and allowed him five hundred dollars for compensation for making sale of the property.
+The receiver gave notice of his intention to appeal to the circuit court, and in due time gave the bond fixed by the court.
+A motion is made by the Equitable Trust Company to dismiss that appeal,
+There are numerous grounds assigned in that motion,but the question is a question of jurisdiction of the subject-matter, and this court would be compelled to dismiss this appeal if it came to the conclusion that it was not an appealable case, whether the exact ground on which the court believed it was not appealable was stated in the motion or not.
+Counsel for the motion have cited numerous authorities in Ohio, and counsel for appellant have cited: Beach on Receivers, 774; a case decided by the United States supreme court, reported in the Co-operative edition, book 26, page 427; 32 Pac. Rep., 536; Smith on Receivers, section 417 and section 117; the same edition of the U. S. reports, book 27, pages 150 and 162; 55 Pac. Rep., 384, and 14 N. W. Rep. 193.
+In the text books, Beach on Receivers and Smith on Receivers, the general rule is laid down that, in matters affecting the receiver personally, directly affecting the receiver, the receiver may appeal.
+It is claimed by counsel for the receiver that he is a party to the main action, or that he could appeal any branch of the action, as to the distribution of the fund between the parties, or any other matter that was litigated between the parties; but the claim is made that, when the court directs him to turn over more property than he has in his hands, or refuses him compensation, or refuses him adequate compensation, those matters affect the receiver directly, and that he may appeal; and the rule laid down in these text books states the broad doctrine that the receiver may appeal.
+We have examined all of these cases that have been cited to us by counsel, but all of them do not sustain that proposition. Some of them are cases where permission has been given by the court to a party to sue the receiver, and the receiver has been sued, and he has been one of the parties to the principal action, and there he is allowed to appeal as any other party could appeal.
+In the case in 32 Pac. Rep., 536, decided by the supreme court of Washington, this holding is made:
+“The motion to dismiss the appeal is based' upon the ground that this court has no jurisdiction of the matter appealed from, because the order fixing the compensation of the receiver in said anfión is not final judgment,order or decree from which an appeal lies to this court,and because the fixing of the compensation of the receiver is a matter entirely within the discretion of the court by which he was appointed. While this is a proceeding in the original action, yet we are of the opinion that it is a distinct proceeding in itself, and that the order made with reference to the compensation of the receiver is a final one in so far as the amount allowed is involved. This precise point was decided in Trustees v. Greenough, 105 U. S. 527,’’(and we have examined that case also), “in which such an allowance was held a final determination of a particular matter, and, though it was incidental to the cause, that the inquiry was a collateral one,having a distinct and independent character, and was held to be appealable. ”
+Another case, that we think is in point, cited by counsel for the receiver, is in 14 N. W. Rep., 193. It is there held that “It may be that a receiver who is the mere custodian for the court cannot appeal from an order directing him to turn over the property in his hands, but when the order erroneously fixes the amount of property in his hands, and directing him to turn over more than he has in custody, it is essential to the protection of his rights that he should be allowed to appeal.”
+These are the authorities that are relied upon to sustain this appeal. It was suggested to counsel, on the hearing of this case, that there is a difference between the laws of Ohio relating to appeals and proceedings in error and the laws of most of the states; and, of course, it is apparent that, while these cases in other states are instructive, unless the statutes regulating appeals and proceedings in error in the states from which these decisions come, are identical with the Ohio statutes, they would not be controlling authorities.
+Section 5226, Revised Statutes, provides: “In addition to the cases and matters specially provided for, an appeal may be taken to the circuit court by a party or other person directly affected, from a judgment or final order in a civil action rendered oy the common pleas court.”
+It must be a judgment or a final order rendered by the common pleas court in a civil action, before an appeal will lie in any event.
+Section 6707, Revised Statutes, provides what is a final order from which error may be prosecuted. It says: “An order affecting a substantial right in an action, when such order in effect determines the action and prevents a judgment,and an order affecting a substantia] right made in a special proceeding or upon summary application in an action after judgment, is a final order which may be vacated, modified, or reversed, as provided in this title.”
+In the Washington case, reported in 32 Pac. Rep., 537, it is said that the allowance of compensation to the receiver, or the passing upon the report of the receiver, the hearing of exceptions to the report of the receiver, is a proceeding in the original action, and we think it is a special proceeding within the meaning of section 6707, Revised Statutes.
+Edward Kibler, for the motion.
+Elory1& Elory, and John M. Swartz, contra.
+In McRoberts v. Lockwood, 49 Ohio St., 374, on page 375, the court say:
+“Whatever the law may be elsewhere, it has not been the policy of this state to allow appeals from orders of the court of common pleas in proceedings after judgment,such as confirmations of, or setting aside sales of real estate and the like. The action of the court of common pleas in such cases, is reviewable only by proceedings in error.’’ Citing Reeves v. Skenett, Jr., 13 Ohio St., 574.
+While it is not exactly in point in this case, Fideldey v. Diserens, 26 Ohio St., 312, indicates the view that the supreme court has upon a somewhat similiar question. There it is held:
+“A master commissioner, or other party entitled to have fees taxed as costs in an action, can not in his own name prosecute a proceeding in error to reverse an order of the court for retaxing the costs, or disallowing his claim for fees in the case. ”
+If a receiver can appeal in a case like this, then an attorney in a partition case, where the common pleas court did not allow a satisfactory fee, could appeal; and appeals could be taken in all similar cases where fees are allowed by the common pleas court.
+While we have given consideration to these cases cited by counsel for appellant in this case, and while it is, so far as we know, a new question in Ohio, that is, the exact point has not been decided by our supreme court, we think that this was a final order, affecting, it is true a substantial right of the receiver,but is not a final order made in a civil action; it is a final order made in a special proceeding, and if he is aggrieved by the action of the court, his remedy is by a proceeding in error, and not by appeal; and, for these reasons, the appeal is dismissed.
