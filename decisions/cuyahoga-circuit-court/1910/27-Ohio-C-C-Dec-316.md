@@ -1,0 +1,43 @@
+---
+court: "Cuyahoga Circuit Court"
+decided: "1910-03-01"
+citations: ["27 Ohio C.C. Dec. 316"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Winch and Henry, JJ., concur."]
+parties: ["W. M. Pattison Supply Co. v. A. J. Harvey."]
+source_url: "https://static.case.law/ohio-cc-dec/27/cases/0316-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8817351
+cites_cases: ["181 Mass. 476", "63 N. E. Rep. 934", "82 O. S. 390"]
+---
+
+# W. M. Pattison Supply Co. v. Harvey
+
+## Majority (MARVIN, J.)
+
+MARVIN, J.
+This is a proceeding in error brought here seeking to reverse the judgment of the court of common pleas. The facts are these, in brief:
+Harvey filed a petition in the court of common pleas, setting forth that he was the owner, by assignment from another, of fifty shares of stock in the Pattison Supply Co., which is a corporation duly organized, incorporated and doing business under the laws of the state of Ohio, that he presented the old certificates to said company and demanded a transfer of the stock and issuing of new certificates or certificate to him, which was refused. It is conceded that he presented the old certificates, and that the company refused to transfer the stock, and the reasons given are, first, that the stock for which Harvey holds certificates was originally issued to one A. M. Keller, who subsequently died, and the administrator of his estate, one Norman S. Keller, never made the sale of the stock to one L. H. Wain, as was alleged. Secondly, it is urged, the sale was not authorized by law, although it was ordered by the probate court to be made, because of certain irregularities that are set out in the administration, among others, that there was no appraisement.
+It is sufficient to say that the probate court did have jurisdiction and affirmed the sale.
+In the suit of Dreher against this corporation, the same question was necessarily involved, for he at that time claimed to be the owner of stock of this company, and it was there held that he was the owner of the stock. After the decision in that case Wain, who held the stock in trust and who had the legal title thereto, sold and assigned the same stock, fifty shares, to the plaintiff below in this action.
+It is sought to justify the refusal to issue the new certificates by reason of a by-law. It was also denied in the answer that the sale was made in good faith and for value but the case was referred to a referee who found the facts to be, upon the evidence, that the sale was for value, so that, without question, the plaintiff below in this action is the owner of this stock. Indeed that was conceded in the argument, but, it is said, by reason of Art. VIII of the by-laws of the corporation, the plaintiff was not entitled to have the transfer made. That by-law reads:
+“Transfers of stock can only be made on the books of the company, in person or by proxy, in the presence of the president, or secretary, on surrender of the previous certificates and payment of all dues on the same, and the further provision that no stock should be transferred to any person not a stockholder until the board of directors should have been notified in writing of such intent and shall have an option for a reasonable time to purchase said stock at the value determined at the next preceding annual meeting of the stockholders, with 6 per cent interest from the date of the meeting added thereto. ’ ’
+This stock was not offered to the board of directors, nor had there been any value fixed on the stock at the annual meeting of the directors next preceding the time when this was sold, nor had there been any opportunity given to fix any value. But whether that was so or not, we are of opinion that under Sec. 3254 ft. S., this plaintiff was entitled to have the stock transferred. This section reads:
+“Stockholders shall be entitled to receive (certificates) of their paid up stock in the company; and the president and secretary of the company shall on demand, execute and deliver to a stockholder a certificate showing the true amount of the stock held by him in the company. And it shall be the duty of the directors of such corporation, when organized, to keep a record of all stock subscribed and transferred, and of the secretary or recording officer of such corporation to register therein all subscriptions and transfers of stock, ’ ’ etc.
+This man had bought the stock, was the owner of it, and under the statute was entitled to have it transferred, and this by-law could not prevent his right to have it transferred.
+In 10 Cyc. 359, this is the test, as there laid down:
+“As a general rule by-laws which operate in restraint of trade are void, as against public policy, under the principles of the common law; and this is also true of municipal ordinances, and especially of municipal ordinances tending to create monopolies, excluding, of course those cases where the grant of exclusive franchises is necessary, as in the case of gas light companies, water supply companies and the like.”
+Also:
+‘ ‘ Shares of stock in a corporation being personal property, and the jus disponendi being incident to the very nature of property, it follows that a by-law which undertakes to prohibit a shareholder from freely transferring his shares of stock is originally void, as being in restrain of trade and against common right. ’ ’
+We are cited to 2 Cook Corporations Sees. 622c and 622d. Section 622c reads:
+“A stockholder has a right to sell his stock at any time and to whomsoever he pleases without regard to other stockholders. Even though he owns a majority of the stock there is no principle of law obliging him to provide for the sale of others’ stock when he sells his own. Hence contracts are often entered into between a portion or all of the stockholders of a corporation to the effect that they will hold and sell their stock together. Such a contract is legal. The difficulty with such a contract, however, is that upon a breach of it only the actual loss suffered and not the full value of the stock of the injured party is recoverable in damages. Hence, such a contract should contain a provision obligating the selling stockholder to buy the stock of the others.
+“Another form of contract is to the effect that before any of the stockholders sell their stock they shall first offer it to the other stockholders. This kind of a contract is also legal and will be enforced by the courts.
+“An agreement, however, between the stockholders of a corporation that no one of them will sell, assign or dispose of his stock without first having given the other parties to the agreement an opportunity to purchase, does not disable a party from transferring a legal title to the stock without the consent of the other parties and in violation of the agreement, and this although the transferree was cognizant of the agreement at the time of the transfer. It is a breach of contract, but the remedy is usually at law for damages. Such also is the rule as to a contract that a stockholder before selling his stock to others, shall first offer the stock to the corporation itself. A personal agreement between the incorporators, promoters and proposed subscribers to the said stock of a proposed corporation, by which agreement the corporation is to have the first right to buy the stock of any one who wishes to sell, does not prevent a sale by a stockholder without offering the stock to the corporation. Hence the corporation can not refuse to transfer the stock.”
+Section 622iZ reads:
+“The by-laws of a corporation can not legally prohibit or limit the right of a stockholder to sell his stock.
+“It has been held in Massachusetts, however, that a by-law, recited on the face of a certificate of stock to the effect that a stockholder will not sell his stock without first offering it to the directors at the same price, prevents the stockholder transferring the stock to his principal he not having disclosed that he was acting as agent. Such a by-law is legal, and the corporation may refuse to transfer the stock in violation of the by-law. ’ ’
+This is held also in one case in Barrett v. King, 181 Mass. 476 [63 N. E. Rep. 934], but the test is otherwise in Ohio, as the statutes of this state provide that corporations shall keep a record of all stock subscribed and transferred, and for the secretary or recording officer of such corporation to register therein all subscriptions' and transfers of stock, and that it shall be their duty so to do.
+The judgment of the court of common pleas is therefore affirmed.
+Winch and Henry, JJ., concur.
