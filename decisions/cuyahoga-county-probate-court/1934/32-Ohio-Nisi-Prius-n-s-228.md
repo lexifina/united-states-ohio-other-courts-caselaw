@@ -1,0 +1,44 @@
+---
+court: "Cuyahoga County Probate Court"
+decided: "1934-05-25"
+citations: ["32 Ohio Nisi Prius (n.s.) 228"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In Re Estate of James Alexander Paisley."]
+source_url: "https://static.case.law/ohio-np-ns/32/cases/0228-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1571827
+cites_cases: ["118 O. S. 36", "157 Fed. Rep. 609", "160 N. E. 468", "54 N. E. 490"]
+---
+
+# In re Estate of Paisley
+
+## Majority (Brewer, J,)
+
+Brewer, J,
+James Alexander Paisley died testate on November 30, 1932, leaving a widow and seven children. Under the provisions of his -will, he gave, devised and bequeathed the residue of his estate to The J. A. Paisley Company.
+In determining the inheritance tax payable in said estate, the court found the value of the succession of The J. A. Paisley Co., to be §105,180.00, and assessed a tax against this succession at 7, 8 and 9% fixing the amount of the tax in the sum of $8,288.20. To this determination of the tax, The J. A. Paisley Co., and Robert J. Paisley, one of the executors of safd decedent’s will, and a stockholder of The J. A. Paisley Co., filed exceptions.
+In order to give a clear understanding of the question at issue, it is necessary to recite the facts, which constitute the basis for the exceptions.
+A number of years ago, there was a corporation organized under the laws of the state of Ohio, which was known as The David H. Thomas Coal Co., aiid in which James Alexander Paisley was a large stockholder.'
+The purpose of this corporation was to conduct mining operations, and to buy and sell coal and to do all other acts incident to such business. In 1918, James Alexander Paisley acquired all the stock of said corporation, and at the annual meeting of the stockholders on January 31, 1918, the articles of incorporation were amended so as to change thé name of the corporation from The David H. Thomas Coal Co., to The J. A. Paisley Co., and at the same time, the objects and purposes of the corporation were changed so as to give it power to purchase and sell or, to exchange stocks, bonds or other certificates of indebtedness of other corporations.
+At the time of the organization of this corporation, Mr. Paisley owned substantially all of its stock and a little later, to-wit; on October 4, 1919, he divided this stock among his wife and seven children and himself, in an approximately equal number of shares, so that each became the owner of 1/9 of the stock of the corporation.
+The court, .in its determination of the tax, levied the assessment against the succession of The J. A. Paisley Company as a successor of the fourth class and therefore entitled to no exemption and subject to the rates of 7, 8 and 9%.
+It is the contention of the exceptors that in view of the circumstances, the tax should be computed as though The J. A. Paisley Company were a successor of the second class, and entitled to the rates of 1, 2 and 3 °¡o.
+That is to say, in other words, that The J. A. Paisley Company is not what it purports to be, a corporation, but is simply a collective term designating the Paisley family who are to be regarded for the purposes of the inheritance tax as separate and distinct individuals.
+The exceptors argue that the court has the power to look into the facts involved in the creation of The J. A. Paisley Company and determine whether or not, it is a corporate entity, a stranger, or whether or not it is a family; and they further argue that this corporation being a family, the estate that passed under the decedent’s will to The J. A. Paisley Company passed to the widow and seven children of the decedent, the same and to the same effect as if James Alexander Paisley had died intestate.
+In support of this argument, the exceptors cite: In Re Rieger, Kaper and Altamark, 157 Fed. Rep. 609. Quoting from the syllabus as follows:
+“The doctrine of corporate entity, is not so sacred that a court of equity, looking through forms'to the substance of things, may not in a proper case ignore it to preserve the rights of innocent parties or to circumvent fraud.”
+In considering the facts surrounding the organization of The J. A. Paisley Company, it is apparent that the decedent had in mind the welfare of his family, and that he chose a method of handling his estate which seemed to him would best protect it and promote its welfare. In deciding to incorporate his business and to give the stock thereof to the members of his family, he could not have failed to consider the advantages of incorporation.
+The J. A. Paisley Company was incorporated under the laws of the state of Ohio. It is a corporation for profit, and like any other corporation thus formed, “is a distinct entity, independent of the individuals who compose it.” (Batch et al. v. Atty. Gen. et al, 54 N. E. 490 Supreme Court of Mass.)
+It would be difficult to imagine for example, that if the The J. A. Paisley Company were sued for debt, that the stockholders, that is, the widow and seven children of the decedent, would waive their right of immunity from personal liability; under no circumstances would they waive any of their rights and privileges as stockholders of a corporation.
+The court could hardly construe Section 5334, General Code, in such a manner as to consider a corporation duly and legally organized as eight individuals, for the purposes of the inheritance tax, knowing that for all other purposes, it is a legal entity.
+While the stock of this corporation at the time of Mr. Paisley’s death was owned entirely by the several members of the decedent’s family, this fact was a mere coincidence. Although the stockholders were bound by a mutual agreement not to sell any of their stockholdings during the lifetime of Mr. Paisley, this agreement was a voluntary restriction of a legal right, and without this restriction, they could have sold their stock to strangers. Suppose there had been no agreement not to sell the stock, and suppose some of the Paisley heirs should have sold their stock, what then becomes of the argument that the Paisley heirs and The J. A. Paisley Company are identical persons.
+The act of the testator in bequeathing his estate to-The J. A. Paisley Company, a corporation duly organized under the laws of the state of Ohio, and therefore, a distinct and separate entity, made The J. A. Paisley Company the sole and only successor to his estate, and constitutes an insuperable bar to the succession to said estate by the individual heirs at law of the testator. The fact that the widow and the seven children of the testator, at the time of his death comprised all the stockholders of this corporation, which he made his sole legatee, does not make them the successors to his estate.
+James Alexander Paisley under Item II of his will, gave the residue of his estate to The J. A. Paisley Company in these words: Second : “All the rest, residue and remainder of my estate, real, personal and mixed, of whatsoever nature or kind and wheresoever the same be situated, I do give, bequeath and devise to The J. A. Paisley Company, an Ohio corporation, its successors and assigns forever.”
+The exceptors claim that, although the testator by the terms of his will, expressly gave, devised and bequeathed the residue of his estate to a corporation, that the tax should nevertheless have been determined, “as if the will had provided that the residue of his estate should be divided among his widow and seven children.”
+In the case of Tax Commission v. Paxson (118 O. S. 36; 160 N. E. 468) the court in rendering its opinion said:
+“It is frequently held that one claiming exemption must show that such exemption is within the terms of the constitution and the statute.
+“A claim of exemption from taxation by virtue of a statute is construed strictissimi juris. It must rest on language in regard to which there can be no doubt as to the meaning, and the exemption must be granted in terms too plain to be mistaken.”
+Successors to estates with their rates and exemptions are classified by Section 5334. That The J. A. Paisley Company is a corporation, and a beneficiary under the will is conceded. The testator in Item II of his will makes the bequest of his estate to “The J. A. Paisley Company, an Ohio corporation, its successors and assigns forever;” and the corporation in its exceptions, alleges that it is a corporation duly and legally organized under the laws of the state of Ohio, and as such, is a beneficiary under the last will and testament of the late James Alexander Paisley.
+In view of the evidence under the provisions of the statute, the corporation as a beneficiary under the will, is a successor of the fourth class. There can be no other interpretation, and the exceptions must therefore, be overruled.
