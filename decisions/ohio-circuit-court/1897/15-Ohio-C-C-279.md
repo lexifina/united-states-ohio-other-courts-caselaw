@@ -1,0 +1,38 @@
+---
+court: "Ohio Circuit Court"
+decided: "1897-11"
+citations: ["15 Ohio C.C. 279", "8 Ohio Cir. Dec. 276"]
+reporter: "ohio-cc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Cox, Smith and Swing, JJ."]
+parties: ["THE STATE OF OHIO EX REL. KATHERINE C. MULLIKAN v. EUGENE L. LEWIS, AUDITOR OF HAMILTON CO., OHIO."]
+source_url: "https://static.case.law/ohio-cc/15/cases/0279-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1513433
+cites_cases: ["59 O. S , 37"]
+---
+
+# State ex rel. Mullikan v. Lewis
+
+## Majority (Smith, J.)
+
+Smith, J.
+In this case the parties have submitted to us what is called an “agreed statement of facts,” but the attorneys for the defendant, while consenting that it is correct, insist that on a trial of the case evidence as to many of the statements made therein would not be competent or relevant; so it is agreed further, that if in the opinion of this court evidence as to these facts would not be admissible,such facts themselves are not to be considered by us, but be stricken out.
+We are of the opinion that such facts so objected to might properly be proved in the case, and being admitted to exist, that we should consider them, and in this agreed statement we find that the relator is entitled to the relief prayed for.
+The facts briefly stated are these:
+In 1889, the relator was the owner of a vacant lot in Clifton, which was on the county duplicate for taxation' that year, at a valuation of eight hundred ($800) dollars. In the fall of that year,the relator commenced the construction of a building thereon, which was completed by June 1st, 1890. At the November election of 1889, Miller was elected decennial assessor for the district in which this lot was situate, and entered upon the discharge of the duties of said office, in March, 1890. At the April election of 1890, Biedinger was elected annual ¿assessor for Clifton, in which this lot was situate, and in pursuance of law made a return of the building on this lot as an unfinished structure, placing a valuation thereon of fifteen hundred ($1,500) dollars, and this sum, with the original valuation of the lot, eight hundred ($800) dollars, was placed on the duplicate for 1890, making the total valuation thereon twenty-three hundred ($2,300) dollars, and taxes were paid thereon for that year.
+At a meeting of the decennial appraisers, held at the office of the auditor in 1890, such appraisers and their assistants, including said Miller and his assistants, being present, the auditor gave them verbal instructions to value the land and finished buildings only. The appraisement of relator’s lot and this building was made by the decennial assessor in July, 1890, as a finished structure, the building having been fully completed before the 1st day of June, 1890. The law required him to.make his return on the first Monday of July, 1890, but he did not do so until after December 6th, 1890. He returned the building at $2800.00 and the land at $2400.00
+Total valuation. $5200.00
+The decennial county board of equalization convened August 11th, 1890, and continued their sessions until November 30th, 1891.
+At the April election in 1891, Biedinger’was again elected annual assessor for Clifton, and he made a return as to this structure on relator’s lot, as follows: ■
+“Total value of structure, , $3500.00.
+“Partial value reported last year to be deducted $1500.00. Amount tp be added to 1891 duplicate for new structures, $2000. Finished.’’
+It was further agreed that the minutes of the decennial board of equalization for April 25th, 1891, show that said board was viewing property in Clifton at that time; and that the annual board of equalization of the county for 1891, did not meet as required by law in May, 1891, but did convene August 10th, 1891, and continued in session until September 9th, 1891. The minutes of said last board are silent as to the returns of the annual assessors for 1891,but show that it acted upon certain returns of chattel property of the assessors. Nothing is said therein as to new structures. The assessors of the several townships returned to the auditor the sworn statements of all persons listing personal'property, and new structures, and also a book containing the names of persons listing personal property and new structures, and the new structures returned by the assessors.
+The minutes of the decennial board of October 6th, 1891, show that on that day the board was equalizing the value of property in Clifton, and completed the same October 29th, 1891. The minutes of the county board of equalization show that on November 20, 1891, the board certified the value of all property in Clifton for purposes of taxation, the value of relator’s said property being $5200.00, to which was added 5'per cent, by order of the state board of equalization, thus making the decennial valuation $5460.00.
+This was sent to the county auditor to enable him to make up the duplicate for 1894, and in making up the duplicate for 4891, the auditor added to said valuation of $5460.00, the valuation of $2000, which the annual assessor for 1891 had returned, and upon this $2000 so added, the relator has paid the taxes for 1891-2-3-4-5 and 1896, in all, $225.36.
+In March, 1897, a claim was presented by the relator to the auditor, asserting that the $2000 had been added by some clerical error, and asking that the duplicate be corrected, and that the auditor refer the claim to the commissioners, that the taxes so improperly paid thereon for 1891-2-3-4-5, might be refunded. Thereupon the auditor, on March 30th, 1897, advised the commissioners that he had corrected the duplicate and hád remitted the taxes for the year 1896, and he did issue a warrant for' the one-half of. the taxes for 1896, on the $2000.00, which wasjpaid to relator, and gave her a remit for the other one-half of said1 taxes on the $2000 which became due in June, 1897, and which was credited on said taxes; but afterwardsjthe auditor, on the advice of the solicitor, rejected the claim, and restored the $2000.00 to the valuation, and this action'Js brought to require the auditor to correct the duplicate as to said $2000.00, and to require him’ to submit said claim to the county commissioners.
+Frederick Hertenstein, Attorney for Relator.
+Bendigs, ForaJcer & Dinsmore, County Solicitors, Attorneys for Defendant.
+As hereinbefore stated, we are of the opinionj^that the claim of the relator is an equitable and just one. It is evident on the facts stated, that during all of these years the relator has been paying taxes on $2,000, more than she should have done. That the valuation made by the decennial assessor in July, 1890, after this building was completed, viz: $2800, for the building, and $2400 for the lot, in all $5200, together with the 5 per cent, ordered to be added by the state board of equalization, viz: $260.00, in all $5460, was all that should have gone on the duplicate-of 1891, and that the addition of the auditor of the $2000' for the same structure was wrong.
+We think these facts sufficiently appeared from the records of the auditor and of these boards,[and that it was a clerical error which he could and ought to correct, The claim of counsel for the defendant, that it^fmust be conclusively presumed that all appraisements|of|real estate in the decennial year were made as of the second Monday of April, is not well founded, and particularly so, when it is shown as a matter of fact”that the valuation was made at a different time. A decree may be taken as prayed for.
