@@ -1,7 +1,8 @@
 ---
 court: "Cincinnati Superior Court"
 decided: "1857-12"
-citations: ["1 Disney (Ohio) 569", "1 Disney (Ohio) 571"]
+decided_precision: "month"
+citations: ["1 Disney (Ohio) 569"]
 reporter: "disney-ohio"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["James B. Ramsay & Co. v. George Overaker."]
 source_url: "https://static.case.law/disney-ohio/1/cases/0569-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1628122
-cites_cases: ["2 Phill. 220"]
 ---
 
 # James B. Ramsay & Co. v. Overaker
