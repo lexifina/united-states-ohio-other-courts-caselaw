@@ -1,0 +1,34 @@
+---
+court: "Ohio Circuit Court"
+decided: "1910"
+citations: ["24 Ohio C.C. Dec. 585"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Taggart, Donahue and. Voorhees, JJ.", "Taggart and Voorhees, JJ., concur."]
+parties: ["Horace M. McLarren v. W. C. Myers, Admr."]
+source_url: "https://static.case.law/ohio-cc-dec/24/cases/0585-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1652202
+cites_cases: ["16 Ohio St. 284", "29 O. C. C. 235", "42 N. E. Rep. 322", "45 N. E. Rep. 719", "53 Ohio St. 519", "55 Ohio St. 553", "87 O. S. 88"]
+---
+
+# McLarren v. Myers
+
+## Majority (DONAHUE, J.)
+
+DONAHUE, J.
+This cause is submitted upon a motion to dismiss the petition of plaintiff in error. The first ground of the motion is that the summons in error was not issued and served in time.
+It appears from an examination of the record that the judgment to which error is sought to be prosecuted was entered on April 23, 1910; that the petition in error was filed August 12, 1910; that the summons in error issued August 27, 1910. and that this summons in error was served upon the defendant in. error August 29, 1910, and this motion to dismiss the petition in error was filed on September 7, 1910.
+The Supreme Court of Ohio in the case of Robinson v. Orr, 16 Ohio St. 284, and in the case of McDonald v. Ketchum, 53 Ohio St. 519 [42 N. E. Rep. 322], held that there being no special legislation relating to the prosecution of error, that the statutes of the civil code by analogy determine when a proceeding in error is commenced, and that, therefore, a proceeding in error must be deemed to be commenced from the date of the summons actually served upon the defendant in error. In this case the summons in error actually served upon the defendant in error was not issued within the four months authorized for the bringing of error proceedings, therefore the case falls squarely within the doctrine announced by the Supreme Court in Robinson v. Orr and McDonald v. Ketchum, supra.
+Counsel for plaintiff in error insist that this case comes within the provisions of Sec. 4988 R. S. (G. C. 11231), which reads as follows:
+“Within the meaning of this chapter, an attempt to commence an action shall be deemed to be equivalent to its commencement when the party diligently endeavors to procure a service, if such attempt be followed by service within sixty days. ’ ’
+In this case, however, no summons in fact issued within the time limited for the commencement of an error proceeding. From the affidavits filed it appears that counsel for the plaintiff in error diligently endeavored to secure the issuing, of this summons, but the fact remains that it was not issued until after the expiration of the four months.
+In the case of Baltimore & O. Ry. v. Ambach, 55 Ohio St. 553 [45 N. E. Rep. 719], the Supreme Court held that “to bring a case within the saving provisions of Sec. 4988, E. S. a summons must be caused to be issued before the expiration of the statute of limitations governing the cause of action.” On page 554 in the same ease the court says:
+“It is the diligent endeavor to procure a service that brings the case within the saving provisions of Sec. 4988, and it can not be said that there is diligent endeavor to procure service when no summons has been issued to be served upon any one. If a summons has been caused to be issued, there can be an endeavor to procure service of such summons, but where no summons has been caused to be issued there can be no endeavor to procure a service. The burden of causing a summons to be issued is east upon the plaintiff in error, and as no summons was caused to be issued, in this case, there was no endeavor to procure the service of summons, and therefore the plaintiff in error does not bring itself within the saving provisions of Sec. 4988, and the circuit court was right in dismissing the petition in error.”
+To the same effect is the holding of the circuit court in the ease of Andress v. Greenfelter, 29 O. C. C. 235 (9 N. S. 446), and while it is claimed that the facts in the case did not call this doctrine in question, yet the court hearing the case thought otherwise, and followed the doctrine announced by the Supreme Court in the case of Baltimore & O. Ry. v. Ambach, supra.
+Aside from these authorities, however, from the reading of this section we are clearly of the opinion that this statute can not aid the plaintiff in error. No summons in error having been issued within the four months next after judgment, this case does not come either within the letter or the meaning of Sec. 4988 E. S.
+Counsel for plaintiff in error contend that the defendant in error by filing this motion has thereby entered his appearance to this suit. It is sufficient to say with reference to this question that the motion was filed after the expiration of four months from the date of the judgment sought to be reversed. After that time the plaintiff in error has no right to prosecute this proceeding in error, and this court has no jurisdiction to reverse the judgment of the common pleas court. The most that could be claimed for the filing of this motion is that it amounts-to a waiver of the summons in error and entry of a voluntary appearance to the action; but we think this motion directly ■ raises the question of the jurisdiction of the court, and the right of the plaintiff in error to maintain the action after the four months allowed therefor have elapsed. The defendant in error is standing on his rights and asking this court by this motion to-dismiss this case without further proceedings, for the reason that it has no jurisdiction, and while counsel has made diligent endeavor to procure this summons to issue in time, and the.' fault is not with counsel, yet the fact remains that no summons-was issued within the four months, and no appearance effected within the four months either by service of summons in error or by the defendant in error’s entering his voluntary appearance thereto, and it necessarily follows that the petition in error must be stricken from the files.
+The motion having been submitted upon evidence, and counsel for plaintiff in error desiring a finding of fact, such finding may be drawn in accord with the averments of the affidavit of counsel for plaintiff in error and time may be extended twenty days for that purpose.
+Exceptions of plaintiff in error noted.
+Taggart and Voorhees, JJ., concur.
