@@ -1,0 +1,29 @@
+---
+court: "Cuyahoga Circuit Court"
+decided: "1905-02-27"
+citations: ["25 Ohio C.C. Dec. 567"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Marvin, Winch and Henry, JJ.", "Marvin and Winch, JJ., concur."]
+parties: ["Martin Walter v. State of Ohio."]
+source_url: "https://static.case.law/ohio-cc-dec/25/cases/0567-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1655196
+cites_cases: ["41 L. R. A. 854", "50 N. E. Rep. 900", "58 Ohio St. 324", "70 Ohio St. 219", "71 N. E. Rep. 640", "9 Ohio St. 439"]
+---
+
+# Walter v. State
+
+## Majority (HENRY, J.)
+
+HENRY, J.
+The plaintiff in error was convicted in a justice court of having violated Par. 4 of Sec. 15 of the game law, 97 O. L. 463, 470, in that he had, on Sunday in the open air, implements for hunting or shooting, to wit, a shot-gun and cartridges. He proved that the offense, if any was committed, was committed on his own land and that certain animals and birds not protected by law had been injuring his crops; but it was not expressly shown that he was then engaged in hunting the animals .and birds aforesaid. The law provides that:
+“No person shall hunt or shoot,'or have in the open air for such purposes, any of the implements for hunting, or shooting •on any Sunday.”
+The accused claims, first, that “such purposes” refers not to “hunting or shooting” generally but to the unlawful hunting or shooting of protected game. We do not think so. True, prior sections of the game law prohibit the hunting or shooting or protected game; but this section prohibits' any hunting or shooting whatever on Sunday, and it likewise prohibits the having in the open air on that day any implements for such purpose.
+The accused claims, secondly, that these provisions should not be so construed as to prohibit hunting unprotected birds or animals that are damaging crops on one’s own land on Sunday. We think, however, that the general assembly plainly so intended. For it has in Secs. 12, and 16, expressly permitted the killing of certain protected game by any one who finds it damage feasant on his own premises, at any time, “except on Sunday.” In the face of such manifest intention we can not read into the statute a contrary intent. Martin v. State, 70 Ohio St. 219 [71 N. E. Rep. 640], is not in point, for the question there decided was simply the grammatical construction of a statute.
+It is claimed, thirdly, that if the construction of the game law be such as we have just held it to be, it infringes the constitutional rights to bear arms and to protect one’s own property. The right to bear arms is reserved to the people in our federal and state constitutions as a means of self-protection against tyranny or oppression and as a defense against certain forms of private aggression. This right is not infringed by reasonabe police regulations designed to promote the peace and well-being of society, such for example as those that prohibit carrying fire arms into churches, courthouses, theaters and polling places. . Neither is it infringed by similar regulations prohibiting the use of such implements for purposes other than those necessary to the enjoyment of this constitutional right of self-protection. The huntsman’s avocation is not within the purview of Sec. 4 of the bill of rights.
+The right of acquiring, possessing and protecting property guaranteed by ,Sec. 1 of the bill of rights is not an absolute right maintainable by every means and under all circumstances; for Sec. 19, of the same article provides that private property, though it shall ever be held inviolate, is nevertheless subservient to the public welfare. The general assembly possesses and has frequently exercised the power of regulating the enjoyment of the right of private property. Where such regulations are reasonably promotive of public peace, health or welfare, they have been upheld. It follows then that if Sunday quietude and rest, free from the noise and tumult of .the hunt, constitute a lawful object for the exercise of the police power, a regulation so admirably adapted to that end as is the prevention of hunting and shooting on that day, must necessarily be held to be both reasonable and valid. The general assembly having determined that this end is paramount, the right to protect crops from the depredations of birds and animals on that day must yield thereto, so far as the exercise of such right is prohibited.
+The validity of Sunday laws in general is fully established by State v. Powell, 58 Ohio St. 324 [50 N. E. Rep. 900; 41 L. R. A. 854]. It is urged, however, that Sunday laws are invalid unless they except from their operation eases of necessity and charity and those of persons who conscientiously observe the seventh day of the week as the Sabbath. Canton v. Nist, 9 Ohio St. 439. This decision does not support that contention. All that was there decided is that a municipal corporation to which is delegated the power to pass ordinances of this character must exercise such power subject to the conditions upon which it is given. One of the conditions in that case was that such ordinances should conform to the state laws. The state laws contained the recited exceptions but the ordinance in question did not, and it was therefore held void.
+If the law here in question shall in practice be found to be oppressive, the remedy is a resort to the authority by which it was enacted. In the present case the accused failed to prove that he was actually engaged in protecting his property. We have, however, examined the objections urged to the constitutionality of the law under which he was convicted and we hold that it does not violate either Sec. 1 or See. 4 of the bill of rights, and that it is a valid enactment. We see no error in the record here, and the judgments below are affirmed.
+Marvin and Winch, JJ., concur.
