@@ -1,0 +1,53 @@
+---
+court: "Hamilton County Court of Common Pleas"
+decided: "1911-04-24"
+citations: ["13 Ohio N.P. (n.s.) 105"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Assignment of W. C. Davies."]
+source_url: "https://static.case.law/ohio-np-ns/13/cases/0105-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1545874
+cites_cases: ["43 O. S., 63"]
+---
+
+# Assignment of Davies
+
+## Majority (Swing, J.)
+
+Swing, J.
+W. C. Davies made application in the court of insolvency for an allowance of $500 in lieu of a homestead, under Section 5441, Revised Statutes (Section 11738, General Code). The facts shown by the testimony are as follows:
+At the date of the assignment, W. C. Davies, the assignor, was living in the family residence in Pleasant Ridge, Hamilton county, Ohio, the residence being the property of his wife. Davies continued to live in this house and to occupy it as a homestead until after the sale of the assigned assets by his assignee. Subsequently, but without abandoning the homestead in Pleasant Ridge, having the intention to return, Davies and his wife resided for a time temporarily in Covington, Kentucky, and were living there at the time Of the trial in the court of insolvency. Afterwards Mrs. Davies removed to Montpelier, Ohio, where she is now residing, but she still has the intention of returning to Pleasant Ridge and occupying her house there if she can. The house is heavily mortgaged, the mortgage liens and taxes in arrears at the time of the assignment being nearly if not quite the value of the property. Mrs. Davies is now receiving rent for it, it being occupied by a tenant or lessee. Mr. and Mrs. Davies are not now actually living together, but are not separated by any agreement. Mrs. Davies does not know where Mr. Davies is at this time. When she last heard from him he was in Cleveland, Ohio, staying with his mother. All the family furniture has been moved out of the house. Mrs. Davies testified that she expects Mr. Davies to return to her when their financial condition will permit. The testimony showing the facts as here stated is not controverted. The evidence tends to show, I think, that the separation such as it is, is caused by his temporary inability to earn money for the support of himself and his family. There “are three questions raised in the case:
+First. Whether Mr. and Mrs. Davies are husband and wife living together within the meaning of the statute. The provision of the statute is: “Husband and wife living together, residents of this state * # * and not the owner of a homestead, in lieu thereof may hold exempt,” etc.
+I am of opinion that under the circumstances Mr. and Mrs. Davies should be held to be husband and wife living together, his absence from her being temporary.
+Second. Whether Mr. and Mrs. Davies are residents of the state of Ohio. It is claimed by counsel for the judgment creditors and by the assignee, resisting the allowance, that the burden of proof is upon the assignor to establish his residence in the state of Ohio. I think that the weight of the evidence is that he is a resident of this state. The separation of husband and wife being only temporary, the wife being still in this state and the husband having been when last heard from residing in this state, I do not feel able to assume that he is not how a resident.
+Third. Whether, it being shown that the husband and wife were at the date of the assignment, occupying the home in Pleasant Ridge, having left it after the assignment, the application since made can be granted.
+The general rule as to the right to demand an allowance in lieu of a homestead is stated by our Supreme Court in Niehaus v. Faul, 43 O. S., 63, as follows:
+‘ ‘ The right to demand an allowance in lieu of a homestead under the Revised Statutes, Section 5441, * * * be determined by the state of facts existing when the fund is finally disposed of by the court. ”
+But it is claimed that the rule is different in the case of an assignment for the benefit of creditors, and that in such case the applicant must be entitled to the allowance at the date of the assignment. It is said in the ease of Kunkle, Assignee, v. Reeser, 5 N. P., 401, by Judge Roekel of the Probate Court of Clarke County:
+“At the time of an assignment the assignor may be the owner of the following kinds and classes of property:
+“First. Personal property only.
+“Second. Real estate not occupied as a homestead.
+‘ ‘ Third. Real estate occupied as a homestead, but not encumbered by lien so as to preclude the allowance of a homestead therein.
+“Fourth. Real estate charged with liens some of which preclude the allowance of the homestead while others do not.
+“Fifth. Real estate charged with liens all of which preclude the allowance of a homestead.
+“If the property assigned is of the kind mentioned in the first, second and third of the above classes, then the condition of facts existing at the time the assignment is made will control.
+“The deed of assignment conveys to the assignee rights at least equal to those acquired by an officer after having made a levy under Section 5483 — each for the legal possession of the property; and for very much the. same purpose, i. e., to convert it into money and apply it upon the debts of the owner.
+“In both cases the law preserves to the debtor the right to claim his homestead exemption, but it must be a right existing at the time of the levy or the assignment. It can not be created afterwards. ’ ’
+In the 22d Weekly Law Bulletin, page 168, there is an account of the case of David Moody, assignee for the benefit of creditors of John Whittaker, v. John Whittaker, decided by our Supreme Court April 19, 1889, without report. Prom the statement of facts it appears that Whittaker made an assignment April 1, 1884, for the benefit of creditors and on April 23, 1884, he made application to the probate court for an allowance of $500 in lieu of a homestead, and the court found, “Whittaker was then the owner of a homestead, and dismissed his petition,” which judgment of the probate court was subsequently affirmed by the court of common pleas, that court finding: ‘ ‘ That Whit-taker was not entitled to the allowance asked for.”
+But later, April 4, 1885:
+“After the personal property assigned had been sold by the assignee, Whittaker made another application to the probate court for an allowance of $500 out of the funds in the hands of his assignee, alleging as a reason therefor that since his first application his homestead had been sold and the proceeds exhausted by mortgage liens.”
+The probate court found April 6, 1885, that:
+“Since the order dismissing Whittaker’s first application for an allowance in lieu of homestead, his homestead, which he was then occupying, has.been sold to satisfy claims which were at the time of making said assignment liens upon said homestead, and that said homestead has been entirely consumed in the payment of said liens; and that the personal estate of the said assignor has all been converted into money by said assignee, which now remains in his hands for distribution under the order of this court; and the court further finds that said John Whit-taker is the head of a family, and. that neither he nor his wife is the owner of a homestead, and that he is entitled to $500 in lieu thereof to be paid to him by the said Moody out of the proceeds of the sale of the personal property of the assignor.”
+And it was so ordered. This finding and judgment were affirmed by the court of common pleas and later in proceedings in error by the circuit court, and finally by the Supreme Court. It is said in the published account of the case in the Law Bulletin:
+“The decision of the common pleas and of the circuit court was that an insolvent debtor who owns and occupies a homestead at the time of making an assignment for the benefit of his creditors, and consequently is not entitled to an allowance in lieu of a homestead, by the subsequent loss or termination of his homestead, becomes entitled to such allowance out of any funds still in the hands of his assignee. In the Supreme Court the decision of the circuit court was affirmed.”
+The brief of counsel for creditors resisting the allowance in that case is published, showing that the contention was clearly made there that the allowance should not be made because:
+“At the time the rights of creditors in Whittaker’s property were fixed by the assignment and he was the owner of a homestead.”
+It would seem therefore that according to the decision of the court of common pleas and the circuit court and the Supreme Court in the Whittaker case, an allowance may be made in lieu of a homestead in case of an assignment after the date of an assignment, under some circumstances, even though the assignor was the owner of a homestead and occupying it at the time of the assignment. It would seem to be implied by the decision of Judge Rockel above quoted, that application may be made for an allowance in lieu of a homestead after the assignment if the property was encumbered by lien so as to preclude the allowance of a homestead therein.
+In the Davies case there is testimony to the effect that the real estate of the wife was at the time of the assignment encumbered by a mortgage, I thinh for $1,800, and that there were arrears of taxes, and it appears, I thinh, that the encumbrances were such as to preclude the allowance of a homestead therein, and the same condition remains at this time.
+In view therefore of the fact that the real estate of the wife was at the time of the assignment encumbered by lien so as to preclude the allowance of a homestead, and in view of the decisions of the several courts in the Whittaker ease, I am inclined to think that the application in this case was properly made after the date of the assignment.
+I have been referred to the decision of Judge Warner of the Court of Insolvency, In re Assignment of Rosa Pelnick, 9 N.P. (N.S.), 635, in which case it was held:
+“An assignor who was not a resident of Ohio on the day her assignment for the benefit of creditors was made, but became a resident thereafter, is not entitled to homestead exemption under the Ohio law.” .
+I do not mean to express disagreement with the court of insolvency as to the decision in that case; I think the facts may distinguish that case from the Davies case. I am of opinion that the principles of the law as stated by Judge Roekel in the Kunkle ease, and as held by the courts in the Whittaker case, may be fairly said to be applicable to the Davies ease.
+The allowance will therefore be granted.
