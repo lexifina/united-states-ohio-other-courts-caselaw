@@ -1,0 +1,41 @@
+---
+court: "Montgomery County Court of Common Pleas"
+decided: "1907-04"
+citations: ["5 Ohio N.P. (n.s.) 185"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Arthur W. Marshall v. The Walter A. Caverly Co."]
+source_url: "https://static.case.law/ohio-np-ns/5/cases/0185-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 888047
+cites_cases: ["107 Mass., 1", "12 O. S., 425", "136 U. S., 236", "163 Mass., 561", "63 O. S., 383", "67 Md., 222"]
+---
+
+# Marshall v. Walter A. Caverly Co.
+
+## Majority (Snediker, J.)
+
+Snediker, J.
+This case comes before the court on motion for leave to. elect. to reject a lease of the property occupied by the defendant company.
+The agreed facts are that at the time of the appointment of a receiver, November 29, 1904, defendant was in possession of certain premises of the Dr. Harter Medicine Company under a lease dated June 16, 1903, beginning June' 15, 1903, and ending August 31, 1905, at a rental of $83.33 1-3 per month and $5 for heating. The assets of the defendant were in large part material, furniture and fixtures used in the operation of a candy manufactory. The most profitable period of the year in that business is during the months of November, December and January of any year, and for the reason that many accumulated orders were to be filled during these months the receiver made application and was directed by the court to continue the business for the purpose of filling said orders and soliciting further orders for the December trade. This resulted in great profit to the receivership.
+The motion for authority to elect to reject the lease was filed January 31, 1904, the material, furniture, fixtures', etc., having previously been sold under the order of the court. Subsequently the property was occupied for a short time by the purchaser for the purpose of removing the same and from him the lessor received rental therefor, it being agreed that this should not prejudice the rights of the lessor.
+There have been delays by counsel in presenting the motion, but under mutual agreement that no prejudice should accrue to either for that cause.
+The claim of the Dr. ITarter Medicine Company is for the entire balance of the term, nine months, amounting to $795, with á credit to the receiver for the months of December, 1904, and January, 1905. of $166.68, leaving a balance of $628.32 due the lessor.
+These being the facts, what is the law of the case? The only liability, if any, which could arise on the part of the receiver would be as receiver and not as an individual.
+“A. receiver does not become vested with the title to the property or the assets which he administers; his office is purely ministerial. His relation to the property is like that of a constable, sheriff or master in chancery.” 12 O. S., 425.
+“A receiver derives his authority from the act of the court appointing him, and not from the act of the parties at whose suggestion or by whose consent he is appointed; and the utmost effect of his appointment is to put the property from that time into his custody as an officer of the court, for the benefit of the party ultimately proved to be entitled, not to change the title or even the right of possession, in the property:” 136 U. S., 236.
+It is a familiar doctrine of the common law that while there is no privity of contract between the lessor and the assignee of a term, there is privity of estate which renders the assignee liable upon the covenants of the lease, so long as he holds the term. This applies not only to private individuals but to assignees in bankruptcy and insolvency as the title to the ■ leasehold estate vests in them provided they take possession. It is difficult to see upon what principle a receiver in the absence of a statute vesting the title of the insolvent in him can in any legal sense be said to be the assignee of a term.
+In Ellis v. Boston, Hartford & Erie Railroad Company, 107 Mass., 1, 28, it was said by Mr. Justice Wells, speaking of the decree of this court appointing receivers of a railroad company:
+“It had no effect to change the title, or create any lien upon the property. Its purpose, like that of an injunction pendente lite, was merely to preserve the property until the rights of all the parties coud be adjudged. The receivers are officers of the court for this purpose, and act under its direction and control.” 163 Mass., 561-2.
+This being true and there being no privity of estate between the lessor and this receiver, the trust fund alone must answer for any rent due. What then is his liability as receiver? Does the fact that he continued the business on the premises for the purpose of the receivership for- two months with privilege to take such additional orders as might be necessary in closing out the receivership, make the receivership liable for the full amount of the rental, or is the lessor’s rights limited to a pro rata share of the fund?
+The provisions of the code relating to receiverships in general and aside from the statutes relating to the dissolution of cor-, porations, simply determine “when and how he may be appointed; who is eligible as such; as to the oath, investment of funds, etc., with a section relative to powers as follows:
+“The receiver shall have power under the control of the court to bring and defend actions in his own name as receiver, take and keep possession of the property, to receive rents, collect, compound for and compromise demands, make transfers, and generally to do such acts respecting the property as the court may authorize. ’ ’
+So that for our answer to the real question in the ease, we must look to the common law. No similar case has been passed upon and reported in Ohio. The cases cited by counsel for the Dr. Harter Medicine Co. in 63 O. S., 383, 20 Law Bulletin, 370, 4 Nisi Prius, 440, are cases against individuals as such who were assignees. A receiver being an- officer of the court is not to be regarded in any sense as the agent or representative of either party to the action. The fund or property is in custodia legis, and the receiver is a creature or officer of the court having only such powers as are expressly conferred on him by the order of appointment, or snch as are conferred upon him by the established rules and usages of a court of chancery. When appointed and qualified, it is the duty of the receiver to take possession of leased property and he does not by so doing become the assignee of the term, but holds the property, as we have said, as the hand of the court and is entitled to a reasonable time to ascertain its value and determine whether or not he will accept it.
+Frizell, Goriom & Jones, for the motion.
+Oscar Davidson, contra.
+In the 60 Minn., page 305, the case of B. F. Nelson, Receiver, v. Robert C. Kahlkhoff et al, the court say:
+“A receiver has a reasonable time in which to elect whether he will accept or reject a lease wherein the party whose estate he represents is lessee, an.d during such reasonable time he may enter upon, and occupy the demised premises for the purpose of selling under the direction of the court personal property thereon belonging to the trust estate without thereby accepting the lease for such estate.”
+Also see Thomas H. Gaither v. Henry Stockbridge, Receiver, 67 Md., 222.
+This, we believe, is the law of this case, and said premises having been necessarily occupied by the receiver and the business having been necessarily continued under the order of the court for the purpose of better disposing of the property of the defendant company and of serving the interests of all parties concerned, the receiver having acted in good faith and without unnecessary delay, we are of the opinion that he ought not to be held as receiver to have elected to accept the lease, and would only be liable for the full rental during the time the premises were so used by him, such liability arising as expense or cost of the receivership.
+The motion to elect to reject the lease is therefore sustained. Lessors should be allowed in full the amount collected from the purchaser under agreement and their pro• rala share on distribution for the remainder of the term.
