@@ -1,0 +1,35 @@
+---
+court: "Columbiana County Court of Common Pleas"
+docket: "66633-B"
+decided: "1971-10-12"
+citations: ["30 Ohio Misc. 15"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fitch, Admr., v. Oesch et al."]
+source_url: "https://static.case.law/ohio-misc/30/cases/0015-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6703482
+---
+
+# Fitch v. Oesch
+
+## Majority (Tobin, J.)
+
+Tobin, J.
+The plaintiff filed an application for both instruction and interpretation on an agreement and a will by Lela Oesch, together with certain codicil as effected by agreement signed on December 27, 1963, some years prior to the death of Ulrich Oesch and Lela Oesch, husband and wife, and in effect at the time of the instant case.
+There were five questions raised that the court will try to answer in the order in which they were given.
+The agreement signed December 27, 1963, is a perfectly valid agreement and reads as follows: “Whereas it is desired by each of these parties, regardless which one dies first that the property shall go one-half to the nieces and nephews of Ulrich Oesch and one-half to the nieces and nephews of Lela Oesch,” as it agrees to make wills in accordance with the above paragraph.
+Ulrich Oesch died first and in accordance with the agreement of the parties all property went to Lela Oesch. Lela Oesch executed a will on the same day, December 27, 1963. However, she later made a codicil in which she left a farm and residence to Ulrich Oesch’ brother, Wayne Oesch, in trust, for one Lawrence Oesch, and upon his death to Lawrence Oesch’s children. In addition thereto she made all of the bank accounts and insurance into non-probate assets by joint and survivor agreements, to-wit, $8,242.52 to her own nephews and nieces and $9,472.00 to her husband’s nephews and nieces and to other relatives of Lela Oesch, $16,356.33.
+First the court must determine the true meaning of the agreement. A reading of the agreement can lead to only one conclusion. First it is a perfectly valid agreement enforceable by law, intended that at the time of the. death of the survivor, that it be divided into two equal shares and thus go one-half to the nephews and nieces of Ulrich Oesch and one-half to the nephews and nieces of Lela Oesch.
+It is also the court’s interpretation, and the court finds that the survivor of the two of these parties, Lela Oesch, had a perfect right to spend and use up as much or all of the property as she desired because the first provision made in the will was to leave it to the surviving spouse. The question then remains, does this carry over to her right to give it away or place it in nonprobate assets out of ftp reach of fte will and interpretation of the agreement. An agreement of this sort is peculiarly subject to the protection of the court. One of the parties had died and therefore has no way to seek enforcement of the agreement. To say that she has a right, out of her property, in view of the agreement, to dispose of any property in any way except by the agreement, by joint and survivorship accounts or by free gift, and also in this case by codicil to her will, is to say that the agreement for all practical purposes is not to be enforced. It is a logical conclusion that anyone can for all practical purposes abrogate with impunity this agreement if they can make gifts of the property as they see fit or to place it in bonds or such so that the effect of the agreement becomes null and void. If such be the case, then these agreements are of no value and the agreement would be able to be abrogated with impunity by the survivor by use of the law on joint and survivor accounts or by gift to dispose of the property.
+Therefore the court rules that the agreement is binding on Lela Oesch and she could neither by the contrivance of joint and survivor accounts, or bonds or by codicil to will, dispose of her property in any other way than under the agreement of December 27, 1963. Again, the court states, first, she could use it up for her own expenses, pleasure and for herself, but her agreement would not permit her to dispose of any property prior to her death nor any other manner, or to make a will different than that contained in the agreement.
+Therefore the first question is answered that the codicil is an abrogation of the express agreement between Ulrich Oesch and Lela Oesch and that the agreement take precedence over the codicil. The answer to the first question also answers the second question.
+The third question is answered the same.
+The court will permit full compensation to Wayne Oesch, as trustee, in reply to the fourth question.
+In view of the above interpretation of the agreement, the agreement takes priority over any other disposition made during the lifetime of Lela Oesch, of any of her property, except that used for her own purposes and living. Thus the court rules that the property that she had at the .date of the. codicil and left to Wayne Oesch as Trustee .fpr Lawrence Oesch, and any and all-other property that she disposed of during her lifetime as gifts or through the means of joint and survivorship agreements, must be considered in full as part ,of the estate. This then will, be divided into two equal parts, one-half going to the nephews and nieces of Ulrich Oesch and . one-half to the, nephews and nieces, of Lela Oesch. Any amounts that the parties have received prior to that, will be deducted from whatT ever share they were entitled to receive by the will in light of this court’s opinion. The codicil to the will granting the farm to Wayne Oesch, in trust for Lawrence Oesch, will be permitted to remain as the codicil provides .if he will advance .the monies that would constitute the differential between, his share of this, estate and the appraised value of this farm.
+The fifth question is a little more difficult for the court to answer. After due consideration the court finds that it is not the duty of the administrator to attempt.to recover the nonprobate assets disposed of but leaves the right to seek to attempt to recover, the same in the hands of the other heirs to the extent that others benefit by its return. However, the farm willed to Wayne Oesch is, part of the probate assets.
+The court also rules that each and. every .legatee bear the proportionate share of the estate tax and the administrator is hereby ordered not to turn over, the assets to whoever is entitled to .same until .security is given to him for the payment of his share of the estate tax.
+The. court excludes from all these proceedings the life insurance of Lela Oesch payable to Harry Stoffer, Jr., and Evelyn Stoffer and of course, there is no estate tax on that.
+The, court reiterates, it is not the duty of . the administrator to recover thes.e nonprobate assets; but the right of action is left with those parties who might be. injured by not receiving their full amount under the agreement and the will,; to file separate action. in the proper courts to recoyer. the amount, due. them.
+Agreement to make will upheld.
