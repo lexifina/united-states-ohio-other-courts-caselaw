@@ -1,0 +1,48 @@
+---
+court: "Ohio Circuit Court"
+decided: "1900-01"
+citations: ["19 Ohio C.C. 497"]
+reporter: "ohio-cc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Smith, Sw’ing and Giffen, JJ."]
+parties: ["THE UNION SAVINGS BANK & TRUST COMPANY v. FRANCIS DARR et al."]
+source_url: "https://static.case.law/ohio-cc/19/cases/0497-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 414315
+cites_cases: ["19 Ohio St., 30", "30 Ohio St., 288", "41 Ohio St., 113"]
+---
+
+# Union Savings Bank & Trust Co. v. Darr
+
+## Majority (G reten, J.)
+
+G reten, J.
+This is a case for the construction of the will of Joseph Darr, deceased, and concerns the interest which his son, George, was entitled to by its terms.
+After making certain specific bequests, including one of $5,000 to his son, George, he disposes of the residue of his estate as follows:
+“Item 16. Subject to the foregoing provisions of this, my will, all the rest and residue of my estate of every name, kind and description, and wherever situated, real, personal and mixed, I give, devise and bequeath to my executors in trust, for the purposes hereinafter mentioned and subject to the conditions, limitations and restrictions herein represented. * * * To divide all the personal property not heretofore bequeathed into nine equal shares and to pay a share to each of my sons Francis and Augustus. * * The remaining seven shares are to be invested by my said executors in the bonds of the United States, state of Ohio, or city of Cincinnati, and held by them in trust as follows: One share for the benefit of Mrs, Catharine Armstrong Darr, * * * and one share for the benefit of my son George until he arrives at the age of twenty-five (25) years, when it shall no longer be held in trust for him, but shall be paid over to him. The net income arising from each share so invested and held shall be paid in semi-annual installments to the child for whom it is held, during bis or her natural life, except that arising from the share held for George, which shall be paid to him until he arrives at the age of twenty five (25) years, when as above provided said share is to be paid over to him. * * * To divide * * * the proceeds arising from the sale or sales of real estate whenever any shall be sold by my executors, as authorized and provided for hereafter * * * and invest, distribute, pay over, and hold the same and the income arising therefrom as is provided for by the fifth section of this item of my will with respect to personal property.
+“Item 17, In case of the death of any of my children, and such child should die leaving no child or children, grandchild or grandchildren, then the legacy or interest in my estate devised or bequeathed to such child shall be equally divided, and I devise and bequeath one share to each of my remaining children, .except Thomas, living at the time of the death of such child, and one share to the child or children of any of nay children who may have died prior thereto, and have left a child or children to be equally divided among them. * * *”
+“Item 18. I do hereby authorize and empower my ex-eutors, and the survivors or survivor of them to- sell and dispose of my real or leasehold estate in fee simple or otherwise, and I order and direct that all of it be sold within fifteen (15) years after my death. * * *”
+The will was executed June 9, 1873. The testator was born April 27, 1799, and died-January 23, 1882, leaving a widow and nine children surviving him, including George Darr, who was born May 1, 1853, and died testate August 18, 1890.
+George Darr received during his lifetime, and after the death of his father, Joseph Darr, from the executors of his father’s will the $5,000 mentioned, and substantially all of his distributive share of personal property and income of the estate distributed prior to his death as well as of proceeds of real estate sold and distributed up to that time.
+At the time of the death of George Darr there was considerable of the real estate of Joseph Darr still unsold and its proceeds undistributed, some of which has since been sold and some is still unsold.
+The proceeds only of real estate sold or to be sold since -the death of George Darr are involved in this suit.
+Did George Darr false, under the provisions of the will, an estate in fee simple, or one determinable upon his-dying without issue, or a gift, implied from the direction to the executors to pay, which would be defeated by his death . without issue before the date of distribution?
+It. will be observed that there is an express bequest of $5,000 to George Darr, the payment thereof by the executors being postponed till he arrives at the age of twenty-five years. The residuary estate, including the realty,is devised and bequeathed to the 3xecutors in trust for the purpose of selling the same and dividing the proceeds among the children, after first providing for the widow. No part of the real estate is vested in any of the children, but the trustees are given the legal title with power and authority to sell and convert into money the entire property within a period of fifteen years from the death of the testator, and with directions to distribute, The interest which the children as legatees have in the estate is limited to the personal property thus created under the terms of the will and held by the trustees for distribution, although there is no express bequest to the children of an interest in the residuary estate; yet there would be no room for construction were it not for item 17 of the will, as each child would take a vested interest, the enjoyment of which would be postponed to the period of distribution.
+The contingency provided for in that item having happened, the period of time to which it, as well as the defendant survivorship, should be referred must now be determined. If they relate to a time prior to the death of the testator, or prior to George Darr attaining the age of twenty-five years, then his entire share became a vested interest; but if they relate to the time of distribution, the part in the hands of the trustee did not vest.
+The case of Sinton v. Boyd, 19 Ohio St., 30, is in point, the syllabus being as follows:
+“1. In the construction of wills, words of survivorship should be referred to the period appointed by the will for the payment or distribution of the subject matter of the gift, unless a contrary intention is evinced by the language of the will. >
+“2. Where a testator gave all his estate to his wife for life, and directed that all remaining after her death should be divided, by his executors, equally amongst his children, or the survivors of them, and, after his decease one of the children died, before the death of the testator’s widow, leaving a child: Held, that no interest vested in the deceased child under the will, and that the grandchild of the testator was not entitled to share in the estate as one of the ‘children’ or ‘survivors’ to whom it was to be distributed.”
+The facts in that case were not unlike those in this case.
+In the case of Richey v. Johnson, 30 Ohio St., 288, the second proposition of the syllabus is as follows:
+“The gift implied in the direction to divide the proceeds between the designated parties is a gift of personalty; but as the fund could not be raised till the death of the widow, and was to be divided between persons then living, the interest of the legatees therein remained contingent till that ■ time.”
+Thomas B. Paxton, for Trustees.
+James B. Swing, F. ■ Sanford Brown, for heirs of Joseph Darr.
+John S. Conner, A. J. Freiberg, for beneficiaries under the will of George Darr. ' s
+Scott, J., at page 292, says:
+“It is to be observed that the testator gives no interest in the farm in question, or in its proceeds, to his brothers and sisters, or to the children of any of them, by way of direct devise or bequest. The gift is to be found only in the direction to distribute the proceeds of its sale and in the designation of the persons among whom distribution is to be made”.
+So it may be said of George Darr’s share in the residuary estate. The gift is not made to him, and hence its enjoyment is not alone postponed. The direction to pay constitutes the gift, and it attaches to children who survive the' period of distribution. The age of twenty-five years did not fix the period of final distribution. He was entitled to receive, at that age, his share of the proceeds then ready for distribution. The executors were given fifteen years from the death of the testator within which to sell the reai estate, and as each piece was sold the proceeds were subject to distribution as of that time.
+The case of Baker v. McGrew, 41 Ohio St., 113, is dis-. tinguished from the case before us in this, that the devise and bequest are direct to the beneficiaries, and there is no gift by direction to pay.
+Item 17 of Joseph Darr’s will contains this significant clause: “I devise and bequeath one share to each of my remaining children, except Thomas, living at the time of the death of such child.”
+Significant because, unlike the original bequest, it is made direct to the children, and also because it designates those “living at the time of the death of such child,” which contemplates the death of such child after the death of the testator.
+Our conclusion is that the rules of construction stated in the eases of Sinton v. Boyd and Richey v. Johnson, supra, as applied to the terms of this will, give to the estate of George Darr, deceased, no interest in the proceeds of real estate sold after his death.
