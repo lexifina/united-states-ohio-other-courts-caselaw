@@ -1,0 +1,23 @@
+---
+court: "Stark County Court of Common Pleas"
+decided: "1817-08"
+citations: ["1 Tapp. Rep. 175"]
+reporter: "tapp-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["OHIO vs. SMITH."]
+source_url: "https://static.case.law/tapp-rep/1/cases/0175-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 628220
+---
+
+# Ohio v. Smith
+
+## Majority (President.)
+
+President.
+Every reasonable intendment is to be made in favor of tbe proceedings of justices of the peace, and we will not turn the parties round to begin, de novo, if by such intendment the appellate jurisdiction of this court can be sustained.
+The 1st section of the act requires the justice to take the complaint or accusation, in writing, and thereupon to issue his warrant — the 2d section, to bind such accused person in a recognizance to answer such accusation, and on neglect or refusal to commit him, to be held to answer such complaint. — The 5th section provides, that where such accused person shall plead not guilty, to such charge, the court shall order the issue to be tried by a jury, &c. The terms “complaint” and “ accicsation,” in the first section, have the same meaning. Such complaint is to be taken in writing, by the justice; it is t',iereupon\o, issues his warrant; it is to answer that, that the party accused is to be recognized or committed, and to that alone is he to be called upon to plead in this court. The complaint of the partv in writing, then, is the foundation of'the whole proceedings, without which the party cannot be ai’rested, recognized, committed, or put to plead. It appears, by the magistrate’s return, certified into this court, that such complaint was made in this case; for we will intend that “ an affidavit according to law,” on which a capias issued, was the accusation in writing, required by the statute. This complaint should have been returned to this court, to be proceeded in; it cannot be supplied by the magistrate’s certificate of the substance of it.
+The 1st section of the act requires the justice, on the return of the warrant, “ to examine the complainant, under oath, respecting her cause of complaint; and such accused person shall be allowed to ask the said complainant, when under oath, any questions he may think necessary for his justification ; and such questions and answers, with every other part of the examination, shall be reduced to writing by the justice.” And the 5th section provides, that on the trial of the issue, “the examination before the justice shall be given in evidence,” and the jury are to take into consideration “ any variation in his testimony before the justice, and that before the jury.” It is not disputed, but that such examination of the complainant, must be made, and reduced to writing, by the justice, and returned to this court; but it is urged, that here is such examination as the law requires — here is a piece of paper, without date or name of either party in this suit, not entitled in any suit, and not signed or certified by any body: and we are asked to as an examination in writing, duly taken and returned by tbe magistrate. We cannot intend this.to be any part of the proceedings before the magistrate, without some evidence of such fact; it is not certified by him, or annexed to his transcript; we have not, then, any examination of the complainant before us.
+The 2d section of the act provides, “that in case such accused person do not comply with the provisions in the first section in this act contained, the justice to ivliom such complaint was made, shall bind such person in a recognizance to the next court of common pleas, with sufficient security in,” &c. The writing, which is said to be the recognizance taken, does not appear to form any part of the proceedings in this cause before the magistrate, or to have been taken in this suit. It is not, however, a recognizance in any case, but an acknowledgement of special bail merely. When the statute law (vol. 14, reprinted laws, page 85) gives the form of a recognizance, and requires that it “ shall be pursued and adopted by the justices of the peace,” a recognizance, to be valid, must substantially conform to the statute. Another objection to this writing is, that it does not bind the person complained of; so that, in no point of view, can it be intended to be such a recognizance as the law requires.
+It appears that this suit is not brought into this court in such way that we can lawfully proceed in it; for want of jurisdiction, therefore, it must be dismissed.
