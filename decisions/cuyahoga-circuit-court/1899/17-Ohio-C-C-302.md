@@ -1,7 +1,8 @@
 ---
 court: "Cuyahoga Circuit Court"
 decided: "1899-01"
-citations: ["17 Ohio C.C. 302", "17 Ohio C.C. 106"]
+decided_precision: "month"
+citations: ["17 Ohio C.C. 302"]
 reporter: "ohio-cc"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
