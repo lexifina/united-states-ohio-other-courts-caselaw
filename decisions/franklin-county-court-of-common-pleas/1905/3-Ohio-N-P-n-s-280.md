@@ -1,0 +1,25 @@
+---
+court: "Franklin County Court of Common Pleas"
+decided: "1905-04-17"
+citations: ["3 Ohio N. P. (n.s.) 280"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary M. Reinhard v. Matilda H. Reinhard et al."]
+source_url: "https://static.case.law/ohio-np-ns/3/cases/0280-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1535689
+---
+
+# Reinhard v. Reinhard
+
+## Majority (Bigger, J.)
+
+Bigger, J.
+This case is submitted Upon general demurrers filed by the defendant, Martha M. Reinhard, as guardian, to the answer of Matilda Reinhard and to the reply of the plaintiff, Mary M. Reinhard. In substance these contain averments that by mis-take of the scrivener in writing the codicil to the will of Jacob Reinhard, deceased, there was omitted a provision for a life estate to Matilda Reinhard and Mary M. Reinhard in twenty-eight feet off of lot number 15 in Auld’s addition. The answer of Matilda Reinhard contains no avermenfs of fact, but inly the conclusion of the pleader. The reply of Mary M. Reinhard, however, sets out the fact that the residence property which com ■stituted the homestead and the residence of Jacob Reinhard, Sr., stood upon the twenty-eight feet off of lot 15 except about two feet in width thereof, which extended over on the adjoining lot known as lot 835; that it was the intention of the testator to convey a life estate to Matilda and Mary in the twenty-eight feet and that if the will and codicil do not express the intern tion and purpose of the testator, which the plaintiff avers does appear from the will and codicil it was through the mistake of the scrivener. These demurrers thus submitted call for a eom struction of this provision of the will of Jacob Reinhard, de* ceased.
+By item five of the will, the testator devised to Matilda Rein-hard a life estate in the twenty-eight feet and also in in-lot 835 and the remainder to his four sons. By the codicil to the will, the testator revokes this item five of his will and substitutes therefor the following:
+“I give and devise to my daughters, Matilda H. Reinhard, and Mary M. Falkenbaeh (that being the then ñame of ’hé plaintiff) for and during their natural lives in lot No. 835 in Crosby’s addition to said city of Columbus. The remainder in fee in said in lot No, 835 in Crosby’s addition to said city and the remainder in fee in said twenty-eight feet off of said in-lot No. 15 in said Auld’s addition I give and devise to my four sons in my said last will named.”
+It thus appears that the testator, who originally gave to his daughter Matilda a life estate in both of these lots by item five of his- will, by his codicil which revoked item five, gave a life estate to his two daughters, Matilda" and Mary, in but one of them, but provided the estate in remainder in both should go to his four sons. The contention of the plaintiff and Matilda is that by a proper construction of the will it appears that the testator intended to provide a life estate in both lots for them.
+Elaborate briefs have been filed' upon both sides. After a very careful examination of the authorities cited in connection with the provisions of this will and the codicil I am compelled to reach the conclusion, which I may say I am loath to do, that there is here nothing for the court to construe. There is here no ambiguity. Both item five of the will and the codicil are clear and unambiguous-. While the fifth item of the will gave a life estate to Matilda Reinhard in both lots, the codicil gives it to the two sisters in but one. This is clear and unambiguous. No authority has been cited and I have found none, and I do not believe any decision of any- respectable court can be found which will authorize a court to add to a will an independent substantive bequest and to make a provision in the will upon which it is silent. It is true it is permissible and resort is often had to extrinsic evidence to make clear the language used by a testator. But when he is silent no court is authorized to speak for him. It is only to make his language plain that a court may undertake to determine his meaning by taking into consideration'all the surrounding circumstances. To do otherwise would be to permit a will which the law requires to be executed with great solemnity during the life time of the testator to be made in part at least by witnesses after his death. This, as I understand the law, is under no circumstances permissible. As I say ünder the peculiar circumstances, of this case I am loath to announce this conclusion, but it seems to me there is no other course under the well established principles relating to the subject of construction of wills. The demurrer, admitting as it does that it was the intention of the testator to do this-, does- not help it. His intention upon a subject upon which he was silent can not be shown by parol evidence. To this effect are all the authorities. Por this reason I am constrained to sustain the demurrers. An exception may be noted.
+T. E. Powell, for plaintiff.
+J. E. Safer, for defendant.
