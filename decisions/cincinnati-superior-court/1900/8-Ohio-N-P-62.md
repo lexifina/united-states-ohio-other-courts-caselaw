@@ -1,7 +1,8 @@
 ---
 court: "Cincinnati Superior Court"
 decided: "1900-09"
-citations: ["8 Ohio N.P. 62", "8 Ohio N.P. 73"]
+decided_precision: "month"
+citations: ["8 Ohio N.P. 62"]
 reporter: "ohio-np"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
