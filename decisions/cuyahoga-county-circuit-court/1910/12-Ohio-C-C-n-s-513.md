@@ -1,0 +1,35 @@
+---
+court: "Cuyahoga County Circuit Court"
+decided: "1910-02-07"
+citations: ["12 Ohio C.C. (n.s.) 513"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Winch, J.; Henry, J., and Mabvin, J., concur."]
+parties: ["William A. Strauss v. Mabel Strauss."]
+source_url: "https://static.case.law/ohio-cc-ns/12/cases/0513-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1813257
+---
+
+# Strauss v. Strauss
+
+## Majority
+
+This case was heard upon appeal and involves the validity of a judgment entered in an action for divorce and alimony.
+It is claimed that the judgment was void for want of jurisdiction to render it, the case having been previously dismissed by the plaintiff and reinstated by the court without notice to the defendant and in fraud of his rights. If the case was ever legally dismissed, the contention of the plaintiff seems to be sustained by the evidence, so that the vital question in the ease is: was the action ever dismissed by the plaintiff?
+The dismissal of an action by the plaintiff is regulated by the first and sixth paragraphs of Section 5314 of the Revised Statutes, which read as follows:
+“An action may be dismissed without prejudice to a future action:
+“1. By the plaintiff, before the final submission of the case to the jury, or to the court, when the trial is by the court.'
+“6. By the plaintiff, in vacation, on payment of costs; and the clerk, in such case, shall forthwith make an entry thereof on the journal, whereupon- dismissal shall take effect.”
+The record of the common pleas court in this case shows the following entry:
+“Thereupon on the 15th day of November, A. D. 1906, there was duly filed in said court of common pleas, a certain entry of dismissal in this cause, which was afterwards withdrawn. Thereupon on this 15th day of November, A. D. 1906, being a day of the September term, A. D. 1906, of said court, there was duly entered upon the journal the following order to-wit: ‘the plaintiff has leave to withdraw the entry of dismissal in this cause. ’ ’ ’
+The exact facts; as shown by the pleadings and the evidence, are that on the 15th of November, 1906, the plaintiff filled out and signed the usual, dismissal blank which, after giving the venue and title and number of the cause, reads:
+“To the -clerk. This cause may be entered dismissed by plaintiff. Costs are paid.”
+She paid the costs and delivered this document to the clerk, who noted the filing of it. The next day, having quarreled with her husband again over night, she went to the court house and asked to have the dismissal slip returned to her. This was done, and the only action ever taken by the court regarding the dismissal is shown by the record, which has been quoted.
+Manifestly the clerk had no right to make any entry of dismissal under the sixth paragraph of Section 5314, for it was during a session of the court and not in vacation, so that the sixth-paragraph does not apply, and this authority being expressed -in the sixth paragraph, and not in the first paragraph, by a familiar rule of construction, we are led to conclude that to effect a dismissal under the first paragraph, something other than an entry by the clerk is necessary.
+All applications, unless otherwise specified in the statutes, must be made to the court. A plaintiff may appear in open court and apply for a dismissal of his action; it may be conceded that upon such application the court has no alternative but to dismiss the case, unless the rights of other parties are involved, as shown by the record. The conclusion of the case, however, is marked by the -entry of the judge dismissing it. ITow, otherwise, would there be any record of it? The entry of dismissal has properly been called a judgment or final order, though it may not finally adjudicate the rights of the parties. Indeed, the plaintiff in this action plants himself upon such, assumption.
+The plaintiff may request the clerk to bring the application for dismissal to the attention of the court, and when the clerk does so, and the court makes an entry, the cause stands dismissed, and record of the dismissal is then made to prove the fact.
+Such was the request made of the clerk in this ease by the polite note left in his hands. Before the matter was presented to the court the clerk’s authority to represent the plaintiff was withdrawn. The application for dismissal was never acted upon by the court. It would seem that a plaintiff might apply in open court for a dismissal of his action and then change his mind at any time before the court entered a dismissal and direct the court not to enter it. Would anybody then say that the case had been dismissed, though the record showed nothing of the transaction ?
+If we are right in our conclusion that a dismissal of a case can not remain in 'a plaintiff’s mind, but must be entered on the records of the case, .and further, that said entry during term, time can not be made by the clerk, then it follows that the entry must be made' by the judge, and none having been made by him in this case, the case was never dismissed, and no rights can be predicated upon a dismissal of it.
+Petition dismissed.
