@@ -1,0 +1,27 @@
+---
+court: "Ohio Circuit Court"
+decided: "1888-05"
+citations: ["3 Ohio C.C. 257"]
+reporter: "ohio-cc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Shatjck and Shearer, JJ."]
+parties: ["Oswell Smith v. Robert A. Robinson."]
+source_url: "https://static.case.law/ohio-cc/3/cases/0257-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1491652
+cites_cases: ["1 Const. 365", "1 Cow. 46", "13 Wend. 188", "17 Johns, 142", "19 Pick. 329", "2 Met. 53", "2 Rand. 455", "20 Ohio St. 494", "20 Pick. 467", "22 Pick. 97", "23 Miss. 156", "23 Wend. 606", "24 Miss. 96", "28 Ohio St. 387", "3 Doug. 240", "34 Ohio St. 22", "4 Wend. 657", "40 Penn. 359", "5 Humph. 37", "5 Mass. 385", "6 Littell 273", "7 Johns. 159", "7 Mass. 123", "7 Me. 113"]
+---
+
+# Smith v. Robinson
+
+## Majority (Shauck, J.)
+
+Shauck, J.
+The promise of Robinson to indemnify the sheriff against all demands of the execution creditor was original, and made solely for his own benefit. It was not collateral to the engagement of any third person. It was not, therefore, within the statute of frauds. Mays v. Joseph, 34 Ohio St. 22.
+Is the promise void as being against public policy ? It is clear that the sheriff did not pursue the mode pointed out by the statute (sec. 5444) to determine the rights of a third person claiming chattels which he had taken in execution. Nor, in view of his failure in that regard and his voluntary surrender of the chattels to Robinson in reliance upon this promise, can it be claimed that he discharged his duty to the plaintiff in the execution. Many of the cases cited, since they go to this extent only, are not helpful upon the question presented. The proposition made by counsel as discriminating among the cases upon this subject and supporting the judgment below is, that although considerations of public policy permit courts to enforce such agreements as tend to stimulate public officers to go forward in the discharge of their duties, they forbid the enforcement of agreements by which officers seek to shield themselves from the consequences of failure in the performance of their duties. The cases cited show that at common law security taken colore officii as indemnity for the fraudulent escape of a party under arrest is void. In Wright et al. v. Lord Verney, 3 Doug. 240, the same conclusion was reached with respect to a bond taken by a sheriff to indemnify him for quitting possession of chattels belonging to the execution debtor which he had seized under his writ, and making a return of nulla bona. The report states only the conclusion of the court, but the ground of the decision was probably suggested by Buller, J., during the argument: “ The condition recites ‘that the sheriff had levied of the goods of Lord Verney,’ therefore this is not a case of disputed property.”
+In Cole, adm’r v. Parker et al., 7 Clarke (Ia.) 167, the court, proceeding upon considerations of public policy, determined that a bond given to a sheriff to induce him to omit the levying of a writ was utterly void. But the court distinctly recognized the authority of Burrall v. Acker, 23 Wend. 606, where, in a case of disputed title to chattels, a bond given to indemnify the sheriff for leaving it in the possession of a stranger to the execution was held valid.
+In the case before us the sheriff neither found nor left the property in the possession of the execution defendant. Whether it was his duty to sell it under the writ depended upon the controverted question whether it belonged to the debtor or to Robinson. While it might be difficult to reconcile all that courts have said in the numerous cases cited by • counsel, the conclusions reached are all consistent with the rule stated in Chitty on Contracts. 526: “ An engagement to indemnify a sheriff in the execution of a lawful or apparently legal act is good, and indemnity bonds given to him in cases • of disputed property in goods, and given to induce him to execute or not to execute a fieri facias against such goods, are clearly lawful.” This rule is approved in Forniquet et al. v. Teegarden et al., 24 Miss. 96 and Shotwell v. Hamblin, 23 do, 156, and the same doctrine is recognized in many others of the cases cited.
+It is further claimed that the demurrer was properly sustained because by the averments of his petition the sheriff . sought to contradict his return of the execution. Perhaps, the sheriff may contradict his return in a suit against one who was-not a party where the return was made. Whether he -may or not, we are not called upon to determine. The return and the petition both show that the property' was taken in ■ the possession of Robinson upon an execution against Snyder, .and that Robinson claiming to be the owner of it, it was left with him. The reasons which prompted the sheriff to pursue - this course are not inconsistent. He may well have believed that Robinson’s title was good, and yet have exacted the promise of indemnity if it should not be.
+Upon the authorities we do not think, that the law justifies the very high moral ground taken on behalf of Robinson, •but rather that it requires him to perform the promise by which, according to the averments of the petition, he secured 'the proceeds of property which belonged to another.
+The judgment will be reversed and the demurrer overruled.
