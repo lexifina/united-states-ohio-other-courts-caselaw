@@ -1,0 +1,38 @@
+---
+court: "Hamilton County Circuit Court"
+decided: "1912-03-09"
+citations: ["14 Ohio C.C. (n.s.) 586"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jones, J.; Smith, P. J., and Swing, J., concur."]
+parties: ["Samuel Klein v. Daniel Goldstein."]
+source_url: "https://static.case.law/ohio-cc-ns/14/cases/0586-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1815154
+cites_cases: ["51 O. S., 574"]
+---
+
+# Klein v. Goldstein
+
+## Majority
+
+The issue joined by the pleadings and submitted to- the jury w-as whether the negligence of the chauffeur or of Mrs. Goldstein caused her injuries. There is no allegation of contributory negligence in the answer. The verdict was not against the weight of the evidence; the question was one of fact.for the jury, and consequently there was no error in failing to instruct a verdict for defendant. Having so determined, three grounds urged by plaintiff in error remain for our consideration: Did the trial court err—
+First. In refusing to give the eight special charges or any of them requested by defendant ?
+Second. In the general charge ?
+Third. In refusing to submit the interrogatories, requested by defendant, to the jury ?
+. In our opinion the first special charge was properly refused, for the reason that there was no evidence to support the last statement, namely: “He was not violating any law or the city ordinance in so doing.”
+We do not know whether there is any city ordinance forbidding his driving the automobile as he did. . No one testified that there was no such ordinance. For aught that appears in the evidence, there may be an ordinance requiring him to stay to the-fight of the center line of the street. The charge was objectionable, too, for the reason that plaintiff does not allege that the chauffeur was negligent i-n regard to the place where he was driving, but only as to his manner of driving. The question of the legality of the place where he drove was injected into the case by the effort of defendant to show that by ordinance he was required to drive where he did.
+The second special charge in question was refused, and properly so. An ordinance of the city was introduced in evidence by defendant in an attempt to show, and from whieh he argued that i-n passing to the left of the street car the chauffeur was only complying with the requirements of said ordinance. We do not agree with such cpnstruction of the ordinance. In our opinion it does not mean that automobiles must pass street cars to their left, but only applies to such vehicles the drivers of which have a choice as to where to drive and whose driving can and should exercise said choice with a mutual and reciprocal regard for the safety and convenience of all and with a desire to carry out the spirit and letter of the regulation therein contained. Such a choice motormen do not have. All that can be asked of them in this respect is to keep their ears on the tracks. To give the second charge after -the ordinance had been read to the jury would have been in effect to charge that the.driver of the automobile did what he was positively required by law to do in turning to the left. In this view of the matter the second charge was erroneous, especially in the absence of any reference to the degree of care required of each party under all the circumstances. .
+The third special charge would require the court to say to the jury that a pedestrian in crossing a street should look north and south, or rather, that in this particular case Mrs. Gold-stein should look south as well as north. The jury should always be left free to determine from their experience and judgment whether the person injured did what could reasonably be expected of a person of average prudence under similiar surroundings and conditions. It is more than probable that, exercising such judgment, the jury in this case thought Mrs. Goldstein did the natural and proper thing in first looking to the north.
+The law applicable to this special charge is well stated in the case of L. S. & M. S. Ry. v. Fisher, 4 O.C. (N.S.), 593, affirmed in 51 O. S., 574. The court there said:
+“We think it can not be said as an absolute rule of law that' the plaintiff must look ahead under all circumstances. It is his duty to be cautious or careful, but whether he must look ahead or behind or to one side or down or up depends upon the particular situation in which he may be placed at the time.”
+In special charge No. 4 the court was asked to instruct the jury that ‘ ‘ she was bound to look south for vehicles approaching from that direction as well as to the north. ’ ’ She was required to exercise her senses in order to protect herself from injury, and it was not for the court to say that she was under the duty to look in one direction as well as another, and hence this charge is subject to the same objection as No. 3.
+Special charges Nos. 5 and 6 are objectionable for the same reason, namely, that they place emphasis upon the duty of Mrs. Goldstein to look in a particular direction.
+Special charge No. 7 is erroneous, as we think the question for determination was one of fact and not of law.
+Special charge No. 8 was properly excluded, for the reasons assigned with reference to special charges Nos. 1 and 2.
+We come now to the second question, namely, was there error in the general charge ? The main contention of plaintiff in error’s counsel in this respect is that the court erred in referring in his general charge to the "place” in which the defendant’s chauffeur was driving his machine'. There is nothing in the language used by the court throughout the trial which would indicate that the trial court entertained the opinion that the ordinance introduced in evidence did not authorize the chauffeur to drive his car to the left of the street ear. We think, therefore, that it is putting a forced construction -upon the language of the court to say a reference to "in the place” where the automobile was going implied that it was unlawfully in such place. We not only do not think the language will bear any such construction, but believe that an omission to use that or similar language would have been error. The degree of care required of a person is always controlled by and depends upon the place, circumstances, conditions and surroundings. -There is no arbitrary or fixed rule. But whether a person has exercised such care as ordinary prudence requires is always a question to be determined by the jury. We find no error in the insertion of this phrase in the general charge nor do we find any other error- therein.
+As to the interrogatories submitted by counsel for the defendant below, we think the court exercised a proper discretion in refusing to propound them to the jury.
+Interrogatory No. 2 is doubtless irrelevant and improper, because it is addressed to the doctrine of the "last clear chance.” There was no such issue in this case.
+Interrogatories Nos. 3, 4 and 5 again display the manifest intent of defendant’s counsel to place too great an emphasis upon the duty of the plaintiff’s wife to look to the south. Any answers to these questions could not have in any manner affected tbe verdict rendered by the jury, and hence the refusal to submit such interrogatories could not have been prejudicial. It does not appear that the interrogatories were requested separately, and hence they must all stand or fall together.
+We have not discovered, in an examination of the record, any error, and the judgment below will, therefore, be affirmed.
