@@ -1,0 +1,21 @@
+---
+court: "Stark County Court"
+docket: "39171"
+decided: "1965-01-25"
+citations: ["30 Ohio L.R. 25"]
+reporter: "ohio-lr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Taft, C. J., Zimmerman, Matthias, O’Neill, Herbert, Schneider and Brown, JJ., concur."]
+parties: ["Byron R. Ball v. E. L. Maxwell, Warden."]
+source_url: "https://static.case.law/ohio-lr/30/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6698130
+---
+
+# Ball v. Maxwell
+
+## Majority
+
+In Habeas Corpus. Petitioner remanded to custody.
+Taft, C. J., Zimmerman, Matthias, O’Neill, Herbert, Schneider and Brown, JJ., concur.
