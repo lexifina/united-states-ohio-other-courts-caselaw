@@ -1,0 +1,27 @@
+---
+court: "Cincinnati Superior Court"
+decided: "1898"
+citations: ["5 Ohio N.P. 411"]
+reporter: "ohio-np"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SHAW & SIMPKINSON v. THE INTERSTATE SAVINGS, LOAN & TRUST CORPORATION, ETC."]
+source_url: "https://static.case.law/ohio-np/5/cases/0411-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1528073
+cites_cases: ["64 Fed. Rep., 908"]
+---
+
+# Shaw & Simpkinson v. Interstate Savings, Loan & Trust Corp.
+
+## Majority (DEMPSEY, J.)
+
+DEMPSEY, J.
+After a very careful consideration of the amended petition herein, I am of the opinion that it states a good cause of action under the principles laid down in McLaughlin v. National Mutual Bond & Investment Co., 64 Fed. Rep., 908, and Evans v. Coventry, 5 DeG., M. & G., 911, cited in Beach on Receivers (Alderson’s Edition), section 422.
+The fact that the legislature of Ohio has since the first of the year enacted laws regulating the methods and operations of companies of like nature with the defendant company does not militate against this conclusion. The averments of the petition, if true, show the defendant company to be nothing more or less than the promoter and operator of a lottery or scheme of chance, whereby certain shareholders, lucky ones, they may be called — although the averments of the petition warrant calling the luck in some cases fraud — are enabled by the methods pursued by the company to be paid out in advance of the less lucky fellows.
+Experience has demonstrated one inevitable result to these enterprises, viz., that there comes a time when the influx of fflcedulous people to these societies ceases,- and as the monies paid out to the lucky members have been wholly and grossly out of proportion to their contributions or investments, or to the natural earnings of such contributions and investments, these societies necessarily collapse, leaving the unlucky members to bear the losses, or what is the same thing, leaving nothing in the treasury of the society out of which these memners may recoup themselves for their stated contributions and investments.
+C. W. Baker and M. G. Heintz, for the demurrer.
+E. C. Pyle and Simrall & Galvin, for the amended petition.
+The statute does not any where pretend to give any legal validity to the lottery feature of these companies; it is entitled among other thing an act “to protect holders of * * * certificates, debentures and securities” in this class of companies (93 O. L., 401) ; and its first section provides for a deposit, first, before attempting to do business in Ohio, with the state treasury, of §25,000 in certain designated bonds, and then yearly of ten per cent of the gross receipts of the amount of business done by it in Ohio for the twelve months next preceding December 31st of each year, until the gross deposit with the treasurer shall equal §100,000. The sixth section provides that whenever it is made to appear that such a company is not carrying on its business according to law, or that its affairs are being improperly managed, such company may be ousted by a proceeding in quo warranto. This section, instead of legalizing the lottery feature of these companies, would seem to impliedly forbid them, if such a prohibition were necessary. Statutory prohibitions of lotteries in Ohio are unnecessary, for the constitution, art. 15, sec. 6, expressly prohibits them, so that any attempt on the part of the general assembly to legalize them would be invalid. Hence, whatever be the effect of the act of 1898 in reference to these companies, it can give no aid to the lottery feature of the defendant company’s enterprise, which seems to be the gravamen of plaintiff’s complaint herein.
+As to defendant’s contention that an injunction will not lie to restrain the commission of a criminal act — the lottery feature being the criminal act — it is sufficient to say that the primary object of plaintiffs is the protection of their own rights and interests in a common or joint fund made up of the whole or parts of their contributions and the contributions of others to the company, and out of which common or joint fund is to be presumably at some time paid the value of their certificates and bonds; that the dealings of the defendant and its directors with this fund, in the distribution thereof, while it may be an infraction of the criminal law, is also an infringement of a property right of plaintiffs, which, if persisted in, and plaintiffs so aver it will be, will necessarily result in irreparable injury to tne plaintiffs, against which they are entitled to an injunction. If the plaintiffs maintain their petition . they will be also entitled to the appointment of a receiver on the, same general ground of equity jurisdiction, viz., the protection and distribution of this common trust fund among those entitled to it. If the main feature of defendant’s enterprise be stopped by injunction, the whole of defendant’s business will be stopped, and there will be left in its possession, or that of its officers and agents, this fund, which, in equity and justice, belongs to the'contributors and stockholders. The most expeditious and efficacious, as’ well as the equitable, way to protect, preserve and distribute that fund is through the hands of a receiver.
+Demurrer to amended petition overruled.
