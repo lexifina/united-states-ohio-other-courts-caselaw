@@ -1,0 +1,29 @@
+---
+court: "Ohio Circuit Court"
+decided: "1894-10"
+citations: ["9 Ohio C.C. 198"]
+reporter: "ohio-cc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Smith, Swing and Cox, JJ."]
+parties: ["The Cin., Ham. & D. R. R. Co. v. Geo. C. Brown."]
+source_url: "https://static.case.law/ohio-cc/9/cases/0198-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 404997
+cites_cases: ["36 Ohio St. 418"]
+---
+
+# Cin., Ham. & D. R. R. v. Brown
+
+## Majority (Smith, J.)
+
+Smith, J.
+We have had very grave doubts as to the correctness of the charge given to the jury on the trial of this case, as set out on page 203 of the bill of exceptions, to the effect that if the plaintiff below was a passenger upon the train of the defendant company, and was injured, without any fault on bis part, while on the train, and that the injury to him was tbe result of a collision between tbe train and some obstruction upon tbe line of the railroad and within the right of way of the railroad company, and it does not appear exactly what said obstruction was, still if the jurjr find such facts in favor of the plaintiff, that these facts will raise tbe presumption that the railroad company was negligent in its duty as a common carrier. And that such negligence must be explained away or accounted for by the defendant before you can absolve it from tbe liability resulting from this presumption of negligence.
+The court before this had properly instructed the jury, that the burden of proof, in the case was upon the plaintiff to establish the negligence of the defendant.
+The point of difficulty with us was, whether the other part of the charge as given was not somewhat in conflict with the general proposition last stated, and whether it did not cast upon the defendant company a burden which the law does not impose upon it.
+It must be conceded by all, that a common carrier of passengers by railroad is held to a very high degree of care and caution in their transportation from place to place. To this end, the company is required to take all such care and precaution as are reasonably necessary, in view of the dangers surrounding the conduct of such a business. Therefore they are bound to provide suitable and safe cars and machinery, and operate them in proper manner, and have a safe track, and take proper care to see that it is in a suitable condition for the transportation of cars and passengers thereon at a high rate of speed. All these are matters over which the passengers have no control, and they are authorized to rely upon the company to do it. It has therefore been held in the case of R. R. Co. v. Mowry, 36 Ohio St. 418, that in an action against a railroad company, by a .passenger to recover damages for an injury sustained by him through a collision of two of the trains of the company, a prima facie presumption of negligence against the company arises on proof of the fact of such collision. The court, in that case, declining to pass upon the question, (as not being raised in the case), whether in all cases a presumption of negligence arises against a railroad company from the mere fact that an accident has occurred from which a passenger receives an injury while being carried on the road of the company, and this precise question, so far as we know, has not been decided in this state, or in any other decision to which we have been referred.
+It, however, being settled by the case cited that such presumption does arise when the injury results from a collision of two trains of the company, it must be upon the ground that it is the duty of the company to see that the track is clear for the safe passage of its trains, and if it is not clear, that the presumption arises that the duty has not been performed. Of course, this presumption may be rebutted by proof; but it seems to be the policy of the law, (probably upon the ground that the knowledge as to the exercise of this care is peculiarly that of the company), that this burden should be placed upon the defendant in such cases.
+This being so, does it not seem legitimately to follow that if injury results to a passenger, without fault on his part, from a collision with something on the track itself, or on the right of way of the company, (which is also especially under its control), other than another train of the company, that the same presumption ought to arise, even if, in the language of the charge complained of, it does not appear from the testimony exactly what said obstruction was ? It may not be so clear as in the other case, but it is difficult to avoid the conclusion that the analogy between the two is strong, and that-it ought to be the law that the company, upon which the duty is devolved to see that the tracks are clear and in such condition that trains may safely travel thereon, should in such case be called upon to show that it had acted in the matter with reasonable care and caution. It is clear that nothing ought to be left upon the track or right of way which would probably do injury to the train or passengers thereon ; and if injury is shown to have been received by a passenger, without fault on his part, from something on the track or right of way, without specific proof of what the obstruction was which caused the injury, we incline to the opinion that negligence on the part of the company may fairly be inferred, and, therefor», that the charge of the court on this point was not erronneous. At all events, we are not so satisfied that it was not correct, as to induce us to reverse the judgment on this ground.
+Millildn & Shotts, for plaintiff in error.
+Morey, Andrews & Morey, for defendant in error.
+Nor do we see any other error in the case prejudical to the plaintiff in error, and the judgment will therefore be affirmed with costs, but without penalty.
