@@ -1,0 +1,35 @@
+---
+court: "Stark County Court of Common Pleas"
+decided: "1916-05-04"
+citations: ["18 Ohio N.P. (n.s.) 581"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Ohio v. Carrie Vourron."]
+source_url: "https://static.case.law/ohio-np-ns/18/cases/0581-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1552113
+cites_cases: ["58 O. S., 616"]
+---
+
+# State v. Vourron
+
+## Majority (May, J.)
+
+May, J.
+(Sitting by designation of Chief Justice Nichols.)
+This ease comes on for hearing on the motion of the defendant, Carrie Vourron, for a suspension of the sentence heretofore pronounced by the court in accordance with the provisions of Section 13706 of the General Code. The history of the case is briefly this: The defendant was indicted for abortion at the September term, 1914; the ease was tried before the Honorable Robert H. Day, in December, 1914, and the defendant was convicted and given an indeterminate term in the penitentiary. The defendant then carried the case on writ of error to the Court of Appeals of Stark County, and in February, 1916, the court affirmed the judgment below and remanded the case to the common pleas court for execution. The Supreme Court of Ohio denied leave to file a petition in error.
+This court hears the matter by consent of the trial judge and all parties interested, for reasons which it is not necessary to set forth in this opinion.
+Before passing upon the merits of the application it is necessary to determine whether this court has jurisdiction of the question. The defendant in this case was sentenced on the 31st day of December, 1914, at the September term of this court, and the execution of the sentence was afterwards suspended to enable the defendant to prosecute error proceedings to the court of appeals and later to the Supreme Court of Ohio. The court is of the opinion, therefore, that the term at which the original sentence was imposed having passed, it is without power to suspend the sentence. A diligent search of the Ohio authorities on this question enables the court to find only one dictum on this question, and according to that the question is still an open one in this state.
+In the case of Weber v. State, 58 O. S., 616, the Supreme Court says:
+“Cases cited by counsel are to the effect that the suspension may be set aside at a subsequent term; but this ease does not require us to go to that extent because here the suspension was set aside at the same term at which the sentence was passed.”
+It will be noted in reading the Ohio eases that all of them are conditional suspensions, and because of violation of the conditions upon which they were granted the trial judge revoked the original suspension and reinstated the original sentence; so that strictly speaking there is no Ohio case bearing upon the question involved.
+Section 13706 of the General Code provides:
+“In prosecutions for crime except as hereinafter provided, where the defendant had pleaded or been found guilty and the court or magistrate has power to sentence such defendant to be confined in or committed to the penitentiary * * * and the defendant has never before been imprisoned for crime * * * such court or magistrate may suspend the execution of the sentence and place the defendant on probation in manner provided by law.”
+Under the rules of practice it seems that the application for a suspension of the sentence imposed by the trial court must be made at the term at which the sentence was pronounced.
+In 25 Am. & Eng. Ency. of Law, p. 316, Section b, it is said:
+"After the expiration of the term at which the sentence was rendered the court can neither amend it nor vacate it and pronounce a new sentence. Its power in this regard ceases upon the expiration of the term.” And cases cited.
+The court is further of the opinion that the motion should be denied for the reason that, under Section 13706, the application for a suspension, even if it is not made during the same term at' which the sentence is imposed, should certainly be made before error proceedings are taken by the defendant. The policy of the law as set forth by this section of the code was to discourage litigation and to enable a defendant, if he pleaded guilty or if he were convicted, to throw himself upon the mercy of the court and if all the requirements of the statute could be met by «said defendant, the court in the interest of the defendant, as well as in the general interest of justice, should grant a suspension of the sentence; but the court seriously doubts whether the Legislature intended that the defendant should seek to set aside a conviction in the trial court by proceedings in error and then in the event of failure make an application for a suspension of the sentence. Before the days of indeterminate sentence, it was usual for a court to show leniency to a defendant in a criminal proceeding who pleaded guilty, and thus save the county and state the cost of the trial, and in those cases the sentence was always less severe than in eases where conviction was had after trial.
+In the case at bar the court is also of the opinion that, when the defendant asked for suspension of the execution of the sentence to enable her to prosecute her error proceedings, such application was a waiver of her other rights to ask for a suspension of the sentence indefinitely, or during good behavior, subject to the terms of probation as provided by law.
+-However, if the court should be wrong in its conclusion, that it is without power to grant this motion because it is filed after the term at which the original sentence was imposed, the court is still of the opinion that, if the matter were an open question, the conviction as the record stands was a correct finding by the jury. A careful reading of the record, including the charge of the trial judge, convinces the court that the defendant was given the widest latitude possible in the trial of this case, and that the facts show beyond a reasonable doubt that she was guilty of the offense charged, and that the nature of the offense as well as of the defense put forward by her does.not entitle her to any consideration in the matter of this application. The jury undoubtedly believed that her story was a fabrication from beginning to end, and where such a state of facts is shown by the record the case is not such as to appeal to the court for a suspension of the sentence.
+Several petitions containing many signatures, including those of prominent citizens of this city, were presented to the court for clemency in this matter. A trial court is not a board of pardons, and while if this court had been sitting in the case and the defendant had pleaded guilty and asked for a suspension of the sentence in the beginning, the court upon the present showing made might have consented to the suspension for the reasons stated, the court is of the opinion that the motion should be denied.
