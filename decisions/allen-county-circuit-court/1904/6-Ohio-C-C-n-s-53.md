@@ -1,0 +1,35 @@
+---
+court: "Allen County Circuit Court"
+decided: "1904-10-01"
+citations: ["6 Ohio C.C. (n.s.) 53"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Winch,’ J. (orally); Day, J., and Norris, J., concur."]
+parties: ["Amos Young v. State of Ohio."]
+source_url: "https://static.case.law/ohio-cc-ns/6/cases/0053-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1801079
+cites_cases: ["18 Ohio St., 496", "25 Ohio St., 162", "35 Ohio St., 70", "40 Ohio St., 588", "50 Ohio St., 636"]
+---
+
+# Young v. State
+
+## Majority
+
+Amos Young was indicted for embezzling the sum of $6,921 'from the Allen County 'Building & Loan Association Company on September 4, 1902. He was tried and found guilty of embezzling $1,800. A motion for new trial was overruled and a bill of exceptions prepared and filed with petition in error in this court. Some twenty-one errors alleged to have occurred at the trial in the court below are thus presented to us for review. The books of the loan association used on the trial and referred to in the bill of exceptions, were not produced with said bill and we are therefore unable to pass upon the claims that the verdict of the jury was against the weight of the evidence and not supported by sufficient evidence. All the other errors complained of we have considered and will pass upon without detailed statement of the facts of the case, or extended reasons for conclusions reached.
+It is said that the court erred in refusing to place the jurors on their voir dire. Such does not appear to be the case. Every juryman challenged for cause was,, put upon his oath for further examination; this is all that is required by Revised Statutes, Section 7279.
+With regard to the bill of particulars or list of errors furnished by the prosecuting attorney to counsel for the accused, we are inclined to think that the state should have been held strictly to the offering of evidence with regard to the several transactions therein noted, and no others.
+Counsel for plaintiff in error, however, have failed to point out to us in the record where this course was departed from, and we have been unable to hunt out instances of such departure which may, perhaps, be found in the record, which is very voluminous.
+We do not find that the trial court erred in compelling the accused to go to trial immediately after his plea of not guilty.
+We find no error in the refusal of the' court to give to the jury defendant’s third request to charge before argument, nor in the refusal to give defendant’s requests to charge after argument, written and oral.
+The jury .was out forty-eight hours in the consideration of this ease, but we find no facts or law upon which, by reason of their being held that length of time, part of which was upon Thanksgiving Day, it can be claimed that the jury was either under duress or unduly hastened in its consideration of the case, nor was there irregularity in permitting the jury to exercise upon the streets, so far as is shown by the record.
+For a proper consideration of the remaining errors complained of, it is necessary to state a few facts with regard to the trial.
+Amos Young had been secretary of the building association for several years prior to his indictment. The state, to prove the charge in the indictment that he embezzled some $6,000 on September 4, 1902, offered evidence of many alleged defalcations, on separate days, aggregating that amount. The statute in force when these acts were said to have commenced, was repealed April 29, 1902, and a new statute on that day enacted. Over the objection of defendant evidence was received as to irregularities before April 29, 1902, although the indictment alleged that the offense was committed after said day.
+After the evidence as to these several irregularities, alleged to have been committed on different days and from time to time, was all in, defendant moved that the state be compelled to elect upon which one of the alleged separate offenses it would depend for conviction of the defendant. This motion was overruled, and, we think, properly. The nature of the crime of embezzlement is such that although money may be received by an agent or servant from time to time, as it carnes into his hands lawfully, there may be no completed crime of embezzlement until, having thus received several sums at different times, he finally refuses or is unable to account for the aggregate amount. This view of the case, taken by the trial judge as shown by his charge and ruling on the motion to elect, is supported not only by reason, but by authority. Brown v. State, 18 Ohio St., 496; Gravatt v. State, 25 Ohio St., 162; State v. Mook, 40 Ohio St., 588; State v. Bailey, 50 Ohio St., 636.
+Now as to the effect of the repeal of the old statute and en¿etment of the new one defining the crime of embezzlement, on April 29, 1902. We are constrained, upon authority of the case of Campbell v. State, 35 Ohio St., 70, to hold that as the indictment charged the crime as committed since said repeal of the old statute, all evidence as to alleged offenses committed before said day should have been excluded and that the jury should have been charged that under the indictment it could only consider transactions of the accused since said day. It is immaterial that this proposition was not argued to the trial court, as is claimed. The evidence offered as to alleged shortages before April 29, 1902, was objected to and admitted over defendant's objection. Whether he gave the proper reason why it should be excluded is immaterial. He asked that it be excluded. It was his right under the authority cited to have it excluded. It was admitted over his objection and his rights were thereby ignored. Such being his rights it was also the duty of the trial judge to protect them in the charge to the jury and this was not done. Proper exceptions to the charge were taken and this we find to be the only error in the charge prejudicial to the defendant.
+Ridenour & Halfhill and Richie & Richie, for plaintiff in error.
+William Klinger, Prosecuting Attorney, for defendant in error.
+Many exceptions to the admission of this incompetent testimony, too numerous to mention, are found in the bill of exceptions.
+It remains, however, to point out that this vice is lurking in the so-called confessions of the accused. Not only were these alleged confessions altogether too general and lacking in particularity as to time and amount to be admissible, but as neither the court nor jury could determine whethey they referred to transactions before or since April 20, 1902, they should have been excluded.
+It follows that the motion for a new trial should have been granted, and for error in overruling it and for errors in the admission of evidence and the charge, as specified, the judgment of the common pleas court is reversed and the case remanded to the common pleas court for new trial.
