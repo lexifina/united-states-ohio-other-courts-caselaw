@@ -1,0 +1,33 @@
+---
+court: "Scioto County Court of Common Pleas"
+docket: "54053"
+decided: "1971-06-07"
+citations: ["28 Ohio Misc. 215"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State, ex rel. Ramey et al., v. Board of Township Trustees of Porter Township, Scioto County."]
+source_url: "https://static.case.law/ohio-misc/28/cases/0215-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6703930
+cites_cases: ["152 Ohio St. 241", "168 Ohio St. 566", "35 O. O. 273"]
+---
+
+# State ex rel. Ramey v. Board of Township Trustees
+
+## Majority (Marshall, J.)
+
+Marshall, J.
+The relators are purchasing under a real estate contract, Lots Nos. 47, 48, 49, 50, 51 and 52 of the Spring-side Allotment in Porter Township, Scioto County, Ohio; and have brought this action in mandamus against the trustees of Porter Township seeking a writ to require respondents to repair and maintain a portion of Park Street in that subdivision.
+Prom the evidence and stipulations the court finds:
+1. That the Springside Allotment is a platted subdivision of a portion of Porter Township; that the streets and alley therein, one of which is Park Street, were dedicated to public use by the original owners of the allotment; that such dedication was accepted by the Commissioners of Scioto County; that under the provisions of the General Code of Ohio in effect at the time of such acceptance by the Commissioners, said streets became a part of the township road system and that Park Street is carried as one of the streets which is included in the mileage for which the township receives funds for road maintenance.
+2. Park Street is fifty feet in width and extends in an easterly direction from the Ohio River Road to Medway Street. It is presently open and used except for the part thereof here in issue, being that portion which extends for a distance of approximately two hundred fifty feet from the Ohio River Road to a point that is adjacent to a barn situated on said Lot No. 52 on the westerly end of relator’s premises. The portion in issue was being used as early as 1927, which use continued until the early 1960’s. It was scraped and graded by a township trustee on several occasions and, at least once, it was surfaced with gravel. It is fairly level for the first fifty feet or so extending easterly, and thereafter has a steep grade. Trees and brush have presently covered some of it, and a vegetable garden and a children’s swing set occupy a part of the area, making it impassable. The drainage ditch which ran alongside the road has been permitted to fill up with debris which has contributed to the erosion of the road’s surface.
+3. The respondents are the duly elected, qualified and acting trustees of Porter Township. Relators have requested of them at different times during the past three years that the road be opened.
+4. One of the trustees testified that the cost of grading and putting a gravel surface on the road would be about $500.00; but that in his opinion, due to the nature of the terrain, the surface should be asphalted to prevent erosion, and a tiled ditch should be installed. The trustees have concluded that the cost of construction and maintenance of such a road would not be warranted.
+5. According to the records of the Scioto County Engineer, the trustees have 48.23 miles of road in the township; during the year of 1970 the township trustees received a total of $49,729.68 for the maintenance of these roads.
+6. The township records do not disclose that any expenditures have been made on the part of the road in question.
+Township trustees are charged with the duty to keep the roads open and in good repair; to drag them and to cut all brush and other noxious weeds growing along such public hig’hways. (R. C. 5571.02, 5571.12 & 5579.08.) The provisions of these statutes are mandatory, and “the duties enjoined thereby may be commanded by a writ of mandamus.” State, ex rel. Rogers, et al., v. Trustees, 152 Ohio St. 241. In the case of State, ex rel. Kreis, et al., v. Trustees, 168 Ohio St. 566, the Supreme Court affirmed the action of the Court of Appeals in allowing a writ requiring the township trustees to “provide the roads with necessary drainage, to fill the holes and give sufficient crown to the roads as to shed water, and to drag the roads and keep them in passable condition for mail, school bus and other travel.”
+The duty imposed upon the trustees with respect to road maintenance is explicit and inescapable. Respondents contend, however, that it is entirely within their discretion “as to which roads shall be dragged, and as to the amount of funds available to them for such purpose which shall be expended on each road or portion thereof.” If this implies that the trustees have the discretion to leave certain roads, or portions thereof, entirely unmaintained, that position is not supported by the language of the statutes. The above cited statutes are mandatory and require that the township trustees shall keep the township roads in good repair; that brush and weeds shall be cut; that they shall cause the graveled and unimproved roads to be dragged; that they shall, before making any other appropriations from the road fund, appropriate and set aside out of said fund a sum sufficient to meet the expense of dragging the roads, and that said sum shall not be used for any other purpose.
+The relators urge that the court require the respondents to “expend each year on a neglected and unimproved segment of an improved township road, township funds available for use on unimproved township roads, proportional to the mileage which the unimproved segment bears .to the total mileage of unimproved roads .in the township.” While this would appear to be a logical and equitable .program to be ¡used by the respondents, this court is without the authority to so control their discretion. In the case of State, ex rel. Rogers, v. Taylor, supra, this court held that a Court of Appeals order requiring trustees to expend at least one-fifth of the funds available for unimproved roads in the township was “subject to the criticism of attempting to control discretion. Experience may disclose that the repair of this segment will cost more or less than one-fifth of the fund in a particular year. ’ ’
+“If this road is useless, it should be abandoned according to law, but as long as it remains a part of the township highway system the respondents have a duty under the law as to its care.” State, ex rel. England, v. Trustees, 35 O. O. 273.
+The writ is allowed.
