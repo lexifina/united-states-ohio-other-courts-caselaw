@@ -1,0 +1,31 @@
+---
+court: "Wood Circuit Court"
+decided: "1912-05-03"
+citations: ["34 Ohio C.C. Dec. 334"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Wildman, Kinkade and Richards, JJ.", "Wildman and Kinkade, JJ., concur."]
+parties: ["Benj. F. James et al v. Vincent D. P. Fildes et al."]
+source_url: "https://static.case.law/ohio-cc-dec/34/cases/0334-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 636377
+cites_cases: ["23 Ohio St. 560"]
+---
+
+# James v. Fildes
+
+## Majority (RICHARDS, J.)
+
+RICHARDS, J.
+This action, which is pending here on appeal from the court of common pleas, is brought to enjoin the enforcement of an alleged judgment of Vincent D. P. Fildes, a justice of the peace of this county, in an action, brought by Claud "Wyant against Benj. F. James and Edward Beverstock.
+It appears from the evidence that Wyant sued before the justice of the peace to recover upon an account that was claimed to be due him from the defendants, and that at the time his action was brought Benj. F. James, one of the defendants, was in Spain. Certain correspondence ensued between the justice of the peace and J. E. Kelly, who was acting as attorney for the defendants, relative to the continuance of the case until Mr. James should return. In a letter written by the attorneys to the justice of the peace under date of May 13, 1907, the justice is informed that counsel desired to make a defense to the action and that unless the cause could be continued until the return of Mr. James, so that his testimony might be had, it would be necessary for the defendants in the case to appeal to the court of common pleas, in which event they asked that the justice inform them of the amount of the appeal bond. On the next day, May 14, 1907, the justice answered by maii giving the information that the case would be continued until the return of Mr. James and that it must be taken up as soon as possible on his arrival home. It appears from the evidence that he did in fact return home on or about June 12, 1907. On June 15, 1907, without any communication having been made to either of the defendants or their attorney by either the plaintiff or the justice of the peace, the plaintiff Wyant appeared in the justice court and asked that the case be heard, and it appears to have been done. It seems that the justice found from the plaintiff’s evidence that the defendants were indebted to him in the sum of $50.18 debt and $24.20 costs. Neither James nor Beverstock nor their attorney had any knowledge of the claimed judgment until some six weeks thereafter, when Mr. James was notified by letter from Wyant that judgment had been rendered. Shortly thereafter this aetion in injunction was brought to prevent the enforcement of the judgment, the plaintiffs in their petition claiming that they had and have a valid defense to the claim and that they were deprived of an opportunity to make a defense and that they should have been advised in some form of the time when the case was to be heard by the justice of the peace.
+The petition alleges in effect the rendition of the judgment, but that it was obtained through the fraudulent conduct of Fildes and Wyant. Upon the trial of the case in this court a transcript was offered in evidence, which, with some interlineations made at a date which does not clearly appear, shows a judgment in the amount stated. The justice of the peace, Mr. Fildes, however, was called as a witness. Upon cross-examination he was asked to account for the fact that a discrepancy existed between the transcript and the original docket, and he answered: ‘f The difference is with the last four lines; they are not in the docket.” Later, he said in answer to a question as to why that language is not on the docket, “Probably I forgot to put it in,” and he states that he may have made the transcript out and forgot to enter it upon the docket.
+Now, the important fact in this case is that the last four lines, which are refered to in the testimony of Mr. Fildes as not being on the docket, are the lines which as they appear on the transcript purport to render a judgment, and without those lines the docket contains no judgment.
+The statute provides, Sec. 10378 G. C., that the justice, when the trial is had by him without a jury, must enter judgment immediately after close of the trial, if the defendant has been arrested or his property attached, and that in other cases the judgment shall be entered either at the close of the trial or, if the justice desires further time, on or by the fourth day thereafter, both days inclusive.
+The language of this section was under consideration by the Supreme Court in Eaton v. French, 23 Ohio St. 560. In the course of the opinion the court say, speaking through Day, J., and after quoting the section to which reference has just been made: ‘ ‘ this language is clear, specific and peremptory. ’ ’
+It thus appears in this ease, that although more than four years have elapsed since the case was heard beforé the justice, no judgment has in fact been yet entered upon his docket, and we think under those circumstances the plaintiffs are entitled to the relief prayed for in their petition in this case. It is doubtless true that good practice would require that the justice of the peace should not have been made a defendant, the only necessary defendant being the plaintiff in the justice’s court who was seeking to enforce the alleged judgment.'
+We are, however, confronted with the fact that the plaintiffs in this ease, probably relying upon the .transcript, averred in their petition that a judgment was entered, claiming the same, however, to be fraudulent. We think this discrepancy between the allegations and the proof is in immaterial variance as defined in Sees. 11556, 11557, G. C., and it is apparent that the defendants have not been misled thereby.
+We find from the evidence of the justice of the peace himself that no judgment was in fact entered upon his docket, and the plaintiffs may have leave to forthwith amend their petition in accordance with such finding.
+The decree of the court will be in favor of the plaintiffs enjoining the collection of the alleged judgment.
+Wildman and Kinkade, JJ., concur.
