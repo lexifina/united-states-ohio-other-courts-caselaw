@@ -1,0 +1,36 @@
+---
+court: "Stark Circuit Court"
+decided: "1912-02"
+citations: ["26 Ohio C.C. Dec. 146"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Voorhees, Powell and Shields, JJ.", "Voorhees and Powell, JJ., concur."]
+parties: ["Joseph Andy v. State of Ohio."]
+source_url: "https://static.case.law/ohio-cc-dec/26/cases/0146-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1658464
+---
+
+# Andy v. State
+
+## Majority (SHIELDS, J.)
+
+SHIELDS, J.
+The plaintiff in error, Joseph Andy, was indicted by the grand jury of Stark county, Ohio, at the September term, 1912, for murder in the second degree. Afterwards the accused was placed upon trial, and was found guilty as charged in said indictment. A motion for a new trial was filed, which was overruled, and the accused was sentenced according to law. A bill of exceptions was taken, embodying the evidence taken upon the trial, including the charge of the court, and said case was brought into this court for review upon a petition in error filed for that purpose.
+Numerous grounds of error are alleged in said petition in error for the reversal of the judgment of the court of common pleas, but the errors relied upon by plaintiff in error and argued to this court are:
+1. That the verdict of the jury is clearly against the weight of the evidence.
+2. That the court below erred in permitting one Mary Pew, a sister of one of the state’s witnesses, to act as interpreter throughout the trial below.
+3. That said court below erred in allowing the introduction in evidence of the heart of decedent.
+4. That said court erred in its charge to the jury.
+5. That said court erred in its charge to the jury upon the subject of aiders and abettors.
+6. That said court erred in receiving the verdict as returned by the jury.
+First. It is contended that the verdict of the jury was clearly against the weight of the evidence. On account of the importance of the ease to the plaintiff in error, as well as to the state, we have reviewed the evidence in the entire record with no little care, and with special reference to the contention of counsel for plaintiff in error on this ground; and as a reviewing court, keeping in mind the rule that the verdict of a jury should not be set aside unless it is manifestly against the weight of the evidence, we are of the opinion that the record presents a case which does not require this court to interfere with the verdict of the jury on the ground stated.
+Second. It is contended by the plaintiff in error that there was'an abuse of discretion upon the part of the court below in. permitting one Mary Pew to act as interpreter at the trial of the plaintiff in error, because said interpreter was a relative of certain witnesses who testified upon the trial for the state. The record fails to show that said interpreter was biased or prejudiced, or in any way interested in; the outcome of said trial; and exercising a sound discretion possessed by the court presiding at said trial, in the absence of any showing that said interpreter was disqualified to act as such, we think there was no error upon the part of the court in this respect.
+Third. It is argued by the plaintiff in error that the court below erred in allowing the state to make profert of the heart of the decedent before the jury. The burden of proving the cause of death being upon the state, it was certainly the privilege of the state, in our judgment, to make such proof by the production of this mutilated organ, as tending to show the character and extent of the incision made therein, and we think that the action of the court in this respect was not erroneous.
+Fourth. It is claimed by plaintiff in error that the court below erred in its charge to the jury, and especially upon the subject of aiding and abetting in the commission of the crime charged in the indictment. A written request was submitted by the plaintiff in error, before argument, upon this subject with the request that the same be given by the court to the jury; and it appears that it was so given. But it is claimed that said court, in its general charge, when instructing the jury upon this subject, went beyond the rule of law embodied in said written request, and beyond the rule of law laid down by our Supreme Court upon this subject. An analysis of the instruction given leads us to disagree with the contention thus made; but granting that the words “and to some degree contributed thereto” were added, could, or did, such addition work any prejudice to plaintiff in error? We think not, for if the evidence showed that he was not a principal, but an aider and abettor in the commission of this homicide, such a conclusion could not have been reached by the jury, under the charge given, unless it appeared in evidence that he said or did something in furtherance of a common purpose to take the life of the decedent, and if such fact did so appear, it would contribute to the execution of such felonious purpose. We are of the opinion that this follows from the very definition of terms “aiders” and “abettors,” and that such additional instruction is mere surplusage at most.
+Entertaining these views, the exception taken in this respect is held to be untenable, and affords no ground of prejudicial or reversible error.
+Fifth. It is also contended that the court below erred in receiving the verdict as returned by the jury, because said verdict does not specify the degree of the crime of homicide of which plaintiff in error was found guilty. This is not a case wherein the verdict of the jury was for any degree or crime other than that charged. He was indicted for second degree murder, and was found guilty of said crime; or, in the language of the verdi at returned, “guilty as he stands charged in the indictment.” The court below properly instructed the jury that the crime charged included also the lesser crime of manslaughter, assault and battery, and assault, for either of which a verdict of guilty might be returned by the jury, and not guilty of the crime of murder in the second degree as charged in the indictment. But the verdict was: Guilty of the crime charged. In a case where a defendant is charged with first degree homicide, and the jury should find him guilty of second degree, or manslaughter, under the statute as it was prior to the enactment of Sec. 13692 G. C., then the contention of plaintiff in error might merit consideration, but not under the present statute; nor under the facts in this case where, under the charge of the court, the jury were instructed that they might return a verdict' of guilty of either of the offenses hereinbefore mentioned, on one of the several forms of verdict sent to the jury room, or a verdict of not guilty. For the foregoing reasons, we hold that this exception is not well taken.
+We have also examined said record in reference to the other assignments of error set out in the petition in error, and we find no such error therein as to call for a reversal of the judgment of, the court below.
+The judgment of the court of common pleas will, therefore, be affirmed, and said cause is remanded to said court for execution. Exceptions.
+Voorhees and Powell, JJ., concur.
