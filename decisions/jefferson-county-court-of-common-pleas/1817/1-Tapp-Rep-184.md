@@ -1,0 +1,24 @@
+---
+court: "Jefferson County Court of Common Pleas"
+decided: "1817-09"
+citations: ["1 Tapp. Rep. 184"]
+reporter: "tapp-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CUNNINGHAM vs. PHILLIPS."]
+source_url: "https://static.case.law/tapp-rep/1/cases/0184-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 628301
+---
+
+# Cunningham v. Phillips
+
+## Majority (President.)
+
+President.
+It is necessary to consider and dispose of the demurrer to the plaintiff’s declaration first. In examining the causes of demurrer assigned, it seems that the first objection is not well taken. The parties, plaintiff and defendant, are properly set forth in tbe declaration. It would have been more formal, and is tbe better practice, to entitle the declaratiou in the proper suit; but I doubt whether the omission is sufficient cause of demurrer. As to the second objection, the case of Dobbin vs. Herne, 1st Bos. & Pul. 366, is an authority decisively against it, with the correctness of which I am satisfied. The third is more doubtful. This declaration is very slovenly and inartificially drawn; but it appears from it that the obligation was due, although it is not (as it should be) distinctly averred. The fourth objection is governed by the second. The fifth and sixth are not well founded. So that the demurrer is overruled, with costs.
+The question which arises on the demurrer to the plea in bar, is, whether the payment of the money for which this suit is brought, was, by the contract and agreement of the parties, made dependent on the execution of a deed of two lots in New Philadelphia, by the plaintiff to the defendant ? for it is the intention of the parties, and not any arbitrary rule of construction, which is to govern in these cases.
+The suit is brought on an obligation to pay money five days after the date of it. It is dated on the 26th day of March, and the money is due and payable on the 31st of March; so that, if the article of agreement contained a covenant on the part of the plaintiff (as the plea alleges) to make the deed on the first day of April; the money is due and payment of it is to be made at a time prior1 to the execution of the deed; the execution oí the deed cannot, therefore, be a condition precedent to the payment of the money, and the non-execution of it cannot be plead in bar of this action. The article of agreement speaks of “ the consideration of two hundred and seventy dollars, in hand paid the first day of April next ” — but the article of agreement is not all the evidence of the contract, for the declaration is on a separate obligation, which, by the terms of it, is payable before the first of April, that is, five days after the date of it; for when the computation of time is to be made from an act done, (as in this case the date of the obligation) the day when such act is done is to be included; see The King vs. Adderly, Doug. 463 — Hastie vs. Burditt, 3d Durnford & East, 623 — and Glassington vs. Rawlins, 3d East, 407.
+Whether the payment of the money, and the conveyance of the lots, were intended to be concurrent and dependent acts, even though both are s^P^a^ed-j and agreed to be performed on the same day, js gfcju to be gathered from the manner and form in which |j16 parties have contracted; for the time of performance is n0£ 0f itself conclusive of such intent. As where the seller of lands gives to the purchaser a penal bond, conditioned to convey, on a day to come, without reference to, or recital of, the consideration, and receives from the purchaser his negotiable note, for the amount of the purchase money payable on the same day, such obligations would give to the respective parties, or their assignees, rights of action not liable to be defeated by the non-performance of either; for such, from the manner in which they have contracted, must have been their intention.
+The case made by this plea (taken by itself) is one of mutual conditions to be performed at the same time. If such was the contract, the plaintiff was not bound to execute and, deliver, or to tender a conveyance; but it would have been sufficient if he had been ready and willing, without actual performance, or an offer to perform — Rawson vs. Johnson, 1 East, 203 — Smith et al. vs. Woodhouse, 2 New Rep. 240 — West vs. Emmons, 5th Johns. 179. So that, on this account, the traverse could not be supported.
+But, by the article of agreement of which profert is made in the plea, no time is agreed when the deed shall be executed; it must, therefore, be done in a reasonable time after the payment of the money; the payment of the money is the consideration, without the performance of which the deed could not be demanded; the execution of it cannot, therefore, be required to precede the payment of the money; the plea in bar is, therefore, insufficient, and the demurrer is sustained.
