@@ -1,0 +1,33 @@
+---
+court: "Lake County Court of Common Pleas"
+docket: "41544"
+decided: "1965-12-06"
+citations: ["6 Ohio Misc. 68"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["First Fed. S. & L. Assn. of Willoughby v. Smith et al."]
+source_url: "https://static.case.law/ohio-misc/6/cases/0068-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1432892
+cites_cases: ["19 Ohio Law Abs. 105", "205 U. S. 340", "48 Ohio App. 545"]
+---
+
+# First Fed. S. & L. Ass'n v. Smith
+
+## Majority (Simmons, J.)
+
+Simmons, J.
+This cause comes on for a decision pursuant to the amended cross-petition of defendant Security Sewage Equipment Company in which it requests an order from this court permitting it to remove sewage disposal tanks and equipment from the premises.
+A hearing was held on this cross-petition and briefs submitted by the parties.
+Upon consideration of same the court finds that the right of removal is dependent upon a finding by this court that the disposal tanks and equipment are personalty and did not acquire the character of fixtures following their installation. If they became fixtures in 1963 at the time the conditional sale was made by Security Sewage to the land owner, Section 1309.32, Revised Code, applied. This section provides that security interests in fixtures are invalid against any person having an interest in the real estate at the time the security interest attaches, who has not in writing consented to that interest or disclaimed an interest in the goods as fixtures. At the time the conditional sales agreement was executed on October 5, 1963, plaintiff First Federal Savings and Loan was a mortgagee of record. There is no evidence that plaintiff consented or disclaimed.
+In determining whether personalty becomes a fixture so that it merges with the realty and loses its former identity three tests are considered. (1) The nature of the annexation to the realty, or the degree of the physical attachment to it. (2) The adaptability of the item to the use or purpose of the realty to which it is attached. (3) The intention of the parties.
+The court finds from the evidence that the tanks were installed in excavations and that the top of both tanks are about even with ground level and that the larger tank is set in the ground to a depth of approximately 11 feet. The court further finds that the tanks are attached by underground pipes to the sanitary sewage system of an adjacent apartment building having eight apartment suites. In the event the tanks and sewage treatment system are removed, the sewage effluent from the apartments would flow in its raw and untreated state into a gully a short distance away.
+From these and other facts the court finds that the tanks and equipment are so permanently annexed to the realty, and so adapted to the performance of a necessary function which renders the apartment buildings habitable, that tests 1 and 2 stated above dictate a finding that the items are fixtures. Fur-her, the court finds that the removal of the tanks and equipment would do injury to the realty by leaving large holes in the ground and by disrupting the sanitary piping system.
+Defendant contends, however, that the intention of the parties is the chief test in determining the status of an item either as personalty or as a fixture, and that the conditional sales agreement between the defendant and the purchaser/mortgagor Smith clearly expresses the intention of both parties that title to the tanks and equipment be retained by defendant company until payment in full is received. The evidence shows a balance due of approximately $486.00 on the total purchase price of roughly $4,000.00.
+It must be observed that the intention which is relevant as a test of status is an intention either that an item remain personalty or become a fixture, not an intention relative to ownership. The purchase contract involved here does reserve ownership in the defendant, but there is nothing in the contract expressing any intention of the parties that the tanks and equipment retain their identity as personalty. A conditional sales agreement is merely a method of buying an article and cannot be accepted as conclusive evidence of the intention of the parties relative to the continuing character of the article. Novak v. Jicha, 19 Ohio Law Abs. 105.
+Further, if articles which are annexed to realty become so absorbed within it by virtue of the method and degree of annexation, and their adaptability to the use of the realty, their identity as personalty may be said to be destroyed and they become fixtures, regardless of the intention of the parties. East Ohio Bldg. & Loan Co. v. Holland Furnace Co., 48 Ohio App. 545.
+The evidence in the record shows that defendant Security Sewage Equipment Company perfected a mechanic’s lien on these premises arising from the sale and installation of the sewage treatment tanks and equipment. By so doing they indicated a belief that their equipment did not retain a personalty character but merged with the realty. Defendants cite the case of Skinner Engine Co. v. Metropole Cafe Co., 19 N. P. (N. S.) 113, as authority for the view that the filing of a mechanic’s lien does not estop a conditional seller from claiming the right of removal. However, this case is not applicable in its facts to ours for the reason that the opinion refers to a contract of sale which contained a provision stating that not only shall title to the article sold remain in the seller but also they shall retain their personal character until fully paid. Defendants also cite the case of William W. Bierce, Ltd., v. Hutchins, 205 U. S. 340, as to the question of estoppel. In the opinion of this court the Bierce case is authority for the proposition that where the character of an item as personalty has not changed, by applying the stated tests, a seller on a conditional sales contrad will not be estopped to treat the items sold as personalty merely because of the filing of a mechanic’s lien. The seller, in such instance, merely errs in treating the items as realty by filing the lien. That error will not accomplish any change of character and the seller will not be punished for it.
+Since, in the present case, it is the conclusion of this court that applying all tests to determine the status of the sewage treatment tanks and equipment they must be considered fixtures, no question of estoppel is involved.
+The request of defendant Security Sewage Equipment Company for right to remove such items is denied.
+Judgment accordingly.
