@@ -1,0 +1,30 @@
+---
+court: "Hamilton County Court of Common Pleas"
+docket: "A-152656"
+decided: "1957-01-18"
+citations: ["76 Ohio Law Abs. 68"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HUNSCHE, Plaintiff, v. ALTER, Trustee, Defendants."]
+source_url: "https://static.case.law/ohio-law-abs/76/cases/0068-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8749367
+cites_cases: ["115 Oh St 539", "131 Oh St 333", "139 Oh St 194", "165 Oh St 467", "260 Pac. (2d) 765", "287 Pac. (2d) 128", "85 Oh St 90"]
+---
+
+# Hunsche v. Alter
+
+## Majority (By HOY, J.:)
+
+OPINION
+By HOY, J.:
+This cause is before the Court upon plaintiff’s motion for a rehearing on defendants’ demurrer to the petition.
+In her petition plaintiff claims that while on her way to attend Mass at a Roman Catholic Church she fell when she stepped into a depression in the paved portion of a parking lot maintained by the church on its grounds. She claims that her fall and resulting injuries were proximately caused by the negligence of the trustee and pastor of the church in failing to maintain the parking area in a safe condition.
+The Court has heretofore sustained a demurrer interposed by the defendants on the authority of Cullen v. Schmidt, 139 Oh St 194, but, since that time, the Supreme Court has announced its decision in the case of Avalonne v. St John’s Hospital, 165 Oh St 467, in which it expressly overrules Taylor v. Protestant Hospital Association, 85 Oh St 90; Rudy v. Lakeside Hospital, 115 Oh St 539, and paragraphs one and two of the syllabus of Lakeside Hospital v. Kovar, 131 Oh St 333, and holds that a charity hospital is liable for the torts of its servants under the doctrine of respondeat superior. Plaintiff contends that the rule announced by the court in the Avalonne case deprives nonprofit religious organizations, as well as charity hospitals, of the partial immunity from tort liability which both formerly enjoyed in this state and that this Court should, therefore, reverse its former ruling upon the demurrer.
+In the situation in which this Court now finds itself it can only guess how far the Supreme Court intends to extend the doctrine of the Avalonne case.
+We are aided to some extent, however, by a parallel situation which was presented in the case of Tumwater v. Evangelical Free Church, decided by the Supreme Court of Washington in 1955 and reported in 287 Pac. (2d) 128. In that case the plaintiff claimed that he had been injured by the negligence of the driver of a Sunday School bus which was being operated on behalf of the defendant church, and the trial court dismissed the action on the ground that the church was immune to tort liability. For many years prior to the decision of the Supreme Court of Washington, in the case of Pierce v. Yakima Valley Memorial Hospital Assn. 260 Pac. (2d) 765, it had been the settled law of that state that a benevolent, religious or charitable institution was not liable for torts committed by its servants against a patron, in the absence of a showing that it had failed to exercise reasonable care in the selection or retention of the servant. In the Pierce case, however, the Washington court reversed its former holdings just as the Supreme Court of Ohio did in the Avalonne case, and decreed that charity hospitals should no longer enjoy immunity and when the Tumwater case reached it, it was forced to decide how far it would extend the doctrine announced in the Pierce case. In declining to extend the Pierce doctrine to non-profit religious organizations the Court used the following language:
+“Appellant contends that the rule of charitable immunity has been rejected by the Pierce case, and that therefore the doctrine of respondeat superior applies to ecclesiastical bodies. That case did not reject the rule of charitable immunity, but merely modified it. There was only one question before us in the Pierce case, and it was stated in the first paragraph thereof:
+“ ‘Where a paying patient of a charitable non-profit hospital sustains injuries by reason of the negligence of a nurse, may such patient recover damages from the hospital?’ We held that such an institution ‘should no longer be held immune from- liability for injuries to paying patients caused by the negligence of employees of the hospital.’ We do not wish to extend the above holding to apply to a nonprofit, religious organization which transports children, without charge, to and from Sunday school in order that they may receive a spiritual education and eventually become members of a church organization.”
+It is true that the Washington court fails to set forth the grounds upon which it distinguishes churches from hospitals. It simply announces that it will not extend the new rule to churches. However, there are obvious distinctions which it might have drawn. It is a matter of common knowledge that the operation of charity hospitals has undergone radical and profound changes in recent years.. Prior to the advent of hospital care insurance a large number of hospital patients were unable to pay for hospital care, whereas today practically every hospital patient has some type of hospital insurance and a true charity case is a rarity in the average modern charity hospital. This changed situation has required a change in public policy with respect to charity hospitals and has prompted the courts of a number of states (including Ohio) to reconsider the question of tort immunity for such institutions. No such change has occurred, however, in the operation of non-profit religious organizations and the reasons which prompted the courts to grant partial immunity to them on the basis of sound public policy in the past still exist.
+I am persuaded, therefore, that the doctrine announced by our Supreme Court in the Avalonne case should not be extended to non-profit religious organizations and will adhere to my former ruling upon the demurrer.
