@@ -1,0 +1,31 @@
+---
+court: "Butler County Court of Common Pleas"
+docket: "86049"
+decided: "1969-06-19"
+citations: ["20 Ohio Misc. 153"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Peters v. Preferred Risk Mutual Ins. Co."]
+source_url: "https://static.case.law/ohio-misc/20/cases/0153-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6702260
+cites_cases: ["16 Ohio Misc. 297", "80 A. L. R. 2d 1289"]
+---
+
+# Peters v. Preferred Risk Mutual Ins.
+
+## Majority (Makes, J.)
+
+Makes, J.
+This matter coming on for hearing on the pleadings of the parties, evidence, stipulations and arguments of counsel; the court finds that the plaintiff and defendant entered into a contract of insurance which is basically known as a Home Owners Policy. Under Schedule C of said policy is listed an item called “Unscheduled Personal Property” insured in the amount of $4800. The said policy has attached to it as an endorsement and made a part thereof “Provisions Applicable to Section 1” “Coverage C”:
+“1. On premises: This policy covers unscheduled personal property usual or incidental to the occupancy of the premises as a dwelling, owned, worn or used by an Insured, while on the premises, or at the option of the Named Insured, owned by others while on the portion of the premises occupied exclusively by the Insured.
+‘ ‘ This coverage does not include: animals, birds, automobiles, vehicles licensed for road use and aircraft; the property of roomers or boarders not related to the Insured; articles carried or held as samples or for sale or for delivery after sale or for rental to others; and property which is separately described and specifically insured in whole or in part by this or any other insurance.”
+The parties have further stipulated that the plaintiff has suffered a loss by burglary of plaintiff’s residence, and that the value of said loss was in excess of $4800.
+The court further finds that the plaintiff was a gun fancier ever since he had been a boy at the age of twelve and had enjoyed hunting; but as the years went by and hunting became more difficult, he became more interested in gun collecting, until in 1959 he decided to collect guns as a hobby. The evidence further showed that the plaintiff was employed as a millwright at the Ford Motor Company for many years, and that in the course of pursuing his hobby he would save certain money from his salary, put it in his gun fund and began to acquire many guns of different types. Plaintiff testified that he belonged to as many as fourteen different gun clubs and would go from exhibit to exhibit or show to show displaying his guns with the idea in mind of building up his collection by trading or outright purchasing of other guns. He testified that he would sell some of his guns to raise money for the purchase of new guns to the collection, or would trade, but that in any event his collection began to grow but that he never made any money in the course of his trading as he only wanted to better his collection, and any money received would go for the purchase of a gun item which he already had in mind to buy. The evidence further showed that he had no license to sell; never advertised; had no business records; had never depreciated his guns on his tax returns; had never received any money for lecturing, displaying or exhibiting his collection; and at no time did he ever make a profit from his collection.
+Plaintiff claims that his guns are covered under the policy as unscheduled personal property, and that by reason thereof the defendant is liable for the loss.
+Defendant claims that the guns were ‘‘held as samples or for sale” and by reason thereof were excluded from the coverage afforded by the insurance policy.
+The issue then is whether or not the guns owned by the plaintiff and kept in his gun room and occasionally moved for display or exhibit for which he received no remuneration bnt did nse the occasion to precipitate a trade or sale to acquire a different model gnn or one considered to he of a rarer type would constitute a business or items “held for sale” and be excluded from the policy coverage.
+This court has examined the authorities, particularly Dewey v. Niagara Fire Ins. Co., 16 Ohio Misc. 297, but also 80 A. L. R. 2d 1289, Words and Phrases, and 12 Fire & Casualty Reports 670. This court differentiates the factual situation in the case at bar from that found in the Dewey case, in that in Dewey, 25% of plaintiff’s income was derived from the source of his hobby, collection of pictures; whereas, in the instant case the evidence discloses no income received, but rather outgo. Th Deivey case reveals that plaintiff’s activities were more than a hobby and were more in the nature of a vocation than in the case at bar.
+This court finds that this plaintiff was not in business and did not hold out the guns as items for sale in a business sense in that although he might realize an ultimate profit by bettering his collection, the investment would result in the aging of the collection and the demand for the items therein by the collectors. Since the insurance policy must be strictly construed against the insurance company, and since the insurance company has taken to specifically exclude items of coverage under Schedule C by listing “animals, birds, etc.” they could have very easily listed hobby items or collections of stamps, coins, guns, etc. This court feels that “articles carried or held as samples on for sale” do not apply to collector’s items since all personal property of any policy holder is subject to sale. For example, a householder being transferred to a different location might decide to sell all of his furniture, advertise the same, and before any sale is consummated the articles would be stolen or destroyed. This court is of the opinion that said items are not items used in business or held for sale in the course of a business and would still be the very subject matter for which the policyholder would be paying a premium, and the insurance company taking its risk.
+Therefore, in this instant case this court renders judgment for the plaintiff in the sum of $4800 plus interest from Jannary 6,1968, and costs of this action.
