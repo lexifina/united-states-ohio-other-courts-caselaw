@@ -1,0 +1,38 @@
+---
+court: "Jefferson Circuit Court"
+decided: "1908-12"
+citations: ["31 Ohio C.C. Dec. 507"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Burrows, Laubie and Winch, JJ.", "(Judge Winch of Eighth Circuit Sitting in Place of Judge Cook.)", "Burrows and Laubie, JJ., concur."]
+parties: ["Milovan Dodig v. State of Ohio."]
+source_url: "https://static.case.law/ohio-cc-dec/31/cases/0507-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1663455
+cites_cases: ["20 Ohio St. 233", "4 Ohio, 348", "70 Ohio St. 400", "71 N. E. 721", "83 Ohio. St. 455"]
+---
+
+# Dodig v. State
+
+## Majority (WINCH, J.)
+
+WINCH, J.
+This judgment must be reversed because there is no evidence in the record showing that Milovan Dodig, at or prior to the time the fatal shot was fired which caused the death of John McDonald, had deliberated and premeditated upon his act. This is a serious statement to make, but the record has been considered by every member of the court with equal thought for the vindication of the law and the solemnity of the condition of one who is condemned to die. It is' put to our consciences to weigh the evidence, with duty equal to that of the jury, and we find but two explanations for this verdict of murder in the first degree, to-wit: the'skill of the prosecuting attorney and passion and prejudice aroused in the minds of the jury by deliberation over the wrongful death of an officer of the law, a courageous and much respected man, at the hands of an ignorant foreigner, in a lawless part of the city.
+But the majesty of the law is not thus established. Upon justice alone are raised its foundations.
+The trial was had promptly after the crime was committed. The record shows public feeling was running high. Time has since elapsed. The testimony of the witnesses has been reduced to writing and is susceptible of careful examination and comparison.
+That Dodig killed the officer is established by circumstantial evidence; that kind of evidence is satisfactory. So deliberation and premeditation may be, and usually must be proved by circumstantial evidence.
+To deliberate and premeditate is to w^eigh and consider before hand — mental acts — always to be inferred from other facts unless the -accused has told the. state of his mind, which is rare.
+But there must be facts shown from which deliberation and premeditation may be inferred, and, in a criminal case, adopting the language of a negligence ease, the inference of deliberation and premeditation must be more reasonable than any other inference; the jury can not be allowed to guess.
+From what fact is it claimed that the jury must necessarily infer that Dodig of deliberate and premeditated malice killed McDonald? Not because he used a deadly weapon, for the malice alone may be inferred from that. But from this one fact, that Dodig after his arrest, during a scene to which attention will be called later, said: “Man shot George (or judge, meaning McDonald) shot me,” or words to that effect, as one witness testified. "What of it? It is said from this statement it .is evident that Dodig knew McDonald by his familiar name. What of that? Can another inference be deduced, that he lay in wait to bill the officer from the mere fact that he knew him? We think not. Men are not condemned to death upon such evidence.
+Again, is that what Dodig said? Another witness says he said: “Gun shoot George, shoot me.” May he not have said, “Ihn man shot George, and he shot me,” which was the fact, for Dodig was scratched by a bullet on his hand. The officer was shot in the adbomen and over the left eye; both wounds were fatal. There is absolutely nothing in the evidence from which it may be determined who fired the first shot, or which shot first took effect upon the officer. Counsel of the state, upon argument, each had a different theory of the matter.. Personally, I have a theory which my associates seem to think is as reasonable as any other. It is certain that both shots that hit the officer were fired at close range, the one over the eye, because there were powder marks there, and the one in the abdomen, for it first went through the left sleeve of the officer’s coat and set it afire. Dodig’s clothes were also afire. The probabilities seem to me to be that the officer being sent into this district to quiet the holiday disturbances there, may have seen Dodig on the street near his boarding house and ordered him to move on; not being obeyed promptly he (the officer) closed in on him, a scuffle ensued and both shot. That there was a tussle is shown by an abrasion on the second finger of McDonald’s left hand and a bruise on his forearm. If the shooting occurred in this manner, of course there was no premeditation or deliberation.
+But why multiply guesses ? The fact that at the best it is all a guess, while the law requires that these things must be proved beyond a reasonable doubt, requires that this judgment be reversed.
+Having come to this conclusion it is unnecessary to mention at length the other errors alleged to have occurred at the trial.
+That an impartial jury was not impaneled appears from the record. At least three jurors stated in effect, that they would look upon the crime as greater because it was an officer who was killed. These three jurors were challenged for cause, the challenges were overruled and thereafter they were peremptorily challenged and excused, but counsel for the accused saved his rights by making a seventeenth peremptory challenge. After this the jury was sworn. This was error. Hooker v. State, 4 Ohio, 348; Schufflin v. State, 20 Ohio St. 233.
+It is doubtful if the so-called confessions or admissions at the mayor’s office should have been admitted in evidence. Consider the scene. This ignorant foreigner having been beaten over the head with a revolver by one officer, struck with the fist by another, knocked to the ground and in such fear that he befouled himself and cried out "Kill me, me no care,” was dragged to the city hall; a great crowd collected; he was led into the mayor’s office and thence into the office of the chief of police. He saw officers of the law in uniform about him and the chief citizens of the town there. It was a place where trials are held and had the appearance of such a place. He was questioned and gave inei’iminating answers.
+While the officers of the law must be diligent in detecting crime and in bringing the guilty to justice and for this purpose the "third degree” may sometimes be administered in the sweat box, so that clews may be obtained from which conviction may follow, should confessions or admissions obtained under such circumstances be considered voluntary and be used against the accused at his subsequent trial?
+Speaking of a similar scene enacted in the office of the chief of police of Cincinnati, Judge Price remarks, in the case of Geiger v. State, 70 Ohio St. 400, 416 [71 N. E. 721], "No one who reads this record can conclude it with entire complacency and approval of all that led up to the scene of that morning. ’ ’
+As stated, we are in doubt upon this matter and a majority of the court is unable to say that reversible error was committed by admitting this evidence.
+There are several minor errors alleged to have occurred in rulings upon the admissions of evidence, but it is not necessary to mention them, for we find no prejudicial and reversible error in them.
+Because the judgment is not supported by sufficient evidence, it is reversed and the cause is remanded for a new trial.
+Burrows and Laubie, JJ., concur.
