@@ -1,0 +1,33 @@
+---
+court: "Montgomery County Court of Common Pleas"
+docket: "16927 and No. 26537"
+decided: "1960-05-27"
+citations: ["86 Ohio Law Abs. 129"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE TAX COMMISSIONER, Division of Sales, Excise and Highway Use Taxes, Plaintiff, v. GRIESMEYER, Defendant."]
+source_url: "https://static.case.law/ohio-law-abs/86/cases/0129-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1804728
+cites_cases: ["149 A. L. R., 299", "166 N. E. 2d, 139", "170 Ohio St., 405", "97 Ohio St., 140"]
+---
+
+# State Tax Commissioner v. Griesmeyer
+
+## Majority (McBride, J.)
+
+McBride, J.
+On November 30, 1959, the Tax Commissioner for the State of Ohio filed in this court an assessment dated October 2,1959, for $2052.05 against Roland W. Griesmeyer for retail sales taxes. Upon the filing in this court, a praecipe was issued and a certificate of judgment and an execution were recorded. On March 7, 1960, an order in aid of execution was issued upon the defendant. No formal entry or order of judgment was ever filed.
+On March 14, 1960, Roland W. Griesmeyer filed a motion to vacate the “so-called” judgment as contrary to Article IV, Section 1 and Article I, Section 16 of the Ohio Constitution, and also filed a motion for an order dismissing the execution and the order in aid for the reason that a judgment is a prerequisite for such proceedings under the general statutes.
+The vendor, who shall be identified as the defendant, claims that Section 5739.13, Revised Code, violates the separation of powers and the due course of law provisions of the Constitution.
+This section of the statute provides for a notice and a hearing before the Tax Commissioner. In addition it provides for a right to appeal to the Board of Tax Appeals in the same time and manner as provided in Section 5717.02, Eevised Code. The incorporation of appellee rights is narrowly worded. It includes only Section 5717.02, Eevised Code, which does not provide a review by the courts. However it has been construed as including related sections of the incorporated chapter which provide for appeals to the courts. Kresge Co. v. Bowers, Tax Commissioner, 170 Ohio St., 405, 166 N. E. 2d, 139. Under Section. 5717.04, Eevised Code, decisions of the Board of Tax Appeals may be taken to the Supreme Court or to the Court of Appeals. It is apparent that the provisions for notice, hearing, review by the Board of Tax Appeals and appeal to the courts satisfy the requirements of due process and due course of law.
+This same conclusion was reached by Judge Boli in an unreported and well written opinion in Teresa Combs v. Charles B. Walke, Sheriff, Case No. 65081, Butler County, dated February 25, 1952, affirmed without opinion, October 23, 1952. Judge Boli relied upon the case of California v. Shinner, 115 Pacific 2d, 488, 149 A. L. R., 299, decided in 1941.
+As pointed out in the case of Kresge Co. v. Bowers, 170 Ohio St., 405, the proper place to raise the constitutional question on a finding under the retail sales tax law is by appeal from the decision of the Board of Tax Appeals. Since the defendant here failed to appeal from the finding this court questions whether the same issue may now be raised collaterally in an ancillary proceeding to enforce the judgment.
+True, the defendant by motion has sought to vacate the “so-called” judgment as well as dismiss the executions. However the “so-called” judgment was not issued by the common pleas court and this court has no jurisdiction in that matter. As so well expressed by Judge Boli, the judgment was “cellophane-packaged and sent to the clerk and never touched by hand or mind by the Common Pleas Court or by any other court.” It is not merely a rhetorical question to inquire how a court which has no jurisdiction to issue a judgment may acquire jurisdiction to collaterally vacate the action for any reason.
+The provision of Section 5739.13, Eevised Code, which requires the clerk to “enter judgment” upon the filing by the commissioner of a finding or assessment for unpaid sales taxes when in fact no such judgment exists or has been rendered appears to be a delegation of judicial power to an executive officer or to a ministerial agent of the court. The rendition of a judgment is a judicial act. Morewood v. Amazon Rubber Co., 18 Ohio App (206, 7), 201; 31 Ohio Jurisprudence 2d, 496; Peter v. Parkinson, Treas., 83 Ohio St., (46, 47), 36. The unfortunate language of the statute stumbles into Article IV, Section 1 which gives judicial power to the court and not to its clerk.
+In the instant case the clerk did not issue or enter judgment, possibly out of respect for the judicial system, but more probably because there was no officer to sign such an order, and none is provided by law. The clerk did file the assessment and he did issue the certificate of lien, the execution, and the order in aid of execution as if a judgment had been entered and as otherwise provided by Section 5739.13, Revised Code. This court questions the right of the legislature to compel a ministerial officer of the court to issue a judgment without invoking the jurisdiction or proceedings in the court. However, the court does not question the right of the State to acquire the lien and to enforce it in a ministerial way as if a judgment had been entered. It must be kept in mind that this type of lien results from a tax and not from a debt. 83 Ohio St. (46, 47), 36.
+It is unfortunate that the language of this section attempts to require the clerk to perform an act which by the Constitution is reserved to the courts. The language was unnecessary. The legislature may provide for the issuance of such lien simply upon filing without the performance of any additional action. The legislature may similarly provide for the enforcement of such lien, as it has done, but without reference to the existence of a judgment.
+Viewed in this light the purpose and provisions of this portion of Section 5739.13, Revised Code, are subject to a construction that is constitutional. The lien and the executions issued thereunder are valid even though no judgment was issued by the clerk and even though the clerk could not be authorized to render or to issue any judgment or to perform any judicial act.
+A similar question was decided in Hocking Valley Railway Company v. Cluster Coal and Feed Company, 97 Ohio St., 140, in which the court held that authorizing the clerk to enter up findings of the public utility commission as a judgment does not confer judicial power upon that officer because such act is ministerial and not judicial.
+Motions overruled.
