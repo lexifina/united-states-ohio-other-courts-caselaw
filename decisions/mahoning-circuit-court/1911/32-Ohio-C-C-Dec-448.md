@@ -1,0 +1,29 @@
+---
+court: "Mahoning Circuit Court"
+decided: "1911-12-26"
+citations: ["32 Ohio C.C. Dec. 448"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Marvin, Winch and Henry, JJ., of Eighth Circuit Sitting.", "Winch and Marvin, JJ., concur."]
+parties: ["Jeannette J. Jack v. Lake Erie & Eastern Ry."]
+source_url: "https://static.case.law/ohio-cc-dec/32/cases/0448-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1666487
+cites_cases: ["56 N. E. 198", "61 Ohio St. 489"]
+---
+
+# Jack v. Lake Erie & Eastern Ry.
+
+## Majority (HENRY, 3.)
+
+HENRY, 3.
+The^ plaintiff commenced her action to recover damages alleged to have been sustained by her in the deterioration caused by the action of the elements, to a partially completed building and to materials intended for the completion of the same upon a lot owned by her, during the pendency of appropriation proceedings begun by the defendant' and subsequently abandoned by it. The gist of her action lies in the defendant’s inter; ruption of her building operations by the commencement of said appropriation proceeding. If the proceeding were prosecuted to judgment and the property taken, she might well have been denied compensation for money expended in the improvement of the property sought to be appropriated during the pendency of the appropriation suit. She claims, therefore, to have been prevented from making use of her property during the period, and to have suffered loss, also, because of damage by the weather to the partially completed improvement of her premises.
+She claims here to certain errors in the charge and elsewhere in the record of the trial below. A bill of exceptions was duly perfected, containing a statement of the trial judge of what the evidence tended to prove, and setting out the charge to the jury in full. From this it affirmatively appears that no evidence was offered of any bad faith in the commencement or in the abandonment' of the appropriation proceeding; ' Although that proceeding-was not a civil action, we see no reason why the rule laid down in Cincinnati Daily Tribune Co. v. Bruck, 61 Ohio St. 489 [56 N. E. 198; 76 Am. St. 433], does not apply; The syllabus is as follows:
+“Asa general rule no suit will lie for the malicious prosecution of a civil action, where there has been no arrest of the person or seizure of property.
+“A stockholder of an incorporated newspaper company maliciously and without probable cause, commenced a suit against the company for dissolution and the appointment of á receiver, to the great injury of the company. The applieátion was denied and the suit dismissed. In an action for libel, provoked by the suit, the company by way of counter-claim asked to recover damages for the malicious prosecution of the suit against it. Held: That while the facts are sufficiently connected with the subject of the action for the purpose of a counter-claim they do not constitute a cause of action, entitling the defendant to relief by way of damages, as there was no arrest of the person or seizure of property.”
+But whether the rule thus laid down be applicable or inapplicable to the malicious prosecution of an appropriation proceeding, and irrespective, also, of the presence or absence of the element of malice on the part of the defendant here in commencing and subsequently abandoning the appropriation proceeding, contemplated by the petition, we are of opinion that Sec. 11060, G. C., prescribes the only remedy allowed by law to the owner of property sought to be appropriated in a proceeding brought in good faith and subsequently abandoned. That section reads as follows:
+“The corporation may abandon any case or proceeding after paying into court the amount of the defendant’s costs, expenses, and attorney fees, as found by the court. If the corporation fails in any case to make payment or deposit, as provided in the next preceding section, within thirty days after confirmation of the verdict, on motion of the party entitled to such payment, to be filed within ten days after the expiration of such thirty days, the judge shall enter an order directing the corporation to -make such payment or deposit within thirty days after the date of the order. Unless such corporation, within such time makes such payment or deposit, it shall be held thereby to have abandoned the property, rights, or interests so appropriated, and all claims thereon under its proceeding, and the judge shall issue an order to that effect. He also shall enter a judgment against the corporation, and in favor of the party entitled to such payment, for such amount of expenses, including time spent and attorney fees incurred by him in the proceeding, as, upon the evidence offered in that behalf, the court deems just, for which execution may be issued against the corporation. The directors of the corporation shall be individually liable upon such judgment, and may be made parties thereto by actions.” -
+The first sentence of this section obviously relates to a voluntary abandonment of an appropriation proceeding by the plaintiff at any stage thereof, either before or after judgment.
+It follows that the plaintiff had no cause of action upon those facts alleged in her petition below, which the evidence tended to prove. This renders the other assignments of error upon the record before us quite immaterial, and the judgment is affirmed.
+Winch and Marvin, JJ., concur.
