@@ -1,0 +1,29 @@
+---
+court: "Hamilton County Court of Common Pleas"
+docket: "A-174963"
+decided: "1960-05-23"
+citations: ["84 Ohio Law Abs. 143"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HELENA RUBENSTEIN, INC., Plaintiff, v. CINCINNATI VITAMIN & COSMETIC DISTRIBUTORS CO., Defendant."]
+source_url: "https://static.case.law/ohio-law-abs/84/cases/0143-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1802725
+cites_cases: ["167 Oh St 182"]
+---
+
+# Helena Rubenstein, Inc. v. Cincinnati Vitamin & Cosmetic Distributors Co.
+
+## Majority (By GUSWEILER, J.:)
+
+OPINION
+By GUSWEILER, J.:
+This matter comes before the Court as a result of a petition having been filed by Helena Rubenstein Inc., plaintiff, seeking relief under §§1333.27 to 1333.34, inclusive, R. C-, known as the 1959 Fair Trade Law and to which the defendants, Cincinnati Vitamin & Cosmetic Distributors Co., defendant, have filed a demurrer raising the question of constitutionality of the Fair Trade Laws of Ohio.
+A previous Fair Trade Law was declared unconstitutional by the Supreme Court of Ohio in 1958 in the case of Union Carbide & Carbon Corp. v. Bargain Fair, Inc., 167 Oh St 182, and subsequently the present law was enacted by the legislature in an attempt to correct the previous legislation to meet with the Court’s decision. Numerous states have enacted similar provisions and Court decisions have fallen into two categories, one of which seems to be an effort to protect established trade mark products and the distribution through retailers and sub-contractors in their distribution to the public at large. The other group of decisions has held that Fair Trade Acts provide legislation which provides anti-competitive price fixing and have held that such laws violate constitutional provisions.
+The real question to be determined, as the Court sees it, is whether or not the legislative enactment is an improper delegation of legislative authority constituting an unlawful price fixing and secondly, whether or not this type of legislation is an unauthorized exercise of the police power and is unrelated to the public safety, morals or general welfare and incidental determination would be whether or not there is an infringement of the right of the individual owner of property to sell at terms of his own choosing. The Supreme Court in the case of Union Carbide & Carbon Corp. v. Bargain Fair, Inc., supra, was of the unanimous opinión that the previous Fair Trade Law which prohibits those who are not parties to a stipulated price contract from selling trade-mark items at a price lower than the stipulated one given by the manufacturer is unreasonable and unenforceable and constitutes an unauthorized exercise of the police power. They likewise determine that it was a violation of the due process provision and had nothing to do with the public safety, morals or general welfare. With this conclusion, this Court is in complete accord. The reasoning which the Supreme Court followed in determining that the prior Fair Trade Law was unconstitutional seems logical and persuasive.
+The present statute which undoubtedly was enacted in an attempt' to correct the defects of the earlier Fair Trade Law differs in certain respects. However, in this Court’s opinion regardless of the high sounding phrases used in the purpose and policy section wherein the legislature attempted to indicate the well meaning effort which they were attempting to produce would not be controlling upon this Court if the legislation itself contravenes constitutional provision. This Court is familiar with the many decisions which have held that any legislative act is to be presumed constitutional unless it palpably appears that such contravenes constitutional safeguard. In construing the present sections, this Court is of the opinion that the legislature has not only failed in attempting to correct the decision in the case of Union Carbide & Carbon Corp. v. Bargain Fair, Inc., supra, in 1958 but has imposed additional restrictions upon the individual property owners which are likewise unlawful and unconstitutional. Sec. 1333.28 R. C., wherein a “proprietor” is defined as a person who identifies a commodity produced or distributed by him by the use of his trademark or trade name or “a person who has been specifically granted by the producer Qr distributor of a commodity which is identified by the trademark or trade name of such producer or distributor the sole authority to establish minimum resale prices for such commodity in the state,” clearly is an improper delegation of legislative authority to private persons and violates Article II, Section 1, Ohio Constitution.
+In construing the entire act this Court feels that there is an unauthorized exercise of police power in a. matter totally unrelated to the public safety, morals or general welfare and that the owner of property is prevented unconstitutionally from disposing of said property as he chooses.
+The Fair Trade Law, as enacted is not a proper legislation act and cannot be construed as coming within Article XIII, Section 2, Ohio Constitution.
+It is, therefore, our opinion that these sections constitute in effect a price fixing rather than a protection for good-will and trade-mark products. There is an unlawful delegation of legislative power which in no way can be considered a proper exercise of the police power. This Court feels that it is not necessary to further consider the question of whether or not the Fair Trade Law violates the supremacy clause of the Federal Constitution and that issue is not considered herein. •
+For the above stated reasons it is the decision of this Court that the demurrer heretofore filed is well taken and that the petition fails to state a cause of action due to the fact that the §1333.27 through §1333.34 R. C., are unconstitutional.
