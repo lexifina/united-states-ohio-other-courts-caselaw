@@ -1,0 +1,36 @@
+---
+court: "Franklin County Court of Common Pleas"
+decided: "1924-08-30"
+citations: ["25 Ohio N.P. (n.s.) 167"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Klinebell et al v. Hilton."]
+source_url: "https://static.case.law/ohio-np-ns/25/cases/0167-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1562438
+cites_cases: ["42 O. S., 23", "47 Tex. Civ. App. 317", "59 Miss. 161", "78 Minn., 166"]
+---
+
+# Klinebell v. Hilton
+
+## Majority (Rogers, 3.)
+
+Rogers, 3.
+The suit is one to annul a marriage. It appears from the petition that plaintiffs' are the father and mother respectively of an infant, Katherine Fern Klinebell, alleged to be less than fifteen years of age. The petition shows that the infant and defendant took the necessary steps, except obtaining the consent of the parents of the infant, to consummate a marriage in this state. The preliminary steps and marriage occurred in Pickaway county on July 8th, 1924, and this suit was launched on August 4th, following.
+Prior to the infant’s marriage to defendant, she was a member of the plaintiff’s family and a resident of this county. The infant is not made a party, nor is it alleged that she consents to the suit. Apparently the suit is brought by the parents without regard to her wishes in the matter. Nor is it alleged that she has neither cohabited with the defendant, nor otherwise consummated the marriage.
+The ease is before the court on a motion for a temporary injunction, seeking to enjoin the defendant from any privilege of consortium with the infant and is submitted on the petition and affidavits. The affidavit of the infant is to the effect that the suit is brought against her will and consent, and that she was married to the defendant and lived with defendant for eight days after their marriage, and she desires to so continue to live with him.
+It may not appear in the evidence, but was disclosed by counsel that the infant is detained by the Juvenile Court in the Juvenile Detention Home, near the Court House, by pro-' ceedings of that court. The details were not disclosed. In any event .her imprisonment is in invitum. The above are substantially the facts on which the motion is submitted. Are plaintiffs entitled to the injunction?
+I have considered this question with some care and have reached the conclusion that the marriage of these two persons is not void, but voidable only. The infant at the time of marriage was over the common law age of consent, to-wit, twelve years; but was under the statutory age of sixteen years for entering into the marriage relation.
+Under those circumstances the marriage is voidable at her option, up to arriving at the statutory age, or afterwards if the parties have not cohabited after reaching such age. See Courtright v. Courtright et al, 26 Bull., 309; State ex rel Scott v. Lowell, 78 Minn., 166; Schouler’s Marriage, etc. (6th Ed.), Section 1122, page 1382 et seq.
+Furthermore, the fact that the wife had not at the time of the marriage arrived at the age of sixteen years, and the marriage was without the parents consent, furnishes no ground or authority on the part of the parents to compel a separation, in opposition to the wishes and interests of the new husband and wife. See Holtz v. Dick, 42 O. S., 23, 3d syl.
+Besides, the want of consent of the parents under the circumstances disclosed, could have no effect on the validity of the marriage. The statutory requirement that no female persons of the age of sixteen years may be joined in marriage, and under twenty-one, they must obtain the consent of the parents, etc. (110 O. L., 126) if violated, in nowise invalidates the marriage. The marriage is valid notwithstanding the failure to comply with the above statutory requirement, unless of course, the female is less .than sixteen years, when it is voidable merely and not void.
+The remaining question is this; in view of the voidable character of this marriage, have the plaintiffs the right, without the consent of the married infant, their daughter, and against her will, to prevent the right of consortium between the two married persons; or, putting the question more concretely, is not this right governed solely by her election either to consent to or refuse the relation further, and avoid the contract?
+The ease presents two antagonistic domestic relations; the rights and duties between parent and child and as between husband and wife. The duty of the parent to provide for the child and the corresponding duty of the child to submit to the control of the parent clash with the duty of the husband and wife to cleave to each other so long as they both shall live; with the mutual right and duty of affection, association, service and support with and for each other in preference to all others.
+For the preservation and harmony of the social system, however, the law apparently has given the right of superiority to the matrimonial right over the parental rights and duties under the circumstances, and has decreed that parental rights over minor children, in cases of marriage, although voidable, shall yield to the matrimonial rights.
+An examination of text boobs and decisions on the subject convinces me that the. current of authority is to the effect that where the law permits the marriage of minors, that is, where it is not prohibited, parental rights must necessarily yield to the new obligations and rights arising from the marital relation. The married child becomes by marriage a member of a new family, and the claims of the former family become subordinate. The duty of support and assistance when the minor marries is owing to the spouse and possible children, and takes precedence of those duties to the parent.
+The right of the father to the custody, control and services of the minor must yield to the rights of the spouse, even though the marriage took place when the child was below the statutory age.
+The éffect of such a marriage operates as a species of emancipation of the infant. Accordingly it follows, if marriage emancipates a minor child from parental control, the right of control ceases in fact and in law. See on this subject the following: 20 Ruling' Case Law, p. 612, Section 22 and cases; Bishop on Marriage, Divorce and Separation (New Work, Ed. 1891), Section 557, and cases; Schouler’s Marriage, etc. (6th Ed.), Sec. 808, p. 902, and cases; State ex rel Scott v. Lowell, 78 Minn. 166; Jackson v. Banister, 47 Tex. Civ. App. 317; Holland v. Beard et al, 59 Miss. 161.
+The new relation created by the marriage being inconsistent with the enforcement of parental rights of necessity supersedes and excludes all parental rights, and the latter on the ground of public policy and in the interest of society must yield to the new status.
+Accordingly I have reached the conclusion that the parents of the infant, by her marriage, although without their consent, lost control over her, and have no legal right, without her consent, to interfere with her husband’s right of associating, conversing, communicating or cohabiting' with his wife; and the motion seeking to enjoin the defendant from enjoying such rights should be overruled and denied.
+Let an order be prepared to that effect and exceptions noted.
