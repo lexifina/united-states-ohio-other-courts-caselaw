@@ -1,0 +1,38 @@
+---
+court: "Ohio Circuit Court"
+decided: "1911-03"
+citations: ["24 Ohio C.C. Dec. 95"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Powell, Voorhees and Shields, JJ."]
+parties: ["Clarissa C. Hand v. Edward Kibler, Guardian."]
+source_url: "https://static.case.law/ohio-cc-dec/24/cases/0095-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1652227
+cites_cases: ["15 Am. St. Rep. 627", "22 N. E. Rep. 290", "46 Ohio St. 407", "5 L. R. A. 519", "54 N. E. Rep. 517", "6 Ohio St. 547", "60 Ohio St. 547", "67 Am. Dec. 355", "88 O. S. 533"]
+---
+
+# Hand v. Kibler
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+The petition in error filed in this ease is to reverse the judgment of the court of common pleas, in sustaining a demurrer to the answer and cross petition of this plaintiff in error, in a suit in said court in which partition was sought of certain lands described in the petition therein.
+Edwin S. Hand, one of the defendants in said partition suit, was the owner of the undivided one-sixth part thereof. The plaintiff in error had formerly been the wife of the said defendant, Edwin S. Hand, but had procured a divorce from him before the commencement of said partition suit. Her answer and cross petition sets out that the divorce was procured by her upon the aggression of her husband, the said Edwin S. Hand. The defendant in error, Edward Kibler, is the duly appointed guardian of the said Edwin S. Hand. The plaintiff in error, by her answer and cross petition, claimed to be entitled to the value of her inchoate, contingent right of dower in the share of the said lands owned by her former husband, Edwin C. Hand.
+• To her answer and cross petition, the defendant in error filed a demurrer, which was sustained in both the probate and common pleas courts. To the action of said court in sustaining said demurrer, this petition in error is filed.
+Gen. Code 11991 provides that when a divorce is granted because of the husband’s aggressions “if the wife survives her husband, she also shall be entitled to her right of dower in his real estate not allowed to her as alimony, of which he was seized during the coverture, and in which she had not relinquished her right of dower.”
+In other words, a wife who procures a divorce from her husband because of his aggression, retains her right of dower in any real estate that he may own not granted to her as alimony; and, so far as dower is concerned, stands in the same position as though no divorce had been granted, her dower right being reserved to her in the event that she survives her husband.
+The Supreme Court of Ohio, in Mandel v. McClave, 46 Ohio St. 407 [22 N. E. Rep. 290; 5 L. R. A. 519; 15 Am. St. Rep. 627], have decided in the first paragraph of the syllabus, commencing on that page:
+“The contingent right of a wife, during her husband’s life, to be endowed of his real estate at his death, is property having a substantial value that may be ascertained with reasonable certainty from established tables of mortality, aided by evidence respecting the state of health and constitutional vigor of the husband and wife respectfully.”
+If the right of the wife, who has procured a divorce, is the same as though no divorce had been granted, this holding of our Supreme Court applies to such right, and Mrs. Hand, in this case, would have a contingent right of dower in the share of the real estate described in the petition belonging to her husband, Edwin S. Hand, and the same would be a property right having a substantial value that could be ascertained with reasonable certainty.
+It was said in argument that the only provision for the payment of the value of the contingent right of dower was provided by Gen. Code 11123, and applied in cases provided by the chapter on insolvent debtors. Said section provides:
+“When real estate is to be sold as herein provided, the husband or wife of the assignor may be made a party, and file an answer in the court to have such real estate sold free of his or her contingent right of dower and to allow him or her in lieu thereof, out of the proceeds of the sale, such sum of money as the court deems the just and reasonable value of the dower interest therein. ’ ’
+Gen. Code 11124 provides:
+“That if the assignor and his wife jointly have executed a inortgage upon real estate so assigned, or when the assignor alone has executed a mortgage upon any of such real estate to secure the payment of purchase money, or a part thereof, the 'court shall order its sale free from the contingent right of dower cf such wife, and find and determine the just and reasonable value of her dower interests in the proceeds of sale remaining after the payment of such incumbrances as preclude her right to dower therein.”
+In other words, the statute provides that the value of the wife’s dower shall only be computed in what remains after the payment of prior incumbrances; while in Mandel v. McClave, supra, quoted above, decides that the value of the wife’s dower interest shall be computed in the entire amount of the sale. We think that, under the constitutional provision which provides that all laws of a general nature shall have uniform operation throughout the state, every married woman, and every wife who has procured a divorce by reason of the husband’s aggression, is entitled to be paid the value of her inchoate, contingent right of dower in the entire proceeds of the sale of the lands in which she has such dower interest, upon a sale of the same by which such dower right might be defeated.
+This is not inconsistent with the holding in the court in Stevens v. McCoy, 60 Ohio St. 547 [54 N. E. Rep. 517]. This case seems to be in conflict with the holding of the court in the case of Weaver v. Gregg, 6 Ohio St. 547 [67 Am. Dec. 355], It probably is not in conflict with the syllabus of that case, in which'it is said that “a sale, under the act ‘to provide for the partition of real estate,’ of an estate held in common, divests the wife of a cotenant in fee of the estate, of her inchoate right of dower therein, and passes the entire estate to the purchaser. ’ ’ But it is in conflict with some parts of the opinion of the court in that ease.
+It is said in the opinion of the court on page 550, that the wife “has a. contingent possibility of interest in the husband’s share of real estate sought to be partitioned, which may be released, but that she has no property, or actual interest in it which is the subject of grant or assignment.
+The case of Mandel v. McClave, supra, certainly decides that proposition entirely differently from this opinion, as expressed above; but the court seems to recognize that when the law steps in and divests the husband of his seizin, and turns the realty into personalty, in such cases she is remitted, in lieu of her inchoate right of dower to the real estate, to her inchoate right to the distributive share of the personalty into which it has been transmitted; and the only difference between the later holdings and that holding is that her right is property having an ascertainable value, of which she herself is entitled to be the custodian, and not her husband.
+For this reason, we think that the court erred in sustaining the demurrer to the answer and cross petition of the defendant, Clarissa C. Hand.
+The judgment of the court of common pleas will be reversed. The case will be remanded to the probate court, with instructions to overrule said demurrer to the answer and cross-petition of the said Clarissa C. Hand, and for an order of distribution in accordance with this opinion. Exceptions may be noted.
