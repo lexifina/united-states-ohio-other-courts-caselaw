@@ -1,0 +1,24 @@
+---
+court: "Cuyahoga Circuit Court"
+decided: "1907-11-18"
+citations: ["34 Ohio C.C. Dec. 387"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Winch, Henry and Marvin, JJ.", "Winch and Henry, JJ., concur."]
+parties: ["Morris Krause v. State of Ohio."]
+source_url: "https://static.case.law/ohio-cc-dec/34/cases/0387-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 636471
+cites_cases: ["38 Ohio St., 581"]
+---
+
+# Krause v. State
+
+## Majority (MARVIN, J.)
+
+MARVIN, J.
+Morris Krause was prosecuted before a police court of the city of Cleveland on an affidavit charging him with having received, on or about December 6, 1906, four brass castings, the property of the New York, C. & St. L. Ry., which property had been stolen from said company, and that Krause received it, knowing it to be stolen. The trial took place on January 18, 1907. Complaint is made that the court permitted evidence on the part of the boys from whom it is claimed Krause bought the castings, of quite a number of sales of stolen castings to him, Krause; that these various sales were not very far removed in date from the one charged in the affidavit against Krause; that the court allowed a verdict of guilty to stand under this evidence, whereas, it is said, that the evidence is such that it will be impossible, if Krause is ever prosecuted again for receiving any of the brass castings which he purchased from these boys, to know whether he is being prosecuted for the same offense upon which he has already been found guilty. The real difficulty in the case seems to be that the evidence tended to show that Krause had been guilty of receiving stolen brasses knowing them to be stolen, on several occasions near the time charged in the affidavit in this case, and so near to the time as that proof of other of these purchases might have been sufficient to convict of the offense charged in the affidavit; and it is said further, that there is one occasion when the evidence shows that Krause purchased brasses from these boys, which brasses were the property of the Brie Ry., or at least taken from the yards of that company. It is urged further that the evidence does not show that any of the brasses purchased by Krause from these boys was the property of the New York, C. & St. L. Ry. As to this last claim it may be said that the testimony is, the brasses were taken from the premises without any further showing than that. We think the jury might be justified in saying that it was the property of that company. Property in the keeping of one may properly be assumed to be the property of such keeper in the absence of any evidence tending to discredit or disprove such ownership. The evidence in the ease is that quite a large number of these pieces of brass were taken by the boys who testified, and who say they sold them to Krause, from the yards of the New York, C. & St. L. Ry, near the time charged in the affidavit, and that at or about the time charged in the affidavit, they sold to Krause such brasses. They say that on one of these occasions they sold to Krause either four or five pieces of these brasses, which they got from- the New York, C. & St. L. Ry. yards. Evidence of various sales might have been properly permitted as tending to show knowledge on the part of Krause that the goods were stolen, can not be doubted under the authority of Tarbox v. State, 38 Ohio St., 581. That a conviction could be had under the affidavit for the offense charged, though the time was not shown to be the time charged in the affidavit, can not be doubted, because it is expressly provided in Sec. 7215 R. S. (Sec. 13581 G. C.), that:
+“No indictment shall be deemed invalid, nor shall the trial, judgment or other proceeding be stayed, arrested°or in any manner affected * * * for omitting to state the time at which the offense was committed, nor stating the time improperly. ’ ’
+If then, the evidence here justified the finding that Krause had received stolen brasses, the property of New York, C. & St. L. Ry., knowing them to be stolen, at a time so near to that charged in the affidavit, the judgment can not be' reversed because the evidence tended to show that he was guilty of like offenses near to the same time. We find no error in the record and the judgment is affirmed.
+Winch and Henry, JJ., concur.
