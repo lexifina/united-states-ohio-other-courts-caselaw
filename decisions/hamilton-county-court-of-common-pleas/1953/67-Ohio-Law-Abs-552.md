@@ -1,0 +1,37 @@
+---
+court: "Hamilton County Court of Common Pleas"
+docket: "A-133438"
+decided: "1953-04-28"
+citations: ["67 Ohio Law Abs. 552"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE, ex rel. HOVER, Plaintiff, v. BRAXTON W. CAMPBELL CO. et, Defendants."]
+source_url: "https://static.case.law/ohio-law-abs/67/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1774310
+cites_cases: ["14 O. C. C. 592"]
+---
+
+# State ex rel. Hover v. Braxton W. Campbell Co.
+
+## Majority (By HOY, J.:)
+
+OPINION
+By HOY, J.:
+This action was brought by the State of Ohio on the relation of C. Watson Hover, Prosecuting Attorney of Hamilton County, Ohio, against the Braxton W. Campbell Company as owner, and Eugene Bezenah and others as lessees and operators, to enjoin the use of certain premises known as “The Drake Hotel” for purposes of prostitution.
+In the interest of brevity the defendant, The Braxton W. Campbell Company, will be referred to as the lessor and the defendants Bezenahs as lessees.
+The lessor has filed a cross petition against the lessees for recovery of the premises on the ground that the lease under which the lessees occupied the premises has been forfeited by reason of the unlawful use thereof by the lessees in knowingly using, or permitting the use thereof for purposes of lewdness, assignation and prostitution in violation of a covenant in the lease against unlawful use, and in violation of §6212-12 GC, which is as follows:
+“Lease void when tenant uses building for lewd purposes. If a tenant or occupant of a building or tenement, under a lawful title uses such place for the purposes of lewdness, assignation, or prostitution such use shall annul and make void the lease or other title under which he holds at the option of the owner and, without any act of the owner, shall cause the right of possession to revert and vest in him, and he may without process of law make immediate entry upon the premises.”
+The lessees have filed a cross petition against the lessor alleging that in 1947, in pursuance of a contract with the lessor, lessees expended large sums of money in repairing and remodeling the premises thereby enhancing the value thereof to the extent of $50,000.00, in consideration whereof an existing lease between the parties was extended for an additional period; that a substantial portion of such extension period remains unexpired and that if the prayer of the lessor for the recovery of the property is granted an unjust enrichment amounting to $22,500.00 will accrue to the lessor. The prayer of the cross petition of the lessees is that, in the event that the lessor is successful in its ejectment action, judgment in the sum of $22,500.00 be awarded to the lessees.
+To this cross petition the lessor has interposed a demurrer on the ground that it does not state facts sufficient to constitute a cause of action or to entitle lessees to the relief prayed for and it is this demurrer which is now under consideration by the Court.
+The precise question to be decided is whether a tenant who has made valuable improvements, with the consent of the landlord, but with no right to payment therefor at the end of the term, may recover any part of the value of such improvements when the lease is terminated by reason of a forfeiture arising out of the use of the premises for purposes of prostitution.
+No ease has been cited nor has the Court been able to find any reported case on all fours with the situation here presented. However, in opposition to the demurrer counsel for lessees have cited the case of Lent v. Curtis, 14 O. C. C. 592, in which a lease for a vacant lot contained a covenant against unlawful use and further provided that the lessee would construct a dwelling on the premises which the lessor was obligated to purchase at the end of the term for an amount equivalent to seventy per cent of the then appraised value thereof. The Court of Appeals held that even though the lessor was entitled to recover the premises by reason of the unlawful use thereof by the lessee, he was still obligated by the terms of the lease to compensate the lessee for the dwelling at the end of the term because the covenant against unlawful use and the agreement as to compensation for the building were wholly independant matters.
+Significantly, however, in its opinion the Court uses the following language found on page 603:
+“We do not look upon it as being like a case where a lessee, for his own convenience erects buildings, or improves or puts in fixtures that he may not be permitted to take away or remove after the expiration of the term, there being no express provisions in the lease upon the subject.”
+Inferentially, at least, the Court holds that where there is no provision in the lease for payment by the lessor for improvements made by the lessee, a lessee is not entitled to recover for such improvements when he loses possession by reason of a breach of covenant amounting to a forfeiture.
+In the instant case the pleadings show that the consideration for the improvements made by the lessees was the extension of the lease for an additional term and at the end of that term the possession of the property was to revert to the lessor without any compensation to the lessees for such improvements.
+A lessee who makes improvements which are to become the property of the lessor at the expiration of the term is in exactly the same position as a lessee who has paid the rent for the entire term in advance. If such a tenant should decide to use the premises as a house of prostitution and thus come within §6212-12 GC, can it be argued that the landlord, upon exercising his right to declare a forfeiture, is thereupon bound to refund the rent for the unexpired portion of the term? Such a construction would defeat the very purpose of §6312-12 GC and would be against public policy. Certainly the legislature never intended that a landlord who invoked the statute in order to prevent an unlawful use of his property would thereby subject himself to a lawsuit for the return of rents or the value of improvements.
+It is true that forfeiture is a harsh remedy not favored by the law and, where the tenant has made valuable improvements, forfeiture should be even less favored and should not be enforced unless the Court is compelled to do so by an unbending rule of law. However, it must be remembered that in this case the lessees seek relief only in the event that it is judicially determined that they were guilty of using the premises for purposes of prostitution so as to work a forfeiture of the lease.
+While it is true, as a general rule, one person should not be permitted to unjustly enrich himself at the expense of another but should be required to make restitution for property or benefits received where it is just and equitable that such restitution be made and where such action involves no violation or frustration or opposition to public policy either directly or indirectly, nevertheless this Court holds that a tenant who makes improvements to property, which improvements are to revert to the landlord at the expiration of the term, may not recover for the value of such improvements on the theory of unjust enrichment where the lease is forfeited because of the unlawful use of the property by the tenant.
+The demurrer will, therefore, be sustained.
