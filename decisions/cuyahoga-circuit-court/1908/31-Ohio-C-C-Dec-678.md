@@ -1,0 +1,38 @@
+---
+court: "Cuyahoga Circuit Court"
+decided: "1908-01-20"
+citations: ["31 Ohio C.C. Dec. 678"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Winch, Henry and Marvin, JJ.", "Winch and Marvin, JJ., concur."]
+parties: ["Joseph A. Ritter et al v. Cleveland Short Line Ry."]
+source_url: "https://static.case.law/ohio-cc-dec/31/cases/0678-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1663453
+cites_cases: ["18 Ohio St. 169", "18 Ohio St. 92", "5 R. 330", "69 N. E. 738", "69 Ohio St. 414", "98 Am. Dec. 95"]
+---
+
+# Ritter v. Cleveland Short Line Ry.
+
+## Majority (HENRY, J.)
+
+HENRY, J.
+The facts disclosed on the trial of this appeal are that the plaintiff owns an improved parcel of land abutting upon a state road, in this county, near the point where said road is intersected by the Cleveland Short Line Ry. right of way. This road being newly established comes within the recently enacted provisions of law prohibiting the creation of grade crossings, and pursuant to the terms of Sec. 3283 R. S. (See. 8763 G. C. et seq.), the railway company and the county commissioners have entered into an agreement whereby the grade of the railroad is to be seven feet below the former established grade of the highway, and the grade of the latter will be elevated eighteen feet above its former level.
+The railway company in making the change of grade in the highway, pursuant to this agreement, has carried the slope or approach to the crossing to a point in front of plaintiff’s premises and is about to obstruct plaintiff’s driveway by an elevation of the roadway in front of the entrance to his premises to a height of four to six feet. Prior to the commencement of this case the highway had been temporarily diverted and a large part of the filling in of the highway on the opposite side of the railroad from plaintiff’s premises had been made; some progress also upon the filling in of the highway on plaintiff’s side of the railroad had been made, and in that state of affairs the plaintiff seeks to enjoin this interference with the access to his premises.
+The first claim of the plaintiff is that the entire proceeding of the county commissioners and the railway company is illegal and unauthorized by the section to which reference has been made, the claim being that the whole subject is governed by Sees. 3337-8 R. S. et seq. (Sec. 8863 G-. C. et seq.). We think, however, that Sec. 3337-177c R. S. (See. 8896 G. C.) clearly contemplates a resort to such general laws, including Sec. 3283 (8763), as may be applicable to such a situation.
+Section 3337-177c reads as follows:
+“Every railroad company constructing a new line of railroad, under its charter powers, across highway, shall construct the same above or below the grade of the highway, unless permitted in the manner hereinafter provided, to construct the same at grade; and such railroad company, may exercise the power contained in its charter and the general laws, for altering the grade and location of highways in order to avoid grade crossings.”
+That See. 3283 applies as well to the crossing of highways by railroads as to the longitudinal occupation thereof is clearly implied in the case of the Lake Shore & M. S. Ry. v. Elyria, 69 Ohio St. 414 [69 N. E. 738], And this section provides that:
+“If it be necessary, in the location of any part of a railroad, to occupy any public road, street, alley, way, or other ground of any kind, or any part thereof, the municipal or other corporation or public officers or authorities, owning or having in charge thereof, and the company, may agree upon the manner, terms, and conditions upon which the smae may be used or occupied.”
+This section seems to invest the county commissioners with the requisite authority to enter into the kind of agreement here under consideration. It further provides the method of procedure to be followed in case of disagreement between the railway and the public authorities. Section 3337-8 et seq., makes no provision for such a contingency.
+We do not think that a resort to See. 3283 is precluded by the existence of the section last referred to, and it being undisputed that the provisions of Sec. 3283 if appilcable, have been followed, we can not enjoin the continuation of the railway company’s work on the ground of any illegality in the agreement under which it is proceeding.
+It is further claimed that-even if the work being done by the railroad company is lawful, the plaintiff’s right to an injunction nevertheless exists in respect of any infringement of his property rights by impairment of the access to his property in consequence of said work.
+It is admitted in this case that the damage, if any, which he has sustained, is ascertainable in money, but it is urged, on the part of the defendant, that although plaintiff’s premises are improved and consist of a residence site with a lawn and a house, the latter being remote enough from the highway so that it is not directly affected by the slight change of the level thereof, the impairment, if any, of his access thereto is not the taking of property for which, under the Constitution and laws of this state the defendant must make or secure a compensation in money, but is at the most, an incidental damage for which he has his action at law.
+With this view we do not agree. In the case of McNulta, v. Ralston, 3 Circ. Dec. 163 (5 R. 330), it was held that the easement of access from the street to an abutting lot and from the lot to the street is properly within Art.1, See. 19, of the constitution of this state, and when a highway crosses a railroad track by means of a bridge, the railroad in constructing the bridge and approaches thereto becomes liable to an abutting lot owner, whose easement of access to his property is injured by the throwing up of an embankment in the street in front thereof.
+See also Hatch v. Cincinnati & I. Ry., 18 Ohio St. 92.
+The taking of property in such cases being by and on behalf of a private corporation is a taking for which compensations under the constitution, must be rendered or secured in advance; although, of course, the propehty owner may, if he prefers, wait until after the taking, and bring his action to compel appropriation for damages, as the case may require.
+In this case, however, the public interest can not be ignored, and because the public use of the highway will be seriously interfered with so long as this change remains in its uncompleted state, we are bound to consider whether or not the plaintiff by waiting until the highway had become thus obstructed has deprived himself, as against the public, of his undoubted right to prevent the consummation of the threatened injury of which he complains until he shall have been first compensated.
+In Goodwin v. Cincinnati & W. Canal Co. 18 Ohio St. 169 [98 Am. Dec. 95], is is recognized that considerations or public policy may require a court to hold that an owner who has delayed the assertion of his rights until such public considerations have intervened, has forfeited his right to reclaim property taken and is remitted to his rights of compensation. We think the same principle applies in this case, even though the injury is still only threatened, and for this reason and because the plaintiff delayed bringing his action until the public highway was so greatly obstructed that it will require less time to complete the work than to undo it, his prayer for injunction is denied and he is remitted to his plain remedy at law.
+The petition is therefore dismissed.
+Winch and Marvin, JJ., concur.
