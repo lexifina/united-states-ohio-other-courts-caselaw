@@ -1,0 +1,34 @@
+---
+court: "Ohio Circuit Court"
+decided: "1895-01"
+citations: ["12 Ohio C.C. 646"]
+reporter: "ohio-cc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Bentley, Haynes and Scribner JJ."]
+parties: ["THE CITY OF TOLEDO v. CLARA HIGGINS."]
+source_url: "https://static.case.law/ohio-cc/12/cases/0646-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1506646
+---
+
+# City of Toledo v. Higgins
+
+## Majority (Haynes, J,)
+
+Haynes, J,
+The case of The City of Toledo v. Clara Higgins is prosecuted for the purpose of reversing the judgment of the court of common pleas. There are three points made in the case, and one is, that the verdict is not sustained by sufficient evidence, and is contrary to law; and another is, that the court refused to charge the jury certain requests that were asked, and the third is that the judgment is excessive.
+The record shows that a petition was filed simply to recover from the defendant damages for an injury that occurred to the plaintiff below, Clara Higgins, by reason of a defective place in the sidewalk on Wisconsin street into which the plaintiff below had stepped or stumbled on a dark night, whereby she had been thrown to the ground and her arm broken and she had received severe injuries. The testimony, we think, shows very clearly that the injury happened in the manner in which the plaintiff stated it in her testimony, which corroborates the statements of her petition.
+Criticism was made upon the testimony, but we see no reason to doubt that there was a place in the sidewalk into which her foot either slipped, or upon which she stumbled in passing over it, and that she was thrown and injured. In fact, she was seen to fall by a disinterested witness, or rather two disinterested witnesses, and was picked up by them, lying in the condition which she had .stated. She testifies that she fell, and that she went home and the next day visited a physician. Thereupon he told her that her arm was broken, and he set it.
+It appears by the testimony that the doctor had sometime afterwards discharged her, thinking her arm was well; that the arm commenced swelling about that time,and continued to do so until finally tome of the bones worked out and she consulted another physician near her, and he examined the wound, as he testifies, and discovered that there was a sloughing off of the bone at the mouth of the wound,and he opened the arm and took out the affected bone, and took such steps for the recovery of the patient as surgery would require, and the result was that she recovered in time, but that arm is ‘smaller than the other, and is defective in strength, so that she apparently has suffered a permanent injury, and her body is permanently weakened for labor, and heavy labor especially.
+The plaintiff, for the purpose of showing knowdedge on the part of the city of this defect in the sidewalk, offered testimony tending to show by witnesses that they had been in the habit of passing along the street; that that sidewalk in the immediate vicinity of this place had been taken up and relaid; that the planks were unequal, and there were some holes in the sidewalk. This was all objected to by the defendant, the city of Toledo, claiming that the testimony should be confined to the statement in regard to the length of time that the hole had- existed into which' the plaintiff had stepped; that they could not go any further; the court, though, overruled the objection, and allowed the testimony to be given of the character which I have stated. In doing so we think the court did not err in admitting testimony of the defects in the sidewalk of this character, by which the plaintiff’s injury occurred.
+We have examined this question before in a case where the city of Toledo was a party, and we sustained the action of the court below in that case. We think the greád body of authorities cited by the counsel for the defendant in error sustains the position which was taken by the court, and we therefore hold that on the facts of the case and the character of the testimony which was offered in this case, that there as no errorjin permitting the testimony to be given.
+It is claimed that the court erred in refusing the third and tenth requests as prayed by the plaintiff. It was argued that the court erred in not giving these charges prior to^the argument of the case, but the record shows that the defendant submitted certain requests, and asked the court to pass upon them before the case was presented to the jury, and that the same be included and given as a part of what the court would charge. There was no request that the court should charge the jury upon this proposition before argument, but only that he should pass upon them which he did do, and the request that he should charge them afterwards, as a part of his charge. He did that in regard to allofthenq except the third and tenth, and exceptions were taken.
+The third request is, that:
+L,‘‘The city owes no duty to negligent persons; that is, to persons who thoughtlessly, or who, without using proper precaution for their own safety, expose themselves to manifest perils, or who, by the use of ordinary • and reasonable care, mightjavoid injury to themselves.”
+The tenth request is:
+' ‘‘The city owes no duty to persons that thoughtlessly, or who without the use of proper précaution for their own safety, expose themselves to manifest perils, or who, by the use of ordinary and reasonable care, might avoid injury to themselves. "
+The court did charge the jury in regard to the question of contributory negligence, and charged the jury correctly. We think the court did not err in refusing to charge the jury in the language as prayed in this third and tenth requests.
+We do not think the law is better stated in language than that which the court did use in stating the rules of law in that regard, which are laid down by courts of the state. The damages that were given, I think, were $1,200. This person has suffered a great deal with a broken arm, and has suffered a great deal from the result of the injuries she received, because, so far as the testimony goes, so far as the judgment of the witnesses are concerned, the conclusion is drawn that the sloughing of this pus and the bone was the result of the injury. Of course, no man can say absolutely that it is, but it is the best judgment of those who are qualified, from their knowledge of surgery, that it did happen by reason of this injury, and as a result of that, the arm has been permanently weakened.
+C. F. Watts, for City.
+In view of all these facts, and in view of the fact that the party may not be able to do full work hereafter, we think the damages are not excessive, and the judgment of the court will be affirmed, but without any penalty.
