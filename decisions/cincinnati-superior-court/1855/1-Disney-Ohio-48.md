@@ -1,0 +1,29 @@
+---
+court: "Cincinnati Superior Court"
+decided: "1855-06"
+citations: ["1 Disney (Ohio) 48"]
+reporter: "disney-ohio"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Samuel West v. Samuel C. Brown."]
+source_url: "https://static.case.law/disney-ohio/1/cases/0048-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1628029
+cites_cases: ["1 O. S. 215"]
+---
+
+# West v. Brown
+
+## Majority (Storer, J.)
+
+Storer, J.
+On the 24th of November, 1854, Joseph B. Babcock made his note, for $150, payable to Samuel West, the plaintiff in error, or order, in three months, for value received. The payee indorsed the note to Brown, the defendant in error. On the day the note became due, February 23,1855, it was handed to a notary, who was examined as a witness, on the trial, at special term. It is proved, that on the same day he went to the office of Babcock, in Cincinnati, after banking hours, and demanded payment. He was told, by a person, then in the office, that there were no funds to pay the note, and the maker was absent. The next day he notified the indorser, West, by leaving a notice in the Cincinnati post-office, addressed to him at Milford, Ohio, where West then resided. This was on Friday. On Saturday the notice was placed in the post-office — the same notice was handed to him by the counsel and identified. It was dated February 23, and postmarked February 26.
+It was also in evidence, that there was a daily mail from Cincinnati to Milford, Sundays excepted, which closed at five A. M., each day, and that a letter placed in the office, after five a. m., Saturday, would not leave this office till the next business day, Monday, the date of which the notice sent to West is post-marked. The notary proved that this notice was deposited in the office, before 9 a. m., on Saturday. The defendants were both examined as witnesses. West proved that he did not receive the notice till Tuesday or Wednesday, the 27th or 28th, and that he was the accommodation indorser of Babcock, on the note. Babcock proved that he had no exclusive place of business; that he resided in Cincinnati, but, by the permission of Mr. Harding, at whose store the notary had called to demand payment of the note, he had directed persons to call upon him there. On this testimony, the case was submitted to Judge Spencer, at special term, who rendered judgment against the maker and indorser, for the amount of the note, with interest.
+To this finding, the defendant excepted, and now seeks to reverse the judgment, for the following causes.:
+That the finding of the court was against the law, and not warranted by the evidence.
+It is admitted that the .presentment of the note, for payment, at the maker’s place of business, is required by the contract of the parties. The only question for the judge to consider was, whether the counting-room of Harding could be so regarded. It seems it was occupied by B abeock, by permission of Harding, to receive business calls, for conference with those with whom he had business transactions, and there he was usually to be found. Indeed, he had no other place of business, and, probably, could not have been found elsewhere, except at his own residence. The notary proved the presentment of the note, within the ordinary hours of business, at the place where the maker transacted his business. He was bound to do nothing more, and the burden of proof then lay upon the defendant, West, to satisfy tbe court that presentment was .improperly made, either as to the time or place. He attempted to do so by introducing Babcock as a witness, and he proved that the notary was not mistaken in performing his duty.
+On this testimony, we are satisfied, the judge could not, with propriety, have held the presentment to have been improperly made, and did not err, therefore, in his decision on this point.
+The other question argued by West’s counsel is this: As he did not receive notice of the non-payment til] the 26th or 27th of February, when the note became due on the 23d, the notary neglected to perform his duty, and the indorser is discharged. It appears that West resided in Clermont county; the nearest post-office is Milford, where he usually received his letters; that there was a daily mail from Cincinnati to that place, except on the Sabbath, and a letter generally reached the latter office early in the morning of the same day it was mailed at the former. The hour of closing the mail in the Cincinnati post-office, is 5 A. M., and unless a letter was deposited the evening before, it would not be sent by the mail of the succeeding day. There was no requirement of law, compelling the notary to notify the indorser on the same day the note was presented, and payment refused. On the contrary, he might well have postponed the notice till the following day.
+It is in evidence, that he placed the notice in the post-office before 9 o’clock, on the morning of the 24th day of February, which was Saturday. The mail did not leave on the Sabbath, and the notice was marked on the 26th, the* earliest day it could have been sent, and by the admission of the indorser, he received it on that day, or the day subsequent.
+Whatever strictness may have been held on the subject of notice, and however confused may have been the rulings of some of our courts, in attempting to make nice distinctions, as to “ fractions of days,” and the “ earliest practical opportunity” to send notices by mail, the law on the subject has been determined very wisely and clearly, by our Supreme Court. 1 O. S. 215, Lawson et al v. Farmer’s Bank of Salem. The precise question before us is there definitely settled; so far as to preclude, on our part, any re-examination of the matter, had we any doubts of the propriety of the decision.
+Judgment of special term afiirmed.
