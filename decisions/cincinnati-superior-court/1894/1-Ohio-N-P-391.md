@@ -1,0 +1,35 @@
+---
+court: "Cincinnati Superior Court"
+decided: "1894-05"
+citations: ["1 Ohio N.P. 391"]
+reporter: "ohio-np"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Clark Carriage Company v. The Smith Eggers Company."]
+source_url: "https://static.case.law/ohio-np/1/cases/0391-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1522195
+---
+
+# Clark Carriage Co. v. Smith Eggers Co.
+
+## Majority (Smith, J.)
+
+Smith, J.
+This is an action to prevent the defendants from opening certain mail matter addressed to the “Clark Carriage Company, Cincinnati,” and ordered by the Postmaster General to be deli voted to the defendants. The facts which give rise to the case are as follows :
+Sianley H. Cla'k was engaged in a partnership for the manufacture and sale of carriages, under the firm name of - Easton & Clark.” Subsequently the business was changed from that of a partner.-hip to a corporation, called “ The Clark Carriage Company. ” The latter corporation continued to do business from March 1, 1891, to December, 1892, when Clark sold his stock to Smith and Eggers. By regular proceedings under the statute, the name of the corporation was then changed to that, of “The Smith-Eggers Company.” After the change of the name of the corporation to “ The Smith-Eggers Company,” a large amount of stationery, headed, “ The Clark Carriage Co..” remained on hand, and continued -to be used by the Smith Eggers Company, being made to read:
+THE SMITH-EGGERS COMPANY,
+FORMERLY
+THE CLARK CARRIAGE COMPANY.
+This stationery was in for nearly a year. On or about December, 1894, nearly two years after Clark had sold his shares of stock to Smith and Eggers, he organized a new corporation for the manufacture and sale of carriages, and called it the “The Clark Carriage Company.” This corporation began business on January 8, 1895. Just three weeks afterwards, on January 29, 1895, this action was begun by this latter corporation, against The Smith-Eggers Company.
+The place of business of The Clark Carriage Company is at Nos. 55 and 57 East Fifth street; that of The Smith-Eggers Company at the south-west corner of Sixth and Sycamore.
+No controversy has arisen between the parties as to any mail addressed to The Clark Carriage Company, where the address designates the place of business as either 55 and 57 East Fifth street, or the south-west corner of Sixth and Sycamore. In such cases both parties are willing that it shall be delivered at the place designated. It appears, however, that a large number of letters are being received at the Cincinnati postoffice, addressed simply, “The Clark Carriage Co., Cincinnati, Ohio;” and The Clark Carriage Company having applied to the postoffice authorities at Washington to order the postmaster at Cincinnati to deliver such mail to them, the former officials refused to make such an order, but directed such mail to be delivered to “The Smith Eggers Company,” until the matter should be determined by a court. This action is now brought by plaintiff to restrain the defendants from opening any of such mail delivered to them.
+It is conceded by both' sides that while this court can not interfere with the U. S. Postal Department, yet, that it may restrain any one of the parties from receiving the mail, or opening it, and in this way, enforce its decree determinining which party is entitled to receive such mail.
+As this question has, by the admission of counsel, been eliminated from the case, I have given it no consideration and express no opinion upon it. I assume the law to be what both sides concede it is.
+The plaintiff bases its right to relief upon the ground that the defendant, The Smith-Eggers Company, has abandoned the name of The Clark Carriage Company; that the plaintiff is legally entitled to said name, and by force of the statutes of Ohio,- is the only corporation entitled to said name; and that, therefore, mail addressed to The Clark Carriage Company, Cincinnati, Ohio, belongs to it.
+It appears from the evidence, that the greater portion of the letters thus addressed, are intended by the writers for The Smith Eggers Company. Thus out of the twenty-nine letters, twenty were intended for the latter, company, and nine for the present Clark Carriage Company.
+Now, while it is true that the plaintiff is entitled to the name of The Clark Carriage Company, and the defendant is not, it does not seem to me that this fact conclusively determines the right of the plaintiff to the relief sought. This is not an action to determine the right to the name of The Clark Carriage Company. It is an action to determine the right to certain letters addressed to The Clark Carriage Company. And while prima facie such letters belong to the present Clark Carriage Company, yet such presumption is not conclusive; and it may be shown that they are intended by the writers for, and belong to the concern which formerly used and was entitled to that name. The defendants are not to be deprived of mail intended for them, because the writers of the letters, either through ignorance or inadvertence, have addressed them by the name under which they formerly did business, b.ut which name now belongs to another. Both the writers and the concern to whom the letters belong, are interested in having the letters go where it is intended they should go, and no concern is deprived of any right because it is prevented from receiving letters which are not intended for it.
+The application of the principles just stated would determine the decision of this case, if all of the letters were intended for the one concern, or the other; but an embarrassment arises from the fact that some of the letters are intended for one concern and some for the other. . Under these circumstances, -it seeme to me that inasmuch as the majority, as well as'the most important letters are intended for the Smith-Eggers Company, they should not be enjoined from receiving and opening the mail so addressed. On the other hand., inasmuch as some of the letters are intended for the present Clark Carriage Company, their rights should also be protected, and this, it seems to me, can best be done by an order restraining the SmithEggers Company from opening such mail, except at stated periods of time, and then in the presence of a repiesentative of the plaintiff company. Stapleton v. The Foreign Vineyard Association, 11 Law Times Report, New Series, 77. In case the parties in any particular instance, after a letter is opened, are unable to determine for whom such letter is intended, the matter may be referred to the court to hear evidence and determine the same.
+C. W. Baker, for plaintiff.
+Channing Richards and Richard P. Ernst, for defendant.
+A decree may be drawn in accordance with this opinion, and further providing that the plaintiff may at any time make application for a modification of the decree, if the facts become so materially changed as to require such modification.
