@@ -1,0 +1,47 @@
+---
+court: "Franklin County Probate Court"
+docket: "183103"
+decided: "1961-04-28"
+citations: ["88 Ohio Law Abs. 577"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cones, Estate of, In re."]
+source_url: "https://static.case.law/ohio-law-abs/88/cases/0577-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1808871
+cites_cases: ["39 Ohio Law Abs., 314"]
+---
+
+# In re Estate of Cones
+
+## Majority (Walcutt, J.)
+
+Walcutt, J.
+Robert B. Cones died testate on the 17th day of May, 1958. His will, executed on the 25th day of November, 1935, was admitted to probate and Katherine W. Cones was appointed executrix on the 9th day of June, 1958. By the terms of this will his entire estate was given to his widow, Katherine W. Cones. The application for letters of authority listed Katherine W. Cones as his surviving spouse and William Gr. Cones, a son, age 21 years, and Robert W. Cones, a son, age 16 years, as his only next of kin.
+The inventory and appraisement of the estate was filed on the 9th day of July, 1958, and, no exceptions being taken thereto, was approved on the 13th day of August, 1958. Among other things, there was listed as an asset of his estate, 199 shares of the Cones Lumber Company at $80.00 per share, with a total value of $15,920.00.
+On the 28th day of August, 1958, the application to determine inheritance tax was filed. In it Katherine W. Cones was listed as the only successor and 199 shares of Cones Lumber Company was listed at $80.00 per share, a total value of $15,-920.00. This value was accepted by the Auditor of Franklin County, and the appraisal was approved by him on the 29th day of August, 1958.
+The inheritance tax was determined against Katherine W. Cones on the 8th day of September, 1958, based on this appraisal. On the 2nd day of October, 1958, Katherine W. Cones filed her waiver of the time within which to file exceptions to the appraisement and determination of tax and asked that the order of determination be certified at once to the Auditor of said County.
+On the 3rd day of October, 1958, this inheritance tax in the amount of $2,708.04, less a discount of $189.42 for advance payment, was paid to the Treasurer of Franklin County.
+The entire assets of the estate were distributed to Katherine W. Cones, and on the 30th day of June, 1959, the final and distributive account of the executrix was approved and the fiduciary discharged.
+Subsequently, on the 21st day of August, 1959, application was made to rerappoint ,the. executrix, and the assets of the estate were re-distributed’ to Katherine W. Cones, and the two children of Robert B. Cones under the provisions of Section 2107.34, Revised Code.
+On the 18th day of September, 1959, the executrix filed an amended application to determine inheritance tax on the 199 shares of Cones Lumber Company stock, which were then valued at $30.00 per share, with a total value of $5,970.00. Katherine W. Cones, wife, William G. Cones, son, and Robert W. Cones, son, were listed as successors.
+The Auditor of Franklin County re-appraised the stock at its original value of $80.00 per share; and on the 28th day of September, 1959, an amended journal entry determining inheritance tax was filed in this Court, based upon the Auditor’s appraisal and assessing a tax against William G. Cones in the amount of $575.90, Robert W. Cones in the amount of $560.90, and Katherine W. Cones in the amount of $518.91. This entry ordered a refund to the estate of $883.67.
+On the 25th day of October, 1950, Katherine W. Cones, as surviving spouse and executrix of the estate of Robert B. Cones, and as guardian of Robert W. Cones filed her exceptions to this determination of inheritance tax for the reason that the actual market value of the shares of stock of the Cones Lumber Company was $30.00 per share, and to other errors apparent in the record.
+On the 21st day of October, 1959, the Department of Taxation of Ohio, excepted to the determination of inheritance tax on the ground that the Court erred in the listing of William G. Cones and Robert W. Cones, as successors to the property of Robert B. Cones for the purpose of computing the Ohio inheritance tax and other errors apparent on the record.
+We shall consider first the exceptions of the estate as to the valuation of the stock.
+The evidence presented at the hearing of this matter was to the effect that the appraisers appointed by the Court were not familiar with appraisement of a lumber yard, and had based their appraisal on a purchase of stock by. decedent three months before his death. The executrix was informed of the appraisal and the method used in arriving at the valuation, and further was informed by the appraisers that if this was not satisfactory, she should employ someone familiar with the lumber business to assist in the appraisal.
+If Katherine W. Cones disagreed with the appraisers in their valuation of this stock she had many remedies at law. She could have filed exceptions to the inventory and appraisement, and she could have filed exceptions to the original determination of tax and the Auditor’s appraisal.
+It is the opinion of this Court that Katherine W. Cones cannot, more than a year after the death of the decedent, and after having, in writing, waived any exceptions to the appraisement, now object to the appraisement.
+It is the order of this Court that the exceptions of Katherine W. Cones, as surviving spouse and executrix of the estate of Robert B. Cones, be overruled.
+At the hearing of this matter evidence was presented which would tend to indicate at the time the yards were examined by the witnesses for the executrix, a great deal of the lumber in the yards of the Cones Lumber Company was of little value. No evidence was presented which would tend to indicate that a valuation of the shares of the Cones Lumber Company at $30.00 per share was anything more than an arbitrary figure. The decedent, who operated the business and would have had the best knowledge as to its value, paid $80.00 per share for the stock three months before he died. It is the opinion of this Court that the exceptions of Katherine W. Cones as guardian of Robert W. Cones should be overruled.
+We come now to the exceptions of the Department of Taxation of Ohio.
+Syllabus four, five and six of In re Estate of Vanderlip, 39 Ohio Law Abs., 314, are as follows:
+4. The Probate Court by virtue of Section 5339 and 5340, General Code, has exclusive jurisdiction in all inheritance tax proceedings; the Probate Court has jurisdiction of an application by an executor for modification of a former order determining the inheritance tax and for a refund of overpaid taxes and such matter is “properly before the court” within Section 10501-53, General Code, “unless the power is expressly otherwise limited or denied by statute.”
+5. Section 5339, General Code, does not expressly otherwise limit or deny the power of the Probate Court to hear and determine an application for a refund of inheritance taxes on equitable grounds.
+6. A court in the exercise of its equitable powers will vacate or modify its orders or judgments obtained through a mistake of fact, as readily as on the ground of fraud.
+Section 2107.34, Eevised Code, reads in part as follows:
+If, after making a last will and testament, a testator has a child born alive, or adopts a child, or designates an heir in the manner provided by Section 2105.15, Eevised Code, or if a child or designated heir who is absent and reported to be dead proves to be alive, and no provision has been made in such will or by settlement for such pretermitted child or heir, or for the issue thereof, the will shall not be revoked; but unless it appears by such will that it was the intention of the testator to disinherit such pretermitted child or heir, the devises and legacies granted by such will shall be abated proportionately, or in such other manner as is necessary to give effect to the intention of the testator as shown by the will, so that such pretermitted child or heir will receive a share equal to that which such person would have been entitled to receive out of the estate if such testator had died intestate. If such child or heir dies prior to the death of the testator, the issue of such deceased child or heir shall receive the share the parent would have received if living.
+Was it a mistake of fact not to include the sons of the decedent as successors in the original application to determine inheritance tax? The fact that the decedent was the father of two sons was known — they were named as next of kin on the application for letters of authority. Their dates of birth were known — their mother was the executrix, and their ages were given on the application for letters of authority. The date of the execution of the will was known — a correction in the date was made in pen and ink at the time of execution, which would tend more to bring it to one’s attention. The mistake was in not realizing that Section 2107.34, Eevised Code, was to be considered in the distribution of the assets of the estate and the determination of the inheritance tax.
+It is the opinion of this Court that the exceptions of the Department of Taxation of Ohio are well taken and they are sustained.
+An entry may be prepared in accordance with this opinion.
