@@ -1,0 +1,55 @@
+---
+court: "Cuyahoga County Circuit Court"
+decided: "1907-03-04"
+citations: ["21 Ohio C.C. (n.s.) 181", "9 Ohio C.C. (n.s.) 315"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Marvin, J.; Winch, J., and Henry, J., concur. _"]
+parties: ["Katherine Miller v. Andrew Miller et al."]
+source_url: "https://static.case.law/ohio-cc-ns/21/cases/0181-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 399155
+cites_cases: ["103 U. S., 11"]
+---
+
+# Miller v. Miller
+
+## Majority
+
+The facts in this ease are that one Anthony Miller, a citizen and resident of Cuyahoga county, Ohio, was killed on the 2d day of July, 1905, in Erie county, near Buffalo, N. T., by the wrongful act of the Buffalo & Depew Railway Company; he died intestate, without issue, leaving the plaintiff in error, Katherine Miller, .his widow, and the father, Andrew Miller, a man of property and not dependent upon said Anthony Miller for support. Katherine Miller was appointed administrator of the estate of her decéased husband by the Probate Court of Cuyahoga County; without bringing an action against the railroad company for the wrongful death of her husband she compromised the claim growing out of such death for the sum of $4,000. This was done with the approval of, and was confirmed by said probate court. Upon motion duly made in that court for an order of distribution of this fund, it was ordered by the court that one-half of the amount be paid to the said Andrew Miller and one-half to the said Katherine Miller. From this order an appeal was taken to the court of common pleas and upon the hearing the same order was made in that court, and to said last named order error is prosecuted here.
+The statutes of the state of New York bearing upon the case, were introduced in evidence and are contained in the bill of exceptions filed in this court.'
+The action of the court in making the order complained of is claimed to be justified, because it is said the order is in conformity with the distribution which would be required to be made under the laws of the state of New York; that an action for damages caused by this death could not have been maintained in the state of New York but for the statutes of that state authorizing such action, and that it follows that the distribution must be made in accordance with those statutes.
+A large number of authorities are cited in support of the proposition that distribution of funds obtained in an action to recover damages for wrongful death, must be made in accordance with the statutes of the state in which the wrongful act was done.
+Among these authorities are Nennick, Adm’r, v. Railway Company, 103 U. S., 11; McDonald v. McDonald,. Adm’r, 28 Southwestern, 471; Weaver, Adm’r v. Railway Company, 28 District of Columbia, 499.
+There, are so many authorities in support of the proposition that it can not be denied that unless by reason of the statutes of Ohio, the rule that the distribution must be made in accordance, with the statutes of the state in which ’the death is caused is changed, the distribution must be made in accordance with the statutes of such state.
+It is said, however, that even if this be the rule, still the distribution would be made as provided by the laws of Ohio in this particular case, because it is provided by Section 1903 of the statutes of New York, as appears by the bill of exceptions, as follows:
+“1903. Id. For whose benefit.
+“The damages recovered in an action, brought as prescribed in the last section, are exclusively for the benefit of the decedent’s husband or wife, and next of kin; and, when they are collected, they must be distributed by the plaintiff, as if they were unbequeathed assets, left in his hands, after payment of all debts and expenses of administration. But the plaintiff may deduct therefrom the expenses of the action and his commission upon the residue; which must be allowed by the surrogate, upon notice, given in such manner and to such persons as the surrogate deems proper.”
+It is urged, as it does not appear from this section that the distribution is to be as of “unbequeathed assets” under the statutes of New York, that the administrator in Ohio having the funds in his hands, and being required by the statute of New York to distribute the same as “unbequeathed assets left in his hands after payment of all debts and expenses of distribution,” this may fairly be interpreted to be a direction to such Ohio administrator to distribute the fund as he would distribute “unbequeathed assets” under the law of Ohio, and therefore he could distribute this entire fund to the widow, and, in support of this contention, the case of Hartley v. Hartley, 81 Pacific Reporter, 505, is cited.
+Whatever may be said as to whether the law is properly stated in this case, it does not support the contention of the plaintiff in' error, because it is further provided by Section 1905 of the statutes of New York that
+“The term ‘next of kin’ as used in the foregoing sections (including Section 1903) has the meaning specified in Section 1870 of this act.”
+And Section-1870 provides that:
+“The term ‘next of kin’ as used in this title, includes all those entitled under the provisions law relating to the distribution of personal property, to share in the unbequeathed assets of a decedent, after payment of debts and expenses, other than a surviving husband of wife. ’ ’
+So that, when this Section 1905 and 1870 are read in explanation of the meaning of Section 1903, it is clear that the provision contained is the last named section requires that distribution be made to the, in this case, surviving wife, and those next of kin, who are defined in Sections' 1905 and 1870.
+It follows that the order of distribution made in this case was the proper order to be made, unless our own statutes distinctly provide otherwise.
+Attention is‘ called to Section 6134, Revised Statutes of Ohio, which provides for a right of action againts the person, natural or artificial, causing death by wrongful act, in Ohio.
+Section 6135, Revised Statutes of Ohio, provides who shall be the beneficiaries of the fund derived from such action.
+' On the 25th of March, 1851, the first statute of Ohio providing for an action against one causing death by wrongful act, was passed. This statute is found in Curwen’s Statutes, Vol. 2, at page 1673, and consists of two sections; the first is, so far as it has application to the case now under consideration, substantially the present Section 6134, and the second, substantially our present Section 6135.
+These provisions were carried into the revision of 1880, with the present sectional numbers.
+On the 21st of May, 1894, the Legislature enacted Section 6134a, found in 91 Ohio Laws, page 408. This Section 6134a was amended and placed in its present form on the 6th day of May, 1902, found in 95th Ohio Laws, page 401. The enactment of 1894 reads:
+“An act to supplement Section 6134 of the Revised Statutes of Ohio.
+“Section 1. Be it Enacted by the General Assembly of the State of Ohio, that Section 6134 of the Revised Statutes be supplemented as follows:
+“Sections 6134a,” and then follows the supplementary section.
+The amendment of Section 6134a is entitled an act to amend Section 6134a of the Revised Statutes of Ohio, and reads:
+“Be it Enacted by the General Assembly of the State of Ohio:
+“Section 1. That Section 6134a of the Revised Statutes of Ohio be amended so as to read, as follows:
+And then follows the present Section 6134a, and this reads:
+“Whenever the death of a citizen of this state has been or may be caused by the wrongful act, neglect or default in any other state, territory or foreign country, for which a right to maintain an action and recover damages in respect thereof is given by a statute of such other state, territory or foreign country, such right of action may be enforced in this state, within the time prescribed for the commencement of such action by the statute of such other state, territory or foreign country. ’ ’
+As has already been said, Section 6135 provides for the distribution of the funds obtained by such action, and the provision is:
+“Every such action shall be for the exclusive benefit of the wife or husband and children,” etc.
+Clearly then, if this wrongful death had been caused in Ohio, under the facts in this ease, the widow would, have been entitled to the entire amount collected, and it can hardly be doubted that if Section 6134a had been a part of the original act the distribution would have been to the widow alone in this ease.
+It is urged, however, on the part of the defendant in error, that Section 6134a is to be treated as an independent section, and that therefore the words of Section 6135, “Every such action shall be for the exclusive benefit, ’ ’ etc., refer only to such action as is named in Section 6134. We do not understand it- so.
+The Legislature in terms have said, in enacting Section 6134a, that it is a supplement to Section 6134. The word supplement is defined in Webster’s Dictionary as meaning: “To fill up or supply by additions; to add to.” And, in Anderson’s Law Dictionary, the word supplemental is defined in these words: “Added to a thing to complete it; supplying a defect in something that precedes,” etc. So that by the enactment of Section 6134a, the Legislature added to Section 6134, and Section 6134a became a part of the same statute as Section 6334, and unless we are to assume that the Legislature meant that although it was needed and added to Section 6134, yet that Section 6135 should not apply to Section 6134a, then it is clear that our own statute directs the manner of distribution of this fund; we think it will not do to say that the Legislature overlooked the provisions of Section 6135 when it enacted Section 6134a. The last named section has been before the Legislature twice, as already pointed out, and it can hardly be doubted that it intended to leave Section 6135 to apply to that section as well as Section 6134.
+That being so, we have the case of an administrator appointed in this state, acting under the authority of a court in this state, and acting so far as the disposition of the funds in his hands is concerned, under the control of a court of this state, and we have a statute of this state directing the manner of the distribution of funds obtained (as these funds were), whether obtained by reason of wrongful death caused in this state, under Section 6134, or by reason of wrongful death caused in some other jurisdiction, under Section 6134a, yet by Section 6135, it is provided, that the funds arising from “every such action shall be for the exclusive benefit,” etc.
+Entertaining these views we hold that the judgment of the court of common pleas should be reversed, and under the conceded facts in this case the order should have been that this entire fund be paid to the plaintiff in error, Katherine Miller, and it is so ordered here.
