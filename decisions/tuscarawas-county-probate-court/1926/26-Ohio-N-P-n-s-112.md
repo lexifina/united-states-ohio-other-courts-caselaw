@@ -1,0 +1,41 @@
+---
+court: "Tuscarawas County Probate Court"
+decided: "1926-01-14"
+citations: ["26 Ohio N.P. (n.s.) 112"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In Re Will of Ira F. Stocker."]
+source_url: "https://static.case.law/ohio-np-ns/26/cases/0112-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1564791
+cites_cases: ["16 Pa. Super. Ct., 627", "170 N. Y., 84", "4 O. S., 383", "48 Pa. St., 501", "62 N. E., 1070"]
+---
+
+# In re Will of Stocker
+
+## Majority (Lamneck, J.)
+
+Lamneck, J.
+This is a proceeding for the probate of a will and of a codicil of Ira F. Stocker, deceased. Two wills and two codicils were placed in the hands of the court, which were executed at different times. On July 31, 1920, one will was executed and to this was attached a codicil, dated Feb. 18, 1922, in which he revoked a bequest of $200, and provided that $100 of this amount should be given a son, in addition to the provisions already made for him and that the remaining $100 should be part of the fund to be generally distributed as a remainder of his estate. In the will of July 31, 1920, he appointed O. R. Beal, executor of his estate.
+On July 26, 1924, another will was executed, in which Rollin Stocker and Lorin Stocker were appointed executors of his estate, and on July 4, 1925, an instrument was executed, which declared itself to be a “codicil to will of Ira F. Stocker.” This codicil was attached to the will of July 31, 1920, and the codicil of Feb. 18, 1922. Each of the wills were executed with the requisite statutory formalities, and each will^ contained a revocation clause. The codicils were also regularly executed. In the codicil of July 4, 1925, we find the following language:
+“I, Ira F. Stocker, make this codicil to my last will and testament, in which my son-in-law, O. R. Beal; was appointed executor of my last will and testament herein.”
+He then proceeds to revoke the appointment of O. R. Beal and appoints one, T. J. Russell. He concludes with this language:
+“In all other respects, I confirm my will.”
+The question to be determined is whether the execution by the testator of the codicil, dated July 4, 1925, revived and republished the earlier will of July 31, 1920, with the codicil of Feb. 18, 1922, making these three instruments together a final testamentary disposition of his estate.
+As a general rule, a codicil executed with the formalities required by statute, operates as a republication of a will, so far as it is not altered or revoked by the codicil, if the intention of the testator is not thereby defeated. Furthermore, a codicil may, by referring in adequate terms to a revoked will, revive that will, if it be in existence. In order to have such effect, the codicil must show an intention to revive the revoked will. This may be done by some expression conveying to the mind of the court with reasonable certainty the existence of the intention. See 40 Cyc., pages 1216, 1217, 1218. Under the Pennsylvania statute, it has been held that a codicil to a will is a republication of it, unless the contrary intent is avowed by the testator. See Neff’s Appeal, 48 Pa. St., 501.
+Although there seems to be no expression of the Ohio courts on the question- in issue here, the weight of authorities in other states hold the law to be that a codicil operates not only as a new adoption of the will to which it refers, but also as a revocation of an intermediate will. One of the most outstanding cases setting forth this theory, is the. case of Campbell’s Will, 170 N. Y., 84, 62 N. E., 1070.
+There can be no question in this case that it was the testator’s intention to re-establish his earlier will. If it was his intention to ratify his last will by the last codicil, he would not have referred to the former will, as he did; neither would he have attached the last codicil to the first will. The objects of all statutes on wills is to effectuate that which is proved to be the last will of a deceased person. Therefore, when a codicil is executed with the requisite formalities, it becomes a part of the will to which it refers, and the two taken together, are deemed to, and do express the final testamentary intention.
+There is a distinction, however, between an intermediate will and an intermediate codicil. Where a testator confirms or revives his will by a codicil, the will together with all codicils is taken to have been confirmed. See Lee’s Estate, 16 Pa. Super. Ct., 627.
+The court has made an examination of the Ohio statute provisions, in reference to the revocation of wills. Sec. 10555, G. C., in so far as it may relate to the question under consideration, provides that a will shall be revoked by some other will or codicil, in writing, executed as prescribed for the execution of a will, but this shall not be construed to prevent the revocation implied by law, from subsequent changes in the condition or circumstances of the testator.
+Sec. 10562 substantially provides, in part, that, if after the making of a will, the testator makes a second will, the revocation of such second will does not revive the first, unless it appear by the terms of such revocation it was his intention to revive the first will, or unless after revocation he shall duly republish his first will.
+These two sections of the Ohio Statutes, in the opinion of the court, do not affect the decisions of courts in other states, as previously enumerated.
+The issue has been raised in this case, that the testator did not have testamentary capacity, when the codicil of July 4, 1925, was executed.
+The only witnesses offered by persons interested in having the last codicil admitted to probate were the attesting and subscribing witnesses. The court would not permit the introduction of testimony by those who wished to see the last codicil fail, for the reason that the Ohio courts have held that persons resisting the probate of a will, áre not allowed to introduce evidence to contest its validity. See Hathaway’s Will, 4 O. S., 383. Cross examination of the proponent’s witnesses was permitted.
+Both witnesses to the codicil testified that they subscribed their names in the presence of the testator and that they saw the testator subscribe his name.
+When interrogated as to the testator’s capacity on the date he signed the last codicil, one witness testified that the testator was of sound mind and memory, and not under any restraint. The other witness said he was not able to form an opinion as to the testator’s capacity; that the testator appeared to be pretty old and feeble and that he had no way of knowing about the testator’s mental condition. He further testified that the testator did not appear to be under any restraint, or influence of any kind.
+Sec. 10519, G. C., provides that if it shall appear that a will (which would include a codicil) was duly attested and executed, and that the testator at the time of executing the same was of full age and of sound mind and memory, and not under any restraint, the court shall admit the will to probate.
+The court must judge the testamentary capacity of the testator from the witnesses who testified.
+Where it is shown that the testator signed the will, it is presumed that he signed it understanding^, and it is also presumed that the will is made free from restraint and that the testator had the capacity, to make a valid will, unless it is shown that the testator labored under some legal disability. Neither of the subscribing witnesses testified that the testator was under any legal disability.
+If the testator was under a legal disability on July 4, 1925, which has not been shown in this proceeding, the statute has provided by way of contest a method by which the matter may be fully gone into and the question passed upon by a jury in the court of common pleas.
+The court is, therefore, of the opinion that the codicil dated July 4, 1925, revived and republished the earlier will of July 81, 1920, with the codicil of Feb. 18, 1922, making these three . instruments together, a final testamentary disposition of his estate and that said codicil of July 4, 1925, revoked the intermediate will dated July 26, 1924.
