@@ -1,7 +1,8 @@
 ---
 court: "Ohio Circuit Court"
 decided: "1900-01"
-citations: ["19 Ohio C.C. 449", "19 Ohio C.C. 513"]
+decided_precision: "month"
+citations: ["19 Ohio C.C. 449"]
 reporter: "ohio-cc"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["JOHN C. LARWILL v. STEVENSON BURKE et al."]
 source_url: "https://static.case.law/ohio-cc/19/cases/0449-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 414229
-cites_cases: ["1 Ohio St., 478", "104 U. S., 450", "129 Mass., 405", "149 U. S., 478", "17 Mich., 141", "30 Fed. Rep., 471", "32 Ohio St., 236", "35 Ohio St. 483", "35 Ohio St., 317", "43 Ohio St., 509", "5 Ohio St., 124", "50 Ohio St., 294", "63 Ind., 89", "65 Ia., 611", "66 Fed. Rep., 165", "76 Mich., 498", "81 Fed. Rep., 10", "88 Tenn., 578", "92 Ga., 244", "93 Va. 427"]
+cites_cases: ["104 U. S., 450", "129 Mass., 405", "149 U. S., 478", "17 Mich., 141", "30 Fed. Rep., 471", "32 Ohio St., 236", "35 Ohio St. 483", "43 Ohio St., 509", "50 Ohio St., 294", "63 Ind., 89", "65 Ia., 611", "66 Fed. Rep., 165", "76 Mich., 498", "81 Fed. Rep., 10", "88 Tenn., 578", "92 Ga., 244", "93 Va. 427"]
 ---
 
 # Larwill v. Burke
