@@ -1,0 +1,26 @@
+---
+court: "Cincinnati Superior Court"
+docket: "8,262"
+decided: "1858-03"
+citations: ["2 Disney (Ohio) 86"]
+reporter: "disney-ohio"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James M. Martin v. William H. Gayle."]
+source_url: "https://static.case.law/disney-ohio/2/cases/0086-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1629750
+---
+
+# Martin v. Gayle
+
+## Majority (Gholson, J.)
+
+Gholson, J.
+The action of the court upon the answer of a garnishee is regulated by sec. 217 of the code, and it is limited to requiring him to pay money or deliver property. It must appear that he owes money to, or has in hand property of, the defendant, to authorize an order for payment or delivery. If there is a question to be decided, whether of law or fact, as to the liability of the garnishee, it certainly is not to be disposed of on a summary motion. In such a case the plaintiff will be left to the remedy prescribed by sec. 218 of the code, which authorizes an action by the plaintiff against the garnishee, if the disclosure made by the latter is not satisfactory.
+Admitting that a creditor might reach, by attachment, the current weekly wages of a debtor, accruing after the service of an attachment, I feel entirely clear that he can not compel the debtor to remain in the service of the garnishees ; and if the latter, anxious to secure the services of the debtor, hold out the inducement of paying in advance, I see no legal objection to such a step, when taken in good faith. If, in this mode, the debtor accumulates a fund which should be appropriated to the payment of debts, the law provides other remedies. This view disposes of the wages accruing since the first week; they have been once paid to the debtor, and if the plaintiff can enforce another payment, in my view, it is at least so far doubtful that he must resort to bi3 action.
+As to the wages for one week which may be supposed yet to remain in the hands of the garnishees, amounting to the sum of $18, this amount became due after the service of the garnishment, and, indeed, after filing the first answer of the garnishees. It had been partly earned by the debtor, but was not due, and the question is, whether it was so clearly the subject of attachment that, on the admission of the facts by the garnishees, its payment ought to be ordered.
+It is the provision of sec. 217, that, “ if the garnishee appear and answer, and it is discovered on his examination, that at, or after the service of the order of attachment and notice upon Mm, he was possessed of any property of the defendant, or was indebted to him, the court may order the delivery of such property, and the payment of the amount owing by the garnishee into the court.” Rut this provision is not intended to extend the operation or effect of sec. 194 of the code, which regulates what property may be attached, and see. 205, which prescribes how far a garnishee shall stand liable to the plaintiff. Ry the latter section, the garnishee is to stand liable “ for all property, moneys and credits in his hands, or due from him to the defendant, from the time he is served with the written notice,” to answer in the attachment proceeding. It would be difficult to show that the current week’s wages, being earned by the debtor, was money due from the time of the service of the notice. What operation, then, it may be asked, can be given to the words, “ or after,” in sec. 217 of the code ? It is sufficient to say that a -reasonable effect may be given by supposing that they were intended to embrace the case of debts not payable until after service of .the notice — “ debitum in; prcesenti, soloendum in futuro.” This, in view óf an order of payment, was material. The answer might show a debt due, but not payable. The order might be made after it became payable.
+I am not, therefore, satisfied that the plaintiff, by his attachment, acquired any right to the current week’s wages of the debtor, and have come to the conclusion that justice to the garnishee and debtor requires that the question should not be'decided upon a summary motion, and that the plaintiff’, if he insists on the claim, must bring an action, in which the rights of all parties can be settled.
+In the view I have taken, it is not necessary that I should refer to the provision in sec. 467 of the code, as to exemption of the earnings of a debtor from an order in a proceeding in aid of execution. Ry reference to the first section of the chapter of the code on that subject, it will be seen to have a more extensive operation than the corresponding section of the attachment provisions. It extends to any interest the debtor may have “in any money contracts, claims or choses in action due, or to become due to him; and the fact that the exemption of wages necessary for the support of a family, appears in this part of the code, and as applicable to such a proceeding, and nowhere else, may find in this consideration, a satisfactory explanation.
+For these reasons, I decline making either of the orders asked. There is no admission of indebtedness to authorize an order on the garnishee, and I could not, even if inclined, discharge him from the liability to an action provided in the code.
