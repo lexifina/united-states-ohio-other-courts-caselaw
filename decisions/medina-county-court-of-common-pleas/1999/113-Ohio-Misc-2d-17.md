@@ -1,0 +1,33 @@
+---
+court: "Medina County Court of Common Pleas"
+docket: "99-CIV-0465"
+decided: "1999-08-03"
+citations: ["113 Ohio Misc. 2d 17"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BUDZIK v. REYNOLD’S MACHINERY, INC."]
+source_url: "https://static.case.law/ohio-misc-2d/113/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6707905
+cites_cases: ["21 OBR 208", "21 Ohio App.3d 195", "295 N.E.2d 219", "34 Ohio App.2d 1", "486 N.E.2d 1183", "572 N.E.2d 237", "61 Ohio App.3d 190", "648 N.E.2d 548", "98 Ohio App.3d 293"]
+---
+
+# Budzik v. Reynold's Machinery, Inc.
+
+## Majority (James L. Kimbler, Judge.)
+
+James L. Kimbler, Judge.
+Defendant’s Civ.R. 12(B)(3) motion for change of venue came on for non-oral hearing on July 26, 1999, upon the defendant’s brief and supporting affidavit, and upon plaintiffs response to said motion, which response contained no evidentiary materials.
+Based upon the evidentiary materials before the court, the court finds (1) that defendant’s principal place of business is in Montgomery County, Ohio; (2) that defendant, Reynold’s Machinery, Inc., maintains a sales office in Medina County, Ohio, but that no salary, payment, or consideration decisions are made at said sales office; and (3) that commission payment decisions and payments relative to said decisions are made by defendant in Montgomery County, Ohio.
+Under the provisions of Civ.R. 3(B), a determination relative to proper venue is made sequentially. See Varketta v. Gen. Motors Corp. (1973), 34 Ohio App.2d 1, 6, 63 0.0.2d 8, 10-11, 295 N.E.2d 219, 223. First, the court must determine whether proper venue lies in any one or more of the counties described in Civ.R. 3(B)(1) to (B)(10). Only if proper venue does not lie under any one or more of said subsections can the court look to Civ.R. 3(B)(11). And finally, if proper venue does not lie under any of the venues specified in Civ.R. 3(B)(1) to (B)(10) or Civ.R. 3(B)(11), the court may then look to Civ.R. 3(B)(12), which in part deals with a county in which an agent is authorized to receive service of process.
+Without providing any evidence to substantiate his factual allegations, plaintiff Gary Budzik’s position is that since he was hired through defendant’s Medina County sales office, worked out of that sales office, and was in part paid on a commission basis for said work, and since his claim against defendant relates to alleged unpaid sales commissions due him for said work, his claim for relief arose from activity in Medina County, Ohio, and, therefore, venue is' proper in the Medina County Common Pleas Court.
+Plaintiffs reliance on Berarducei v. State Teachers Retirement Sys. (1984), 21 Ohio App.3d 195, 21 OBR 208, 486 N.E.2d 1183, is misplaced. In that case, the plaintiffs claim arose in Trumbull County because a representative of defendant was in Trumbull County when plaintiff was given advice by the representative that allegedly breached defendant’s fiduciary duty to plaintiff. Id., 21 Ohio App.3d at 197, 21 OBR at 210, 486 N.E.2d at 1185. In the case sub judice, plaintiff provides no evidence, and in fact does not even allege, that the decision not to pay him as much in commissions as he believes he is entitled to receive was made in Medina County. The most plaintiff alleges through counsel is that “plaintiff reported to the office in Medina County and discussed matters relative to this complaint with company officials at the office in Medina County.” (Plaintiffs brief, pg. 2.)
+Plaintiffs argument that venue is proper in this case because defendant has a “close connection” to Medina County since defendant’s sales office in this county is also not persuasive. As authority for his close-connection argument, plaintiff cites Varketta. However, the close-connection language in that case is dicta, and, placed in context, does not support the legal principle that plaintiff asserts. Actually, the court in Varketta upheld the trial court’s granting of defendant’s motion for change of venue in that case, and, in the course of explaining its decision, observed:
+“Civil Rule 3(B) assigns priorities for the place of trial so that places that are the most convenient and fair are the proper places of trial and less convenient places may be utilized only if a better location is not available. Generally, the law favors suits in places where the defendant resides or has a close connection, or in places where the claim for relief arose or the subject of the action is located.” Id., 34 Ohio App.2d at 7, 63 O.O.2d at 11, 295 N.E.2d at 224.
+In the present case, the essence of plaintiffs claim is that defendant breached its alleged employment contract with plaintiff by failing to pay him sales commissions due him pursuant to the terms of the alleged employment contract. Ohio appellate law interpreting Civ.R. 3(B) establishes that, in terms of venue, the crucial issue is not where a contract is formed, but where it is breached. As stated in paragraph two of the court’s syllabus in Grange Mut. Cas. Co. v. Thompson (1990), 61 Ohio App.3d 190, 191, 572 N.E.2d 237, 238, “The place of making a contract is irrelevant to the issue of where a cause of action arises for its breach; the controlling place is that of the breach.” Accord Atwood Resources, Inc. v. Lehigh (1994), 98 Ohio App.3d 293, 299, 648 N.E.2d 548, 551.
+Given that the only evidence before the court is to the effect that any breach of the alleged employment contract between plaintiff and defendant relative to the nonpayment of commissions occurred in Montgomery County, the court holds that venue in Medina County is improper in this case but that venue is proper in Montgomery County, pursuant to either Civ.R. 3(B)(3) or (6).
+Accordingly, it is hereby ordered that this case be transferred to the Court of Common Pleas of Montgomery County and that the Clerk of the Common Pleas Court of Medina County transmit all pleadings and other papers and a certified transcript of the docket and journal entries in this action to the Clerk of the Common Pleas Court of Montgomery County for docketing.
+Finally, with respect to defendant’s request for attorney fees and other costs associated with its motion for change of venue, the request is denied, given that plaintiff had a good-faith basis for believing that this action could be properly venued in Medina County, Ohio.
+So ordered.
+. Defendant’s affidavit contains evidence relative to the county where defendant’s agent for service of process is located. However, in light of the court's decision herein, the county where the agent is located is irrelevant.
