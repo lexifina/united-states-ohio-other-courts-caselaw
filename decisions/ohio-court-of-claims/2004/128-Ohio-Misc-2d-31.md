@@ -1,0 +1,31 @@
+---
+court: "Ohio Court of Claims"
+docket: "2004-01508-AD"
+decided: "2004-05-25"
+citations: ["128 Ohio Misc. 2d 31", "2004-Ohio-3264"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CARRINGTON v. OHIO DEPARTMENT OF TRANSPORTATION."]
+source_url: "https://static.case.law/ohio-misc-2d/128/cases/0031-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6708318
+cites_cases: ["112 Ohio App.3d 189", "14 OBR 446", "14 Ohio St.3d 51", "145 Ohio St. 198", "2002 WL 31958780", "21 O.O.3d 177", "3 O.O.3d 413", "30 O.O. 415", "361 N.E.2d 486", "423 N.E.2d 467", "471 N.E.2d 477", "49 Ohio App.2d 335", "588 N.E.2d 864", "61 N.E.2d 198", "67 Ohio App.3d 723", "67 Ohio St.2d 282", "678 N.E.2d 273"]
+---
+
+# Carrington v. Ohio Department of Transportation
+
+## Majority (Daniel R. BorcheRt, Deputy Clerk.)
+
+Daniel R. BorcheRt, Deputy Clerk.
+FINDINGS OF FACT
+{¶ 1} On November 13, 2003, at approximately 8:30 a.m., plaintiff, LaSharn Carrington, was traveling west on Interstate 480 about one-half mile before the Interstate 71 merge (between mile markers 11.00 and 12.00) in Cuyahoga County, when her vehicle was struck by a road sign that had detached and been blown by the wind from its anchoring post. The road sign was owned and maintained by defendant, Department of Transportation. Plaintiff stated that the windblown sign damaged the front end of her vehicle.
+{¶ 2} Consequently, plaintiff filed this complaint seeking to recover $1,053.94, the cost of automotive repair resulting from the November 13, 2003 incident. The requisite $25 filing fee was paid.
+{¶ 3} Defendant denied any liability in this matter, contending that it did not have any knowledge concerning debris on Interstate 480 prior to plaintiffs property damage event. Defendant also denied having any prior knowledge of a loose road sign. Defendant argued that plaintiff has not produced sufficient evidence to show that Department of Transportation personnel were negligent in maintaining Interstate 480 and the signs positioned along the roadside. Defendant professed that its employees would have promptly repaired any loose sign detected along the roadway. Defendant submitted evidence showing that its personnel last performed sign maintenance in the particular area of Interstate 480 on July 14, 2003, four months prior to plaintiffs property damage occurrence. Defendant’s submitted records show that the last time signs were inspected on Interstate 480 between mile markers 11.00 and 12.00 was on June 10, 2003, five months before plaintiffs November 13, 2003 property-damage event.
+CONCLUSIONS OF LAW
+{¶ 4} Defendant must exercise due care and diligence in the proper maintenance and repair of highways. Hennessey v. Ohio Hwy. Dept. (1985), Ct. of Cl. No. 85-02071-AD. This duty encompasses the repair and maintenance of road signs. Defendant has the duty to maintain its highway in a reasonably safe condition for the motoring public. Knickel v. Ohio Dept. of Transp. (1976), 49 Ohio App.2d 335, 3 O.O.3d 413, 361 N.E.2d 486. However, defendant is not an insurer of the safety of its highways. See Kniskern v. Somerford Twp. (1996), 112 Ohio App.3d 189, 678 N.E.2d 273; Rhodus v. Ohio Dept. of Transp. (1990), 67 Ohio App.3d 723, 588 N.E.2d 864.
+{¶ 5} For plaintiff to prevail on a claim of negligence, she must prove, by a preponderance of the evidence, that defendant owed her a duty, that it breached that duty, and that the breach proximately caused her injuries. Strother v. Hutchinson (1981), 67 Ohio St.2d 282, 285, 21 O.O.3d 177, 423 N.E.2d 467. Plaintiff has the burden of proving, by a preponderance of the evidence, that she suffered a loss and that this loss was proximately caused by defendant’s negligence. Barnum v. Ohio State Univ. (1977), Ct. of Cl. No. 76-0368-AD. However, “[i]t is the duty of a party on whom the burden of proof rests to produce evidence which furnishes a reasonable basis for sustaining his claim. If the evidence so produced furnishes only a basis for a choice among different possibilities as to any issue in the case, he fails to sustain such burden.” Stevens v. Indus. Comm. (1945), 145 Ohio St. 198, 30 O.O. 415, 61 N.E.2d 198, paragraph three of the syllabus.
+{¶ 6} Ordinarily, in a claim involving roadway debris, which includes loose road signs, plaintiff must prove either (1) that defendant had actual or constructive notice of the defective condition and failed to respond in a reasonable time or responded in a negligent manner, or (2) that defendant, in a general sense, maintains its highways negligently. Denis v. Ohio Dept. of Transp. (1976), Ct. of Cl. No. 75-0287-AD.
+{¶ 7} Upon review of the limited presented circumstances in the instant claim, and in viewing the evidence most favorably to plaintiff, the court concludes that defendant’s sign became loosened under such conditions attributable to negligent maintenance on the part of defendant. See Turner v. Ohio Dept. of Transp. (2002), Ct. of Cl. No. 2002-04062-AD, 2002 WL 31958780. Defendant failed to provide any evidence to rebut this inference of negligence. In fact, defendant’s own evidence tends to show that defendant was remiss in failing to perform sign maintenance and inspections in a more frequent manner. This court, as trier of fact, determines questions of proximate causation. Shinaver v. Szymanski (1984), 14 Ohio St.3d 51, 14 OBR 446, 471 N.E.2d 477. In the instant claim, the court concludes that sufficient evidence has been presented to show that defendant breached the duty of care owed to plaintiff and that this breach proximately caused plaintiffs damage. Properly maintained road signs usually do not fly from anchorages without negligence involved. Therefore, defendant is liable to plaintiff in the amount of $1,053.94, plus the $25 filing fee.
+{¶ 8} After consideration of all of the evidence in the claim file and, for the reasons set forth in the memorandum decision filed concurrently herewith, judgment is rendered in favor of plaintiff in the amount of $1,078.94, which includes the filing fee. Court costs are assessed against defendant. The clerk shall serve upon all parties notice of this judgment and its date of entry upon the journal.
+Decision accordingly.
