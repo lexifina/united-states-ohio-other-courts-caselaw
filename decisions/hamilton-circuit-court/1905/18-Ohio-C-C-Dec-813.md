@@ -1,0 +1,47 @@
+---
+court: "Hamilton Circuit Court"
+decided: "1905-01-30"
+citations: ["18 Ohio C.C. Dec. 813"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jelke and Swing, JJ., concur."]
+parties: ["Michael Sullivan v. Franklin Bank."]
+source_url: "https://static.case.law/ohio-cc-dec/18/cases/0813-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9504654
+cites_cases: ["16 N. E. Rep. 370", "29 Ohio St. 441", "33 Ohio St. 85", "45 N. E. Rep. 3", "45 Ohio St. 657", "49 N. E. Rep. 784", "55 Ohio St. 183", "57 Ohio St. 524", "60 Am. St. Rep. 686", "64 N. E. Rep. 437", "66 Ohio St. 400"]
+---
+
+# Sullivan v. Franklin Bank
+
+## Majority (GIFFEN, J.)
+
+GIFFEN, J.
+The Franklin bank, as plaintiff, brought an action in replevin to. recover the possession of certain property belonging originally to the firm of McCarren and Dawson, composed of Fr,ank C. McCarren and William C. Dawson, and alleged that the defendant, William C. Williams, constable, wrongfully detains the property from the plaintiff.
+' The defendant, by answer, made a general denial, and also set up the levy of an execution upon the property described in the petition. The ownership and right of possession of the bank to the property is founded upon a bill of sale executed in the name of the partnership by one of the partners only, and dated prior to the levy. The nonassenting partner did not ratify the sale until after the date of the levy of the execution.
+The special charges of the court present the question whether.one partner without the knowledge and consent of the other, can sell substantially all of the property of the partnership not kept for the purpose of sale, but for continued use in the prosecution of the business.
+The plaintiff in error claims that this cannot be done, and cites many authorities outside of this state in support of the proposition, but these afford little aid in view of the fact that our own Supreme Court has repeatedly recognized the conflict of authorities upon the question, and has adopted those only which seem to be supported by the better reason. Reliance, however, is placed upon the case of Holland v. Drake, 29 Ohio St. 441, the syllabus of which is as follows:
+“One of the members of an insolvent firm cannot, either before or after dissolution of the partnership, make a valid assignment of all its effects for the benefit of creditors, against the will of a copartner, or without his assent when he is present or accessible.
+“When an assignment is so made against the will of the nonexecut-ing partner, or when he is present and not assenting, and he subsequently ratifies tbe assignment, the ratification will relate back to the time' of executing the assignment, and give it effect from that date; but not so as to defeat the rights of third persons, acquired in good faith in the meantime. ’ ’
+While there has been no disposition in subsequent decisions to overrule that case, there is a manifest purpose to limit the application of the principle there announced to the facts of the case. Clafflin Co. v. Evans, 55 Ohio St. 183 [45 N. E. Rep. 3; 60 Am. St. Rep. 686]; McAlpin Co. v. Finsterwald, 57 Ohio St. 524 [49 N. E. Rep. 784].
+The syllabus in the case of Clafflin v. Evans, supra, is as follows:
+“A managing partner entrusted with the sole charge of the business and effects of the firm, may, in case of its insolvency, make a valid assignment of its property for the benefit of its creditors, without having, obtained the consent of the copartner who is a nonresident of the state-where the business was carried on, and absent therefrom; the assent of the absent partner to the assignment, in such ease will be presumed. ’ ’
+And on page 190, it is said:
+“It is not doubted that one partner may sell any part of the partnership property to one or more of the creditors in payment of the partnership indebtedness, or sell all of its effects to all of its creditors, and if insufficient to satisfy their debts in full, the sale may be so made to them as to secure a pro rata division; and it is not .surprising that authorities are found which strenuously maintain that the power of the partner to accomplish the same result by an assignment to a trustee to make such distribution is included in the agency resulting from the partnership relation. The dissolution of the partnership ensues not less certainly from a sale of the whole of its effects directly to the creditors, than from the transfer to a trustee for their benefit. But we are not disposed to depart from the rule laid down in Holland v. Brahe, supra, nor are we disposed to extend it.”
+This dictum is so broad and comprehensive that it would hardly go unchallenged unless the court were of the opinion that it was the law of this state. In the case of McAlpin v. Finsterwald, supra, the proposition of the syllabus is as follows:
+“Where, in good faith and for a firm debt, a judgment has been rendered against the firm, by confession, on a warrant of attorney executed in its name and on its behalf by one partner only, without the assent of his copartner, such judgment cannot be impeached or set aside by a creditor of the firm.”
+The distinction is clearly drawn in this case between the right of the nonassenting partner of the firm and the creditor of the firm, the former being entitled under certain conditions and by a proper proceeding to question tbe transfer made by tbe other partner, while tbe creditor is not.
+Under this decision we are of tbe opinion that the bank acquired a good title to the property by the bill of sale if executed prior to the levy.
+The answer contained no new matter constituting a defense, counterclaim or set-off, as the defendant could prove the levy and the execution under this general denial. Bailey v. Swain, 45 Ohio St. 657 [16 N. E. Rep. 370].
+The motion for judgment notwithstanding the verdict, was property overruled, because the objection that the plaintiff has not legal capacity to sue, is waived by a failure to plead it, either by demurrer or answer.
+The court at the request of plaintiff, charged the jury as follows:
+“If you find that the constable, Williams, levied upon the chattels described in the petition, but did not continue to maintain a watchman in charge of the property levied upon after March 20, 1899, but on said date left the same where levied on, with no one in charge thereof, and McCarren and Dawson resumed the possession and control of said property using the same in completing their work on the sewer, and continued to do so up to the time of the commencement of this action, then I charge you that said levy made by said constable became void and of no effect. ’ ’
+And in its general charge as follows:
+“But when Williams made a levy under this judgment and put Meyers in charge as his watchman, if Meyers left a few days later and no one was put in his place, and McCarren and Dawson later took possession of the property again and continued in this possession until the replevin suit was begun, then Williams’ levy became void.”
+The jury would naturally infer from these charges that unless the constable kept a watchman in charge of the property, and prevented McCarren and Dawson from resuming possession and control of the property, whether by his consent or otherwise, the levy became void. Such acts alone were not sufficient in themselves to make the levy void, and whether they, together with other circumstances, would cause the levy to become so, was a question of fact which should have been submitted to the jury. Murphy v. Swadener, 33 Ohio St. 85.
+The charges were, therefore, erroneous, but counsel for defendant in error claims that it was not prejudicial for the reason that the jury by their verdict found that the plaintiff was the owner and had the right of' the possession of the goods and chattels taken in replevin, and that they must necessarily have found that the bill of sale was bona iide and not fraudulent; and if the court’s instructions were correct, that one uf the partners bad power to execute tbe bill of sale, then any question of levy or the continuance of the levy became unimportant and not material, for if the bill of sale was lawful, any levy was unlawful and a •charge as to what did or did not constitute an abandonment of the levy became immaterial. This is true if the jury found that the bill of sale was executed and delivered prior to the levy, but under these instructions, the jury may have found that the bill of sale was executed and ■delivered after the levy and before this suit was commenced, and yet returned a verdict for the plaintiff.
+It is further claimed that there was no bill of exceptions before this court for the reason that the trial judge did not certify that the same was settled, but only that it was allowed, signed, sealed, and made a part ■of the record. There was no controversy over the bill, but it was allowed .as presented; hence, there was nothing for the court to settle, within the meaning of the statute.
+The refusal to submit certain interrogatories to the jury was not erroneous, inasmuch as the request therefor contained no condition that the questions, when submitted should be answered in case a general verdict shall be rendered. Gale v. Priddy, 66 Ohio St. 400 [64 N. E. Rep. 437].
+Judgment will be reversed for error in giving the charges above .referred to.
+Jelke and Swing, JJ., concur.
