@@ -1,0 +1,34 @@
+---
+court: "Hamilton County Court of Insolvency"
+decided: "1910-04-12"
+citations: ["9 Ohio Nisi Prius (n.s.) 504"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re Establishment of a County Road in Sycamore Township."]
+source_url: "https://static.case.law/ohio-np-ns/9/cases/0504-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1540474
+---
+
+# In re Establishment of a County Road
+
+## Majority (Warner, J.)
+
+Warner, J.
+Heard on motion to dismiss the appeal of James P. Ferris.
+The petition for this road indicated that certain land of the appellant would be taken in establishing and laying out the road. Notice was therefore given appellant as required by Section 4645, Revised Statutes, and he duly filed with the viewers his written application for compensation and damages as required by Section 4647, Revised Statutes. Said application of appellant claimed a certain amount for land taken," and other amounts for damages to his remaining lands.
+When the view was made, and the said road surveyed and established, it was found that no part of the appellant’s land was included within the limits of said road, but that it ran along the line of his lands for a considerable distance, making the said land abut on the road. Upon this state of facts the viewers properly ignored the claim of appellant for compensation for land actually taken. They also refused to allow the appellant any amount whatever as damages to his land arising by reason of the establishment and construction of this road. From this last refusal of said viewers an appeal has been taken and perfected in this court. Can it be maintained ?
+The question presented is one of remedy, and involves a construction of the statutes relating to the establishment of county roads and appeals in road cases. If said statutes provide a remedy in cases of this sort the appeal must be sustained, but if they do not contemplate such a proceeding the motion must be granted, and the appellant remitted to his action for damages in the proper forum, if any legal damages should result to his land by reason of the construction of this road.
+The authority and duty of the viewers in relation to the assessment and awarding of compensation and damages in road cases is found in Sections 4642, 4646 and 4647, Revised Statutes.
+Section 4642, after providing for the appointment of .viewers, declares that they “shall also be a jury to assess and determine the compensation to be paid in money for the properties sought to be appropriated, without deduction for benefit to any property of the owner, and to assess and determine how much less valuable, if any, the land or premises from which such appropriation may be taken, will be rendered by the opening and construction of the road.”
+• Section 4646, in prescribing the duties of the viewers, provides that they shall “also, as a jury, discharge the duties required of them in Section 4642, and assess and determine the damages sustained by any person through whose premises the road is- proposed to be established. ’ ’
+Section 4647 is as follows:
+"But the viewers shall not be required to assess or award damages or compensation to any person except minors, idiots, or lunatics, in consequence of the opening of the road, unless the owner or his agent, having notice as provided in Section 4645 of the .application and proceedings by which his property is sought to be appropriated or may be injured, shall have filed a written application with the viewers, giving a description of the premises on which damages or compensation is claimed; and all applications for damages shall be barred unless they be presented as provided for by this chapter. ’ ’
+The provisions of Section 4642 quoted above are exactly- the same as those of the -original act for opening roads and highways passed January 27, 1853. Swan & Critchfield, 1289.
+The above quotation from Section 4646 in said original act was as follows:
+"And also as a jury discharge the duties required of them by the fourth section (now Section 4642) of this act. And the said viewers shall, in addition to their duties as viewers, also at the same time assess and determine the damages sustained by any person or persons through whose -premises the said road is proposed to be established.”
+By subsequent revisions and amendments this original act has been changed to read as in Section 4646. I think the proper construction of this last mentioned section is to enlarge the scope of the duties of the viewers prescribed in Section 4642 to the extent of assessing damages to- the residue of the land where a part is taken, which damages are not clearly permitted by the terms of Section 4642, although they would seem to be fairly implied.
+Construing, therefore, these sections together, it seems very clear that they contemplate two elements or principles of compensation consisting of, .first, the value of property physically •taken, and second, damages to the residue, and there does not appear to be any authority given to the viewers in these two sections to assess only damages to land where these two elements do not co-exist. That these two elements of compensation for land taken and damages to the residue thereof, do not co-exist in this case is not controverted. I think therefore that the viewers had no authority to assess damages to the land of applicant abutting on said road, and properly ignored his claim. It follows logically that the viewers having acted within the law in ignoring the claim of appellant for want of statutory authority to consider the same, that the statute giving an appeal to this court to determine amount of compensation and damages would not apply. It is only where a claim is within the authority of the viewers to consider, and upon which they may pass, that an appeal lies.
+For a like reason the bar specified »in Section 4647 is not operative against the appellant. He filed his claim with the viewers, upon notice, when it appeared that some portion of his land would be taken, but when this turned out not to be the fact the giving of notice, and the filing of the claim, became inoperative,- and without legal significance in the case. The several sections of the statute in referring to the “owner” whom the proceedings affect describe such “owner” as one “through whose land the road is proposed to be established” and entirely omits any reference to any owner of abutting lands. If the G-eneral Assembly had intended to include persons like the appellant, owning only abutting lands, among those who might claim damages- a single sentence would have made it clear, and the failure to do this, there being many instances where this situation was likely to occur, confirms the opinion that no such intention existed.
+Motion granted.
