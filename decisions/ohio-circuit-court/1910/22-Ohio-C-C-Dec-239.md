@@ -1,0 +1,32 @@
+---
+court: "Ohio Circuit Court"
+decided: "1910-04-23"
+citations: ["22 Ohio C.C. Dec. 239"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gilfen, Smith and Swing, JJ.", "Smith and Swing, JJ.? concur."]
+parties: ["Cincinnati Traction Co. v. Josephine Dorenkemper, Admrx."]
+source_url: "https://static.case.law/ohio-cc-dec/22/cases/0239-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1649115
+cites_cases: ["14 Ohio St. 213", "18 R. 623", "31 O. C. C. 11", "32 L. R. A. 276", "34 N. E. Rep. 250", "34 N. E. Rep. 2501", "39 Ohio St. 614", "41 Ind. 48", "41 Ohio St. 145", "43 N. E. Rep. 207", "50 Ohio St. 208", "54 Ohio St. 197", "57 Ohio St. 632", "68 N. E. Rep. 571", "69 Ohio St. 4", "69 Ohio St. 45", "83 O. S. 500"]
+---
+
+# Cincinnati Traction Co. v. Dorenkemper
+
+## Majority (G1FFEN, P. J.)
+
+G1FFEN, P. J.
+The plaintiff’s intestate, Henry Dorenkemper, attempted to cross the street railway of the defendant traction company at a point in Harrison avenue, about 120 feet east of the intersection of Westwood avenue with Harrison avenue (Cincinnati), the tracks on the former connecting with the tracks on the latter avenue at an angle of twenty-three degrees and over. He was driving a horse and buggy on the south side of Harrison avenue, and could see an approaching ear in Westwood avenue only a short distance beyond the intersection. He waited for a ear coming eastwardly in Harrison avenue to pass him, then attempted to cross behind the car, and while on the track and after the horse had cleared it the buggy was struck by another car running in the same direction from Westwood avenue. In order to change the trolleys from the wires in Westwood avenue to those in Harrison avenue, the power was turned on and the ear given sufficient speed to keep it running while the transfer was made, the lights in the car being in the meantime extinguished. The night was dark, and there is testimony tending to show that the electric street lamp was burning dimly, if at all. There is testimony also tending to show that the Harrison avenue car and tire ear from Westwood avenue, known as the John street car, were running at a distance of about 500 feet apart. If the distance between them was only 300 feet, it would not be negligence on the part of the deceased, if he attempted to cross over immediately after the Harrison avenue car passed, even though he could and did see the John street car approaching, unless at a high and reckless rate of speed.
+In the absence of circumstances warning him of the danger, he had a right to assume that the car would be run at a reasonable rate of speed and kept under control by the motorman. We are of the opinion, however, that he could not and did not see the car, when he started over, although he must have seen if when well onto the track and too late to retreat. It may be conceded that the question of contributory negligence presented by the record is a close one,'but we think it was properly submitted to the jury, and their finding should not be disturbed.
+It is claimed further that contributory negligence as pleaded in the answer was admitted, as no reply was filed, although the plaintiff, after the case had been submitted to the jury, was given an opportunity to file one. i
+The cause was tried without objection as though the allegation of new matter in the answer had been denied, and a demand for judgment on the pleadings after each party has introduced his evidence is too late. Lovell v. Wentworth, 39 Ohio St. 614.
+The following portion of the general charge to the jury is objected to: >
+“I will state to you further as to one of the elements of negligence claimed by the defendant, that if you should find from the evidence that the motorman of the defendant company could, in the exercise of ordinary care on his part, such care as an ordinarily prudent person, situated as he was, would exercise, could and should have seen Dorenkemper on the track before him in time to have stopped his car and avoid the accident, and by not seeing, in the exercise of ordinary care, what he could and should have seen, caused the accident, then your verdict would be for the plaintiff, provided Dorenkemper himself was not guilty of negligence on his part. ’ ’
+This charge is within the rule stated in the case of Cincinnati Street Ry. v. Snell, 54 Ohio St. 197 [43 N. E. Rep. 207; 32 L. R. A. 276], and can not be tested by the rule stated in the third proposition of the syllabus in the ease of Erie Ry. v. McCormick, 69 Ohio St. 45 [68 N. E. Rep. 571].
+The latter case has no application to the charge in question, because there the negligence of the plaintiff was admitted, while here the charge required the jury to find that the plaintiff was free from negligence.
+The motion to strike out the answer of the witness, Boehning, in his deposition at page 4, should, we think, have been sustained, although the error was not prejudicial. It is manifest from all the evidence in the case, that excessive rate of speed, whereby the motorman was prevented from stopping the car in time to avoid the accident after seeing the deceased, was not a controlling issue in the case; but the negligence causing the collision was the inattention of the motorman, whereby he failed to see the horse and buggy on the track, when by the exercise of ordinary care he would have seen them, and by controlling the speed of the car would have avoided the collision.
+This latter issue was tendered by an amendment to the petition, which was filed more than two years after the right of action accrued, and to which the defense of the statute of limitations was made. The cause of action was not thereby changed. It only described more particularly the negligence of the defendant in operating the ear, which was the basis of the action. Spice v. Steinruck, 14 Ohio St. 213; Zieverink v. Kemper, 50 Ohio St. 208 [34 N. E. Rep. 250].
+This is the second time the ease has been tried, and although the damages awarded in the last trial are $1,000 more than in the former trial, we are not prepared to hold that at the age of the decedent, to wit, thirty-seven years, the pecuniary loss to his wife and four young children was less than the amount awarded by the jury. Finding no prejudicial error in the record the judgment will be affirmed.
+Smith and Swing, JJ.? concur.
