@@ -1,0 +1,27 @@
+---
+court: "Stark County Court of Common Pleas"
+decided: "1932-04-27"
+citations: ["29 Ohio N.P. (n.s.) 445"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["First Trust & Savings Bank of Canton, et al, Trustees v. Ira J. Fulton, Supt. of Banks, et al."]
+source_url: "https://static.case.law/ohio-np-ns/29/cases/0445-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1567391
+---
+
+# First Trust & Savings Bank v. Fulton
+
+## Majority (Harter, J.)
+
+Harter, J.
+The plaintiffs heretofore commenced an independent action in this court against the superintendent of banks and the treasurer of state praying for the liquidation of certain securities on deposit with the treasurer of state as provided in Sections 710-151 and 710-161 General Code. The security had originally been furnished by the Canton Bank & Trust Co,, which thereafter by reorganization became the Market Bank & Trust Co. In that action it appears further that the Market Bank & Trust Co., conveyed all its assets on the 1st day of November, 1930, to the Canton Bank, but retained its trust department which had on deposit at that time a large amount of uninvested trust funds arising from an insurance trust created by the plaintiff’s donor, John Schubach, who had died on June 7th, 1930.
+Under the terms of this trust the Canton Bank & Trust Co., was nominated as trustee by the decedent. The Canton Bank, which, as has already been said, was the successor to the banking business of the Canton Bank & Trust Co., failed on the 16th day of February, 1931, and its affairs have been in the hands of the Superintendent of Banks since that time. So that at the time that case was brought the Market Bank & Trust Co. was still the Trustee of Schubach as the successor of the Canton Bank & Trust Co. It had on deposit with the Canton Bank the uninvested trust funds already mentioned which had come to the latter in the manner already stated, it had not and has not been declared insolvent.
+In that case (63804) such proceedings were had that on the 4th day of April, 1930 a decree was entered ordering the treasurer of state to turn over to these plaintiffs (who were the plaintiffs in the former case) the securities in question. In the decision of this case the court takes judicial notice of the pleadings and the action of this court in case 63804, and the foregoing discussion is necessary in order to properly discuss the issue presented in this one.
+In the instant case the plaintiff seeks to have the court declare as preferred a claim in the amount of $1,147.44 which they assert against the Dime Savings Bank. This claim arises as follows:
+On or about the 1st day of April, 1931 the treasurer of state sent the above mentioned sum to the Market Bank & Trust Co., which was deposited by it in the Dime Savings Bank in an account styled “The Market Bank & Trust Co., Trustee,” and the fund itself thus deposited arose from interest collected by the treasurer of state on the securities which were then on deposit with him and which have since been turned over to the plaintiffs as a result of the proceedings discussed at length above. The Dime Savings Bank is now insolvent. Plaintiffs now claim that this interest fund was unlawfully forwarded to the Market Bank & Trust Co., by the treasurer of state, and that consequently its deposit in the Dime Savings Bank was an illegal deposit, and hence is a special deposit and a preferred and not a general claim.
+The plaintiffs did not file proof of claim with the liquidating agent of the Dime Savings Bank prior to bringing this suit and a demurrer has been interposed on that ground.
+The court is of the opinion that the situation presented with regard to a suit against the Superintendent of Banks is analagous to that presented when an executor or administrator is sued upon a claim. Section 710-90 provides for the notice to be given for the filing of claims, while Section 710-92 provides for rejection and a time within which action must be brought or else that such action shall be barred. Under the old Probate Code, Section 10717 provided for the presentation and authentication of claims, and- Section 10722 provides limited time of six months within which action must be brought, if the claim be rejected. The object of the provision made for presentation of claims, both in the administration of an estate or the liquidation of a bank, is obvious. It is necessary that the liquidating officer in both instances be permitted to strike a balance within a reasonable length of time. With that end in view, those having claims against his estate must present them and if they are rejected must sue within the time limited. Both provisions are founded on practical necessity.
+It is a well settled rule that the presentation of a claim to the personal representative is a condition precedent to suit upon it against him, and failure to plead such presentation and his rejection of it is a ground for general demurrer. Upon consideration of the strong analogy between the statutes and the similar practical reasons existing, the court takes the view that the same rule applies with reference to the Superintendent when engaged in the liquidation of an insolvent bank.
+Demurrer ’sustained, petition dismissed. Exceptions to plaintiff. Plaintiff given leave to plead by first day of May term.
