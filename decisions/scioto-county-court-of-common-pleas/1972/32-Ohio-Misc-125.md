@@ -1,0 +1,36 @@
+---
+court: "Scioto County Court of Common Pleas"
+docket: "55089"
+decided: "1972-07-28"
+citations: ["32 Ohio Misc. 125"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kight, Appellant, v. State of Ohio, Bureau of Motor Vehicles, Appellee."]
+source_url: "https://static.case.law/ohio-misc/32/cases/0125-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1442489
+cites_cases: ["29 L. Ed. 2d 91"]
+---
+
+# Kight v. State
+
+## Majority (Marshall, J.)
+
+Marshall, J.
+This is an appeal from a finding of the Registrar of the Bureau of Motor Vehicles of the state of Ohio, dated June 17, 1972, ordering the suspension of the registration and driving privileges of Earl G. Kight unless he deposited security in the sum of $139.50, in compliance with R. C. 4509.17.
+The appeal was instituted under the provisions of R. C. Chapter 119, and was submitted on the record certified by the Bureau of Motor Vehicles, herein referred to as appellee, and the evidence introduced at the hearing by Earl G. Right, herein referred to as appellant, which evidence was admitted at the request of appellant and with the consent of counsel for appellee.
+The court may affirm the order of the Bureau if it is supported by “reliable, probative and substantial evidence and is in accordance with law. In the absence of such a finding, it may reverse, vacate or modify the order or make such other ruling as is supported by reliable, probative and substantial evidence and is in accordance with law. ’ ’
+The relevant portions of the Financial Responsibility law provide that the license and registration of an uninsured motorist involved in an accident shall be suspended unless security is posted “which is sufficient to satisfy any judgment for damages resulting from the accident as may be recovered against each driver or owner involved in the accident.” There is no statutory requirement for an administrative hearing or a determination as to the motorist’s fault or liability.. As a result of recent court decisions, however, the Bureau has been affording a hearing if requested, and has been conducting such hearings in accordance with the mandate of the United States Supreme Court pronounced in Bell v. Burson (1971), 29 L. Ed. 2d 91, 92:
+“Before a state may suspend the license and registration of an uninsured motorist who was involved in an accident and who did not post security to cover the amount of damage claimed by another party involved in the accident,' procedural due process requires a determination whether there is a reasonable possibility of a judgment being rendered against the motorist as a result of the accident, where liability, in the sense of an ultimate judicial determination of responsibility, plays a crucial role under the state’s statutory scheme for motor vehicle safety responsibility * * *, The hearing required by the due process clause of the Fourteenth Amendment must be meaningful and appropriate to the nature of the case.”
+In this case, at the request of appellant, a hearing was conducted at the Highway Department Building on Front Street in Columbus on April 25, 1972. The collision which was the source of this action occurred on February 12,1971, at the intersection of Harding and Farney Avenues in Portsmouth. Appellant appeared and testified at the hearing. Although the Bureau issued a subpoena for Rayr mond Truitt, Jr., the other party to the collision, he did not appear at the hearing. The uncontradicted evidence was that appellant had been travelling in an easterly direction on Farney Avenue and had stopped at the stop sign at the Harding Avenue intersection. "While his car was thus stopped, Raymond Truitt, Jr., made a left turn from Harding into Farney, during the execution of which the left rear portion of his car struck the left front bumper and fender of appellant’s car. Appellant called the Portsmouth Police Department and the officer who responded to the call cited appellant for being left of center and Mr. Truitt for making an improper left turn. Farney Avenue is very narrow and has no centerline marking. Upon this state of the evidence the hearing officer formed an ‘ ‘ opinion that there is a reasonable probability of a judgment being-obtained against .Earl Gr. Eight as a result of the accident in - question, ” and recommended that suspension be made unless the required security be deposited. That recommendation was adopted by the registrar, and formed the basis for his finding and order.
+Is this finding supported by reliable, probative and substantial evidence and in accordance with the laws of Ohio?
+‘ ‘ The operator of a vehicle * * * shall stop in obedience' to a stop sign at an intersection and shall yield the right of way to all other vehicles * * * not obliged to stop.” R.. C. 4511.43.
+“No vehicle * # * shall * ® * be driven to the left of the center or center line of the roadway * * * when approaching within one hundred feet of or traversing any intersection * * # unless compliance with this section is impossible because of insufficient road space.” R. C. 4511.-30.
+“At any intersection where traffic is permitted to move in both directions on each roadway entering the intersection, an approach for a left turn shall be made in that portion of the right half of the roadway nearest the center line thereof and by passing to the right of such center line where it enters the intersection and after entering the intersection the left turn shall be made so as to leave the intersection to the right of the center line of the roadway being entered. ” R. C. 4511.36.
+“Motorists proceeding in opposite directions on a narrow roadway shall pass each other on the right and shall give to the other operator one half of the improved portion of the roadway or as nearly one half as is reasonably possible. Each such operator shall proceed slowly with caution and use ordinary care for the other. A failure to use ordinary care is negligence.” O. J. I. 225,26.
+“The public streets and highways are maintained for the public and all have equal rights to their use. Drivers of motor vehicles and others who use the streets and highways have the duty to use ordinary care, both for their own safety and for the safety of others. Failure to use such care is negligence.” O. J. I. 17.30.
+The law of Ohio is well established that if one’s own negligence proximately contributes to cause a motor vehicle collision, he cannot recover. Since appellant’s car was stopped at the time of the collision, even if it were conceded that it was left of center, it is obvious that the driver of the other vehicle was also guilty of negligence which was a proximate cause of the collision.
+A review of the uncontradieted evidence leads to the inescapable conclusion that there exists no reasonable possibility of a judgment being rendered against appellant as a result of the collision. This is buttressed by the fact that no litigation has been commenced against appellant in the more than eighteen months which have expired since the incident occurred.
+• This court is compelled by the ruling of the United States Supreme Court in the case of Bell v. Burson, supra, to reverse the finding and order of the registrar.
+Finding and order reversed.
