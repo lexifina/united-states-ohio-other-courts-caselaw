@@ -1,0 +1,30 @@
+---
+court: "Ohio Circuit Court"
+decided: "1905-04-08"
+citations: ["17 Ohio C.C. Dec. 832"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jelke, Swing and Giffen, JJ.", "Jelke and Swing, JJ., concur."]
+parties: ["State ex rel. Mathis Bros. Co. v. Cincinnati (Bd. of Ed.)."]
+source_url: "https://static.case.law/ohio-cc-dec/17/cases/0832-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1643090
+cites_cases: ["16 Nev. 217", "18 Ohio St. 386", "21 Ohio St. 311", "25 Atl. Rep. 337", "27 N. Y. 378", "3 S. W. Rep. 846", "33 Ohio St. 169", "36 Ohio St. 326", "42 Ohio St. 103", "42 Ohio St. 374", "55 N. Y. 252", "6 N. E. Rep. 33", "7 Neb. 130", "7 Phila. 629", "76 Md. 395", "82 Pa. St. 343", "91 Mo. 386", "93 N. Y. 557"]
+---
+
+# State ex rel. Mathis Bros. v. Cincinnati
+
+## Majority (GIFFEN, J.)
+
+GIFFEN, J.
+The relator avers in its petition that the board of education of the city of Cincinnati determined to erect a school building in Clifton, and caused it to be duly advertised that sealed proposals would be received at the office of said board until 12 o’clock noon, January 23, 1905, for material and labor necessary for the completion of said school building. That upon said day it filed with the clerk a bid for the installation of a heating and ventilating plant in said building for the sum of $24,200. That the specifications required bidders upon heating and ventilating to submit with their bids a proposition for smoke consuming device, automatic stokers, down draft furnaces, etc., to be considered. That accordingly, the relator specified in its bid for the furnishing of Detroit or Murphy Automatic Stokers or Hawley Down-draft Furnaces, for $1,500, to be added to said bid of $24,200, making its entire bid, with either of the above smoke consuming devices, $25,700. That said bid was in all other respects as required by law, and was the lowest responsible bid.
+The relator further alleges that among other bids submitted in response to said advertisements was that of one Henry Niemes, which contained the following provision: “If the Hawley furnaces are installed in connection with the above work, I will furnish and install the same for the additional sum of $1,359;” but contained no provision to furnish Detroit Automatic Stokers. That on January 27, 1905, at a meeting of the building committee of said board, on advice of the mechanical engineer of said board, it determined upon the use of the Detroit Automatic Stoker; that the committee wrongfully ignored and refused to consider relator’s bid for the heating and ventilating system to be used including the furnishing of said Detroit Automatic Stokers, and requested said Henry Niemes to furnish a new bid based on the substitution of Detroit Automatic Stoker in place of the Hawley Down-draft or ordinary grates, as contemplated in his original bid. Said request was without notice to relator or the other parties who had submitted bids, and was without advertisement as provided by law. That thereupon said Henry Niemes submitted a new bid to include the Detroit Automatic Stoker for the sum of $24,462; that thereupon the committee agreed to recommend to the board the letting of the contract for heating and ventilating to Henry Niemes upon his new bid of $24,462.
+The relator claims to have been wrongfully refused said contract and asks that the board of education be compelled by a writ of mandamus to accept its said bid. To this petition the board of education files a general demurrer.
+It appears from the petition that the building committee wrongfully ignored and refused to consider relator’s bid, and inferentially it ignored and refused to consider each and every other bid received by it on or before January 23, 1905, but proceeded to award the contract upon a bid based upon conditions not contained in the original specifications and received at a time subsequent to that designated in the advertisement. It is clear that the attempt to award the contract in this manner is wholly unauthorized, illegal and void, which upon proper application to a court of competent jurisdiction should be enjoined.
+It is claimed, however, by the relator, that the board of education having exercised its discretion to award the contract, may now be compelled to award the contract to the relator as the lowest responsible bidder. The board has not considered any of the bids received on or before January 23, 1905, and it is still open to the board to award the contract to the lowest responsible bidder, unless it be deemed to have rejected all the bids invited and received in pursuance of the advertisement by awarding a contract upon an independent bid received January 27, 1905.
+It is perhaps unnecessary now to decide whether the action of the board amounted to a rejection of all the bids, because in either event the relator would not be entitled to a peremptory writ of mandamus. Counsel rely upon the case of Boren v. Darke Co. (Comrs.) 21 Ohio St. 311, but in that ease the commissioners attempted to award the contract upon one of the original bids received in pursuance of the advertisement but not to the lowest bidder, and the court, therefore, held that the commissioners could be compelled to award the contract to the lowest bidder. Revised Statutes 3988 (Lan. 6468), 97 O. L. 357, provides:
+“None but the lowest responsible bid shall be accepted; but the board may, in its discretion, reject all the bids, or accept any bid for both labor and material which is the lowest in the aggregate for such improvement or repair.”
+Clearly the discretion to reject all the bids refers to such bids as are received in pursuance of the advertisement and can not relate to an independent and wholly unauthorized bid received after the date fixed in the advertisement.
+The relator has shown no right to a writ of mandamus and demurrer to the petition will be sustained.
+Jelke and Swing, JJ., concur.
