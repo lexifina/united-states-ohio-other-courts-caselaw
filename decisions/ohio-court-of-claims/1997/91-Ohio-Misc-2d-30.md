@@ -1,0 +1,32 @@
+---
+court: "Ohio Court of Claims"
+docket: "96-08431"
+decided: "1997-12-03"
+citations: ["91 Ohio Misc. 2d 30"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["J. WARREN Bettis, J., retired, of the Columbiana County Court of Common Pleas, sitting by assignment."]
+parties: ["SAFFELL v. DEPARTMENT OF REHABILITATION AND CORRECTION."]
+source_url: "https://static.case.law/ohio-misc-2d/91/cases/0030-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6710739
+cites_cases: ["10 OBR 485", "10 Ohio St.3d 150", "453 N.E.2d 666", "462 N.E.2d 392", "6 OBR 421", "6 Ohio St.3d 369"]
+---
+
+# Saffell v. Department of Rehabilitation & Correction
+
+## Majority (J. WaRren Bettis, Judge.)
+
+J. WaRren Bettis, Judge.
+In her complaint, plaintiff Wilhelmina Saffell alleges that defendant intentionally inflicted emotional distress upon her by questioning her gender and refusing to allow her to marry an inmate. Defendant denies any liability to plaintiff. On September 8, 1997, the court conducted a trial in this matter on the sole issue of liability. After review of all the evidence, the court renders the following decision.
+Plaintiff began a friendship with William McKarn eighteen years ago. McKarn was subsequently incarcerated at the Chillicothe Correctional Institution. Plaintiff continued her friendship through the exchange of correspondence and visits with McKarn following his incarceration. On June 16,1992, McKarn submitted a prison “kite” to Kenneth G. Eberts, Director of Social Services at Chillicothe Correctional Institution, requesting permission to marry plaintiff. Eberts approved McKarn’s request and set the marriage date for September 9, 1992.
+Plaintiff arrived at Chillicothe Correctional Institution on September 9,1992, at 8:45 a.m. Plaintiff and McKarn were scheduled to purchase the marriage license at 9:00 a.m., and the ceremony was to commence at 1:00 p.m. Upon her arrival, two corrections officers working at the visitors’ entrance observed plaintiff and became suspicious of her gender. The officers testified that they became suspicious based upon plaintiffs facial hair, body build, and mannerisms. Due to security considerations, the two officers telephoned Eberts and relayed their suspicions to him. Eberts was uncertain as to the proper procedure in dealing with the situation and called Warden Terry Morris. Warden Morris was also uncertain about how to handle the situation of a possibly male visitor wanting to marry a male inmate and therefore contacted Thelma Lowe, Deputy Clerk of the Ross County Court of Common Pleas, who was at the institution to sell marriage licenses to inmates. Lowe was also uncertain how to handle the situation. She thereupon contacted the Ross County Court of Common Pleas, Probate Division, and was told to accept plaintiffs marriage license application, but not to issue plaintiff a marriage license until a judge could render a decision.
+Warden Morris conducted a meeting with plaintiff, Eberts, and Lowe. Eberts attempted to tactfully explain the situation to plaintiff, who had become visibly upset. Plaintiff could not produce a birth certificate as proof of gender; however, Warden Morris offered plaintiff the opportunity to submit to a physical examination by the prison’s medical director. Plaintiff declined the examination. Plaintiff was then escorted to the visitation area for a meeting with McKarn. Plaintiff was again offered the opportunity to submit a marriage license application, but the offer was declined.
+The evidence indicates that plaintiff suffers from a medical condition called hirsutism, which is characterized by an excessive growth of hair. However, plaintiff did not inform anyone at Chillicothe Correctional Institution on September 9,1992, of her medical condition.
+Plaintiffs claim is based upon the tort of intentional infliction of emotional distress. The standard adopted in the recognition of the tort of intentional infliction of emotional distress is “succinctly spelled out in the Restatement as follows: ‘One who by extreme and outrageous conduct intentionally or recklessly causes severe emotional distress to another is subject to liability for such emotional distress * * *.’ Restatement of the Law 2d, Torts (1965) 71, Section 46(1).” Yeager v. Local Union 20 (1983), 6 Ohio St.3d 369, 374, 6 OBR 421, 426, 453 N.E.2d 666, 671; Reamsnyder v. Jaskolski (1984), 10 Ohio St.3d 150, 10 OBR 485, 462 N.E.2d 392. The Yeager court continued:
+“With respect to the requirement that the conduct alleged be ‘extreme and outrageous,’ we find comment d to Section 46 of the Restatement, supra, at 73, to be instructive in describing this standard:
+“ ‘* * *It has not been enough that the defendant has acted with an intent which is tortious or even criminal, or that he has intended to inflict emotional distress, or even that his conduct has been characterized by “malice,” or a degree or aggravation which would entitle the plaintiff to punitive damages for another tort. Liability has been found only where the conduct has been so outrageous in character, and so extreme in degree, as to go beyond all possible bounds of decency, and to be regarded as atrocious, and utterly intolerable in a civilized community. Generally, the case is one in which the recitation of facts to an average member of the community would arouse his resentment against the actor, and lead him to exclaim, “Outrageous!” ’ ” Yeager, supra, at 374, 6 OBR at 426, 453 N.E.2d at 671.
+The court finds that defendant’s conduct did not meet the standard set forth in Yeager. Defendant’s employees were faced with a situation that they had not previously encountered. Eberts and Warden Morris deferred to the judgment of the Ross County Court of Common Pleas as to whether to issue the marriage license. Defendant’s employees even offered to allow plaintiff to apply for the marriage license, pending gender authentication through plaintiffs birth certificate. Although plaintiff certainly was upset, embarrassed, and possibly humiliated by the situation, this court finds that defendant’s actions do not support a finding of intentional infliction of emotional distress. Accordingly, judgment is hereby rendered for defendant.
+Judgment for defendant.
+J. WARREN Bettis, J., retired, of the Columbiana County Court of Common Pleas, sitting by assignment.
