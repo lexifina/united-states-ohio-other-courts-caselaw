@@ -1,0 +1,30 @@
+---
+court: "Cincinnati Superior Court"
+decided: "1870-10"
+citations: ["1 Cin. Sup. Ct. Rep. 76"]
+reporter: "cin-sup-ct-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Irving National Bank of New York, Plaintiff in Error, v. Thomas Emery’s Sons, Defendants in Error."]
+source_url: "https://static.case.law/cin-sup-ct-rep/1/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1520242
+cites_cases: ["1 Gray, 542", "1 Johns. 214", "12 Pick. 297", "12 Pick. 302", "14 Wend. 546", "16 Pick. 467", "2 Wash. C. C. 283", "22 N. Y. 368", "46 Barb. 45"]
+---
+
+# Irving National Bank v. Thomas Emery's Sons
+
+## Majority (Storer J.)
+
+Storer J.
+This action is brought to recover the value of the property described in the bill of lading, and the question is presented, what title did the plaintiff acquire by the deposit of the bills of lading when the drafts were negotiated?
+Since the decision in Lickbarrow v. Mason, 2 T. R. 75, it has never been doubted that the transfer of a bill of lading by the consignor, as a general rule, transfers the property it describes, if made for value and in good faith; and although the presumption may well be that the consignor, by the shipment and the carrier’s contract to deliver to the consignee, has parted with his claim as owner, the fact is not conclusive, but may yet be explained by the circumstances.
+When the plaintiff purchased the drafts drawn by Mirrielies, and received from him the bills of lading, the transaction between the parties was not an idle ceremony. A legal or equitable claim to the property was vested by the act of delivery.
+It was so held by Judge Washington, in Walton v. Ross et al., 2 Wash. C. C. 283, that the indorsement and delivery of a bill of lading, or the delivery of the bill without indorsement, amounted to a transfer of the property.
+The same point had been previously decided by Gibbs, C. J., in Nathan v. Giles, 5 Taunton, 558, whose language is: “ The property in a cargo, for which the master of a ship had signed bills of lading, may be transferred by delivery without indorsement of the bill, and the transfer will be good against all the world, except subsequent indorsees for a valuable consideration.” This was also the ruling in Alton v. Williams, 12 Pick. 302, where the court say: “ The delivery of an informal or unindorsed bill of lading by the shipper would be a good symbolical delivery so as to vest the property in the plaintiffs.” The same point was decided in Bank of Rochester v. Jones, 4 Comstock, 497; whore the bank had loaned money, and to secure it “a forwarder’s receipt was deposited by the borrower.” The conclusions of the court in this case were adopted by Davis, C. J., in his opinion in Rawle & Seymour v. Deshler, 3 Keyes (40 N. Y.) 577, to sustain two propositions : First, That the delivery to the bank of the carrier’s receipt was a symbolical delivery of the property it described. Second, The delivery of the carrier’s receipt or bill of lading to the bank, for a valuable consideration, passed to the bank the legal title to the property. See also 1 Parsons on Shipping, 140.
+Upon principle, then, we are satisfied it is immaterial whether a formal transfer of the carrier’s receipt, at the time it is deposited, is made by indorsement or not. Sufficient is it that it is voluntarily delivered in good faith to secure a discount at a bank, or the loan of money; and it is immaterial whether the court should consider the title derived by the party was legal or equitable. We must hold, then, that when the property in litigation was received by the defendants, it was subject to the right of the plaintiff to be paid its full value, whether it is regarded as owner, or the holder of a lien, to the extent of their advances.
+The whole controversy is between the plaintiff and the defendants, and it is clear the defendants can not intervene with any claim against Mirrielies, who had parted with his interest at the time the bills were discounted by the bank in good faith, of all which the defendants must have been fully advised, as the drafts, when presented for payment, were accompanied by the bills of lading, and the drafts themselves purported to have been drawn against the purchase money of the property described in the bills. Moreover, the defendants insist by their answer, and one of them testifies, that the shipment to them was regarded as an ordinary consignment, and not as purchased for their benefit. They have thus placed themselves in this relation to the parties: receiving property which did not belong to the consignor, of which, as already remarked, they must have been advised; disposing of the same without authority from the plaintifis, and withholding the proceeds from them, on the ground that they have an unsettled claim against the consignor.
+If this ingenious method of discharging a debt against one individual, by appropriating the property of another to its payment, should he sanctioned, it would introduce an anomaly hitherto not supposed to exist in the law or the ordinary dealing among merchants.
+In any view the court may take of the case, the question might be asked; Who is entitled, “ ex aequo et bono” to the proceeds of the property in dispute. It has been sold and so much money has been received to the use of some one. It can not certainly belong to Mirrielies, for he had parted with'his entire right when the property was shipped. It can not be the property of the defendants, for they have no claim upon the plaintiffs which can authorize them to retain the money. The plaintiffs are, on every principle of equity, entitled to the protection of the court.
+At Special Term, one of the judges of this court, on the facts before him, held the plaintiffs could not recover in this form of action; but on a full and more careful consideration of all the facts, all the members of the court are now of opinion that the plaintiffs made out their cause of action in Special Term.
+The judgment should, therefore, be reversed.
