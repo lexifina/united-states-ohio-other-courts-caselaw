@@ -1,0 +1,25 @@
+---
+court: "Mahoning County Circuit Court"
+decided: "1911-10"
+citations: ["14 Ohio C.C. (n.s.) 331"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Metcalfe, J.; Norris, J., and Pollock, J., concur. •"]
+parties: ["Gertrude McKelvey’s Administrator v. Wm. H. McKelvey."]
+source_url: "https://static.case.law/ohio-cc-ns/14/cases/0331-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1815136
+cites_cases: ["75 N. Y., 134"]
+---
+
+# McKelvey's Administrator v. McKelvey
+
+## Majority
+
+This action was brought by the administrator of the estate of Gertrude McKelvey, under favor of Section 10857, General Code, to obtain the judgment of the court as to certain matters about which controversy had arisen in the settlement of the estate.
+The plaintiff’s decedent, Gertrude McKelvey, was an actress. While in the city of Manila, in the Philippine Islands, she sustained a loss by fire on some property which she owned, and upon which she held a policy of insurance. The amount due on the policy of insurance was collected for Miss McKelvey by O’Brien & Peoples, a firm of attorneys in Manila, and Mr. O’Brien was directed by her to purchase therewith a number of United States money orders payable to her sister, Mrs. Plupfer. Soon after the purchase of the money orders Miss McKelvey went to Hong Kong, China, and while in that city she was murdered, and upon the person of the man arrested for her murder was found the money orders. It is now claimed that Miss McKelvey made a valid gift of the money orders to Mrs. Hupfer, or that by her, actions and declarations with reference to them she created a trust which the court should enforce in Mrs. Hupfer’s favor.
+The only testimony we have as to how the orders came to be in the name of Mrs. Hupfer is that of the attorneys in Manila, O’Brien & Peoples. In their depositions are related conversations between Mr. O’Brien and Miss McKelvey with reference to what she wanted done with the money, and his advice to her. These conversations we think are clearly incompetent under Section 11494, General Code, which prohibits an attorney from testifying to a communication made to him by his client in that relation, and his advice to. the client. Some facts are related, however, which we think are competent. Mr. 0 ’Brien says that he took the money which was collected on the insurance policy, and that he went to the post office, purchased the money orders in question, took them to his office and delivered them to Miss Mc-Kelvey.
+The purchase of the order in the name of Mrs. Hupfer was no doubt done under the direction of Miss McKelvey and we think that it evinced an intention on her part to give the money to, her sister. But the question is did she carry out that intention so as to make it effective and pass the title to the property? ¡Several things must concur to make a valid gift. First, there / must be an intention on the part of the giver to part with his 1 property. Such intention, we are inclined to think, appears. But there must be something more than an intntion. The inten- , tion to give, to be made effective, must be carried out by the donor ^relinquishing dominion over the property and delivering it to ¡ the donee either actually or constructively. Whatever Miss Mc-Kelvey may have intended to do, there is no evidence tending to show a delivery of the property to her sister, and she certainly did not relinquish her dominion and control over it. Taking out the orders in the name of Mrs. Hupfer did not prevent her from -returning them to the post office and having them canceled and receiving back the money which she had paid for them. She could have done this any time she wished (Revised Statutes, U. S., Sections 4035-4039). The fact that the orders did not come to Mrs. Hupfer, and that Miss McKelvey retained possession of them make the transaction lack all the essential elements of a gift, save the intention alone.
+It is urged, however,'that the facts in this case constitute a trust in the money represented by the several orders in favor of Mrs. Hupfer, but we think the transaction will not bear that construction. The eases cited do not, in our judgment, support it. In Martin v. Funk, 75 N. Y., 134, money was deposited in a savings bank, the depositor declaring at the time that it was in trust for the plaintiff and the account was so entered, and a pass book made out, which the donor held in her possession until her death. The court held that a trust was created. Here there was an express declaration of a trust and so it is with the other cases cited. Either there was an express declaration of a trust, or there were facts present which showed an intention to create one. Such intention, however, we do not think appears here.
+The.unfortunate circumstances of this case prevent us from carrying out what we think was the probable intention of Miss MeKelvey, and prevent us from finding in Mrs. Hupfer’s favor, but we can not disregard the law as we see it and therefore the judgment is for the plaintiff. ■
