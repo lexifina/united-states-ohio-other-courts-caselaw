@@ -1,0 +1,54 @@
+---
+court: "Hamilton County Court of Common Pleas"
+decided: "1933-09-20"
+citations: ["32 Ohio Nisi Prius (n.s.) 395"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Margaret Bohne v. Pauline Clerke."]
+source_url: "https://static.case.law/ohio-np-ns/32/cases/0395-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1571832
+cites_cases: ["107 O. S., 75", "109 O. S., 519", "89 O. S., 61"]
+---
+
+# Bohne v. Clerke
+
+## Majority (Dabby, J.)
+
+Dabby, J.
+In the Municipal Court the defendant in error recovered a verdict against the plaintiff in error for $500.00, upon which judgment was entered. This action is brought to reverse that judgment, based upon failure of proof, and error in the charge of the court.
+The parties will be referred to as they stood upon the record in the Municipal Court.
+The plaintiff’s action was based on the claim of injuries sustained by her by reason of the dog of the defendant scratching her and causing other injuries while she was walking upon Grandin road, a public highway of the city' of Cincinnati, at about the hour of eight o’clock P. M. The bill of particulars in the second paragraph sets forth that plaintiff was walking on the road and passing the premises of the defendant, when the large German police dog of the defendant ran upon the highway from the premises of the defendant, and barked, snarled and leaped upon the plaintiff, causing the scratches and injuries referred to. It is further set forth in the bill of particulars that at the time referred to, which was after sunset, defendant permitted her dog to run at large without being controlled by leash or other device.
+The answer was a general denial, thus putting in issue all the allegations of the bill of particulars, even the ownership of the defendant’s dog, which she admitted.
+The claim of the plaintiff was that she left her home, some half mile or so from the scene of the injury complained of, about eight o’clock; she had her bulldog upon a leash, and walked along the road referred to, which is a winding road and upon which there are no sidewalks. She says that as she reached the premises of the defendant, which were across the road, her attention was suddenly attracted by a loud bark from defendant’s dog, that she immediately picked up her dog and held it in her arms, and the defendant’s dog rushed at her, barked, snarled, leaped upon her, tore her clothes and scratched her body on the side and back; that defendant’s dog persisted in his effort to get at plaintiff’s dog, and that the latter, while the police dog was jumping at him, caught him by the ear and there was some difficulty in separating the dogs. Her claim further is, that after a great deal of difficulty she reached her home, where, because of the scratching and leaping upon her she was rendered ill and required the services of a physician for several weeks. Plaintiff’s claim that all this happened after eight o’clock in the evening is sustained by the evidence of her husband.
+On behalf of the defendant, the claim was that defendant’s dog was running in the road in daylight, and long before the hour of sunset, and that seeing the plaintiff’s dog he tried to get at the dog to engage in a fight, and that plaintiff took her dog in her arms, that defendant’s dog tried to get at plaintiff’s dog, but did not leap upon her nor scratch her body.
+A question of fact was therefore plainly in issue as to whether or not the defendant’s dog did leap upon, scratch and injure the plaintiff. It is plain that plaintiff sought to prevent a fight between the two dogs, and that she at all times held her own dog in her arms. In any event, the dog of the defendant, in whatever it did, got so close to the plaintiff that the dog in her arms caught the other by the ear.
+The jury - by its verdict evidently believed the evidence of the plaintiff, that she was injured by defendant’s dog. There is ample evidence to sustain this finding of the jury.
+The second ground of error claimed is that the court erred in failing to charge the jury upon the subjects of negligence and ordinary care. No request was made that any such charge should be given, and it is not argued that there is error in anything that the court did charge.
+The liability for injury of persons by a dog is clearly stated in Section 5838, General Code. The pertinent part of that statute is as follows:
+“A dog that * * * worries, injures * . * * a * * * person can be killed at any time or place; * * * . The owner or harborer of such dog shall be liable to a person damaged for the injury done.”
+In Silverglade v. Von Rohr, 107 O. S., 75, the court say:
+“1. The liability imposed by Section 5838, General Code, upon the owner or keeper of a dog that chases, worries, injures or kills a person is in no sense dependent upon the negligence of such owner or keeper.”
+On page 79 the court say:
+“The effect' of that decision (Kleybolte v. Buffin, 89 O. S., 61) is to hold the owner or harborer of a dog liable under Section 5838, General Code, for all damages occasioned to a person who is chased, worried, injured or killed by such dog, and the necessary elements to establish such liability are the ownership of the dog and the injuries sustained because of the dog.
+“Applying that doctrine to the instant case, it was only necessary for the plaintiff to prove that the defendant was the owner of the dog, that the dog chased or worried plaintiff, that as a proximate result of such chasing or worrying plaintiff was injured, and the extent of the injuries sustained.”
+In Lisk v. Hora, 109 O. S., 519, the court sustains the interpretation of Section 5838 above stated.
+The manner in which- the injury by a dog is inflicted is not material. Kleybolte v. Buffin, supra, was a dog bite case; Silverglade v. Von Rohr, supra, was an injury resulting from actions of a dog running into the road and causing an automobilist to strike against a tree while endeavoring to avoid striking the dog; Bevin v. Griffiths, (Court of Appeals Lorain county, O. L. R. March 30, 1933) was a case of a dog injuring a servant of the defendant, as a result of a fall caused by the dog coming in contact with her while it was scratching itself.
+Section 5652-14a, General Code, (112 O. L.,' 347) is a part of the law relative to the taxation and control of dogs, and is the section referred to in the bill of particulars, which it is alleged was violated by the defendant in allowing her dog to go upon the highway after sunset without leash or other controlling device. So far as applicable, that section is as follows:
+“The owner or keeper of every dog shall at all times between the hours of sunset and sunrise of each day, keep such dog either confined upon the premises of the owner, or firmly secured by the means of a collar and chain or other device, so that it cannot stray beyond the premises of the owner or keeper, or under reasonable control of some person, or when lawfully engaged in hunting accompanied by an owner or handler.”
+A penalty is provided for violation of that section.
+There was evidence that this injury occurred after sunset, and the undisputed evidence is that the dog was upon the highway, was not restrained except that it was muzzled.
+There is nothing in the last section referred to that indicates any purpose on the part of the legislature to relax in any degree the rigidity of the rule of interpretation of Section 5838 established by the Supreme Court in the cases above referred to. On the contrary, greater care on the part of owners of dogs is exacted by the section, and regardless of that section, if a person is injured by another dog, especially upon the highway, the owner is liable.
+The court in the charge made it very clear that plaintiff could only recover in case she was injured by the dog of the defendant. The court goes on to say in the charge, after referring to the claim that the dog was not controlled, as follows:
+“If that dog was not so controlled, was the plaintiff injured as a proximate cause of defendant’s failure to keep the dog under such control? If you find that to be a fact, was the plaintiff injured by the defendant’s dog, and if so, to what extent and what damages would the plaintiff recover by reason of the injuries sustained from the plaintiff’s dog?”
+The court then proceeds to state the provisions of Section 5652-14a, and then states:
+“ * * * and you find that the failure of the defendant so to keep her dog, if you find that the defendant did fail so to keep her dog, was the proximate cause of the injuries of the plaintiff, then the plaintiff is entitled to a verdict at your hands. That is true because under the laws of Ohio, the legislature has provided that a dog that chases, worries, injures or kills a person can be killed _ * * ■ That creates upon the owner of a dog absolute liability for injuries done by any dog owned by any one. It does not, however, create liability for injuries created by any one’s dog other than their own dog.”
+Thus it will be seen that the court plainly and clearly charged the jury that the plaintiff could recover only in case she were injured by the defendant’s dog.
+The cause of action clearly arose under Section 5838, General Code, and the charge might have been simpler had the court in the first part of the charge stated that that was the basis of the action, but in view of the entire charge, the jury could not have been misled into believing that the plaintiff was entitled to recover merely because the dog of the defendant was unleashed or uncontrolled.
+It seems clear in view of the holdings of the Supreme Court above referred to, that even if the dog of the defendant ha,d been on a leash, and while in such situation it injured the plaintiff, she would still have her right of recovery.
+The jury was carefully charged both in the general charge and by special charge given at the request of the defendant, that the defendant in any event would only be liable for the injuries inflicted by her own dog. The special instruction referred to is as follows:
+“If you find that the plaintiff’s dog caused the injuries to the plaintiff, then your verdict must be for the defendant.”
+It cannot be said that the court erred in stating that if the failure to control the dog on the premises of the defendant, or to keep it on a leash was the proximate cause of plaintiff’s injury defendant is liable, because if the injuries were inflicted by the dog, defendant is liable.
+The sections referred to were passed by the legislature for the protection of the public, and a rigid rule is placed upon owners of dogs. One who keeps a dog accepts responsibility for it. One who is injured by a dog has a right of recovery.
+The jury has settled the matters of fact, and there is no error in the charge of the court. Judgment affirmed.
