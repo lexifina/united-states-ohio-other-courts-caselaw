@@ -1,0 +1,44 @@
+---
+court: "Hamilton County Probate Court"
+decided: "1889-08-08"
+citations: ["1 Goebel 233"]
+reporter: "goebel"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In Re Estate of James Dair, Deceased."]
+source_url: "https://static.case.law/goebel/1/cases/0233-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1519206
+cites_cases: ["2 Ohio St. 4325", "27 Ohio St. 398", "4 Ohio 138", "5 Ohio 72", "59 N. Y. 140", "65 N. Y. 340", "89 N. Y. 1"]
+---
+
+# In re Estate of Dair
+
+## Majority (Goebel, J.)
+
+Goebel, J.
+For the purpose of determining the questions pre-. sentecl it is admitted that if an account were stated of the partnership affairs there would be due from George W. Keen to the estate of James Dair, a certain amount.
+But it is maintained by Keen,
+First. That the amount that the Court may find to be due, would not be such a debt as the statute contemplates is chargeable to an administrator under section 6069 of the Revised Statutes.
+Second. If it is a debt within the meaning of section 6069, it is not chargeable against Keen as administrator, if Keen as administrator, was and ever since continued to be insolvent.
+At common law, if a creditor appointed his debtor his executor, the appointment operated as a release or extinguishment of the debt. And the law was the same where the creditors appointed one, of several joint, or even joint, and several debtors, his executors ; and in such case it operated as an extinguishment of the debt as to all and released all.
+But this rule has been abolished by the enactment of section 6069 which provides that the naming of any person executor in a will, shall not operate as a discharge, or bequest of any claim which the testator had against such executor; but such claim shall be included among the credits and effects of the deceased in the inventory. And the executor shall be liable for the same, as for such money in his hands, at the time such debt or demand becomes due, and he shall apply and discharge the same in payment of debts and legacies among the next of kin, as part of the personal estate of the deceased.
+It is well settled in Ohio by the express provision of this section, and by decisions, that such claims shall be assets in the hands of an executor, to be accounted for by him; and this rule includes administrators. Bigelow v. Bigelow, 4 Ohio 138; Hall v. Pratt, 5 Ohio 72; Tracy v. Card, 2 Ohio St. 4325 Shields v. Odell, 27 Ohio St. 398.
+This is the law in New York under a similar statute, and substantially the same result has been reached in Massachusetts and in other states. Matter of Accounting of Consalus, 65 N. Y. 340; Baucus v. Stover, 89 N. Y. 1; Soverhill v. Suydan, 59 N. Y. 140; Ipswick Mfg. Co. v. Story, 5 Met. (Mass.) 310.
+But is claimed that such debts did not become assets in the hands of Keen because, at the time of his appointment, he was the surviving partner and entitled to the assets as such ; again, that if any indebtedness existed, it can only be to the firm, and no individual obligation arises until there has been a settlement of the partnership accounts, and a closing up of the partnership affairs ; that this not having been done during the time Keen was the administrator, whatever indebtedness the court may find to exist, cannot now be charged against him.
+Keen was entitled to the partnership assets. As the surviving partner, it was his duty to wind up the concern by applying its assets to the payment of its debts, and take, as administrator, any surplus to which the estate might be then entitled. Can there be any doubt but that he must charge himself with such surplus ?
+If he took such assets, as surviving partner, under section 6069 Rev. Stat., then as administrator, he must account to the estate for the interest of Dair in said partnership ; not by reason of section 6069, but upon an express contract made as an individual, whereb}^ he agreed to pay a certain sum to the estate, not upon an indebtedness existing in the life time of Dair, but one subsequently accruing.
+But it is not sought to charge Keen with any surplus or the value of the interest of Dair in the partnership assets. It is sought to charge him with an indebtedness existing in favor of Dair at his death, growing out of their partnership affairs. •
+It must be admitted that, in the ordinary acception of the terms, one partner can not be indebted to another; nor can such partner sue his co-partner on an indebtedness arising out of partnership transactions. An individual obligation arises, when the partnership affairs are closed up. While Dair, during the existence of the partnership, could not enforce in law his claim against Keen, we do not understand that, such debt could not be enforced on the appointment of Keen as administrator. On Dair’s death the partnership was dissolved and the.disability no longer existed.
+The question here does not depend upon the time when the debt may be enforced. But did a debt exist in favor of Dair against Keen at the time of Dair’s death ?
+The reason for the common law rule was, that an executor could not maintain an action against him-r self. His appointment by his creditors to that office suspended the action and practically discharged it.
+Although section 6069 abolishes that rule, the principle of the rule still exists, the difference being in the result. Now the debt becomes assets in the hands of the executor or administrator. And this proceeds upon the ground that, when the same hand has to pay and receive money, that which the law requires to be done, shall be deemed to be done.
+Assuming now, that this was a debt due the firm of Keen & Co., as administrator, Keen could not sue this firm of which he was a member. Now let us assume that this was a debt due the estate of Dair; Keen as administrator, could not sue himself. There was therefore, in either event, no way by which Keen, as administrator, could enforce payment from the firm or from him individually, both being unwilling to pay.
+It is also claimed that the amount of the liability has not been fixed. In other words, it is an unliquidated debt, and, therefore, not such a debt as contemplated by section 6069. It is true in this case, that the amount of the liability has not been determined. That is one of the objects of this proceeding. Shall it stop because Keen has not acknowledged the amount of his indebtedness ? If it must, then the administrator may simply deny his indebtedness, and thereby deprive the court of its jurisdiction.
+Every claim which a testator has against the person appointed executor does not become assets. The statute says any “just claim.” The justness of a claim may depend upon an adjudication, and it was not intended to deprive either side of the right to prove or disprove such claim.
+Counsel cite Shields v. Odell, 27, Ohio State 398. We do not see that that case has any application to the one at bar. The court there held that the principle involved in the appointment of a debtor as administrator by which the debt is converted into assets in his hands to be accounted for, does not apply to one who is only conditionally liable to the estate.
+In that case, Jacob H. Moore was a surety on the bond of Abraham J. Moore, executor, who was subsequent!}-' removed. Jacob was appointed in his stead. Abraham being indebted to the estate, it was sought to charge Jacob, on his appointment as administrator with the amount of Abraham’s liability to the estate under section 6069, he being a surety on Abraham’s bond. In deciding the case, the court said, that the principle applicable to one who is a debtor, is not applicable to one who is a surety; that a conditional liability is not always a debt, and that such surety was entitled to his day in court.
+Keen’s position in this case, is not dependent upon a contingent liability. The court having jurisdiction to hear and determine the questions involved, on determining the amount of the indebtedness, makes him a debtor absolutely and unconditionally. He has had his day in court.
+It is also claimed, that under sec. 6181 R. S., Keen should not be charged, if it should appear that the debt remained uncollected without his fault. This section can have no application to the questions here involved.
+We are also asked to decide that if Keen was insolvent at the time of his appointment and remained so, his sureties are not liable. Upon this proposition we express no opinion. We do not think it necessary to do so. The questions here involved do not depend upon the solvency or insolvency of Keen, or whether his sureties would or would not be affected.
+Let this case proceed upon its merits; and if the court shall find an amount due, it must follow that such amount is assets in the hands of Keen and he will be so charged in his account.
