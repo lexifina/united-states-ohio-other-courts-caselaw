@@ -1,0 +1,35 @@
+---
+court: "Cuyahoga Circuit Court"
+decided: "1894-01"
+citations: ["4 Ohio Cir. Dec. 231"]
+reporter: "ohio-cir-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Baldwin, Caldwell and Hale, JJ."]
+parties: ["W. J. Rainey v. Jefferson Iron Works."]
+source_url: "https://static.case.law/ohio-cir-dec/4/cases/0231-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1623108
+cites_cases: ["25 O. S., 347", "31 O. S., 537", "51 O. S., 290"]
+---
+
+# Rainey v. Jefferson Iron Works
+
+## Majority (Baldwin, J.,)
+
+Baldwin, J.,
+(orally.)
+The Jefferson Iron Works is a foreign corporation, holding charter under the statutes of the state of West Virginia, having its works in Jefferson county in this state. The suit is based upon a contract and is in attachment. There was no question that the affidavit of the attachment was sufficient under sec. 5521. Section 5030 provides that:
+“An action other than one of those mentioned in the first four sections of this chapter, against a non-resident of this state, or a foreign corporation, may be brought in any county in which there is property of, or debts owing to, the defendant, or where such defendant is found.”
+Jurisdiction in this county was obtained by garnishment of the Geo. Worthington Co., which was indebted to the Jefferson Iron Works. A motion was made in the court of common pleas to set aside the attachment and the service thereunder upon the ground that it had been fraudulently procured.
+The evidence upon this subject showed that Worthington & Co. ordered some nails of the Jefferson Iron Works which were sent them; that they were immediately served with a writ of garnishee, and it showed that there had been some conversation with Mr. Rainey; that he wanted some of these Jefferson Iron Works’ nails, and suggested they buy some.
+The court of common pleas was of the opinion that that was such a fraud that the attachment service should be set aside. We are unable to agree with that court in that respect. It is well established that an attachment and service may be set aside where it is obtained by illegal means, or by fraud. The illegal means must be a violation of some legal rights of the parties, and if the plaintiff in attachment has violated the legal rights of the defendant in order to get that attachment, it may beset aside; if he has been guilty of fraud, it must be a fraud, such as fraudulent representation, or some other active fraud in order that the attachment may be set aside, and with it the service. But we do not find any such fraud.
+Quite a number of authorities have been cited, all different from the case we have here. In Kiser v. George, 10 Dec. R., 218, the plaintiff was an employee of a Kentucky railroad corporation and sued with attachment, and levied on cars in Cincinnati; but he was emploj'ed — he had charge of these cars, and in direct violation of his duties as an employee of the railroad company, he sent these cars into Cincinnati, knowing the company was going to make an assignment. He did this in order to get these cars where he might attach them. The court held that that was not a proper proceeding.
+In the last case cited from the 10th Allen, the plaintiff was guilty of false and fraudulent representations made to the defendant in order to get jurisdiction of property, and the court very properly set that aside. We think it will be found on examining the text-books and all the cases upon the subject, that those where the attachment and service were set aside contained elements very different indeed from this case. There were no false representations, and at the most, mere suggestions to the corporation garnisheed that plaintiff would like it to get some nails from the Jefferson Iron Works. We think the decision of the court of common pleas was not correct.
+It is claimed next that the attachment and service should be set aside upon another ground by virtue of a decision lately made by the Supreme Court in this state, and we are cited to the language of the learned judge delivering the opinion m.the case of Root & McBride Brothers v. Davis, 51 O. S., 290.
+“ It may be conceded that the credits of a non-resident debtor, without personal service upon him, cannot be attached in this state by simply serving the process of garnishment upon his debtor residing within the jurisdiction of the court issuing the process. That would be to give to the laws an extra territorial effect.”
+Then follows the citation of the case from the B. & O. R. R. Co. v. May, 25 O. S., 347, where the contrary doctrine was held, and a discussion of some other authorities. We regard it as unnecessary to examine this question. As we read it, the language cited Root & McBride Bros. v. Davis, supra, has no application in the present suit. In this case the action was brought under sec. 5030, providing for action against non-resident debtors and foreign corporations. Action may be brought in any county 1 ‘where there are debts owing to the defendant ” The defendant was a foreign corporation, and there was a debt here; the further reasoning of the court, in Root & McBride Bros. v. Davis, supra, and the decision tend to show that the situs of that debt was this county. But the language in that case is “without personal service.” In this case there was personal service upon the defendant. An affidavit, which is a part of the evidence, shows that affiant is president of this corporation, The Jefferson Iron Works; that said corporation is organized under the laws of the state of West Virginia, but for five years last past it has been doing its business in Jefferson county, Ohio, where its manufactory is located; that at the commencement of this action, and for a long time previous thereto, affiant, as such president, was a resident of Jefferson county, as was also George B Harden, the secretary thereof, and affiant says “that there has been a time (he means no time, of course) for two years last past when service of summons could not be made upon said defendant corporation at said Jefferson county, Ohio, all of which said plaintiff well knew.”
+Squires, Sanders & Dempsey, for plaintiff in error.
+John M. Cook, Esq., and Henderson, Cline & Tolies, for defendant in error.
+It is hardly necessary to say, as laid down in the Penn. R. R. Co. v. Peoples, 31 O. S., 537, that where a corporation comes into a state in such manner, it submits itself to the jurisdiction of the state. The general rule is, that where a foreign corporation comes within a state to transact its general business, it tomes within the jurisdiction of that state. It is easier to sue this corporation, in Ohio than in West Virginia: Its factory, its business and its offices are in this state.
+As a matter of fact, the corporation in this case was actually served, so that we think it did not come at all within the statement made in the decision of the court which was cited to us. The action of the court of common pleas in setting aside the attachment and service of summons is reversed, and the cause is remanded for further proceedings.
