@@ -1,0 +1,42 @@
+---
+court: "Medina Municipal Court"
+docket: "87 CRB 01184"
+decided: "1988-02-19"
+citations: ["39 Ohio Misc. 2d 5"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CITY OF BRUNSWICK v. GIGLIO."]
+source_url: "https://static.case.law/ohio-misc-2d/39/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6705608
+cites_cases: ["150 Ohio St. 349", "176 N.E. 587", "20 Ohio App. 2d 163", "20 Ohio App. 2d 313", "252 N.E. 2d 295", "253 N.E. 2d 311", "27 OBR 416", "27 Ohio App. 3d 357", "38 O.O. 189", "38 Ohio App. 310", "390 U.S. 570", "49 O.O. 2d 196", "49 O.O. 2d 401", "501 N.E. 2d 79", "524 F. Supp. 821", "82 N.E. 2d 730"]
+---
+
+# City of Brunswick v. Giglio
+
+## Majority (Chase, J.)
+
+Chase, J.
+The defendant in this case has moved to dismiss the charges brought against him on the ground that this court does not have jurisdiction to handle this case.
+The defendant, Frank A. Giglio, has been charged in two complaints with violations of Brunswick City Code Section 636.04(a), aggravated menacing, and Brunswick City Code Section 636.05(a), menacing. He was issued a summons to appear in the Mayor’s Court of the city of Brunswick, and on October 9, 1987, he appeared and entered pleas of “not guilty” to each complaint. On October 22, 1987, the Clerk of the Brunswick Mayor’s Court issued a written notice to the Clerk of the Medina Municipal Court, advising that the defendant had entered “not guilty” pleas and that the case was being referred “for placement on your docket, or for your final disposition.” This notice was received by the Clerk of the Medina Municipal Court on October 29, 1987. The case was entered in the docket of the Medina Municipal Court and on October 30, 1987, a summons was issued to the defendant to appear for trial. Prior to trial, the defendant timely filed this motion to dismiss.
+The defendant contends that the Medina Municipal Court does not have jurisdiction to hear this case because there is no statutory provision authorizing a mayor’s court to laterally transfer a case to another court of concurrent jurisdiction. Whitehall v. Wolfe (1986), 27 Ohio App. 3d 357, 27 OBR 416, 501 N.E. 2d 79.
+Defendant contends that R.C. 1905.01 vests mayor’s courts with jurisdiction to hear cases arising, inter alia, from violations of municipal ordinances, that this jurisdiction is concurrent with that of the municipal court which has geographical jurisdiction over the municipality, and that as between courts of concurrent jurisdiction, the court whose authority is first properly invoked acquires exclusive jurisdiction. John Weenink & Sons Co. v. Court of Common Pleas (1948), 150 Ohio St. 349, 38 O.O. 189, 82 N.E. 2d 730.
+The city of Brunswick opposes the motion to dismiss. A violation of Brunswick City Code Section 636.04 (a), aggravated menacing, is a misdemeanor of the first degree. A violation of Brunswick City Code Section 636.05(a), menacing, is a misdemeanor of the fourth degree. Brúnswick City Code Section 698.02 establishes the penalties for these offenses as a fine of not more than $1,000 and a term of imprisonment of not more than six months for the first degree misdemeanor, and a fine of not more than $250 and a term of imprisonment of not more than thirty days for the fourth degree misdemeanor. Pursuant to Section 5, Article I of the Ohio Constitution and R.C. 2945.17, the defendant is entitled to a trial by jury on each offense.
+The city contends that the mayor’s court could only retain jurisdiction pursuant to R.C. 2937.08 if the defendant executed a written waiver of his right to trial by jury and that absent such a waiver, the mayor’s court has no authority to proceed, but must certify the case to a court of record as required by R.C. 2938.04 because it cannot adjudicate the entire dispute.
+The defendant contends that forcing him to waive his right to trial by jury in order to preserve the jurisdiction of the mayor’s court to hear the case subjects the right to trial by jury to a needless burden and has a chilling effect upon the exercise of that right. United States v. Jackson (1968), 390 U.S. 570. Defendant further contends that a mayor’s court is a court of record for purposes of R.C. 2937.08 and 2938.04.
+A municipal court has jurisdiction to hear, inter alia, any case involving the violation of any ordinance of a municipal corporation within its territory. R.C. 1901.20. Upon the institution of a municipal court, the jurisdiction of the mayor of the municipal corporation in which the court is located terminates. All other mayors within the territory may retain jurisdiction over violations of ordinances of their respective municipal corporations, which jurisdiction is “to be exercised concurrently with the municipal court.” R.C. 1901.04.
+Therefore, by statute, the Brunswick Mayor’s Court and the Medina Municipal Court have concurrent jurisdiction over violations of ordinances of the city of Brunswick, as in this case.
+A mayor’s court exercises its jurisdiction over violations of ordinances of its municipal corporation pursuant to R.C. 1905.01, which expressly makes that jurisdiction “subject to the limitations of sections 2937.08 and 2938.34 of the Revised Code.” (R.C. 2938.34 has been repealed.)
+R.C. 2937.08 establishes the statutory manner whereby a magistrate proceeds to adjudicate a case in which there is a “not guilty” plea entered. Pursuant to R.C. 2931.01(A), the definition of “magistrate” for purposes of R.C. Chapters 2931 to 2953 includes “mayors of municipal corporation^].” See, also, Cincinnati v. Nunnelley (1969), 20 Ohio App. 2d 163, 49 O.O. 2d 196, 252 N.E. 2d 295.
+R.C. 2937.08 provides that a magistrate shall not try a case if a right to jury trial exists “unless the accused, by writing subscribed by him, waives a jury and consents to be tried by the magistrate.”
+Absent such a waiver, the magistrate “shall require the accused * * * to appear before [a] court of record in the county, set by such magistrate” and “shall thereupon certify all papers filed * * * to such designated court of record.” After such a transfer, “trial shall proceed in the transferee court.” R.C. 2937.08.
+Defendant’s contention — that requiring a waiver of trial by jury before he can be tried in the mayor’s court is a “needless burden” which has a “chilling effect” upon the exercise of that right — is without merit.
+United States v. Jackson, supra, cited by defendant, dealt with the right of a jury to impose a death penalty, which right was not provided to a judge after trial to the court only. Jackson stands for the proposition that the penalty for an offense cannot be enhanced as a consequence of the defendant’s demand for trial by jury. In this case, the punishment provided by the Brunswick City Code remains the same regardless of whether the defendant waives or demands a jury trial. Thus, there is no “needless burden” or “chilling effect.”
+It is also clear that a mayor’s court is not a “court of record” in this state. Pettiford v. Yellow Springs (1930), 38 Ohio App. 310, 176 N.E. 587; Greenhills v. Miller (1969), 20 Ohio App. 2d 313, 49 O.O. 2d 401, 253 N.E. 2d 311.
+Furthermore, a mayor who proceeds to hear a case without jurisdiction due to a party’s refusal to waive a right to trial by jury is stripped of judicial immunity for his or her actions. Schorle v. Greenhills (S.D. Ohio 1981), 524 F. Supp. 821.
+Whitehall v. Wolfe, supra, appears not to have considered the interplay of R.C. 1905.01 (mayor’s court jurisdiction) with R.C. 2937.08 (action by magistrate upon plea of not guilty). Furthermore, the supporting decisions in the text of Whitehall, supra, dealing with concurrent jurisdiction, all dealt with civil disputes.
+R.C. 2937.08 is the statutory provision that authorizes transfer of a case from a mayor’s court to a municipal court, even when concurrent jurisdiction exists. In addition, absent a waiver of jury trial, the mayor’s court would not be a court of “competent” jurisdiction to hear the case. By statute, in such instances, the jurisdiction of the mayor’s court ceases and the jurisdiction of the corresponding court of record begins.
+Accordingly, the defendant’s motion to dismiss and a corresponding motion to order removal of this case to the mayor’s court are overruled.
+IT IS SO ORDERED.
+Judgment accordingly.
