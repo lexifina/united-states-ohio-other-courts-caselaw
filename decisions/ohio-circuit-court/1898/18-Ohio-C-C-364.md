@@ -1,0 +1,24 @@
+---
+court: "Ohio Circuit Court"
+decided: "1898-10"
+citations: ["18 Ohio C.C. 364"]
+reporter: "ohio-cc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before King, Haynes and Parker, JJ."]
+parties: ["EMMA B. GREEN v. BENJAMIN RAITZ."]
+source_url: "https://static.case.law/ohio-cc/18/cases/0364-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 409958
+---
+
+# Green v. Raitz
+
+## Majority (Haynes, J.)
+
+Haynes, J.
+The petition in this case was filed to reverse the action of the court of common pleas in granting a nunc pro tunc order to correct a journal entry. A cause in which Emma B, Green was plaintiff was tried in the court of common pleas before Judge Pratt, and such proceedings were had that a verdict was rendered by the jury against the plaintiff. Subsequently a motion for a new trial was filed by the plaintiff, Emma B. Green, which came on to be heard, and was overruled on the 27th day of November, 1897. The journal clerk in making the entry of the judgment overruling the motion, entered it as of the first day of December, 1897. The plaintiff in error excepted to the action of the court, and took leave to file a bill of exceptions, and was given fifty days from the overruling of the motion in which to file her bill of exceptions. On the 18th day of January, 1898, a motion was filed by the defendant in error to correct the journal entry so as to show that the motion for a new trial was overruled on the 27th day of November, and not on the 1st day of December. That came on for hearing on that day before Judge Pratt, and the defendant in error —Ihe defendant below — 'offered in evidence the motion docket. Testimony as to the motion docket was offered that the entry thereon was in the handwriting of Judge Pratt, and was made at the time the motion was overruled,, the testimony being taken of ihe deputy clerk. Subsequently the docket was offered to the court, it beingJ_ admitted by both parties that the entry was made in the handwriting of Judge Pratt. Upon that the defendant in error submitted hie motion without further evidence. Somejestimony was offered on behalf of the plaintiff in error, not in regard to the correctness of the date on which the motion was overruled, to-wit: on the 27th day of. November, but by way of excuse for not having the bill of exceptions finished before the time at which it was submitted; for it appears inferentially, though not directly, that the bill of exceptions had been submitted to the court of common pleas on the 17th day of January, 1898. If the motion had been overruled on the 1st day of December, the handing of that bill of exceptions to the court on the 17th day of January would have been in time; if the motion was overruled on the 27th day of November, then it would be two days too late.
+The real objection made by counsel for plaintiff in error is, that this docket is not evidence of the time when the motion was overruled. He does not claim that he was not present or did not know the day it was in fact overruled, but says that subsequently, a week or so before the filing of his bill of exceptions with the court, he looked on the journal and saw it was entered on the 1st day of December. It is true, as suggested by counsel, that there is nothing in the statute requiring the motion docket to be kept in this court, and it has been argued in this case and it has been argued before in this court that the entries upon it are no evidence whatever. T do not think it is necessary to discuss that here now. This motion docket existed in that court, was the docket upon which the motions were placed, and the entry overruling the motion, together with the date on which it was made, was entered in the handwriting of Judge Pratt, before whom this motion was being heard; and upon that fact being proved,' it was perfectly competent to submit that document to him as a written memorandum of the date upon which the motion was actually overruled. He had a right to act upon it, and he had a right to make an entry, as he did, that the journal be corrected so as to bear date the 27th of November.
+F. M. Sala, for Defendant in Error.
+M. B. Lemmon, for Plaintiff in Error.
+It is argued that this is not a nunc pro tunc entry. But the date is as much a part of the entry as anything connected with it. As the statute now exists, it becomes necessary that the journal should show the actual date on which the motion was overruled, and it should be clearly and correctly stated. If not, we have, no doubt of the right of the court to make a proper entry, so as to show the actual date on which the matter transpired. We see nothing in the evidence that would operate a estoppel to the making of the motion. The judgment of the court of common pleas will therefore be affirmed.
