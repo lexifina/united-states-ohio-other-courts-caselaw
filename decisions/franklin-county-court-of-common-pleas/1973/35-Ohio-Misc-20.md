@@ -1,0 +1,41 @@
+---
+court: "Franklin County Court of Common Pleas"
+docket: "72CV-07-2164"
+decided: "1973-02-16"
+citations: ["35 Ohio Misc. 20"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["House, Appellant, v. O’Grady, Dir., Dept. of Highway Safety, et al., Appellees."]
+source_url: "https://static.case.law/ohio-misc/35/cases/0020-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6697242
+cites_cases: ["350 F. Supp. 403", "402 U. S. 637"]
+---
+
+# House v. O'Grady
+
+## Majority (Flowbes, J.)
+
+Flowbes, J.
+The appellant’s driver’s license was suspended on September 5, 1971, effective October 5, 1971, pursuant to E. 0. Chapter 4509, as a result of a foreign judgment arising out of a motor vehicle accident. The action of the registrar was appealed to the Franklin County Common Pleas Court, Case No. 246962. The registrar agreed prior to the hearing to reinstate the license. Thereafter the appellant filed bankruptcy in the United States District Court, Southern District of Ohio, Eastern Division, Case No. 47963, and discharged the foreign judgment. The appellant has brought the discharge to the attention of the Eegistrar of the Bureau of Motor Vehicles, but he refuses to reinstate appellant’s license unless appellant acquires financial responsibility insurance. From that refusal, the present appeal was instituted.
+E. C. 4509.37 provides in part, as follows:
+“The registrar of motor vehicles upon receipt of a certified copy of a judgment, shall forthwith suspend the license and registration and any nonresident’s operating privilege of any person against whom such judgment was rendered, except as provided in Sections 4509.01 to 4509.78, inclusive, of the Eevised Code.” (Emphasis supplied.)
+E. C. 4509.02 provides in part, as follows:
+“* * * (A) ‘Judgment’ means any judgment which has become final by expiration without appeal of the time within which an appeal might have been perfected, or by final affirmation on appeal rendered by a court of competent jurisdiction of any state or of the United States, upon a cause of action arising out of the ownership, maintenance, or use of any motor vehicle for damages, including damages for care and loss of services because of bodily injury to or death of any person, or for damages because of injury to or destruction of property, including the loss of use thereof, or upon a cause of action on an agreement of settlement for such damages.
+“(B) ‘State’ means any state, territory, or possession of the United States, the District of Columbia, or any province of the Dominion of Canada.”
+E. C. 4509.40, provides:
+“Any license, registration, and nonresident’s operating privilege suspended for nonpayment of a judgment shall remain so suspended and shall not be renewed, nor shall any license or registration be thereafter issued in the name of such person, including any such person not previously licensed, until every such judgment is stayed, satisfied in full or to the extent provided in Section 4509.41 of the Revised Code and until the person gives proof of financial responsibility, subject to the exemptions stated in Sections 4509.37, 4509.38, 4509.39, and 4509.42 of the Revised Code and maintains such financial responsibility in accordance with Section 4509.45 of the Revised Code..” (Emphasis supplied.)
+Appellant urges that the foregoing are limited to judgments rendered in Ohio, but the express language is to the contrary. Appellant also urges that the cases of Perez v. Campbell (1971), 402 U. S. 637, and Weaver v. O’Grady (S. D. Ohio, E. D. 1972), 350 F. Supp. 403, preclude the financial responsibility requirement by the registrar. Those cases are limited in scope to the questions there under consideration as specifically stated and recognized in the decisions. The Perez case held that an Arizona statute which required payment of a judgment after bankruptcy to obtain return of a driver’s license was in confliflct with federal law and'void. In the Weaver case it was conceded that R. C. 4509.43 was unconstitutional and the court specified certain procedural requirements.
+As specifically observed by the United States Supreme Court in the Perez case, at pages 641-643 in the opinion:
+“*'* * Under other provisions of Art. 4, such suspension is to continue until the judgment is paid, and Section 28-1163- (B) specifically provides that ‘[a] discharge in •bankruptcy following the rendering of any such judgment shall - not relieve the judgment debtor from any of the requirements of this article.’ In addition to requiring satisfaction of the judgment debt, Section 28-1163 (A) provides that the license and'registration ‘shall remain suspended and shall not be renewed, nor shall any license or registration be thereafter issued in the name of the person * * * until the person gives proof of financial responsibility’ for a future period. Again, the validity of this limited requirement that some drivers post evidence of financial responsibility for the future in order to regain driving privileges is not questioned here. Nor is the broader issue of ivhether a state may require proof of financial responsibility as a precondition for granting driving privileges to anyone before us for decision. * '* *” (Emphasis supplied.)
+The majority opinion recognized the police poAver of a state as to guarantees of safety on the highways, but oN jected to the use of the state as a collecting agency in forcing bankrupts to pay their debts despite their discharge. That is not to preclude the requirement of financially responsible users of the highway in the future and is entirely distinct from the payment of debts after discharge. In this regard, Justice Blackmun, joined by Chief Justice Burger, Justice Harlan and Justice Stewart, dissenting at page 668, observed:
+“* * # It is conceded that Arizona constitutionally could prescribe liability insurance as a condition precedent to the issuance of a license and registration.”
+Consequently, the Perez case is specifically limited, to the requirement of payment of the debt of the judgment after discharge in bankruptcy and has no application to the requirement of financial responsibility thereafter.
+In the Weaver case, supra, Judge Rubin ruled only as to R. C. 4509.43. That Section provides as follows:
+“A discharge in bankruptcy does not alter the requirements for compliance with Sections 4509.01 to 4509.-78, inclusive, of the Revised Code.”
+In his opinion, at page 407, Judge Rubin enumerates other sections of the Ohio Financial Responsibility Act and, in particular R. C. 4509.40, as follows:
+“Once a motorist’s driver’s license and registration are suspended for failure to pay a judgment be cannot regain his license unless he obtains a stay of the judgment or satisfies it in full. He must get ‘proof of financial responsibility’ and maintain it for three years, as well as successfully pass a driver’s examination. O. R. C. Sec. 4509.40.”
+In bolding R. C. 4509.43, to be unconstitutional, Judge Rubin specifically relied on the Perez case, but refused to hold the entire act unconstitutional. Consequently, this court concludes that even under the authorities cited by appellant, a discharge in bankruptcy of a judgment constitutes satisfaction or payment under R. C. 4509.40, but does not satisfy nor preclude the requirement of proof of financial responsibility in the future, as required by same statute. The court further finds that the requirements of a pre-suspension hearing, under R. C. Chapter 4509, are limited to those cases in advance of judgment, and the Weaver case so recognized. The exhibits in the present case include a certified copy of the judgment and a statement of lapse of time for appeal. Any objections other than finality or conflict with our law must be made in the jurisdiction where rendered.
+Upon consideration of the entire record, briefs of counsel, and the governing authorities, the court finds the suspension order herein to be reasonable, supported by the preponderance of substantial, reliable and probative evidence, and is in accordance with law. The order of appellee registrar is affirmed at the costs of appellant.
+Order affirmed.
