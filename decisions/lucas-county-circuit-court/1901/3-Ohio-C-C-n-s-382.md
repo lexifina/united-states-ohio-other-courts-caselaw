@@ -1,0 +1,29 @@
+---
+court: "Lucas County Circuit Court"
+decided: "1901-10-26"
+citations: ["3 Ohio C.C. (n.s.) 382"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Parker, J.; Haynes, J., and Hull, J., concur."]
+parties: ["City of Toledo v. William Radbone."]
+source_url: "https://static.case.law/ohio-cc-ns/3/cases/0382-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1795278
+---
+
+# City of Toledo v. Radbone
+
+## Majority
+
+William Radbone brought an action in the court of common pleas of this county to recover from the city of Toledo on account of injuries which he averred he sustained by falling upon a sidewalk which he charges was defective. He says that his fall and his injuries were in consequence of this defeet, and that the city was negligent in permitting this defect to exist. It is said on behalf of the city, that the verdict is against the weight of the evidence, but this is not insisted upon in argument; nevertheless, being assigned as a ground of error, we have carefully read the record, and are of the opinion that the verdict is fully sustained by the evidence; that the defendant in error made out a very clear case against the city.
+The petition avers that the city had knowledge of this defect for some time before plaintiff sustained his injury. Upon the trial of the case, evidence was admitted tending to show that the defect had existed for so long a time that the city was chargeable with constructive notice thereof. .There was no proof of any actual or direct notice, or of any actual knowledge by any person whose knowledge would be knowledge of the city. At the close of the evidence, counsel for the city moved the court to direct the jury to return a verdict for the defendant, on the ground that the petition did not allege constructive notice, and that no actual notice had been proven.
+We think there was no error in admitting this evidence in support of this allegation, or in overruling this motion. We think an averment of knowledge in a case of this character may be sustained by evidence of facts from which constructive notice would arise; in other words, that from such a state of facts as is shown here, the city is chargeable with all the effects of knowledge.
+It is complained that there was error in the charge as it was given upon the subject of the circumstances that would render the city liable, but it is conceded that there is no error in the charge as it stands now in the record. It is said that there has been a correction made, and it appears that this correction was made by the judge who delivered the charge.
+We must take the record as we find it. We will say in passing that it appears to us to be quite apparent that the correction was right; that the learned judge never gave the paragraph to the jury, standing alone as a proposition by itself, as it stood before the correction was made. In other words, the sentence as it stood would have been in effect a direction to the jury to find a verdict for the plaintiff below; and that, in view of the course pursued upon the trial by counsel and the court, and the pains the eonrt took before this, and afterward in the charge, to lay down all the rules of law applicable to the cause, would be entirely inconsistent, and would be very absurd. The sentence standing right after that — “it is your duty to find a verdict for the plaintiff, unless guilty of negligence himself directly contributing to his injury,” as charged, is correct. That is simply the termination of a long sentence, setting forth the circumstances under which the city would be responsible, which is entirely unobjectionable. The correction consisted in striking out a capital “A” of the word “And,” at the beginning of a part of this sentence, and putting in a small “a,” and changing a period to a comma — a mere correction in the punctuation of the sentence.
+It is also contended that there is error in the charge upon the subject of the duty of the plaintiff below to employ a physician. It appears that when he fell he bruised and knocked the skin off his shin, and that he undertook to treat the injury himself, supposing that it was trifling, by the application of some home remedies, such as arnica, bandaging, etc. In the course of about three weeks he found that the hurt was not healing, but was becoming worse, and thereupon employed a physician. The injury ultimately resulted in ulcers, which caused him a great deal of distress, and disabled him to a great degree.
+The part of the charge on this head which is complained of is a single sentence in a paragraph which is devoted to this subject, which sentence reads: “A mistake in treatment to his limbs, a mistake in judgment in the result, would not bar his recovery or mitigate the damages.”
+It is insisted that the court should have qualified this by saying that if the mistake in judgment was such as an ordinary prudent man might have made, would not be barred from recovery. W]e think that no qualification is required; that the injured person is to proceed upon his own judgment, or such judgment as nature or his Creator has given him, and is not bound to satisfy the judgment of somebody else. But taking the whole paragraph on that subject together — I will not take time to read it — it seems to us to be entirely correct. It is not admissible for a person who has filed a general exception to the charge, and has not asked the court to charge specifically upon a subject, to afterwards pick out a single sentence in a paragraph and complain of that. He must take the whole charge together. "We think there was nothing wrong, nothing mislead-' ing, in this charge upon this subject.
+M. R. Brailey and C. K. Friedman, for plaintiff in error.
+King & Tracy, for defendant in error.
+Finding no error in the record, the judgment of the court below is affirmed.
