@@ -1,0 +1,57 @@
+---
+court: "Franklin County Circuit Court"
+decided: "1912-03-26"
+citations: ["18 Ohio C.C. (N.S.) 375"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Aldread, J.; Dustin, J., and Ferneding, J., concur."]
+parties: ["State of Ohio v. Margaret Fenn et al."]
+source_url: "https://static.case.law/ohio-cc-ns/18/cases/0375-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1818585
+cites_cases: ["59 O. S., 278"]
+---
+
+# State v. Fenn
+
+## Majority
+
+The state brought an action in ejectment to recover a small tract of land known as Circle island in Buckeye lake.
+The defendant'recovered in-the court of common pleas, and the state brings the case here upon petition in error.
+The defendant, Margaret Fenn, claims title under a patent deed from the United States to William Hodgson dated August 10, 1850, and by regular chain of mesne conveyances.
+The patent deed included 41.81 acres, a large portion of which is on the mainland and outside the reservoir or lake. The patentee and those claiming under him down to Charles Pence in 1905 claimed ownership and possession of the island as part of the patented tract. From 1865 to 1894- Rachel Shell held title and had constructed and operated a hotel and summer resort upon the mainland at a point near the island, known as Shell beach.
+July 19, 1905, Charles A. Pence bought the island from the successor in title of the patentee and built a summer cottage at a cost of $1,000.
+Pence, on June 16, 1906, conveyed to Margaret Fenn, who shortly after the purchase constructed a concrete wall around the island and concrete docks, and also cut a deep water channel between the island and mainland and made fills and other improvements upon the island at a cost of $12,000.
+Before the Fenn improvements the mainland extended out in a point toward the island and. to within two hundred to five hundred feet at the ordinary stage of water. From this point a ridge extended to the island. The ridge was usually submerged to a depth of from two to five feet. In dry seasons, however, in midsummer the water often receded so as to leave a dry passage way to the island. Prior to 1905 the owners of the mainland had access to this island over the dry lands in the dry seasons and in other seasons by fording the shallow water and by boat. The land was used by the owners of the patented tract at occasional'times for pasture, hunting, fishing and camping.
+The state’s claim of title is founded upon an alleged appropriation for canal purposes.
+The Licking reservoir was constructed by the state about 1833 to 1835 and was used for canal and navigation purposes. In 1901 the reservoir was dedicated to the public by legislative act as Buckeye lake subject to canal uses.
+The state’s claim of title is-based, first, upon selection and appropriation as against the United States Government under the act of Congress of 1828, and, second, by continued use after the patent, constituting an appropriation against the patentee under Section 8 of the Canal act of 1825.
+Under either claim we think it became incumbent upon the state to establish an appropriation for canal purposes.
+The state seeks to establish an appropriation of the island.
+(1.) By constructive possession following from its being surrounded by the waters of the reservoir.
+(2.) By its occupancy and use by the waters of the reservoir at flood water level as augmented by the roll of the waves.
+(3.) By constructive possession arising from. the. original standard level.
+(4.) By possession, more or less actual, of a portion of the island by waters up to the waste'weir level and also up to the level of the waters at ordinary stage.
+It is not contended that either the third or fourth contention show an occupancy of the whole island but go rather to the question of encroachment. .
+We are unable, however, to accept any of these tests- as the exact basis of the state’s title as applied to the case at bar.
+It is broadly stated in many cases that occupancy of the state for canal purposes constitutes an appropriation and vests the fee simple title in the state. That doctrine in the measure stated is applied only where the appropriation by the state is admitted or clearly established The justice of this rule of evidence is manifest.
+Where the fact of the appropriation is in dispute, the possession and occupancy of the state, in order to confer title, must be shown to be actual, open, notorious and direct, and not merely constructive, incidental, and indirect. In the case of Smith v. State, 59 O. S., 278, it was held that in order to acquire title by the state to canal lands by occupancy:
+“It is necessary that the occupancy by the state be exclusive and that it be so open and notorious as to put the owner on notice that the property has been taken by the state for its own with the purpose of incorporating it as part of the canal system. ’ ’
+The doctrine so announced has been supplemented and extended in the case of Miller v. Weisenbarger, 61. O. S., 561,. where it is held that:
+“The mere incidental backing of water up a stream caused by the erection of a dam across a river used as part of the canal system, such stream flowing into said river, and remaining in a state of nature, except as slightly raised by such back water, does not constitute such an appropriation and use of the bed of the stream for canal purposes as to vest the fee of such stream in the state.”
+The right of the state depends, therefore, upon the evidence of occupancy and use. The island in controversy does not appear to have ever been used in any way by the state for canal or navigation purposes or in fact for any purpose.
+The owners of the mainland always claimed title, and, so far as capable of use enjoyed the possession and made valuable and lasting improvements.
+During all this period, and until about the time suit was brought, the state exercised no acts of ownership nor disputed the possession and ownership of the patentee and his successors in title. The state’s claim to possession and occupancy is merely constructive and incidental and not of such character as to confer title as against the owners and occupiers under the patent deed.
+We do not think that the doctrine of a constructive berme bank can be applied under the circumstances. The existence of a berme bank and the question of its appropriation and use by the state depends upon the circumstances and the situation.
+The principle which denies the state’s title to lands occupied by the backwater in collateral streams and ravines where slack water navigation is provided for disposes of the claim of constructive berme banks.
+There is no doubt that a berme bank, natural or artifical, may be appropriated for the reservoir wherever necessary and proper to protect the reservoir or its use for navigation purposes, but it does not necessarily follow that a berme bank is appropriated at every point where the backwater of the reservoir exists.
+We think the appropriation must be as definite and as exclusive in the case of the berme bank as any other part of che canal system.
+Under the authorities we feel bound to hold that the state did not take such actual, open and notorious possession of the island as to fairly apprise the owners of an intention or purpose to appropriate the island, and did not, therefore, acquire title.
+The equity and justice of this holding is strengthened by the fact that valuable improvements have been made upon faith of private ownership and without notice of any claim by the state.
+It has generally been doubted whether estoppel will be applied against the state in respect to her ownership of lands. The doubt has, however,'been dispelled by the late case of State, ex rel, v. The Cleveland & Terminal Valley Railway Company, in which the doctrine is broadly announced in respect to the ownership of land, that when the state “appears as a suitor in her courts to enforce her rights of property, she comes shorn of her attributes of sovereignty and as a body politic capable of contracting, suing and holding property is- subjected to those rules of justice and right which in her sovereign character she has prescribed for the government of her people. ’ ’
+The state exercises possession and control of its canal lands through its board of public works and employees, and we think is fairly chargeable with such notice of the claims of private ownership and of the making of improvements thereon as to ripen estoppel.
+The reference in the act of 1894 to'the islands in the lake was not intended to establish a new title. The context of the act shows that the jurisdiction was intended'to operate only over the lands and waters owned by the state. This declaration, therefore, does not affect the title of the defendant nor destroy the estoppel.
+■ We have considered all the evidence’. The only controversy relates to the size of the island above the water level upon the improvement of Fenn.
+The material facts upon which title rests are not in dispute. Upon the ground that the decision rests upon the law of the case, and not upon conflict of evidence, we hold that the rulings and order of the trial court in respect to the motion for a new-trial and the- vacation of the order overruling the same is not prejudicial to the state.
+Judgment affirmed.
