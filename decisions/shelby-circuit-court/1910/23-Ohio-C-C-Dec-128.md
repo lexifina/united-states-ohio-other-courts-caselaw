@@ -1,0 +1,45 @@
+---
+court: "Shelby Circuit Court"
+decided: "1910-10"
+citations: ["23 Ohio C.C. Dec. 128"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sullivan, Dustin and Allread, JJ.", ".Sullivan and Dustin, JJ., concur."]
+parties: ["Sidney (City) v. Franciska Schmidt."]
+source_url: "https://static.case.law/ohio-cc-dec/23/cases/0128-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 638302
+cites_cases: ["25 L. R. A. (N. S.) 627", "29 O. C. C. 362", "30 O. C. C. 454", "31 Am. Rep. 533", "32 O. C. C. 397", "33 Ohio St. 246", "44 Ohio St. 438", "54 Ohio St. 529", "56 N. E. Rep. 480", "62 Ohio St. 11", "65 N. E. Rep. 616", "67 Ohio St. 65", "73 Ohio St. 242", "76 N. E. Rep. 617", "77 Ohio St. 518", "8 N. E. Rep. 177", "81 Ohio St. 263", "83 N. E. Rep. 899", "90 N. E. Rep. 800", "99 O. D. 454"]
+---
+
+# Sidney v. Schmidt
+
+## Majority (ALLREAD, J.)
+
+ALLREAD, J.
+The defendant in error, Franciska Schmidt, recovered judgment in the court of common pleas for personal injuries resulting from a fall off: a culvert, thirteen feet in height and forming part of North Main street in the city of Sidney.
+The basis of the cause of action is the alleged negligence of the city in maintaining the culvert, without guard rails or other safeguard, by reason whereof the plaintiff in the lawful use of the street without her fault,, in attempting to pass over the culvert, fell therefrom and was injured.
+The city prosecutes error here to the judgment so recovered. Upon the admission of the petition that the culvert and highway of which it is a part was constructed by the county commissioners, and that the city received no part of the bridge fund, it is contended that there is no cause of action shown against the city.
+In support of this contention counsel cite R. S. 4941-1 (Gen. Code 7563), requiring boards of county commissioners to maintain guard rails “on each end of a county bridge, viaduct or culvert more than five feet high.” But in such cities and villages as by law receive part of the bridge fund levied therein, such guard rails shall be erected by the municipality. The petition state's that this culvert ivas a part of the municipal street. It was, therefore, as a matter of law under control of the city council, who by the terms of R. S. 2640 (Gen. Code 3714), are bound to keep the streets and bridges forming part thereof reasonably safe for public travel. Troy v. Brady, 67 Ohio St. 65 [65 N. E. Rep. 616]; Cavey v. Cincinnati, 32 O. C. C. 397 (12 N. S. 285).
+R. S. 4941-1 imposes a primary obligation upon county commissioners in the prescribed eases to construct guard rails, but does not limit nor supersede R. S. 2640. Both sections are available for protection of the traveling public.
+The ease of Mineral City v. Gilbow, 81 Ohio St. 263 [90 N. E. Rep. 800; 25 L. R. A. (N. S.) 627], is not opposed to, but in harmony with this view. The distance, in that ease, of the dangerous excavation from the street, was such that the street itself was not defective nor unsafe.
+There are, other objections to the petition, but in our view the petition states a cause of action. And it also follows that the trial court did not err in the charge, in stating that the culvert was under control and supervision- of the city.
+Reliance -is placed upon the motion of the city for an instructed verdict offered at the close of plaintiff’s evidence and renewed at the close of all the evidence. This motion was overruled by the trial court.
+The motion is supported here upon the claim (1) that the judgment of reversal of this court upon the former petition in error is an adjudication; and (2) that the evidence is insufficient.
+As to the adjudication it is insisted that the case presented here is'substantially the same as upon the former hearing; that the decision of this court upon the former petition in error was binding upon the trial court in the second trial, if the evidence was substantially the same and called for an instructed verdict for the city. The case of Michigan Mut. Life Ins. Co. v. Whitaker, 29 O. C. C. 362 (9 N. S. 126), is cited.' In that case the transcript of evidence of the former trial was offered in evidence upon the second trial, thereby establishing in the view of the circuit court the identity of the case. But the Supreme Court, Whitaker v. Insurance Co. 77 Ohio St. 518 [83 N. E. Rep. 899], without denying the primary doctrine, as to the effect of the adjudication of the reviewing court, held that the record under review must affirmatively show the identity of the case to justify the application of the doctrine.
+In the present case the plaintiff in error refiled in this court the former bill of exceptions with exhibits detached, and seeks thereby to differentiate the present case from the Whitaker case; but the former bill of exceptions was not presented to the trial court and is not embodied in the bill now under review. .
+Confining our consideration to the present bill of excep- • tions, we find that the witnesses whose testimony appears in schedule “A” were called, sworn and examined.
+In a stipulation appearing in th'e schedule in connection with the recital that the testimony of certain witnesses was read, it may be inferred that such testimony was thp same as upon the former trial.
+Assuming that the certificate of the' bill is capable of reconciliation with the schedule, it still appears that Franciska Schmidt testified anew and it does not appear but that Otis McCreary and Dr. C. E. Johnston testified orally.
+The cross-examination of Mrs. Schmidt contains reference to portions of her former testimony, and certain parts were offered by the city for impeachment. These extracts were referred to and offered to show contradiction, but nowhere in. the record now under review does it appear that the testimony; of Franciska Schmidt was substantially the same as on the former trial, nor are we advised by this record that the testimony of Otis McCreary and Dr. Johnston is identical.
+The trial court was not in error, therefore, in rejecting the plea or contention of former adjudication of the law of the case.
+Upon the claim of insufficiency of evidence, it follows from what .has been said as to the duty of the city, that the verdict so far as it establishes negligence in failing to maintain guard rails or other safeguards should not be disturbed. There is, therefore, left for consideration the question of contributory negligence.
+Upon the question of the weight of the evidence, it is contended that the credibility of Mrs. Schmidt upon whose testimony the case mainly stood, as to contributory negligence is impeached by the former testimony, and this court upon the former review reversed the judgment for insufficiency of evidence. As the case was remanded for trial it is obvious that the reversal was upon the weight of evidence.
+Under the act of May 9, 1908 (99 O. L. 454; Gen. Code 11577), the jurisdiction of the court to review the weight of evidence after one reversal is withdrawn.
+This act being one relating to the remedy and having been passed before the proceedings in error .were begun and the judgment complained of rendered is applicable here. Halderman v. Larrick, 44 Ohio St. 438 [8 N. E. Rep. 177].
+It is contended that plaintiff being familiar with the situation and having knowledge of the absence of a guard rail was negligent as a matter of law, and that it was the duty of the court to so instruct the jury. ¥e think, however, that the fact of the plaintiff going on the culvert ancl attempting to pass over the same along the portion intended for and used as a sidewalk is not negligence as a matter of law.
+The cases cited by plaintiff in error can 'be distinguished. In case of Mineral City v. Gilboio, supra, the plaintiff carelessly or knowingly departed from a known safe way and went beyond the limit of the street into danger. In Schaefler v. Sandusky, 33 Ohio St. 246 [31 Am. Rep. 533], and Dayton v. Taylor, 62 Ohio St. 11 [56 N. E. Rep. 480], it was decided that .•a traveler going into danger he can easily avoid, can not re•cover. In the cases of Norwalk v. Tuttle, 73 Ohio St. 242 [76 N. E. Rep. 617], and Conneaut v. Naef, 54 Ohio St. 529 [44. N. E. Rep. 236], the qualification as to avoiding the danger is omitted from the statement of the rule, biit the cases under review and the citation and approval of previous cases, make it ■obvious that no departure was intended. See Smith v. Toledo, 30 O. C. C. 454 (11 N. S. 167).
+The plaintiff was, therefore, lawfully upon the street and In the lawful use of it and upon the. portion intended and devoted to footmen, and whether it was negligence to suddenly stop and turn in the gravel and rough stones and to trip and stumble and fall over the coping, is a question to.be submitted to the jury, and can only be reviewed by a court having, jurisdiction to 'weigh the evidence.
+Judgment affirmed.
+.Sullivan and Dustin, JJ., concur.
