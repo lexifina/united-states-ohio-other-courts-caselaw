@@ -1,0 +1,26 @@
+---
+court: "Guernsey County Court of Common Pleas"
+decided: "1817-11"
+citations: ["1 Tapp. Rep. 201"]
+reporter: "tapp-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — TAPP AN, President ; HENDERSON, FRAME and LEEPER, Associates."]
+parties: ["HOWE vs. DAWSON."]
+source_url: "https://static.case.law/tapp-rep/1/cases/0201-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 628202
+---
+
+# Howe v. Dawson
+
+## Majority (President.)
+
+President.
+Both the objections made by the defendant’s counsel, to the plaintiff's right of recovery in this action, arc founded on the allodged variance between the obligation declared on, and the one offered in evidence. The declaration is, “for that whereas the said W. L. Dawson, on, &e. at, &e. by his certain bill obligatory, hound himself to pay unto him, the said W. T. Howe, or order, six mouths after the date thereof, the sum olj” &c. and the note,
+“ Kmhaioa Salt Liclc, March' Mh, 1814.
+“For value received, I promise to pay ffm. T. Howe, or order, one hundred and ninety-two dollars, six months after date.
+$193 ' War. U DAWSON, Scroll.”
+The objection is, that this is not a bill obligatory, and ft {s urged, oxi the authority of the cases in 5th Espinasse Rep. 88, 1st Washington Rep. 170, and 1st Munford, mere]y affixing a seal to a simple contract, will not transmute it into a specialty; and if it rested on those authorities, and on the reasoning of them, I should feel satisfied that a specialty could not be created without words evidencing such intent; but it has been repeatedly decided, by the supreme court of this state, that such an instrument as this is a specialty, and may be declared on as such. These decisions we feel disposed to consider as having settled the question in this state ; and, on the authority of them, we take this note of hand to be a bill obligatory.
+The second objection is, that this note being a mere promise to pay, does not comport with the one declared on, the latter being one whereby the defendant bound himself to pay. The declaration, in this part of it, does not undertake to describe the instrument in words and figures, but only to set forth its legal effect. It seems, that when it is decided, that affixing a scroll or any other matter, by way of seal, hath such efficacy as to clxange a simple contract into a bill obligatory, this consequence clearly follows, that the import of the whole ixxstrument is changed, and words of promise become exalted to words of obligation, for the defendaxxt promising, by his bill obligatox-y, to pay, bound himself to pay; there is not, therefore, any variance in this. The court therefore, assess the plaintiff’s damages at $ —, being the amount of the interest on the xxote.
+The case is next to be considered, as on a motion in arrest of judgment ; and here the qxxestion will be, whether, after verdict, the want of profert is a sufficient cause for arresting the judgment. The want of prolert is cured by verdict, in England, by the express provision of the stat. 16 and 17 Car. 2d, ch. 8th — and it is stated by Williams, in 1st Sand. 228, a, n. 1, that the omission of a profert was not cured by verdict at common law. No case is referred to, in sixpport of this opinion; nor does it seem necessary to cite cases to prove that, at the time when the stat. of Car. 2d, was enacted, such was , the law. We have no such statute here, and perhaps the authority of so respectable a lawyer as the editor of Saunders’ Reports, fortified by, or perhaps predicated on, the statute provision, ought to govern us in this case. But it appears that this opinion is altogether irreconcileable with the principles before laid down in the same note, they are these, “where there is any defect,'imperfection, or omission, in any pleading, whether in substance or form, which would have been a fatal objection upon demurrer; yet, if the issue joined be such, as necessarily inquired, on the trial, proof of the facts so defectively or imperfectly stated or omitted, and without which it is not to be presumed, that either the judge would direct the jury to give, or the jury would have given, the verdict) such defect, imperfection, or omission, is cured by the verdict by the common law.” Now it is very clear, that, without the actual production of the writing obligatory in this case, the plaintiff could not have had a verdict, or (what is here equivalent to a verdict) the decision of' the court in his favor on the evidence. The issue joined in this case, was such as necessarily required, that, and that alone, on which the plaintiff’s right of recovery rested. The omission of profert, then, is cured by common law, unless the case of profert shall appear to stand on different ground from any other omission; but, instead of this, it seems to be a case that comes more fully and completely within the principle on which a verdict cures defects and omissions, than any other. The objection is, that the plaintiff did not offer to produce the note on which he brought suit; the answer is, he did, in fact, produce it, and could not have obtained a verdict without producing it. The motion cannot, therefore, succeed. — Judgment for the plaintiff.
