@@ -1,0 +1,28 @@
+---
+court: "Dayton City Municipal Court"
+docket: "87109"
+decided: "1947-07-15"
+citations: ["49 Ohio Law Abs. 111"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GEPHART, Plaintiff, v ROADES, ET, Defendants."]
+source_url: "https://static.case.law/ohio-law-abs/49/cases/0111-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1741369
+---
+
+# Gephart v. Roades
+
+## Majority (By McBRIDE, J.)
+
+OPINION
+By McBRIDE, J.
+The plaintiff filed her Statement of Claim in forcible entry and detainer based upon a default in two weekly periods beginning June 8, 1947 at the rate of $9.00 per week. The defendant answered by general denial and cross-petitioned for rent over-charges in the amount of $301.50. The matter was then tried and submitted to the Court on the pleadings and the evidence. At the trial, the Court ruled out all overcharges alleged prior to. one year from June 27, 1947, the filing date of the action.
+For all practical purposes, plaintiff’s case was admitted. The defendant’s counter claim appears, from the preponderance of the testimony, to be equally supported from the record. The Court finds that the plaintiff is entitled to a finding for $18.00 for non-páyment of rent as prayed for in the Statement .of Claim and that defendant is entitled to a finding for $39.00 ($1.50 over-charge for 26 weeks).
+The principal question relates to whether or not plaintiff is entitled to a writ of restitution under such circumstances, where the Court allows the Counter-Claim for single damages only and no attorney fees, since none were requested. Since the Counter-Claim exceeds the amount of the default in tenant’s current rent, can or must the Court offset these money claims so as to destroy the landlord’s “ground” for eviction under Section 209 based upon failure to pay the contractual period commencing June 8, 1947?
+We have been referred to no decision for our guidance in this matter and are not aware of a decision in point. We do have some reasoning in Slothower v Lally, No. 85128 (April 4, 1947) of this Court, in which Judge Jackson found that a “security deposit” of cash with the landlord in violation of the regulations amounted to the receipt of more than was lawfully permitted and that a credit must be made to the tenant’s account before instituting eviction. In that case the Court said:
+“From all of the evidence and the law the Court will find that plaintiff had actual cash in his possession for more than was lawfully permitted under the above section, and that it would have been a very simple transaction for plaintiff to have credited the account of defendant instead of bringing the forcible entry and detainer action.”
+The Court is presently mindful that a technical objection may exist in allowing such an offset in this action which is a special type of proceeding provided in the justice of peace practice and in which counter-claims are not contemplated, however, no objection was made as to the procedure in this case and we are not certain that any could successfully be maintained.
+It has been the practice to. join with an action in forcible entry and detainer a second cause of action for damages for withholding the property or for the rents that have accrued. In the Common Pleas practice, this is authorized by §11306 GC and there appears to be no serious objection to the same procedure in a Bill of Particulars in a justice court. Where these two causes of action are joined and the second is defeated or dismissed for any reason, there is then no money due the landlord and consequently no technical default in the payment of rent as required in Section 209 of the Rent Law of 1947. We do not believe and do not hold that every counter-claim of a tenant can be thus offset so as to result in the loss of the landlord’s right of possession, however, there are a few situations in which the Court must offset the claims, particularly in instances in which there is found by agreement or overt act to be what constitutes performance of an implied rental agreement. One example of this arises where the landlord authorizes the tenant to make repairs and agrees to apply the cost of these repairs toward the monthly rental. An implied agreement of rental results and the landlord could not evict until the costs have been applied to a sufficient number of rental periods so as to exhaust the balance due the tenant. We have, in the present case, an analogous situation in which the landlord is required, by law, to accept the rental payments and has accepted more money as rent than he was legally entitled to. These over-charges were collected, intended and applied for rental payments and until such time as the landlord is legally entitled to additional money, he has, under Section 209, no right to evict on the ground of nonpayment. In' the present situation, the landlord has received all the money that he is entitled to collect under the law- and consequently the tenant cannot be held to be in default for the payment of rent simply because the landlord accepted and credited more on preceeding months than he was permitted to credit under the law. It is difficult to apply the present situation to the condition existing under Ohio Law in the absence of federal rent control and that is not the purpose nor the extent of this decision.
+In addition, we might say that good faith in enforcing the general purpose of the federal statute and substantial justice require the Court to find that the defendant is not in default, the eviction dismissed and judgment granted for the defendant and against the plaintiff for $21.00, Costs shall be divided equally.
