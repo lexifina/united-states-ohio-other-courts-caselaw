@@ -1,0 +1,32 @@
+---
+court: "Cincinnati Superior Court"
+decided: "1872-01"
+citations: ["2 Cin. Sup. Ct. Rep. 150"]
+reporter: "cin-sup-ct-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Finnell and McGuire v. Howells."]
+source_url: "https://static.case.law/cin-sup-ct-rep/2/cases/0150-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 886548
+---
+
+# Finnell v. Howells
+
+## Majority (Miner, J.)
+
+Miner, J.
+It was claimed at the trial, by the defendant in error, and held by the court, that, at the date of the assessing ordinance, the law governing and limiting the power of the city to assess for this improvement, was the amendatory act of Apiil 17, 1870, above recited, and the court below rendered judgment for the plaintiffs, for $175, being twenty-five per cent, of the valuation for taxation at the date of the assessing ordinance.
+In this the plaintiffs in error claim the court erred, and insist they were entitled to the assessment, according to the law as it existed at the date of the ordinance providing for the improvement, and of the contract between them and the city to do the work.
+It certainly was in the contemplation of the city, when she determined to have the work done, that the cost of it was to be defrayed according to existing laws. In fact, the ordinance so expressly provides. It is equally clear that this was the understanding of the plaintiffs in error when they entered into the contract to do the work; and the contract following the ordinance, in this respect, also so provides.
+Two-thirds of the property holders had petitioned for the improvement, and all of them had such notice of the proceedings of council, in the premises, as to charge them and their property, according to the existing law, for the expense of the work. The plaintiffs in error, acting upon the faith that they were entitled to an assessment, if necessary, to the extent of one-half the value of the property, to be collected from the property owners, were willing to, and did, give up all claim against the city, for any amount exceeding the fifty per cent, for which the property holders would be liable. The judgment of the court below has produced a state of case wholly different from that contemplated and acted upon by the parties, and which, if it could have been foreseen, it is safe, we think, to say, the city would not have ordered the work, nor the contractors have made the agreement they did.
+Ve incline strongly to the opinion that, by the terms of the first ordinance and of the agreement, and in view of the law then existing, under which all parties were acting, rights were acquired which no subsequent legislation could take away — rights of contract which, by the federal constitution, as well as the constitution of this State, could not be divested or impaired..
+In Von Hoffman v. City of Quincy, 4 Wallace, 535, the court decided that “ when a statutehas authorized a municipal corporation to issue bonds, and to exercise the power of local taxation in order to pay them, and persons have bought and paid value for bonds issued accordingly, the power of taxation thus given is a contract within the mean-' ing of the constitution, and can not be withdrawn until the contract is satisfied. The State and the corporation in such a case are equally bound.
+“ A subsequently passed statute, which repeals or restricts the power of taxation so previously given, is, in so far as it affects bonds bought and held under the circumstances mentioned, a nullity; and it is the duty of the corporation to impose and collect the taxes in all respects as if the second statute had not been passed.” And other like authorities might be cited.
+But, in this case, we rest our decision upon anothef ground.
+In the municipal code, which took effect July 1, 1889* chap. 60, see. 725, title, “ Saving of existing rights,” it is provided, that “ all rights and property of every kind and description, which were vested in any municipal corporation under its former organization, shall be deemed and held' to be vested in the same municipal corporation under the organization made by this act; and no rights or liabilities, either in favor of or against such corporation, existing at the time of taking effect of this act, and no suit or prosecution of any kind, shall be in any maimer affected by such change, but the same shall stand or progress as if no such change had been made; provided, that when a different remedy is given by this act, which can be made applicable to any rights existing at the time of its passage, the same shall be deemed cumulative to the remedy before provided, and may be used accordingly.” 66 O. L. 272.
+And in section 729 of same code, it is provided, that “ all laws, ordinances, and resolutions, heretofore lawfully-passed and adopted by the trustees or council, shall remain and continue in -force until altered or repealed by the trustees or council established by this act.”
+The amendatory act of April 17, 1870, providing a different rule of assessment, and which the court below held governed this case, does not contain any saving clause,* nor was it necessary, for the savings contained in sections 725 and 729 of the original act, quoted above, are left untouched by this amendment and in full force.
+We are satisfied that the saving clauses in the original act, establishing the municipal code, fairly interpreted, operated to save and maintain, to all parties interested in this suit, the law as it stood when the first ordinance, declaring that the improvement should be made, was passed, and when the agreement between the city and the plaintiffs in error to do the work was entered into.
+We therefore reverse the judgment of the court below, and direct that a judgment be entered here, in favor of the plaintiffs in error, for the $1,005.76 and interest, and for the penalty provided by law. The latter we would be inclined to remit, but it is given by positive law, and is not a matter within our discretion.
+In the case of the same plaintiffs in error against L. C. Goodall, also heard with this case, and involving the same questions, Goodall being the owner of another lot abutting on Oregon street, we reverse the judgment below for the same reasons; but, inasmuch as there is no testimony in this latter case enabling us to determine the value of his lot, after the improvement was made, we remand the case for a new trial.
