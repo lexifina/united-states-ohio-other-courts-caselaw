@@ -1,0 +1,22 @@
+---
+court: "Harrison County Court of Common Pleas"
+decided: "1819-07"
+citations: ["1 Tapp. Rep. 334"]
+reporter: "tapp-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PUMPHREY vs. EYRE."]
+source_url: "https://static.case.law/tapp-rep/1/cases/0334-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 628312
+cites_cases: ["13 John. Rep. 464", "2 Doug. 138"]
+---
+
+# Pumphrey v. Eyre
+
+## Majority (President.)
+
+President.
+There can be no doubt of the honesty of the plaintiff’s demand. A just debt was due to him which he has been induced to discharge, on the belief that he was receiving full value for it. This belief was fallacious; it was induced by the defendant himself. The defendant has received the full benefit of a fair and honest payment, and the plaintiff as to one hundred dollars of ¿g^ nothing. So much of the debt, in equity and good conscience, remains unpaid; the judgment is satisfied in form, but an obligation remains upon the conscience of the defendant, which is not likely to be of very active virtue, unless quickened by the touch of legal authority.
+The payment of a counterfeit note is a mere nullity, and not to be considered in law as any satisfaction of a prior debt. The case of Puckford vs. Maxwell, 7th D. and East, 52, is in point. The defendant having been arrested for £80, on a testatum capias, gave to the plaintiff a draft for £45, saying it would be immediately paid; and agreed to meet the plaintiff in a few days afterwards to settle the remainder of the debt; on which the plaintiff agreed that the defendant should be discharged out of custody.
+The draft was dishonored, the defendant having no effects in the hands of the drawer: whereupon the defendant was again arrested. A rule having been obtained, calling on the plaintiff to shew cause why the defendant should not be discharged out of custody, the Court said, “ in cases of this kind, if the bill, which is given in payment, do not turn out to be productive, it is not that which it purports to be and which the party receiving it purports it to be; and therefore he may consider it as a nullity, and act as if no such bill had been given at all.” So in this case: if the judgment against Byre had not been satisfied by the proper entry, the payment of this 100 dollar note might have been treated as a nullity, and execution might have issued for the balance of the judgment. The cases of Owenson vs. Morse, 7 D. and East, 64; Dutton vs. Solomonson, 3 Bos. and Pul. 582, and Stedman vs. Gooch, 1st Esp. Rep. 5, support this doctrine. In Markle vs. Hatfield, 2d Johns. 455, Chief Justice Kent observes, that “ it would be a matter of regret, if the law obliged us to regard a payment in counterfeit, instead of genuine bank bills, as a valid payment of a debt, merely because the creditor did not perceive and detect the false bills, at the time of payment. The reasonable doctrine, and one which undoubtedly agrees with the common sense of mankind, is laid down by Paulus in the Digest; and has been incorporated into the French law. He says that, if a creditor receive by mistake, anything in payment, different from what was due, and upon the supposition that it was the thing actually due, as if he receive brass instead of gold, the debtor is not discharged, and the creditor, upon offering to return that which he received, may demand that which is due by the contract.” It will no longer. be doubted, I think, but that the plaintiff is legally ° entitled to recover the amount of his debt remaining unpaid; but can he recover in this form of action? The discharge of the judgment is a sufficient consideration to support this action, 1 Com. Dig. 197 — there is, then, a sufficient consideration; a debt due in law and in conscience, and no remedy of an higher nature; it should seem, therefore, that this action is not merely sustainable but that it is the most proper form. This opinion, also, is supported by adjudged, cases; I will cite one only, the case of Young vs. Adams, 6th Mass. Rep. 182, in which it was decided that an action of indebatatus assumpsit would lay against a person who, in payment of a note “for 252 dollars, payable in bank bills,” had put off a counterfeit bill in part payment, and had taken up his note, for the amount of such counterfeit bill. On the fullest consideration we have been a lie to give the case, we are satisfied that the charge to the jury was not erroneous. New trial refused.
