@@ -1,0 +1,72 @@
+---
+court: "Butler County Circuit Court"
+decided: "1904-01-05"
+citations: ["4 Ohio C.C. (n.s.) 184"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Swing, J.; Giffen, J., and Jelke, J., concur."]
+parties: ["Alfred A. Knapp v. State of Ohio."]
+source_url: "https://static.case.law/ohio-cc-ns/4/cases/0184-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1797571
+cites_cases: ["107 Cal., 345", "109 N. Y., 110", "16 N. E. Rep., 529", "23 Ohio St., 146", "40 Pac. Rep., 440", "43 Miss., 472", "67 Ohio St., 440"]
+---
+
+# Knapp v. State
+
+## Majority
+
+The plaintiff in error prosecutes this action in this court to reverse the judgment of the Court of Common Pleas of Butler County, wherein he was found guilty of murder in the first degree for the killing of his wife, Hannah G. Knapp, on December 22, 1902.
+The indictment charged said Knapp in the following language :
+“Then and there unlawfully, purposely and of deliberate and premeditated malice, with his two hands did seize, grasp and press the neck and throat of her the said Hannah G. Knapp then and there, with his two hands aforesaid unlawfully, purposely and of deliberate and premeditated malice did choke and strangle with the intent her, the said Hannah. G. Knapp unlawfully, purposely and of deliberate and premeditated malice to kill and murder of which said choking and strangling she the said Hannah G. Knapp then and there instantly died. ’ ’
+In order to convict Knapp under this indictment, it devolved upon the state to prove that said Hannah G. Knapp came to her death in the manner set forth in the indictment.
+The state produced evidence showing that the body of Hannah G. Knapp was found in the Ohio river, near New Albany, Indiana, about February 1, 1903; that she was last seen alive in company with Alfred A. Knapp, her husband, on the evening of December 21, 1902; that said Alfred A. Knapp was seen on the morning of December 22, 1902, with a box near the Miami river a short distance below the city of Hamilton; that he left Hamilton on that day and went to Cincinnati, Ohio; that he told conflicting stories about the absence of his wife; that he -sold their household furniture and gave away her clothing; that shortly afterwards he went to Indianapolis, Indiana, and shortly after that married another woman; and the state introduced considerable other evidence tending to show that said Knapp knew that his wife would never return, and all of which evidence tended to show that said Knapp knew that his wife was dead and that he was in some way connected with her death.
+After the discovery of the body of his wife Knapp was arrested in Indianapolis, Indiana, and brought to the city of Hamilton, where shortly afterwards he made a conféssion to Mayor Charles S. Bosch and the chief of police of said city, in whose custody he was at the time.
+In this confession said Knapp confessed to having killed his wife in the manner set forth in the indictment, and that he had placed her body in a box and placed it in the Miami river below the city of Hamilton on the morning of December 22, shortly after he had killed her.
+Does the confession of Knapp taken in connection with the other evidence sustain the conviction ?
+It is a well settled rule of law in this country that a conviction can not be had on the extrajudicial confession of the defendant unless corroborated by proof aliunde of the corpus delicti. 6 Am. & Eng. Enc. Law (2d Ed.), 582, and numerous authorities there cited, including Blackburn v. State, 23 Ohio St., 146.
+The third proposition of the syllabus in this case is as follows:
+“Although extrajudicial confessions alone are not sufficient to prove the body of the crime in cases of homicide, they may be taken and used for that purpose in connection with other evidence. ’ ’
+The corpus delicti is thus defined:
+“ Corpus delicti is a term in criminal law, and means literally the body of the offense or crime charged.” 7 Am. & Eng. Enc. Law (2d Ed.), 861, and authorities there cited. Among which is People v. Simonsen, 107 Cal., 345 (40 Pac. Rep., 440), wherein the court says:
+“The term ‘corpus delicti’ means exactly what it says. It involves the element of crime. Upon a charge of homicide, producing the body does not establish the corpus delicti. It would simply establish the corpus.”
+In Pitts v. State, 43 Miss., 472, it is said:
+“In felonious homicide it consists of two substantial fundamental facts; first, the fact of the death of the deceased, and, second, the fact of the existence of criminal agency as the cause of the death.”
+In People v. Palmer, 109 N. Y., 110, 113 (16 N. E. Rep., 529, 530), the court says:
+“A dead body is found with the skull mashed in upon the brain, under circumstances which exclude any inference of accident or suicide. There we have direct evidence of the death, and cogent and irresistible proof of the violence; the latter the cause and the former the effect; both obvious and certain, and establishing the existence of a criminal fact demanding an investigation. These facts proved, the corpus delicti is established.”
+In 3 Greenleaf, Evidence (16th Ed.), Section 30, page 36, this is said:
+“The proof of the charge in criminal causes involves the proof of two distinct propositions: First, that the act itself was done; and, secondly, that it was done by the person charged, and. by none other.”
+A great number of authorities might be cited to the same effect. Under the law as thus stated, the corpus delicti in this case would be the production of the dead body of said Plannah G. Knapp, together with facts which showed that she met her death by being choked or strangled to death.
+The state has alleged that she came to her death in that way, and in order to sustain a conviction under the indictment these facts must be proved, and outside of Knapp’s confession there must at least be facts which tend directly to prove them.
+We have each of us gone over the evidence in this case very carefully, and we fail to find the least evidence outside of Knapp’s confession that Hannah G. Knapp came to her death by being choked or strangled.
+The dead body is found floating in the river. This simply proves the corpus; if there is any crime connected with the death, something else must be shown. How did the person die — by disease, accident, suicide, or violence; if by violence, what kind of violence — was she drowned; was she poisoned; was she shot; was she stabbed; was she beaten, or was she choked to death ? As far as this body is concerned, this record fails to disclose a single item of evidence that this woman met her death by violence, in any manner whatever. No bullet hole, no cut, or stab, no fracture of bones or bruise on the body, and no poison in the stomach. As to how this person came to her death absolutely all is conjecture or surmise unless we look to Knapp’s confession, and it is there alone that we find any evidence as to how this woman met her death. In other words, the crime of killing this woman by choking and strangling is shown only by Knapp’s confession, and under all the authorities this is not enough; there must be some other evidence of the killing in the manner set out in the indictment with which the confession must be considered before conviction can be had.
+It was not necessary for the state to allege the manner and means of the death of Hannah G. Knapp. An indictment could have been found against Knapp charging that said Hannah G. Knapp met her death at the hands of said Alfred A. Knapp by manner and means unknown to the state. But having set out the manner and means of death, it was incumbent on the state to prove substantially the death as alleged.
+It is claimed by plaintiff in error that the court erred in admitting in evidence a certain paper written by said Knapp. This paper is as follows:
+"Confession of Alfred A. Knapp.
+“On June 21, 1894, I killed Emma Littleman in a lumber yard in Gest street, Cincinnati. And on August 1, 1894, I killed Mary Eckert in Walnut street opposite the Y. M. C. A. building in Cincinnati. And August 7, 1894, I killed my wife Jennie Knapp under the canal bridge at Liberty street and threw her in the canal in Cincinnati. And in July, 1895, I killed Ada Gebhart in Indianapolis, Ind. And on December 22, 1902, I killed my wife Plannah Knapp at 339 South Fourth street in Hamilton, Ohio, and threw her in the river out by Lindenwald. This is true.
+“Alfred A. Knapp.
+“Hamilton, Ohio, Feb. 26, 1903.
+“I make this statement by my own free will and not by the request of any officer or any one else.
+“Alfred A. Knapp.”
+This was signed by witnesses and sworn to before C. S. Bosch, mayor.
+So much of said confession as relates to the killing 'of Hannah G. Knapp is admittedly competent, and all the rest of the so-called confession is admittedly incompetent.
+The court also permitted the prosecuting attorney to read the whole of the confession to the jury, and also permitted the jury to take the same on retirement to consider their verdict.
+On the receipt of the evidence and the reading of the same by the prosecutor, and allowing it to be taken by the jury, the court said to the jury that it was only offered for the purpose of proving the killing of Hannah G. Knapp, and on two of the occasions said to the jury that they were to disregard all portions of it which did not relate to the killing of Hannah G. Knapp; and when the prosecutor read the paper to the jury the judge said to the jury that they should not permit the statements in said confession to prejudice them as they were only trying the defendant for the killing of Hannah G. Knapp.
+In permitting this paper to go to the jury, and permitting the prosecutor to read it to the jury, and permitting the jury to take the same with them on retirement to consider of their verdict, we think the court erred.
+It is a horrible, cold-blooded recitation of crime, having few equals in criminal history, and can scarcely be read by any one without producing the feeling that the man is insane or a fiend incarnate. How is it possible for any one having heard such a recitation of crime as this to disregard or not to be prejudiced by it?
+The state had already proven two confessions by Knapp. But it is not shown that so much of this confession as relates to the killing of Hannah G. Knapp might not have been admitted without putting in the statements as to the other killings; the statement as to each of the other killings could very easily have been obliterated or cut out, and left intact that portion of the statement which was clearly competent.
+There are also two errors assigned in the charge of .the court that we desire briefly to refer to.
+The court in its general charge made use of the following language :
+‘ ‘ In all doubtful cases this presumption is sufficient to turn the scale in favor of the defendant. ’ ’
+Clearly this is not a correct statement of the law.
+Every person charged with crime is presumed to be innocent, and unless the jury beyond a reasonable doubt find him guilty the defendant is entitled to be acquitted.
+The court also charged the jury as follows:
+“Sane men who are innocent, as a rule, do not make confession of crime.”
+It seems to us that this was erroneous in the court. The language itself, possibly, is capable of two or three different meanings. The judge, in overruling the motion for a new trial, and commenting upon this portion of the charge says that immediately after he delivered the charge some bystanders spoke to him and put a meaning on it different from that which he intended. The defendant had already made confessions in this case, so that probably the meaning was that this man was either insane or guilty, from the fact alone that he had made the confessions, without taking into consideration any other question in regard to the corpus delicti, or anything that the evidence showed in that respect, which the jury is bound to consider. But, aside from the fact of making a statement which was inaccurate, and subject to be misconstrued, we have this objection to this portion of the charge, “sane men who are innocent, as a rule, do not make confession of crime; ” we do not understand this to be a rule of law that a judge may charge the jury; but we take it, rather, that the judge is telling the jury what his experience of the actions of men is, and in that respect he usurped the power of the jury. It is not for the court to say to the jury what his experience of men in certain matters is; this is the exclusive province of the jury; it is their experience of the conduct and actions of men that is to be applied to the testimony in the case, and not that of the court. State v. Tuttle, 67 Ohio St., 440.
+It seems to us, therefore, that the court erred in this particular portion of the charge.
+There are a great many other grounds of error alleged in this case; we have considered them all, but we do not think that the points are well taken. Therefore, we find no other errors in the record other than those pointed out.
+No doubt this fearful recitation of crime made by this man aroused a very strong feeling in this community against him; naturally it would; we can not help but feel that such is the case, and that this man is a criminal almost without parallel in the history of the law, certainly without any parallel in the history of this court; but this court can not change the law; we have to administer the law as we find it; we can not set ourselves up as to making one law for this man, and another law for another; we must administer the law as we find it and understand its meaning.
+Thomas H. Darly, for plaintiff in error.
+Warren Gard, Prosecuting Attorney, for the defendant in error.
+For these reasons we think that a new trial must be granted to the defendant in this case.
