@@ -1,7 +1,8 @@
 ---
 court: "Cuyahoga County Circuit Court"
 decided: "1900-10"
-citations: ["21 Ohio C.C. 175", "21 Ohio C.C. 180"]
+decided_precision: "month"
+citations: ["21 Ohio C.C. 175"]
 reporter: "ohio-cc"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["THE STATE OF OHIO ex rel. Edmund G. Vail v. W. E. CRAIG et al."]
 source_url: "https://static.case.law/ohio-cc/21/cases/0175-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 417803
-cites_cases: ["148 Mass., 285", "3 Kan., 382", "47 Ga., 601"]
+cites_cases: ["148 Mass., 285", "47 Ga., 601"]
 ---
 
 # State ex rel. Vail v. Craig
