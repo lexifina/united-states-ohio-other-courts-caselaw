@@ -1,0 +1,37 @@
+---
+court: "Montgomery County Court of Common Pleas"
+decided: "1917-05-04"
+citations: ["20 Ohio N.P. (n.s.) 13"]
+reporter: "ohio-np-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John L. Ferguson, as Executor of the Estate of Mary E. Seal, Deceased, v. Lewis E. Wentz et al."]
+source_url: "https://static.case.law/ohio-np-ns/20/cases/0013-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1555375
+---
+
+# Ferguson v. Wentz
+
+## Majority (Snediker, J.)
+
+Snediker, J.
+In this case there is submitted for our determination the remaining question as to the construction of Item 9 of the will of Máry E. Seal. After providing for the payment of all her debts and of her funeral expenses, this testatrix, by items second, third, fourth, fifth, sixth, seventh and eighth, bequeathed to different persons in the several items named personal property and money.
+Item ninth reads:
+“If after the payment of the several bequests above mentioned there is a remainder left, I direct that my executor pay to Lewis E. Wentz, Mollie Marshall and Della Chase, share and share alike.”
+It appears from- the averments of the petition:
+“That decedent at the time of her death was the owner of personal property sufficient in amount to pay the costs of administration, valid claims against her estate and legacies; that she died seized in fee simple of certain real estate, and that no specific testamentary disposition was made of the same; that some time after her death another claim was presented and allowed and thereby a deficit was created and the personal property was insufficient to pay the costs of administration, debts and legacies; and therefore, to-wit, on the 21st day .of September, 1916, an action was commenced in the Probate Court of Montgomery County, Ohio, to sell said real estate to pay said debts and legacies.”
+These averments are admitted by the answering defendants who are heirs of testatrix.
+The claim is made by counsel for Lewis E. Wentz, Mollie Marshall and Della Chase that any balance arising from the sale of the real estate by the executor under the authority of the probate court ought to be paid under item ninth to the residuary legatees. The answering defendants, heirs of testatrix, claim that it should be distributed to them.
+As there was at common law no right on the part of an administrator or executor to sell the real estate of the decedent, any action taken by the probate court or by an executor with its permission must be strictly within the terms of Section 10774 of the General Code or the terms of Section 10817 hereafter quoted.
+Except under the .provisions of these sections, neither the probate court has the authority to authorize nor the executor the right to make a sale of the real estate of the testatrix. Section 10774 is as follows:
+“As soon as the executor or administrator ascertains that the personal estate in his hands will not pay all the debts of the deceased, with the allowance to support the widow and children for twelve months and the charges of administering the estate, he must apply to the probate court or court of common pleas "for'authority to sell the decedent’s real estate.”
+If, as we are unable to determine from the petition, the debts of decedent and the charges of administration would so'exhaust the personal property as to preclude the payment-of any one or more of the specific legacies found in the will, there being no charge found in the will of these legacies upon the real estate, the probate court has no authority to authorize the sale of the real estate for the purpose of paying these specific legacies, and such unpaid legacies would fail for lack of a fund out of which they could be met.
+“The general rule is that the personal estate of the testator supplies the fund out of which legacies and debts are to be paid, unless it clearly appears from the will that the testator intended otherwise. In the absence of anything in the will to indicáte an intention on the part of the testator that a legacy shall be a charge upon the real estate or paid out of the proceeds thereof and there is a deficiency in the pérsonal estate, the legacy abates in whole or in part. ” Tlx ompsoxi on Wills, Section 320.
+Section 10817 of the code provides:
+“When a testator has given a legacy by a will that is effectual to pass or charge real estate and his personal estate is insufficient to pay such legacy together with his debts, the allowance to the widow and children and the cost of administration, the executor or administrator with the will annexed may be ordered to sell his real estate for that purpose in the manner and upon the terms and conditions described herein for the payment of debts. ’ ’
+It will be observed that throughout this will there is no mention of the realty of this estate; nor in the residuary clause does this testatrix after giving these certain legacies devise her real estate. So that there is no blending together of the real and personal estate as one estate; and the rule which follows such blending in a residuary clause that an implication is justified that the testator intended, in case of a failure of his personal estate, to make his legacies a charge upon the realty does not apply. 'The direction of the residuary clause is “to pay,” indicating, in view of the fact that the real estate is not mentioned or referred to in the will, an intention on the part of the testatrix that the remainder of her personal estate, after paying her debts, funeral expenses, costs of administration and the bequests found in the will, shall be divided among the three persons named in the residuary clause.
+The -real estate does not vest in the executor under the terms of this will. Upon the death of this testatrix, her real estate descended to her heirs, subject to the payment of debts if there be a deficiency of the personal estate. The executor has no right to enter into the lands or to take the profits; he has no interest in them but a naked authority to sell them on license to pay the debts where the personal estate is insufficient. It is because the lands are not liable at common law for the payment of debts that they are made liable by the section of the code referred to. If it were necessary to sell the land for the payment of .debts, then Section 10816 of the General Code would apply.
+“Section 10816. In all cases of a sale by an executor or administrator of part or the whole of the real estate of the deceased under an order of court, whether such executor or administrator has been appointed in this state or elsewhere, the surplus of the proceeds of the sale remaining on the final settlement of the account must be considered as real estate and be disposed of accordingly.” Also see 65 O. S., p. 86.
+If the real estate has been in fact already sold, which does not appear from the petition, since we have found that by the terms of this will testatrix’s real estate is not directed to be sold for the payment of these legacies nor are such legacies made a charge upon the real estate, the proceeds ought not to be regarded as falling into the residuum so as to be paid to the three residuary legatees named in item ninth. If the sale of the real estate has not yet been made, the property should not be disposed of except under the provisions of the sections heretofore referred to.
+An entry may be drawn accordingly.
