@@ -1,0 +1,26 @@
+---
+court: "Cuyahoga County Circuit Court"
+decided: "1911-06-02"
+citations: ["17 Ohio C.C. (n.s.) 463"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Henry, J.; Winch, J., and Marvin, J., concur."]
+parties: ["The National Commission Company v. The Citizens Savings Bank of Upper Sandusky."]
+source_url: "https://static.case.law/ohio-cc-ns/17/cases/0463-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1816903
+---
+
+# National Commission Co. v. Citizens Savings Bank
+
+## Majority
+
+The parties to this proceeding in error stand here in the relation opposite to that in which they stood below. There the bank recovered judgment upon two bills of lading of cattle consigned by one Tracy, of Upper Sandusky, to Ms factor in Cleveland, the National Commission Company, for sale by the latter in accordance with previous arrangement by letter. Other persons are named on the face of the bills; but that circumstance is immaterial, for Tracy and the commission company were deemed to be,- and were in fact, the real consignor and consignee respectively. The bills of lading were of the so-called “straight” or non-negotiable sort, capable indeed of being transferred, but not of being negotiated. Tracy had made other similar shipments to the commission company, and had largely overdrawn his account with it; but the factor’s lien, which the latter claimed on Tracy’s last consignment of cattle, more than made good his overdraft, together with all commissions and expenses, out of the proceeds of their sale. Meanwhile, however, he had drawn on his factor for the entire proceeds of this consignment, and had discounted his draft, with the bills of lading attached, to the Citizens Bank of Upper Sandusky. The bank notified neither the carrier nor the factor of this transfer, but sent the draft with bill of lading attached to its Cleveland correspondent for collection. On the day the draft was presented, but before notice thereof, the commission company had sold the cattle and received the purchase money. Applying the proceeds as above indicated, it refused to accept or pay the draft.
+Section 8414, General Code, provides, inter alia, that:
+“A person to whom a.document of title has been transferred, but not negotiated, acquires thereby, as agarnst the transferor, the title to the goods, subject to the terms of any agreement with the transferor.”
+The plaintiff in error contends that this section changes the rule of Emery’s Sons v. National Bank, 25 Ohio State, 360. It is claimed, first, that since the transfer to the bank is by statute made “subject to the terms of any agreement with.the transferor,” it became subject to the terms of the commission company’s agreement with the transferor, Tracy, by which said company obtained lawful possession of the cattle, together with its factor’s lien on the proceeds of their sale, to secure the general balance of account due it from Tracy; and that this is so, even though such agreement was subsequent to the transfer of the-bills of lading. It is claimed, secondly, that Tracy’s said agreement with the commission company was in fact prior to his transfer of the bills of lading to the bank, because the shipment was made pursuant to such agreement when the bills of lading were issued by the carrier.
+The correspondence and course of dealing between Tracy and the commission company do not, however, warrant the inference of a prior agreement between them in these terms. Tracy had not contracted to surrender his control of the consignment of cattle without exacting prepayment. He had made no agreement by which he was bound to subject this shipment of cattle to his factor’s lien for previous balance of account. So far as his agreement with the commission company went, he was at perfect liberty to do just what he attempted to do, namely, to create a prior lien on the cattle by discounting the draft with bill of lading attached.
+Nor do we think that such transfer is- rendered subject, by the clause of the statute here relied on, to any agreement which the transferor might thereafter make with third parties. True, a subsequent purchaser, for value and without notice, having seasonably notified the carrier thereof, or having obtained lawful delivery,of the cattle from the carrier, would no doubt, under the subsequent provisions of the same section and the other terms of the sale code, acquire an indefeasible' title. But that is not this case. The amount here in controversy is the-preexisting debt due the commission company from Tracy. It paid no new consideration for the cattle.
+We hold that the- first paragraph of Section 8414, General Code, above quoted, means that the transferee of a non-negotiable bill of lading acquires such title as the transferor can-then pass, except that the parties to the transfer may agree that only a qualified title shall so pass. The transferee also gains other rights defined in the remainder of the section; but as no such rights were exercised in this- ease, a discussion thereof is unnecessary.
+There being no error in the record, the judgment below is affirmed-
