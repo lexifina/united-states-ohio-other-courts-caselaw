@@ -1,7 +1,8 @@
 ---
 court: "Ohio Circuit Court"
 decided: "1899-09"
-citations: ["19 Ohio C.C. 97", "19 Ohio C.C. 114"]
+decided_precision: "month"
+citations: ["19 Ohio C.C. 97"]
 reporter: "ohio-cc"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["THE PENNSYLVANIA FIRE INSURANCE COMPANY v. T. &. W. R. CARNAHAN."]
 source_url: "https://static.case.law/ohio-cc/19/cases/0097-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 414299
-cites_cases: ["10 Iowa, 294", "12 Ohio, 151", "13 Ohio St., 115", "15 O. 0", "2 Ohio St., 44", "2 Ohio St., 53", "22 Ohio St., 118", "23 Ohio St., 130", "4 Ohio St., 50", "4 Ohio St., 566", "5 Ohio, 245", "57 Ohio St., 179", "59 Ohio St., 610"]
+cites_cases: ["10 Iowa, 294", "23 Ohio St., 130", "57 Ohio St., 179"]
 ---
 
 # Pennsylvania Fire Insurance v. Carnahan
