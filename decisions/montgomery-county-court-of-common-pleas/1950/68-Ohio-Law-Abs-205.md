@@ -2,7 +2,7 @@
 court: "Montgomery County Court of Common Pleas"
 docket: "99901"
 decided: "1950-07-28"
-citations: ["68 Ohio Law Abs. 205", "68 Ohio Law Abs. 202"]
+citations: ["68 Ohio Law Abs. 205"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["DEVLIN v. WEBSTER et al."]
 source_url: "https://static.case.law/ohio-law-abs/68/cases/0205-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1775861
-cites_cases: ["126 Oh St 480", "138 Oh St 132", "14 N. Y. S. 2d 503", "14 Ohio N. P., N. S., 273", "142 Oh St 277", "144 Oh St 238", "186 N. E. 4", "33 N. E. 2d 422", "33 N. E. 2d 992", "33 N. E. 2d 994", "36 N. E. 2d 895", "51 N. E. 2d 717", "58 N. E. 2d 675", "58 N. E. 2d 678", "72 N. E. 2d 137", "73 F. 2d 333", "75 N. E. 2d 570", "97 A. L. R. 133"]
+cites_cases: ["138 Oh St 132", "14 N. Y. S. 2d 503", "14 Ohio N. P., N. S., 273", "142 Oh St 277", "144 Oh St 238", "33 N. E. 2d 992", "33 N. E. 2d 994", "36 N. E. 2d 895", "51 N. E. 2d 717", "58 N. E. 2d 675", "58 N. E. 2d 678", "72 N. E. 2d 137", "73 F. 2d 333", "75 N. E. 2d 570", "97 A. L. R. 133"]
 ---
 
 # Devlin v. Webster
