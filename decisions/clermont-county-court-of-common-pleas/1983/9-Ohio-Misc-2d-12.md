@@ -1,0 +1,27 @@
+---
+court: "Clermont County Court of Common Pleas"
+docket: "83-CR-5011 and -5049"
+decided: "1983-04-07"
+citations: ["9 Ohio Misc. 2d 12"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Ohio v. Deel."]
+source_url: "https://static.case.law/ohio-misc-2d/9/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6707227
+cites_cases: ["216 Kan. 265", "451 U.S. 477", "552 F. 2d 1216"]
+---
+
+# State v. Deel
+
+## Majority (Ringland, J.)
+
+Ringland, J.
+This matter came before the court on March 17,1983, based on a motion to suppress a confession given by defendant, Eric Deel, on or about December 5, 1982. The record reflects that on December 5,1982, defendant was operating a motor vehicle in the village of Milford when he was stopped by a police officer pursuant to a complaint of vandalism received by that officer. Based upon the receipt of the description of the automobile as well as his viewing of certain items in plain view, the officer physically arrested co-defendant, passenger Mark Bishop. While there is evidence indicating that the defendant was not immediately arrested, he was taken to the police station. During his stay at the police station, defendant was held in an interrogation room, not handcuffed, and apparently was under no other type of physical restraint. Sometime during the discussion that evening, the detective or detectives indicated that if defendant cooperated with them this would be brought to the attention of the court at a later time when the issue of leniency should or would come about.
+During the initial interrogation between both parties, the defendant indicated that he had had problems before and had had an attorney in the past. Defendant stated that it would not be in his best interests to make any further statement. Whether this was a request for an attorney is not an issue, since both the state and defendant consider this a request for counsel. In any event, the police officers felt that this was an indication that defendant wished to be represented by an attorney, at which time further questioning ceased. Sometime prior to the cessation of the questioning, the defendant made the statement to the effect that “if you want to arrest me, go ahead and put me in jail, that’s o.k.” In any event, upon the defendant’s invocation of his right to counsel, the police officers advised him that they would in fact charge him and book him. At that time, the defendant was taken directly from the interrogation room to a jail cell. Upon being put into the jail cell and the door being closed, the defendant then indicated on his own initiative that he wished to cooperate and make a statement. At that time, he was brought forthwith to the interrogation room and advised of his Miranda rights. He indicated in writing that he understood and waived those rights. After that he made a taped confession.
+The court found at the hearing that defendant’s Miranda rights were properly given at the scene of the automobile stop, albeit there is some issue as to whether it was a custodial interrogation at that point and some issue as to the propriety of the arrest or detainment of defendant. Nonetheless, these issues are not in dispute and the only issue which remains and has been invoked by the defendant by and through his motion concerns the taped statement given by the defendant at the interrogation after he was brought from the jail cell; in particular, the issue is whether his statement was indeed voluntary or was physiologically coerced.
+It is well-settled, of course, that the burden is upon the movant in a motion to suppress to show that there was physiological coercion on behalf of the police. The determination of volun-tariness must be made upon the totality of the circumstances. Edwards v. Arizona (1981), 451 U.S. 477.
+The suggestion of leniency in and of itself is insufficient to vitiate a confession. State v. Smith (1975), 216 Kan. 265, 530 P. 2d 1215. Nor is there any indication that the defendant was in a position where he could have been coerced. The defendant has failed to show that the environment surrounding the jail cell or his confinement was in any way per se physiologically coercive, i.e., of the type described in United States v. Koch (C.A. 7, 1977), 552 F. 2d 1216. Nor is there any suggestion that the accused’s will was overpowered to the extent that it would negate any voluntariness of his confession. At best the length of the interrogation is the only favorable evidence that the defendant has brought forward indicating that there was potential for abuse, but even that per se, without more, does not indicate physiological coercion. There is no testimony as to any constant harassing questions, uncomfortable surroundings, threats or violence (other than a disputed slap of a hand upon a desk by one of the officers). Even the statement by one of the officers of the implication of defendant by the co-defendant did not seem to be coercive because the defendant in his own testimony admitted that he knew at the time that the officers were probably lying to him.
+The court finds that the defendant has failed to show by a preponderance of the evidence that the defendant’s statement and waiver of his right to counsel were not voluntarily, knowingly and intelligently made and, therefore, defendant’s motion to suppress is hereby denied.
+Motion to suppress denied.
