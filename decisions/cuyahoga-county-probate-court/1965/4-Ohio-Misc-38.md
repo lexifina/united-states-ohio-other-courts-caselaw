@@ -1,0 +1,50 @@
+---
+court: "Cuyahoga County Probate Court"
+docket: "663198"
+decided: "1965-01-22"
+citations: ["4 Ohio Misc. 38"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kohout v. Kohout et al."]
+source_url: "https://static.case.law/ohio-misc/4/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1432164
+cites_cases: ["10 Ohio Law Abs. 597", "115 Ohio St. 35", "158 Ohio St. 508", "16 Ohio App. 27", "2 Ohio Law Abs. 588", "30 Ohio App. 34", "35 Ohio App. 283", "40 Ohio St. 353", "81 Ohio Law Abs. 284", "81 Ohio Law Abs. 91", "85 Ohio Law Abs. 516"]
+---
+
+# Kohout v. Kohout
+
+## Majority (Andrews, Chief Referee.)
+
+Andrews, Chief Referee.
+William E. Kohout, Jr., has filed a petition to construe the will of his late wife, Daisy Laura Kohout, who died on March 22, 1964. In addition to her husband, Mrs. Kohout was survived by their two minor children, and by her mother, Mrs. Harvey Butler.
+The will, which was drawn without the aid of counsel, contains the following items, which we are asked to construe.
+“Item 2. I direct that all of the property and possessions listed below go to my husband William Earl Kohout and after that to my children Patricia & Roger Kohout.
+“Said property to consist of 7240 State Rd., house & acreage, 6606 Orchard Ave., house & lot insurance policies and bank accounts.
+“Item 3. In the eventuality of the decease of all parties listed above the said property be given to Mrs. Harvey Butler 318 Wallings Rd., Broadview Hts. Village.”
+An answer has been filed by Mr. J oel M. Garver, guardian ad litem of the minor children, and Mrs. Harvey Butler has entered her appearance.
+The inventory and appraisal shows that the only assets of the estate are an undivided one-half interest in each of two parcels of real state. It is conceded that these are the same two parcels designated in item 2 of the will. The other undivided one-half interest in each parcel is owned by William E. Kohout, Jr., the surviving spouse.
+With reference to the insurance policies and bank accounts referred to in item 2 of the will, the evidence shows that Mrs. Kohout owned a life insurance policy of which her husband was the beneficiary, and that Mr. and Mrs. Kohout had a joint and survivorship account with a bank and another in a savings and loan company. Of course, these two items were no part of the estate, but evidently Mrs. Kohout thought they would be, inasmuch as she referred to them in her will.
+The evidence also shows that Mr. Kohout executed his will on the same day that Mrs. Kohout executed hers, and that the provisions of his will were the same as hers, with her name appearing as a beneficiary in Mr. Kohout’s will where his name appeared in hers. The dispositive provisions in both wills were written in longhand.
+The question to be decided is whether or not, under the will of testatrix, Mr. Kohout receives an unqualified fee simple in the property, or whether he receives a lesser estate, with remainder over to the children.
+It is basic that in construing a will, we must endeavor to ascertain the intention of the testator from the language of the will, plus any competent evidence of the surrounding circumstances. Holmes v. Hrobon (1953), 158 Ohio St. 508. It is equally basic that we must look to the whole will. Harper v. Ohio Society for Crippled, Children, Inc. (1959), 81 Ohio Law Abs. 91. And although rules of construction are important, they must not be adhered to so slavishly as to thwart the apparent intention of the testator. Merrick-Rippner, Ohio Probate Law 73 (1960).
+It has been stated innumerable times that precedents are ordinarily of little or no value in will construction cases. See, for example, Foye v. Foye (1928), 35 Ohio App. 283; Sheldon v. Lewis (1959), 81 Ohio Law Abs. 284. This is because of the infinite variety of language employed by testators. The present will is a striking example. Its wording is different from that of any other will which has ever come to my attention.
+The first clause of item 2 presents no difficulty. In the interest of clarity, I am quoting it again. “I direct that all of the property and possessions listed below go to by husband William Earl Kohout * * * ”
+Undoubtedly this clause gives Mr. Kohout a fee simple estate in the real property, and would have given him absolute ownership of the personal property had there been any. So far as the real property is concerned, Section 2107.51, Revised Code, applies. It reads:
+“Every devise of lands, tenements, or hereditaments in a will shall convey all the estate of the devisor therein, unless it clearly appears by the will that the devisor intended to convey a less estate.”
+The direction that all her property shall “go” to her husband discloses clearly an intention to convey all the estate which she has. There is nothing in this language even remotely indicating an intention “to convey a less estate.” Both under the above statute and at common law, words of inheritance are unnecessary in a will to pass an estate in fee simple. See Trumbull v. Stentz (1928), 30 Ohio App. 34; 20 Ohio Jurisprudence 2d 239, Estates, Section 11; Simes and Smith, Future Interests (2d Ed. 1956) 478, Section 496.
+Up to this point, the will gives Mr. Kohout a fee simple. What is the effect of the next clause of item 2, vis., 1 ‘ and after that to my children Patricia & Boger Kohout”?
+Is that clause intended to cut down Mr. Kohout’s fee simple estate to a life estate and to create a remainder in fee simple in the children? The words “after that” are certainly vague, and we cannot logically say that from them, it “clearly appears by the will that the devisor intended to convey a less estate,” as required by the statute in order to reduce a fee. As stated in Collins v. Collins (1883), 40 Ohio St. 353, 364, quoting with approval from Thornhill v. Hull, 2 Clark and Finn. (Eng.) 22:
+“ ‘It is a rule of the courts, in construing written instruments, that when an interest is given or an estate conveyed in one clause of the instrument in clear and decisive terms, such interest or estate can not be taken away or cut down by raising a doubt upon the extent and meaning and application of a subsequent clause, nor by inference therefrom, nor by any subsequent words that are not as clear and decisive as the words of the clause giving the interest or estate.’ ”
+The same passage was also quoted with approval in Fetterman v. Bingham (1926), 115 Ohio St. 35, 44. To the same effect, see Watkins v. Price (1921), 16 Ohio App. 27; Jahnke v. Jahnke (Cuyahoga County App. 1931), 10 Ohio Law Abs. 597; In re Iles’ Will (Prob. Ct. 1960), 85 Ohio Law Abs. 516; 4 Bowe-Parker, Page on Wills, Section 37.28.
+Hamilton v. Stuart (1924), 2 Ohio Law Abs. 588, decided by the Cuyahoga County Court of Appeals, is strikingly similar to the case at bar. The will in that case contained the following language:
+“After all my just debts are paid, I give and bequeath all of my property, whether real or personal, to my husband, James William Stuart, and after he is done with same, all property whether real or personal to be divided equally among our children.”
+The court held that the language of the will did not clearly show that the husband was to get less than a fee simple estate. Said the court:
+“It is a settled rule that where the language of a will introduces a doubt as to the kind of estate devised by the will, the doubt will be resolved in favor of a fee simple.”
+Although the present case might well be decided upon this principle alone, there are some positive factors which strengthen the conclusion that Mr. Kohout takes a fee simple estate.
+First, it will be recalled that Mr. and Mrs. Kohout owned the two pieces of property as tenants in common, each owning an undivided half. Were we to hold that Mrs. Kohout intended to devise only a life estate, the result would be that Mr. Kohout would own an undivided one-half of each parcel in fee, and the other one-half as a life estate only. It is inconceivable that the testatrix intended to create such a confusing and impractical situation, in the absence of language expressly showing such an intention.
+Secondly, despite the fact that Mrs. Kohout’s estate did not include any personal property, her will shows that she had personal property in mind when she made it, for in item 2 she referred specifically to insurance policies and bank accounts. Thus, in trying to determine her intention, we have a right to consider the personal property which she thought she was bequeathing. This consisted of an insurance policy payable to Mr. Kohout, and two joint and survivorship accounts which belong to him as the survivor. The total amount of these three items was $3,454.35. It seems inconceivable that Mrs. Kohout could have intended to give her husband a mere life interest in such a modest amount, forcing him to use only the income and keep the principal for the children. It is much more probable that she intended to bequeath to her husband the absolute ownership in the funds, which she erroneously believed would be part of her estate. And if she meant to give him the absolute ownership of the money, she must have intended to give him the absolute ownership in her real estate, namely, the fee simple, for the dispositive language in item 2 lumped all her property together. The words were: “I direct that all of the property and possessions listed below go to my husband * * *”
+It would be illogical to say that she intended to give absolute ownership in the personal property which she supposed would pass by her will, but only a life estate in the real property devised by the same words.
+In view of the language of the will, plus the surrounding circumstances and the principles of law referred to above, I conclude that Mr. William E. Kohout, Jr., receives a fee simple estate in the real property owned by the testatrix at her death, namely, an undivided one-half interest in each of the two parcels listed in the will and described in the inventory and appraisal.
+Judgment accordingly.
