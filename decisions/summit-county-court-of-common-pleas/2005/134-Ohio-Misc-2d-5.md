@@ -1,0 +1,45 @@
+---
+court: "Summit County Court of Common Pleas"
+decided: "2005-05-31"
+citations: ["134 Ohio Misc. 2d 5", "2005-Ohio-5935"]
+reporter: "ohio-misc-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JEM REAL ESTATE et al., Plaintiffs, v. HEYDEN, HEYDEN & HINDINGER et al., Defendants."]
+source_url: "https://static.case.law/ohio-misc-2d/134/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6709067
+cites_cases: ["114 Ohio App.3d 499", "2002-Ohio-4932", "210 F.3d 672", "25 Ohio St. 490", "426 N.E.2d 526", "454 N.E.2d 984", "652 N.E.2d 687", "68 Ohio App.2d 58", "683 N.E.2d 420", "7 OBR 184", "7 Ohio App.3d 141", "73 Ohio St.3d 110", "775 N.E.2d 475", "96 Ohio St.3d 359"]
+---
+
+# Jem Real Estate v. Heyden
+
+## Majority (Chinnock, Judge.)
+
+Chinnock, Judge.
+{¶ 1} This case involves the proper method of calculating an award of prejudgment interest. This issue under R.C. 1343.03(A) on an award of prejudgment interest on the $15,000 judgment rendered in favor of plaintiff Jem Real Estate on its breach-of-contract claim is before the court.
+{¶ 2} 22 American Jurisprudence 2d (2003) 412, Damages, Section 462, declares:
+Prejudgment interest is normally designed to make a plaintiff whole, and is part of the actual damages sought to be recovered. Such interest is merely another element of pecuniary damages, and is in the nature of compensatory damages. Prejudgment interest is not a penalty, but simply a cost of having the use of another person’s money for a specified period; such interest is intended to indemnify successful plaintiffs for the nonpayment of what was due to them, and is not meant to punish defendants.
+{¶ 3} 25 Corpus Juris Secundum (2002) 433, Damages, Section 80 declares:
+The purpose of awarding interest as damages is to compensate an aggrieved party for detention of money rightfully due him or her, and to afford him or her full indemnification or compensation for the wrongful interference with his or her property rights.
+{¶ 4} Although the parties argue the often-cited but little understood “liquidated-unliquidated” and “capable-of-ascertainment” tests regarding prejudgment interest, the Supreme Court of Ohio discarded those tests a decade ago in Royal Elec. Constr. Corp. v. Ohio State Univ. (1995), 73 Ohio St.3d 110, 652 N.E.2d 687, despite the contention that an award of prejudgment interest would “jettison a rule of law that has stood in Ohio for over a century.”
+{¶ 5} In Royal, the Supreme Court pointed out that the relevant statute (R.C. 1343.03(A)) contains neither “liquidated” or “unliquidated” language, nor “capable-of-ascertainment” language, and to add language to the statute that clearly does not exist would have the effect of amending it.
+{¶ 6} The high court, in Royal, reviewed the decision creating the “liquidated-unliquidated” test, Braverman v. Spriggs (1980), 68 Ohio App.2d 58, 22 o.o.3d 47, 426 N.E.2d 526, and noted that it “did not set forth any rationale for its holding, nor did the court provide any policy reasons behind its interpretation of R.C. 1343.03(A).” Royal, 73 Ohio St.3d at 116, 652 N.E.2d 687. The court stated further that the 130-year-old decision upon which Braverman relied, Shawhan v. Van Nest (1874), 25 Ohio St. 490, “did not involve any statutory provision, nor does [it] discuss or mention the words ‘liquidated’ or ‘unliquidated.’ Shawhan stands simply for the proposition that in an action based upon breach of contract, the aggrieved party may recover the contract price and interest from the time that the money should have been paid.” Royal, 73 Ohio St.3d at 116, 652 N.E.2d 687.
+{¶ 7} The Supreme Court, in Royal, stated that “courts in Ohio have attached great significance to the liquidated-unliquidated dichotomy, or have refined this rule and allowed prejudgment interest in situations where the claim is unliquidat-ed but ‘capable of ascertainment,’ ” Id. citing Shaker Sav. Assoc. v. Greenwood Village, Inc. (1982) 7 Ohio App.3d 141, 7 OBR 184, 454 N.E.2d 984.
+{¶ 8} The high court concluded (a) that “these judicial creations * * * have caused much confusion among members of our bench and bar in deciding under what circumstances prejudgment interest is warranted,” (b) that “the focus in these types of cases should not be based on whether the claim can be classified as ‘liquidated,’ ‘unliquidated,’ or ‘capable of ascertainment,’ ” and (c) that “[rjather, in determining whether to award prejudgment interest pursuant to * * * R.C. 1343.03(A) a court need only ask one question: Has the aggrieved party been fully compensated?” Id.
+{¶ 9} Royal, 73 Ohio St.3d 110, 652 N.E.2d 687, also specifies several public policy reasons for its decision to discard the “liquidated-unliquidated” and “capable-of-ascertainment” tests, including (a) encouragement of settlement and (b) to make the aggrieved party whole.
+An award of prejudgment interest encourages prompt settlement and discourages defendants from opposing and prolonging, between injury and judgment, legitimate claims. Further, prejudgment interest does not punish the party responsible for the underlying damages * * * but, rather, it acts as compensation and servers ultimately to make the aggrieved party whole, [citations omitted]. Indeed, to make the aggrieved party whole, the party should be compensated for the lapse of time between accrual of the claim and judgment.
+{¶ 10} Although Royal involved a judgment against the state, its rationale is also applicable to judgments against private parties. Miller v. Gunckle, 96 Ohio St.3d 359, 2002-Ohio-4932, 775 N.E.2d 475, ¶ 28 (“Ohio courts have long recognized the common-law right to prejudgment interest. It is well established that the underpinning of prejudgment interest awards is to encourage prompt settlement of claims, prevent prolonged litigation, and to compensate and make the injured party whole”); Lincoln Elec. v. St. Paul Fire & Marine Ins. (C.A.6,2000), 210 F.3d 672, 692 (“After studying the guidance provided by Ohio law, we conclude that prejudgment interest * * * should be determined in accordance with the [principle that] [p]rejudgment interest is not punitive; it is part of compensation for damages. Interest makes the plaintiff * * * whole for the lost use of their due and payable money during the time required to secure ultimate judgment”); Young v. Internatl. Bhd. of Engineers (1996) 114 Ohio App.3d 499, 509, 683 N.E.2d 420 (“the Supreme Court of Ohio did away with the liquidated/unliquidated distinction [in Royal] * * * and held that prejudgment interest should be allowed when needed to fully compensate a'party. * * * We agree that [Royal ] should apply to suits involving private parties. Appellee was entitled to prejudgment interest in order to be fully compensated for appellant’s breach of the * * * contract”).
+{¶ 11} In this case, defendants breached the contract on June 26, 2000, when they advised plaintiff they were withdrawing from the contract, and thus under R.C. 1343.03(A), plaintiff is entitled to prejudgment interest from date of breach to date of final judgment, May 31, 2005.
+{¶ 12} At the time of the breach, the legal-interest statute (R.C. 1343.03(A)) provided for interest at the rate of ten percent per annum. 146 Ohio Laws, Part II, 3867, 3871. On June 2, 2004, the statute was amended to provide that prejudgment interest is determined under R.C. 5703.47, which specifies that interest is to be set at the federal short-term rate determined each October 15 by the Ohio tax commissioner for the following calendar year.
+{¶ 13} As noted at 25 Corpus Juris Secundum (2002) 544, Damages, Section 155:
+If the legal rate of interest has been changed after the wrongful act or injury complained of, but before a final determination, the interest should be computed at the former rate up to the time of the change in the law, and at the latter rate for the period thereafter.
+{¶ 14} On October 15, 2003 the Ohio Tax Commissioner set the rate for the calendar year 2004 at four percent per annum, and on October 15, 2004, he set the rate for the calendar year 2005 at five percent per annum. See http://tax.ohio.gov/index.stm.
+{¶ 15} Accordingly, legal interest (rounded to the nearest month) is calculated as follows:
+(a) 47 months (June 26, 2000, to June 2, 2004) at ten percent per annum on $15,000 = $5,875.
+(b) 6 months (June 3, 2004, to December 31, 2004) at four percent per annum on $15,000 = $300.
+(c) 5 months (January 1, 2005, to May 31, 2005) at five percent per annum on $15,000 = $312.
+Total Interest $6,487.
+{¶ 16} Accordingly, in order to fully compensate the aggrieved party, prejudgment interest is awarded to plaintiff on the principal sum of the $15,000 judgment rendered in its favor, at the applicable legal rates under R.C. 1343.03(A) and 5703.47 from the date of the breach of the contract, June 26, 2000, until the date of the judgment, May 31, 2005, in the sum of $6,487.
+{¶ 17} Judgment is rendered in favor of plaintiff in the sum of $21,487, including principal and interest.
+So ordered.
